@@ -4,30 +4,18 @@
     xmlns:edm="http://www.europeana.eu/schemas/edm/"
     xsi:schemaLocation="http://dplava.lib.virginia.edu
 dplava.xsd">
+
     <dcterms:identifier>SQI_PO_00141</dcterms:identifier>
     <dcterms:title>University Symphonic Wind Ensemble</dcterms:title>
-    <dcterms:description>Production poster for University Symphonic Wind Ensemble, conducto: David
-        Widder. Spring winds concert 1989. Program Features: The Glory of the Yankee Navy by John
-        Philip Sousa | Providentes: An Inaugural Fanfare by James Sochinski | Autobiography for Band
-        by Robert Russell Bennett, conducted by William H. Smith, Jr. | Napoli by Herman Bellstedt,
-        Tim Altman, Cornet Soloist | Music for Prague 1968 by Karel Husa |First Suite in E flat by
-        Gustav Holst.</dcterms:description>
-    <dcterms:language>eng</dcterms:language>
-    <dcterms:contributor>Virginia Polytechnic Institute and State University. Division of Performing
-        Arts</dcterms:contributor>
-    <dcterms:contributor>Virginia Polytechnic Institute and State University. Department of
-        Music</dcterms:contributor>
+    <dcterms:description>Production poster for University Symphonic Wind Ensemble, conducto: David Widder. Spring winds concert 1989. Program Features: The Glory of the Yankee Navy by John Philip Sousa | Providentes: An Inaugural Fanfare by James Sochinski | Autobiography for Band by Robert Russell Bennett, conducted by William H. Smith, Jr. | Napoli by Herman Bellstedt, Tim Altman, Cornet Soloist | Music for Prague 1968 by Karel Husa | First Suite in E flat by Gustav Holst.</dcterms:description>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:contributor>Virginia Polytechnic Institute and State University. Division of Performing Arts; Virginia Polytechnic Institute and State University. Department of Music</dcterms:contributor>
+    <dcterms:subject>Wind ensembles</dcterms:subject>
     <dcterms:subject>Concerts</dcterms:subject>
     <dcterms:subject>Virginia</dcterms:subject>
-    <dcterms:created>1989-04-21</dcterms:created>
-    <dcterms:type>Image</dcterms:type>
-    <dcterms:isPartOf>Squires Theatre Posters</dcterms:isPartOf>
-    <dcterms:spatial>Blacksburg, Montgomery county, Virginia, United States</dcterms:spatial>
+    <dcterms:spatial>Blacksburg, Montgomery, Virginia, United States</dcterms:spatial>
     <dcterms:medium>posters</dcterms:medium>
-    <dcterms:format>image/jpeg</dcterms:format>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
-    <dcterms:provenance>Virginia Polytechnic Institute and State University. University
-        Libraries</dcterms:provenance>
-    <edm:isShownAt>https://di.lib.vt.edu/items/show/269</edm:isShownAt>
-    <edm:preview>https://di.lib.vt.edu/files/thumbnails/2/SQI_PO_00141/SQI_PO_00141_001.jpg</edm:preview>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/47404c9s</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/SQI_PO/tiles/SQI_PO_00141-1/full/167,/0/default.jpg</edm:preview>
 </mdRecord>

@@ -4,23 +4,17 @@
     xmlns:edm="http://www.europeana.eu/schemas/edm/"
     xsi:schemaLocation="http://dplava.lib.virginia.edu
 dplava.xsd">
+
     <dcterms:identifier>SQI_PO_00293</dcterms:identifier>
-    <dcterms:title>Last Word of Christ</dcterms:title>
-    <dcterms:description>Production poster Meistersinget F. Joseph Haydn's Seven Last Words of
-        Christ.</dcterms:description>
-    <dcterms:language>eng</dcterms:language>
-    <dcterms:contributor>Virginia Polytechnic Institute and State University. Department of
-        Performing Arts and Communications</dcterms:contributor>
+    <dcterms:title>Seven Last Words of Christ [by] Joseph Haydn</dcterms:title>
+    <dcterms:description>Production poster Meistersinger F. Joseph Haydn's Seven Last Words of Christ. Directed by V.A. Whitehurst.</dcterms:description>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:contributor>Virginia Polytechnic Institute and State University. Department of Performing Arts and Communications</dcterms:contributor>
     <dcterms:subject>Theater</dcterms:subject>
     <dcterms:subject>Virginia</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
-    <dcterms:isPartOf>Squires Theatre Posters</dcterms:isPartOf>
-    <dcterms:spatial>Blacksburg, Montgomery county, Virginia, United States</dcterms:spatial>
+    <dcterms:spatial>Blacksburg, Montgomery, Virginia, United States</dcterms:spatial>
     <dcterms:medium>posters</dcterms:medium>
-    <dcterms:format>image/jpeg</dcterms:format>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
-    <dcterms:provenance>Virginia Polytechnic Institute and State University. University
-        Libraries</dcterms:provenance>
-    <edm:isShownAt>https://di.lib.vt.edu/items/show/383</edm:isShownAt>
-    <edm:preview>https://di.lib.vt.edu/files/thumbnails/2/SQI_PO_00293/SQI_PO_00293_001.jpg</edm:preview>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/3868cb5d</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/SQI_PO/tiles/SQI_PO_00293-1/full/250,/0/default.jpg</edm:preview>
 </mdRecord>
