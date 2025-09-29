@@ -8,13 +8,16 @@ dplava.xsd">
     <dcterms:identifier>SQI_PO_00163</dcterms:identifier>
     <dcterms:title>See Another Part of the Forest</dcterms:title>
     <dcterms:description>Production poster for See Another Part of the Forest.</dcterms:description>
-    <dcterms:language>en</dcterms:language>
+    <dcterms:language>eng</dcterms:language>
     <dcterms:contributor>Maroon Mask</dcterms:contributor>
     <dcterms:subject>Theater</dcterms:subject>
     <dcterms:subject>Virginia</dcterms:subject>
     <dcterms:spatial>Blacksburg, Montgomery, Virginia, United States</dcterms:spatial>
     <dcterms:medium>posters</dcterms:medium>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/3b39sg7m</edm:isShownAt>
     <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/SQI_PO/tiles/SQI_PO_00163-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-06-19T23:22:52.082Z</dcterms:date>
 </mdRecord>

@@ -8,13 +8,16 @@ dplava.xsd">
     <dcterms:identifier>SQI_PO_00165</dcterms:identifier>
     <dcterms:title>Theatre at Virginia Tech 2008-2009 Season</dcterms:title>
     <dcterms:description>Production poster for 2008-2009 Season Theatre at Virginia Tech. Plays: A Skull in Connemara by Martin McDonagh | Iphigenia 2.0 by Charles Mee | Trestle at Pope Lick Creek by Naomi Wallace | Her Sexy Outfit from Lysistrata by Aristophanes, adaptation by Daniel Zippi.</dcterms:description>
-    <dcterms:language>en</dcterms:language>
+    <dcterms:language>eng</dcterms:language>
     <dcterms:contributor>Virginia Polytechnic Institute and State University. Department of Theatre Arts; Virginia Polytechnic Institute and State University. School of Performing Arts and Cinema</dcterms:contributor>
     <dcterms:subject>Theater</dcterms:subject>
     <dcterms:subject>Virginia</dcterms:subject>
     <dcterms:spatial>Blacksburg, Montgomery, Virginia, United States</dcterms:spatial>
     <dcterms:medium>posters</dcterms:medium>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/v379p14j</edm:isShownAt>
     <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/SQI_PO/tiles/SQI_PO_00165-1/full/131,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-06-19T23:22:53.406Z</dcterms:date>
 </mdRecord>

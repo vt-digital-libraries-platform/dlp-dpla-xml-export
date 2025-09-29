@@ -8,12 +8,15 @@ dplava.xsd">
     <dcterms:identifier>SQI_PO_00191</dcterms:identifier>
     <dcterms:title>Hecuba by Euripides</dcterms:title>
     <dcterms:description>Production poster for Hecuba by Euripides.</dcterms:description>
-    <dcterms:language>en</dcterms:language>
+    <dcterms:language>eng</dcterms:language>
     <dcterms:subject>Theater</dcterms:subject>
     <dcterms:subject>Virginia</dcterms:subject>
     <dcterms:spatial>Blacksburg, Montgomery, Virginia, United States</dcterms:spatial>
     <dcterms:medium>posters</dcterms:medium>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/nm788v0p</edm:isShownAt>
     <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/SQI_PO/tiles/SQI_PO_00191-1/full/208,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-06-19T23:23:07.325Z</dcterms:date>
 </mdRecord>

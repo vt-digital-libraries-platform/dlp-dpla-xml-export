@@ -38,6 +38,7 @@ except Exception as e:
     print(f'ERROR: Failed to connect to DynamoDB: {e}')
     raise
 
+
 # Namespace mapping
 NSMAP = {
     "dc": "http://purl.org/dc/elements/1.1/",
@@ -51,6 +52,23 @@ for prefix, uri in NSMAP.items():
     if prefix:  # skip default namespace
         ET.register_namespace(prefix, uri)
         print(f'DEBUG: Registered namespace {prefix}: {uri}')
+
+# Function to look up ISO 639-2 code from language codes DynamoDB table
+def get_iso_639_2_code(iso_639_1):
+    """
+    Look up the ISO 639-2 code from the DynamoDB table.
+    Returns the 3-letter code if found, else returns the original value.
+    """
+    try:
+        region = os.getenv("REGION")
+        lang_table_name = os.getenv("LANGUAGE_CODES_TABLE")
+        dynamodb_lang = boto3.resource("dynamodb", region_name=region)
+        lang_table = dynamodb_lang.Table(lang_table_name)
+        response = lang_table.get_item(Key={'iso_639_1': iso_639_1})
+        return response['Item']['iso_639_2']
+    except Exception as e:
+        print(f"WARNING: Could not map language code '{iso_639_1}': {e}")
+        return iso_639_1
 
 def get_permalink(item):
     long_url_path = os.getenv("LONG_URL_PATH")
@@ -77,18 +95,30 @@ def build_xml(item):
         "rights", "provenance"
     ]
 
+
     for field in dcterms_fields:
         if field in item:
             value = item[field]
-            # Map language value if needed
-            if field == "language" and value == "en":
-                value = "eng"
             if isinstance(value, list):
                 for v in value:
+                    if field == "language":
+                        v = get_iso_639_2_code(v)
                     print(f'DEBUG: Adding multi-value for field "{field}": {v}')
                     ET.SubElement(root, f"{{{NSMAP['dcterms']}}}{field}").text = str(v)
             else:
+                if field == "language":
+                    value = get_iso_639_2_code(value)
                 ET.SubElement(root, f"{{{NSMAP['dcterms']}}}{field}").text = str(value)
+
+    # Always add format as image/tiff for display
+    ET.SubElement(root, f"{{{NSMAP['dcterms']}}}format").text = "image/tiff"
+
+    # Always add provenance as required by DPLA
+    ET.SubElement(
+        root,
+        f"{{{NSMAP['dcterms']}}}provenance"
+    ).text = "Virginia Polytechnic Institute and State University. University Libraries"
+
 
     # edm fields
     # edm:isShownAt (permalink)
@@ -100,6 +130,20 @@ def build_xml(item):
     thumbnail_path = item.get("thumbnail_path", "")
     if thumbnail_path:
         ET.SubElement(root, f"{{{NSMAP['edm']}}}preview").text = thumbnail_path
+
+    # Add creator element if present
+    creator = item.get("creator")
+    if creator:
+        if isinstance(creator, list):
+            for c in creator:
+                ET.SubElement(root, f"{{{NSMAP['dcterms']}}}creator").text = str(c)
+        else:
+            ET.SubElement(root, f"{{{NSMAP['dcterms']}}}creator").text = str(creator)
+
+    # Always add date element mapped from createdAt if present
+    created_at = item.get("createdAt")
+    if created_at:
+        ET.SubElement(root, f"{{{NSMAP['dcterms']}}}date").text = str(created_at)
 
     print(f'DEBUG: Finished building XML for item: {item.get("identifier", "NO IDENTIFIER FOUND")}')
     return root
@@ -132,10 +176,10 @@ print(f'DEBUG: Output base directory set to repo root: {output_base_dir}')
 
 
 # Filter and sort items for squires only
-#items = [item for item in items if item.get("identifier", "").upper().startswith("SQI")]
-#print(f'DEBUG: Filtered items for squires only, count: {len(items)}')
-items = sorted(items, key=lambda x: x.get("identifier", ""))
-print('DEBUG: Items sorted by identifier for output order.')
+items = [item for item in items if item.get("identifier", "").upper().startswith("SQI")]
+print(f'DEBUG: Filtered items for squires only, count: {len(items)}')
+#items = sorted(items, key=lambda x: x.get("identifier", ""))
+#print('DEBUG: Items sorted by identifier for output order.')
 
 # Mapping for identifier prefixes to folders/subfolders
 def get_output_subdir(identifier):

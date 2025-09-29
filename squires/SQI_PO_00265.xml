@@ -8,13 +8,16 @@ dplava.xsd">
     <dcterms:identifier>SQI_PO_00265</dcterms:identifier>
     <dcterms:title>They Shoot Horses, Don't They? By Morgan Tyler</dcterms:title>
     <dcterms:description>Production poster for They Shoot Horses, Don't They? By Morgan Tyler based on a novel by Horace McCoy.</dcterms:description>
-    <dcterms:language>en</dcterms:language>
+    <dcterms:language>eng</dcterms:language>
     <dcterms:contributor>Virginia Polytechnic Institute and State University. Theatre Arts - University Theatre; Virginia Polytechnic Institute and State University. Department of Performing Arts and Communications</dcterms:contributor>
     <dcterms:subject>Theater</dcterms:subject>
     <dcterms:subject>Virginia</dcterms:subject>
     <dcterms:spatial>Blacksburg, Montgomery, Virginia, United States</dcterms:spatial>
     <dcterms:medium>posters</dcterms:medium>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/v067c604</edm:isShownAt>
     <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/SQI_PO/tiles/SQI_PO_00265-1/full/194,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-06-19T23:23:48.686Z</dcterms:date>
 </mdRecord>

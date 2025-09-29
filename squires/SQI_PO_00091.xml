@@ -8,13 +8,16 @@ dplava.xsd">
     <dcterms:identifier>SQI_PO_00091</dcterms:identifier>
     <dcterms:title>Fantasticks</dcterms:title>
     <dcterms:description>Production poster for Fantasticks: The Musical Comedy Hit.</dcterms:description>
-    <dcterms:language>en</dcterms:language>
+    <dcterms:language>eng</dcterms:language>
     <dcterms:contributor>Virginia Polytechnic Institute and State University. Theatre Arts Department</dcterms:contributor>
     <dcterms:subject>Theater</dcterms:subject>
     <dcterms:subject>Virginia</dcterms:subject>
     <dcterms:spatial>Blacksburg, Montgomery, Virginia, United States</dcterms:spatial>
     <dcterms:medium>posters</dcterms:medium>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/40834s5c</edm:isShownAt>
     <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/SQI_PO/tiles/SQI_PO_00091-1/full/162,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-06-19T23:22:09.003Z</dcterms:date>
 </mdRecord>

@@ -8,7 +8,7 @@ dplava.xsd">
     <dcterms:identifier>SQI_PO_00223</dcterms:identifier>
     <dcterms:title>Summer Arts Festival '99</dcterms:title>
     <dcterms:description>Production poster for Summer Arts Festival '99. Programs include: Art Exhibits | Friday Night Out Concert Series | VTU Film Series | Theatre | Special Events</dcterms:description>
-    <dcterms:language>en</dcterms:language>
+    <dcterms:language>eng</dcterms:language>
     <dcterms:contributor>Virginia Polytechnic Institute and State University (sponsor); Town of Blacksburg (sponsor)</dcterms:contributor>
     <dcterms:subject>Theater</dcterms:subject>
     <dcterms:subject>Art--Exhibitions</dcterms:subject>
@@ -18,6 +18,9 @@ dplava.xsd">
     <dcterms:spatial>Blacksburg, Montgomery, Virginia, United States</dcterms:spatial>
     <dcterms:medium>posters</dcterms:medium>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/ng79zs6n</edm:isShownAt>
     <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/SQI_PO/tiles/SQI_PO_00223-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-06-19T23:23:29.123Z</dcterms:date>
 </mdRecord>

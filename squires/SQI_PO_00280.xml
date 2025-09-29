@@ -8,13 +8,16 @@ dplava.xsd">
     <dcterms:identifier>SQI_PO_00280</dcterms:identifier>
     <dcterms:title>1940's Radio Hour</dcterms:title>
     <dcterms:description>Production poster for The 1940's Radio Hour featuring jazz from Virginia Tech. "A sparkling musical cavalcade" by Walton Jones.</dcterms:description>
-    <dcterms:language>en</dcterms:language>
+    <dcterms:language>eng</dcterms:language>
     <dcterms:contributor>Virginia Polytechnic Institute and State University. Theatre Arts - University Theatre</dcterms:contributor>
     <dcterms:subject>Theater</dcterms:subject>
     <dcterms:subject>Virginia</dcterms:subject>
     <dcterms:spatial>Blacksburg, Montgomery, Virginia, United States</dcterms:spatial>
     <dcterms:medium>posters</dcterms:medium>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/kb92kf4q</edm:isShownAt>
     <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/SQI_PO/tiles/SQI_PO_00280-1/full/222,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-06-19T23:23:55.891Z</dcterms:date>
 </mdRecord>

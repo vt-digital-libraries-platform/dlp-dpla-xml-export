@@ -8,13 +8,16 @@ dplava.xsd">
     <dcterms:identifier>SQI_PO_00159</dcterms:identifier>
     <dcterms:title>D.W. Griffith Centennial Film Festival</dcterms:title>
     <dcterms:description>Production poster for D.W. Griffith Centennial Film Festival. Honoring the 100th Birthday of the Father of Motion Pictures January 22, 1875. With visiting scholar Dr. David Thaxton. Four Evenings of Classic Silent Film Drama: The Adventures of Dollie | A Corner in Wheat | What Drink Did | The Modern Prodigal | The Last Drop of Water | The Massacre | The Musketeers of Pig Valley | Broken Blossoms | The Mother and The Law | The Birth of A Nation.</dcterms:description>
-    <dcterms:language>en</dcterms:language>
+    <dcterms:language>eng</dcterms:language>
     <dcterms:contributor>Virginia Polytechnic Institute and State University. Department of Performing Arts and Communications; Dr. Doug Moore Irc</dcterms:contributor>
     <dcterms:subject>Silent films</dcterms:subject>
     <dcterms:subject>Virginia</dcterms:subject>
     <dcterms:spatial>Blacksburg, Montgomery, Virginia, United States</dcterms:spatial>
     <dcterms:medium>posters</dcterms:medium>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/3q106n7x</edm:isShownAt>
     <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/SQI_PO/tiles/SQI_PO_00159-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-06-19T23:22:50.748Z</dcterms:date>
 </mdRecord>

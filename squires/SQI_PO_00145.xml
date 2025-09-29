@@ -8,12 +8,15 @@ dplava.xsd">
     <dcterms:identifier>SQI_PO_00145</dcterms:identifier>
     <dcterms:title>New River Valley Symphony - The Planets</dcterms:title>
     <dcterms:description>Production poster for New River Valley Symphony - The Planets. Saint-Saëns Piano Concerto No. 2. Nitza Kats.</dcterms:description>
-    <dcterms:language>en</dcterms:language>
+    <dcterms:language>eng</dcterms:language>
     <dcterms:subject>Concerts</dcterms:subject>
     <dcterms:subject>Virginia</dcterms:subject>
     <dcterms:spatial>Blacksburg, Montgomery, Virginia, United States</dcterms:spatial>
     <dcterms:medium>posters</dcterms:medium>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/tx03wh0f</edm:isShownAt>
     <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/SQI_PO/tiles/SQI_PO_00145-1/full/207,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-06-19T23:22:41.963Z</dcterms:date>
 </mdRecord>
