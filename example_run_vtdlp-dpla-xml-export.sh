@@ -1,8 +1,7 @@
 #!/bin/bash
 
 
-# Set only the environment variables needed for the export script
-export COLLECTION_IDENTIFIER="<FILL-IN-COLLECTION_IDENTIFIER>"
+# Set the environment variables 
 export REGION="<FILL-IN-REGION>"
 export DYNAMODB_TABLE_SUFFIX="<FILL-IN-DYNAMODB_TABLE_SUFFIX>"
 export LONG_URL_PATH="<FILL-IN-LONG_URL_PATH>"
@@ -20,3 +19,5 @@ fi
 python3 /home/padmadlp/dpla-va/dlp-dpla-xml-export/dlp-dpla-xml-export.py
 # Run the language codes script
 # python3 /home/padmadlp/dpla-va/dlp-dpla-xml-export/populate_language_codes.py
+# Run the multi-valued format or dimension format script
+# python3 /home/padmadlp/dpla-va/dlp-dpla-xml-export/print_multi_valued_or_dimension_format.py
