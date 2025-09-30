@@ -6,8 +6,9 @@ from boto3.dynamodb.conditions import Attr
 from datetime import datetime
 
 # Set up DynamoDB resource
+
 region = os.environ.get('REGION')
-table_name = os.environ.get('DYNAMODB_TABLE_SUFFIX')
+table_name = os.environ.get('DYNAMODB_TABLE')
 
 dynamodb = boto3.resource('dynamodb', region_name=region)
 table = dynamodb.Table(table_name)

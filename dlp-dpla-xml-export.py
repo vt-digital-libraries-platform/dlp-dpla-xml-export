@@ -17,7 +17,7 @@ env = {}
 env["region_name"] = "set in .sh file"
 env["COLLECTION_IDENTIFIER"] = os.getenv("COLLECTION_IDENTIFIER")
 env["REGION"] = os.getenv("REGION")
-env["DYNAMODB_TABLE_SUFFIX"] = os.getenv("DYNAMODB_TABLE_SUFFIX")
+env["DYNAMODB_TABLE"] = os.getenv("DYNAMODB_TABLE")
 env["LONG_URL_PATH"] = os.getenv("LONG_URL_PATH")
 env["TYPE"] = os.getenv("TYPE")
 
@@ -25,15 +25,15 @@ env["TYPE"] = os.getenv("TYPE")
 print(f'DEBUG: Environment variables loaded: {env}')
 
 # Check for missing environment variables
-for key in ["COLLECTION_IDENTIFIER", "REGION", "DYNAMODB_TABLE_SUFFIX", "LONG_URL_PATH", "TYPE"]:
+for key in ["COLLECTION_IDENTIFIER", "REGION", "DYNAMODB_TABLE", "LONG_URL_PATH", "TYPE"]:
     if not env[key]:
         print(f'WARNING: Environment variable {key} is not set!')
 
 # Setup DynamoDB resource
 try:
     dynamodb = boto3.resource("dynamodb", env["REGION"])
-    dbtable = dynamodb.Table(env["DYNAMODB_TABLE_SUFFIX"])
-    print(f'DEBUG: Connected to DynamoDB table: {env["DYNAMODB_TABLE_SUFFIX"]}')
+    dbtable = dynamodb.Table(env["DYNAMODB_TABLE"])
+    print(f'DEBUG: Connected to DynamoDB table: {env["DYNAMODB_TABLE"]}')
 except Exception as e:
     print(f'ERROR: Failed to connect to DynamoDB: {e}')
     raise
