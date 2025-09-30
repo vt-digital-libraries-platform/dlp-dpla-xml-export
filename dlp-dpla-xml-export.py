@@ -110,8 +110,14 @@ def build_xml(item):
                     value = get_iso_639_2_code(value)
                 ET.SubElement(root, f"{{{NSMAP['dcterms']}}}{field}").text = str(value)
 
-    # Always add format as image/tiff for display
-    ET.SubElement(root, f"{{{NSMAP['dcterms']}}}format").text = "image/tiff"
+    # Add format from item if present
+    item_format = item.get("format")
+    if item_format:
+        if isinstance(item_format, list):
+            for fmt in item_format:
+                ET.SubElement(root, f"{{{NSMAP['dcterms']}}}format").text = str(fmt)
+        else:
+            ET.SubElement(root, f"{{{NSMAP['dcterms']}}}format").text = str(item_format)
 
     # Always add provenance as required by DPLA
     ET.SubElement(
