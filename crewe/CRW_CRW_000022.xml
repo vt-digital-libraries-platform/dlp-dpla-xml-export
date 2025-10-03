@@ -8,7 +8,7 @@ dplava.xsd">
     <dcterms:identifier>CRW_CRW_000022</dcterms:identifier>
     <dcterms:title>Minutes of the Crewe Town Council 1951-1959</dcterms:title>
     <dcterms:description>Pages of this item is displayed according to the original physical item's page sequence</dcterms:description>
-    <dcterms:language>en</dcterms:language>
+    <dcterms:language>eng</dcterms:language>
     <dcterms:subject>Virginia</dcterms:subject>
     <dcterms:subject>Crewe (Va.)</dcterms:subject>
     <dcterms:subject>Railroads</dcterms:subject>
@@ -16,6 +16,9 @@ dplava.xsd">
     <dcterms:type>Text</dcterms:type>
     <dcterms:medium>government records</dcterms:medium>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/q951tj8x</edm:isShownAt>
     <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/CRW/tiles/CRW_CRW_000022-1/full/149,/0/default.jpg</edm:preview>
+    <dcterms:creator>Town of Crewe. Town Office</dcterms:creator>
+    <dcterms:date>2024-08-28T19:38:13.394Z</dcterms:date>
 </mdRecord>

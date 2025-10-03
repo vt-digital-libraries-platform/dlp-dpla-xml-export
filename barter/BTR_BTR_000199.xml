@@ -8,7 +8,7 @@ dplava.xsd">
     <dcterms:identifier>BTR_BTR_000199</dcterms:identifier>
     <dcterms:title>Shining Hour by Keith Winter</dcterms:title>
     <dcterms:description>Poster for the Aug 7-12 play Shining Hour by Keith Winter. Directed by Margaret Perry. Gowns by Mildred Orrick of New York. Music by Richmond String Quartet. Featuring George Abel, Michael Chase, Martha Orrick, Peter Pagan, Gaby Rodgers, Elizabeth Wilson.</dcterms:description>
-    <dcterms:language>en</dcterms:language>
+    <dcterms:language>eng</dcterms:language>
     <dcterms:contributor>Barter Theatre (Organization : Abingdon, Va.)</dcterms:contributor>
     <dcterms:subject>Theater</dcterms:subject>
     <dcterms:subject> Virginia</dcterms:subject>
@@ -18,6 +18,8 @@ dplava.xsd">
     <dcterms:format>image/jpeg</dcterms:format>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:rights>The original object is the property of the Barter Theatre in Abingdon, VA (https://www.bartertheatre.com/). This digital surrogate is made publicly available by the Barter Theatre for use in research, teaching, private study, and other educational purposes. Responsibility for any use of these materials rests exclusively with the user. When using this item, users should give proper credit to the owner of the original object as well as to Virginia Tech Libraries.</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/2k06rn2f</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/swva/BTR/tiles/BTR_BTR_000199-1/full/165,/0/default.jpg</edm:preview>
+    <dcterms:date>2021-11-18T15:47:14.626Z</dcterms:date>
 </mdRecord>

@@ -197,7 +197,7 @@ def get_output_subdir(identifier):
         # Query the GSI using file_name as partition key
         response = folder_table.query(
             IndexName='file_name-index',
-            KeyConditionExpression=boto3.dynamodb.conditions.Key('file_name').eq(identifier.upper())
+            KeyConditionExpression=boto3.dynamodb.conditions.Key('file_name').eq(identifier.strip())
         )
         
         if response['Items']:
@@ -275,6 +275,34 @@ def get_hardcoded_mapping(identifier):
         return "sfdst"
     if identifier.startswith("XB17J67J"):
         return "xb17j67j"
+    if identifier.startswith("MTG"):
+        return "montgomery"
+    if identifier.startswith("MS"):
+        return "ms"
+    if identifier.startswith("BHSST"):
+        return "blacksburg-high-school"
+    if identifier.startswith("VTCATALOG"):
+        return "vt-catalog"
+    if identifier.startswith("LDGST"):
+        return "ldgst"
+    if identifier.startswith("VTEC"):
+        return "vtec"
+    if identifier.startswith("EGG"):
+        return "egg"
+    if identifier.startswith("P6"):
+        return "horse-teeth-clacker"
+    if identifier.startswith("REY"):
+        return "reynolds"
+    if identifier.startswith("VA_AM"):
+        return "va-amcollege-catalog"
+    if identifier.startswith("VTGRAD"):
+        return "vtgrad-catalog"
+    if identifier.startswith("ITEM"):
+        return "item"
+    if identifier.startswith("699"):
+        return "podcast"
+    if identifier.startswith("PRADER"):
+        return "prader-willi"
     # Default: None matched
     return None
 
