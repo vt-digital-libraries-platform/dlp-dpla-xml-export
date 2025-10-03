@@ -1,0 +1,20 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2017_015_003</dcterms:identifier>
+    <dcterms:title>Confederate States of America Bond Certificate</dcterms:title>
+    <dcterms:description>A Confederate States of America Civil War era [Registered] Bond paying 4% per annum in the amount of "Twenty Two Hundred" (2200) dollars.</dcterms:description>
+    <dcterms:subject>United States--History--Civil War, 1861-1865</dcterms:subject>
+    <dcterms:subject>Savings bonds</dcterms:subject>
+    <dcterms:medium>war bonds</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/?language=en</dcterms:rights>
+    <dcterms:provenance>Femrite, Mark</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/nf14c24q</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_OBJ/tiles/fchs_2017_015_003-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-10T13:00:54.483Z</dcterms:date>
+</mdRecord>

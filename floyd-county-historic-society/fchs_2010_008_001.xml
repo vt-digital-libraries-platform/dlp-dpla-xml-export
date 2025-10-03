@@ -1,0 +1,21 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2010_008_001</dcterms:identifier>
+    <dcterms:title>Commemorative Gavel and History Document</dcterms:title>
+    <dcterms:description>This is a framed document that includes a commemorative gavel presented to Ralph M. Yopp, W.M. in 2000 by the Floyd Lodge # 329 A.F. &amp; A.M.</dcterms:description>
+    <dcterms:subject>Gavels</dcterms:subject>
+    <dcterms:subject>Freemasonry--Lodges</dcterms:subject>
+    <dcterms:subject>Freemasonry</dcterms:subject>
+    <dcterms:medium>gavels (ceremonial mallets)</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/?language=en</dcterms:rights>
+    <dcterms:provenance>Yopp, Ralph M.</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/5c02fn8q</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_OBJ/tiles/fchs_2010_008_001-1/full/200,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-10T13:00:22.924Z</dcterms:date>
+</mdRecord>

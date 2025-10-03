@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>sfdst006137</dcterms:identifier>
+    <dcterms:title>L.A. Ballard in Front of Sand Pit from Railroad Tracks, March 6th, 1937</dcterms:title>
+    <dcterms:description>Multiple black and white photographs, the first shows a man walking in a sand pit taken from railroad tracks, with a description on the back reading "L.A. Ballard in front of sand pit from rail road tracks", the second shows a view of water from the shoreline, with a description on the back reading "Sand Pit looking towards Melrose and the old railroad tracks. The town where Beulah lived in.", and one photograph has no description but does have a blue arrow pointing to a part of the photograph, one photograph has no markings but another view of the town from the previous photograph, one photograph has another view of the water from the shoreline and a description on the back, which reads, "The sand pit looking towards the Ohio River and the state of Ohio", all dated for March 6, 1937 except for the last photograph, which is dated for March 8, 1937</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:subject>Fire departments</dcterms:subject>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:type>Still Image</dcterms:type>
+    <dcterms:spatial>Salem, Virginia, United States</dcterms:spatial>
+    <dcterms:medium>photographs</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/w939sz9d</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/sfd/tiles/sfdst006137-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-06-03T20:48:41.743Z</dcterms:date>
+</mdRecord>

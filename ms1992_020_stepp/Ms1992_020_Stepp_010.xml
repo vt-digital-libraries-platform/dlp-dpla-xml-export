@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>Ms1992_020_Stepp_010</dcterms:identifier>
+    <dcterms:title>May 29, 1864. Letter to wife, Eleanor, from Silas Stepp</dcterms:title>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:subject>Civil War</dcterms:subject>
+    <dcterms:subject>United States--History--Civil War, 1861-1874</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:medium>photocopy</dcterms:medium>
+    <dcterms:format>image/jpeg</dcterms:format>
+    <dcterms:rights>This Item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. In addition, no permission is required from the rights-holder(s) for educational uses. For other uses, you need to obtain permission from the rights-holder(s). &lt;a target="_blank" href="https://rightsstatements.org/page/InC-EDU/1.0/?language=en" rel="noreferrer noopener"&gt;https://rightsstatements.org/page/InC-EDU/1.0/&lt;/a&gt;</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/qq20kv7d</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/ms1992_020_stepp/tiles/Ms1992_020_Stepp_010-1/full/196,/0/default.jpg</edm:preview>
+    <dcterms:creator>Stepp, Silas H.</dcterms:creator>
+    <dcterms:date>2024-05-23T19:57:46.626Z</dcterms:date>
+</mdRecord>

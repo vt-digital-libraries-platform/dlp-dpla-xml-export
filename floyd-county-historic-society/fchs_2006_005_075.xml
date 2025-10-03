@@ -1,0 +1,21 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2006_005_075</dcterms:identifier>
+    <dcterms:title>War Time Correspondence to Capt. C. M. Stigleman Addressed to Tudor Hall but Crossed Out</dcterms:title>
+    <dcterms:description>War time correspondence, October 18, 1861, to Capt. C. M. Stigleman, addressed to Tudor Hall but crossed out, from Henry Lane at Camp on Big Sewill. Subject: Mr. Lane’s experiences thus far in the army and states “so far I have never met the enemy in battle.” 1 original piece and 4 photocopied pages.</dcterms:description>
+    <dcterms:subject>Soldiers</dcterms:subject>
+    <dcterms:subject>United States</dcterms:subject>
+    <dcterms:subject>Correspondence</dcterms:subject>
+    <dcterms:medium>correspondence</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Dr.C.M. Stigleman Collection CG 0004</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/p916bd52</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2006_005_075-1/full/182,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:29:17.723Z</dcterms:date>
+</mdRecord>

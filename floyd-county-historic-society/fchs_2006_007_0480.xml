@@ -1,0 +1,19 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2006_007_0480</dcterms:identifier>
+    <dcterms:title>Main St Floyd Snow</dcterms:title>
+    <dcterms:description>480_DCN_1947 E. Main St view 2; view from Oxford St. Tise house
+from upperstory window</dcterms:description>
+    <dcterms:medium>photographs</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Paul Kitchen</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/nr41wq14</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_PHO/tiles/fchs_2006_007_0480-1/full/67,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-11T15:33:40.822Z</dcterms:date>
+</mdRecord>

@@ -1,0 +1,24 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2018_005_223</dcterms:identifier>
+    <dcterms:title>Lester-Whitlock Cemetery</dcterms:title>
+    <dcterms:description>AKA Lester Cemetery #5
+2021 Updated location: this cemetery is believed to have been located at or near, 597 Gallimore Lane NE. An Eyewitness reported that this cemetery was intentionally destroyed by loggers years ago. There is reported to be one or two stones still standing as of 2005. These are not easily found today. The images included here are based on observations made in 1960 &amp; 1990 before the cemetery before the cemetery was destroyed.
+
+N 36 57.500'
+W 89 21.453'</dcterms:description>
+    <dcterms:subject>Lists</dcterms:subject>
+    <dcterms:subject>Cemeteries</dcterms:subject>
+    <dcterms:medium>lists</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Starkey, Genevieve C.</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/9n85cw5c</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2018_005_223-1/full/152,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:33:10.595Z</dcterms:date>
+</mdRecord>

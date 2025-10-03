@@ -1,0 +1,18 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_10_06_1149</dcterms:identifier>
+    <dcterms:title>William F. Tise Family</dcterms:title>
+    <dcterms:description>1149_William F. Tise Family 3; three views of same image. front: D, Odell Tise, William F. Tise, Lourie Handy, Tise, --, William F. Tise, Jr.; rear: Zelma, Mary, Willie Tise, Louise, Cecil, Bronzy, Glenn, Georgia Handy.</dcterms:description>
+    <dcterms:medium>photographs</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Multiple</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/vs15wj4q</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_PHO/tiles/fchs_10_06_1149-1/full/230,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-11T15:29:25.470Z</dcterms:date>
+</mdRecord>

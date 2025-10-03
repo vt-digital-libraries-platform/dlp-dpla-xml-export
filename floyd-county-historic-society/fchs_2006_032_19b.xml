@@ -1,0 +1,29 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2006_032_19b</dcterms:identifier>
+    <dcterms:title>Excursion to Buffalo Mt. In Floyd</dcterms:title>
+    <dcterms:description>Photograph negative of the Group Excursion to Buffalo Mt. In Floyd, 1905 - 03/01/06. People in the photograph are as follows: 
+J.M.Tise
+W.M.Smith &amp; wife
+F.R.Scott &amp; Clara Boothe
+G.M.Maberry &amp; wife
+Homer Hancock &amp; Linnie Cannaday
+Edwin Sower &amp; Myrtle Shortt
+Fred Agnew &amp; Maud Williams
+Willie Fisher &amp; Corrie Weddle
+Archie Vaughn &amp; Kittie Mae Dillon
+Mrs. W.C. Lester,
+Misses: Blanch</dcterms:description>
+    <dcterms:medium>photographs</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Marguerite Tise</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/4374245v</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_PHO/tiles/fchs_2006_032_19b-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-11T15:35:48.203Z</dcterms:date>
+</mdRecord>

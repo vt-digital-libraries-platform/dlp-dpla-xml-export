@@ -1,0 +1,20 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_1996_004_001</dcterms:identifier>
+    <dcterms:title>Dr. F. Clyde Bedsaul</dcterms:title>
+    <dcterms:description>A portrait painting of Dr. Bedsaul by Kimberly Kingrea, circa 1987</dcterms:description>
+    <dcterms:subject>Painting</dcterms:subject>
+    <dcterms:subject>Portraits</dcterms:subject>
+    <dcterms:medium>portraits</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/?language=en</dcterms:rights>
+    <dcterms:provenance>Bedsaul, F. Clyde</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/kv50g200</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_OBJ/tiles/fchs_1996_004_001-1/full/167,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-10T13:00:08.601Z</dcterms:date>
+</mdRecord>

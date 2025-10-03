@@ -1,0 +1,20 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2021_036_002</dcterms:identifier>
+    <dcterms:title>War Ration Book Four 825428</dcterms:title>
+    <dcterms:description>War Ration Book Four 825427 - issued to Arnold L. Boothe, a resident of Floyd County. The Certificate of Registration was issued on May 6, 1942.</dcterms:description>
+    <dcterms:subject>World War, 1939-1945</dcterms:subject>
+    <dcterms:subject>Ration books</dcterms:subject>
+    <dcterms:medium>ration books</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/?language=en</dcterms:rights>
+    <dcterms:provenance>Boothe, Sue Anne</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/g881bz1b</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_OBJ/tiles/fchs_2021_036_002-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-10T13:03:05.927Z</dcterms:date>
+</mdRecord>

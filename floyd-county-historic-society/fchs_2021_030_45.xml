@@ -1,0 +1,23 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2021_030_45</dcterms:identifier>
+    <dcterms:title>Illustrated Speedway News, August 17th, 1965</dcterms:title>
+    <dcterms:description>Illustrated Speedway News Pictorial Section
+Issue: August 17, 1965</dcterms:description>
+    <dcterms:subject>Automobile racing</dcterms:subject>
+    <dcterms:subject>Automobiles</dcterms:subject>
+    <dcterms:subject>Newspapers</dcterms:subject>
+    <dcterms:subject>Racing</dcterms:subject>
+    <dcterms:medium>newspapers</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Via, Vicki W.</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/3z80fb68</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2021_030_45-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:34:26.235Z</dcterms:date>
+</mdRecord>

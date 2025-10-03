@@ -1,0 +1,19 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2019_021_004</dcterms:identifier>
+    <dcterms:title>L. C. Hale's Tree Brand Pocket Knife</dcterms:title>
+    <dcterms:description>A four bladed "Tree Brand" pocket knife carried and used by L. C. Hale. The knife has bone inlayed in the body.</dcterms:description>
+    <dcterms:subject>Pocketknives</dcterms:subject>
+    <dcterms:medium>pocket knives</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/?language=en</dcterms:rights>
+    <dcterms:provenance>Hale, Dawn</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/8529zz8x</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_OBJ/tiles/fchs_2019_021_004-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-10T13:01:03.039Z</dcterms:date>
+</mdRecord>

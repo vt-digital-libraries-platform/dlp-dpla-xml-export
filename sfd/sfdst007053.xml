@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>sfdst007053</dcterms:identifier>
+    <dcterms:title>Preliminary Report I.A.F.C. Sectional Committee on Disaster Emergencies, Disaster and War Emergency Planning, c. 1941</dcterms:title>
+    <dcterms:description>1941 IAFC, written for the International Association of Fire Chiefs annual conference for the purposes of disaster and war emergency planning. Cover page says 1940 despite the original spreadsheet saying "1941 IAFC" for the title.</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:subject>Fire departments</dcterms:subject>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:spatial>Salem, Virginia, United States</dcterms:spatial>
+    <dcterms:medium>administrative reports</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/rb893w85</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/sfd/tiles/sfdst007053-1/full/166,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-06-03T20:49:57.364Z</dcterms:date>
+</mdRecord>

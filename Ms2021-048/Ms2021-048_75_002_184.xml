@@ -1,0 +1,23 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>Ms2021-048_75_002_184</dcterms:identifier>
+    <dcterms:title>C and P Telephone Plan</dcterms:title>
+    <dcterms:description>Boucher reviews a plan for C and P Telephone, now known as Verizon, with Hugh Stallard, who was the president of the Virginia branch of C and P, during a Showcasing Southwest Virginia visit in Pulaski</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:subject>Telephone</dcterms:subject>
+    <dcterms:subject>Virginia, Southwest</dcterms:subject>
+    <dcterms:type>Still Image</dcterms:type>
+    <dcterms:medium>black and white print</dcterms:medium>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:rights>https://rightsstatements.org/page/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/96f54dba</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/Ms2021-048/tiles/Ms2021-048_75_002_184-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:creator>Boucher, Rick</dcterms:creator>
+    <dcterms:date>2025-02-07T15:30:41.745Z</dcterms:date>
+</mdRecord>

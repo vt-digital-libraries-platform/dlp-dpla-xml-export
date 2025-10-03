@@ -1,0 +1,20 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2018_005_017</dcterms:identifier>
+    <dcterms:title>Richard Dulaney Cemetery</dcterms:title>
+    <dcterms:description>On White Rock Road in a field above what was known as the Alpha Duncan home. N 36 57.149 W 80 28.1043. This is 97 acres remaining of original tract; a land grant from the King of England to the Dulaney family.</dcterms:description>
+    <dcterms:subject>Lists</dcterms:subject>
+    <dcterms:subject>Cemeteries</dcterms:subject>
+    <dcterms:medium>lists</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Starkey, Genevieve C.</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/9g65161z</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2018_005_017-1/full/177,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:30:38.919Z</dcterms:date>
+</mdRecord>

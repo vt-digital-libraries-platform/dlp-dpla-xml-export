@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>sfdst007034</dcterms:identifier>
+    <dcterms:title>At A Meeting of the Board of Supervisors of Roanoke County, VA., Held at the Courthouse Thereof on Monday, January 20th, 1941.</dcterms:title>
+    <dcterms:description>1941 01 24 State Defense Council, Note stating that L.A. Ballard is to represent a Board held by the State Defense Council</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:subject>Fire departments</dcterms:subject>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:spatial>Salem, Virginia, United States</dcterms:spatial>
+    <dcterms:medium>memorandums</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/1j51tk1f</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/sfd/tiles/sfdst007034-1/full/197,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-06-03T20:49:50.108Z</dcterms:date>
+</mdRecord>

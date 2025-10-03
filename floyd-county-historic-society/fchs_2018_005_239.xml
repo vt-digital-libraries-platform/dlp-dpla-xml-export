@@ -1,0 +1,23 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2018_005_239</dcterms:identifier>
+    <dcterms:title>Sumpter Cemetery</dcterms:title>
+    <dcterms:description>This Fenced, well maintained cemetery is across the road from 1265 Horse Ridge Rd. NW and is next to the road. It is visible using Google Earth and Google Maps.
+
+N 36"57.204"
+W 80"33.426</dcterms:description>
+    <dcterms:subject>Lists</dcterms:subject>
+    <dcterms:subject>Cemeteries</dcterms:subject>
+    <dcterms:medium>lists</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Starkey, Genevieve C.</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/m4334n2n</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2018_005_239-1/full/193,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:33:20.937Z</dcterms:date>
+</mdRecord>

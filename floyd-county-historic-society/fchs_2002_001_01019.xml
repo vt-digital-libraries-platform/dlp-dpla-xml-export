@@ -1,0 +1,21 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2002_001_01019</dcterms:identifier>
+    <dcterms:title>Fiduciary Accounts: Guardianship of Peyton and Lula E. Caldwell, Until Peyton reached 21 years of age 09.10.1900</dcterms:title>
+    <dcterms:description>Guardianship of Peyton and Lula E. Caldwell, Until Peyton reached 21 years of age 09.10.1900
+Mary A. Bishop, Guardian
+Recorded in ledger book 5, page 134, in the Floyd County Courthouse</dcterms:description>
+    <dcterms:subject>Court Records</dcterms:subject>
+    <dcterms:medium>record books</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>The Circuit Court of Floyd County</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/4762c69f</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2002_001_01019-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:16:28.517Z</dcterms:date>
+</mdRecord>

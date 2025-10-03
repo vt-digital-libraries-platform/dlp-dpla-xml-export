@@ -1,0 +1,26 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2006_002_0059</dcterms:identifier>
+    <dcterms:title>Covered Bridge Over the Little River on Route 615</dcterms:title>
+    <dcterms:description>Covered Bridge over the Little River on Route 615 (Christiansburg Pike North)
+In 1851 the Virginia General Assembly incorporated the Jacksonville and Christiansburg Turnpike Company to build a road from Floyd County to the Virginia and Tennessee Railroad line in Montgomery County. At about the same time, this covered bridge was constructed 119 feet across Little River, replacing a ford that was notoriously dangerous during the winter and when the waters were swollen.
+
+Two local masons with the last names Gill and Toncray built the stone abutments. Floyd County carpenter Granville Montgomery was contracted to build the framework of the structure. He also applied his skills in the construction of two other covered bridges in Henry and Carroll counties.
+
+Moses Dickerson designed the bridge using a lattice truss and all the timber was hand hewn. Along with a Mr. W. Gardner, Dickerson drove locust wood through iron molds to make some 2,000 pins for the structure. Unfortunately, the names of the enslaved and free laborers at the bridge were not recorded.
+
+This undated photo may have been taken when the structure’s siding was replaced, circa the 1930s. It offers us a rare peek at the bridge’s lattice truss and a glimpse of how maintenance work was conducted in days of yore. The covered bridge stood for over 90 years before being replaced in 1944.</dcterms:description>
+    <dcterms:subject>Covered bridges</dcterms:subject>
+    <dcterms:medium>photographs</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Marguerite Tise</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/hw825t80</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_PHO/tiles/fchs_2006_002_0059-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-11T15:30:52.382Z</dcterms:date>
+</mdRecord>

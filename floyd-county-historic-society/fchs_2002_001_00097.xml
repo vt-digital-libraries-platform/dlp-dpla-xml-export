@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2002_001_00097</dcterms:identifier>
+    <dcterms:title>Fiduciary Accounts: Guardianship of Fannie Dobyns</dcterms:title>
+    <dcterms:description>Guardianship of Fannie Dobyns
+F. O. Dobyns, Guardian
+B. P. Elliott, Guardian ad litem for Fannie Dobyns in the matter of F. O. Dobyns vs. Fannie Dobyns
+Recorded on ledger page 33, Book 2, in Floyd County Courthouse</dcterms:description>
+    <dcterms:subject>Court Records</dcterms:subject>
+    <dcterms:medium>record books</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>The Circuit Court of Floyd County</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/wx93cz39</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2002_001_00097-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:04:18.613Z</dcterms:date>
+</mdRecord>

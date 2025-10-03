@@ -1,0 +1,24 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2020_016_057</dcterms:identifier>
+    <dcterms:title>Letter from Jennie Howard to Dr. Thomas Henry Howard Written on October 22nd, 1868</dcterms:title>
+    <dcterms:description>A personal letter from Jennie Howard of Campbellton Georgia to her brother in law Dr. Thomas Henry Howard of Floyd County, written on October 22nd, 1868. Jennie is melancholy, writing, "We are all dragging out a weary existence, in this dull place." As ever, she is disappointed that her cousin has not yet come to visit. She writes, "This has been a remarkably sickly year in this country, the Drs. are going day and night, mostly remittent, and intermittent fevers, some typhoid." To entice her cousin to visit, she shares, "We have most any kind of girls you might call for, tall and low, fat and lean, sick and poor, fast and slow, but you must come and see them." She also requests that Dr. Howard bring her several apple tree sprouts when he visits. Jennie writes that, "Cousin Tom had a difficulty with a negro, and stabbed him, the negro died in a short while. He had a trial and the jury decided from the evidence that he did it in self-defense. I regretted the deed very much. Tom is a very clever and kind hearted man, has a wife and one child, he is very industrious, a farmer.</dcterms:description>
+    <dcterms:subject>Courtship</dcterms:subject>
+    <dcterms:subject>Doctors</dcterms:subject>
+    <dcterms:subject>Family</dcterms:subject>
+    <dcterms:subject>Illnesses</dcterms:subject>
+    <dcterms:subject>Murders</dcterms:subject>
+    <dcterms:subject>Negroes</dcterms:subject>
+    <dcterms:medium>correspondence</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Miller, Gretchen</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/8f36np4k</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2020_016_057-1/full/197,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:33:59.617Z</dcterms:date>
+</mdRecord>

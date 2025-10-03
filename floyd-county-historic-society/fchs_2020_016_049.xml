@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2020_016_049</dcterms:identifier>
+    <dcterms:title>Letter from Jennie Howard to Dr. Thomas H. Howard Postmarked Dec. 6th 1867</dcterms:title>
+    <dcterms:description>Postmarked Dec. 6th 1867, this letter expresses Jennie Howard's ongoing disappointment that brother in law Dr. Henry Howard has not yet come to visit, although he has promised he will. She says that her health is currently much better, while her daughter Lillie is sick with a cold and "something like the quinsy." Quinsy is inflammation of the throat, especially an abscess in the area of the tonsils, which rarely happens today thanks to antibiotics. Jennie goes on to say that she feels the country is in a very depressed state, and will only get worse. She asks Dr. Howard if he would care for Lillie if she were to "drop off suddenly.</dcterms:description>
+    <dcterms:subject>Courtship</dcterms:subject>
+    <dcterms:subject>Doctors</dcterms:subject>
+    <dcterms:subject>Family</dcterms:subject>
+    <dcterms:subject>Illnesses</dcterms:subject>
+    <dcterms:medium>correspondence</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Miller, Gretchen</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/xz96hd3b</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2020_016_049-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:33:49.538Z</dcterms:date>
+</mdRecord>

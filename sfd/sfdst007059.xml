@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>sfdst007059</dcterms:identifier>
+    <dcterms:title>June 1992 Fire Report for the Salem Fire Department, July 1, 1992</dcterms:title>
+    <dcterms:description>Fire Report for the month of June, 1992, listing out the statistics such as the total amount of emergencies answered, as well as an attachment listing the classification of the call answered, its location, etc.</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:subject>Fire departments</dcterms:subject>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:spatial>Salem, Virginia, United States</dcterms:spatial>
+    <dcterms:medium>memorandums</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/3458s068</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/sfd/tiles/sfdst007059-1/full/196,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-06-03T20:49:59.623Z</dcterms:date>
+</mdRecord>

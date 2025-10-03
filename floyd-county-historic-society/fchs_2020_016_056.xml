@@ -1,0 +1,21 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2020_016_056</dcterms:identifier>
+    <dcterms:title>Letter from Jennie Howard to Dr. Thomas Henry Howard Written on September 16th, 1868</dcterms:title>
+    <dcterms:description>A personal letter from Jennie Howard to her brother in law Dr. Thomas Henry Howard, written on September 16th, 1868. A short letter, evidently written to check in, as Dr. Howard had not responded yet to her last letter, and to express disappointment that he had not yet visited. Jennie writes that her young daughter Lillie says to tell her Aunt Linda to send her some buttons to go on her "charm string." Making a charm strong or memory strong was a popular 19th century hobby, and young ladies would collect buttons, even holding parties where they would trade and tell stories about where each button came from. The legend has it that the girls who collected 999 buttons would meet their true love after adding the1000th. It is rare to find an antique string of 1000 of these buttons. Most found today in museums or private collections have 100-150 buttons.</dcterms:description>
+    <dcterms:subject>Charms</dcterms:subject>
+    <dcterms:subject>Doctors</dcterms:subject>
+    <dcterms:subject>Family</dcterms:subject>
+    <dcterms:medium>correspondence</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Miller, Gretchen</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/5153c08m</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2020_016_056-1/full/201,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:33:58.974Z</dcterms:date>
+</mdRecord>

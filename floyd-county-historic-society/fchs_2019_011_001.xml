@@ -1,0 +1,19 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2019_011_001</dcterms:identifier>
+    <dcterms:title>Church Leader</dcterms:title>
+    <dcterms:description>A framed black and white photograph found in the old Zion Christian Church. The subject person is unknown, but thought to be an early leader of the church.</dcterms:description>
+    <dcterms:subject>Photographs</dcterms:subject>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/?language=en</dcterms:rights>
+    <dcterms:provenance>Taylor, Raymond</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/g294gf3m</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_OBJ/tiles/fchs_2019_011_001-1/full/246,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-10T13:00:58.707Z</dcterms:date>
+</mdRecord>

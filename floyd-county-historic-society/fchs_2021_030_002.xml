@@ -1,0 +1,20 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2021_030_002</dcterms:identifier>
+    <dcterms:title>NASCAR Legends Commemorative Series</dcterms:title>
+    <dcterms:description>Curtis Turner - Issue No. 25 - 1 of 19,998
+A 1:64 die cast replica with collector card and display stand.</dcterms:description>
+    <dcterms:subject>Automobiles--Models</dcterms:subject>
+    <dcterms:medium>model cars</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/?language=en</dcterms:rights>
+    <dcterms:provenance>Via, Vicki W.</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/2q49z132</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_OBJ/tiles/fchs_2021_030_002-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-10T13:02:57.447Z</dcterms:date>
+</mdRecord>

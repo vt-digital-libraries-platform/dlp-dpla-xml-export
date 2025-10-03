@@ -1,0 +1,20 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2018_005_193</dcterms:identifier>
+    <dcterms:title>Akers Family Cemetery, Indian Valley District</dcterms:title>
+    <dcterms:description>Accessed through a gate to the right of driveway for 1658 Sawmill Road NW. Drive up a short Lane to the cemetery. It is in an open lot, fenced and very well maintained. Cemetery is visible using Google Earth.</dcterms:description>
+    <dcterms:subject>Lists</dcterms:subject>
+    <dcterms:subject>Cemeteries</dcterms:subject>
+    <dcterms:medium>lists</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Starkey, Genevieve C.</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/f9156r54</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2018_005_193-1/full/194,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:32:50.760Z</dcterms:date>
+</mdRecord>

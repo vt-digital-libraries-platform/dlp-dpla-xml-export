@@ -1,0 +1,21 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2006_005_090</dcterms:identifier>
+    <dcterms:title>War Time Correspondence to Mr. Malden from A Stephens at Jacksonville</dcterms:title>
+    <dcterms:description>War time correspondence, December 29, 1861, to Mr. Malden from A Stephens at Jacksonville. Subject: Selling liquor as a sutter to the army and how to be licensed to do so. 1 original piece.</dcterms:description>
+    <dcterms:subject>Soldiers</dcterms:subject>
+    <dcterms:subject>United States</dcterms:subject>
+    <dcterms:subject>Correspondence</dcterms:subject>
+    <dcterms:medium>correspondence</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Dr.C.M. Stigleman Collection CG 0004</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/xs84j37t</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2006_005_090-1/full/182,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:29:28.921Z</dcterms:date>
+</mdRecord>

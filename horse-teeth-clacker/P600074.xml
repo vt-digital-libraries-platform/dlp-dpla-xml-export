@@ -1,0 +1,23 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>P600074</dcterms:identifier>
+    <dcterms:title>Horse teeth clacker P600074</dcterms:title>
+    <dcterms:description>We estimate age by examining the lower incisor teeth, as they are easily visible when the mouth is opened. In this specimen, all the incisors are permanent, indicated by their shape, size and the central groove on their labial surface. The presence of canine teeth and the wear of the teeth indicates the age of five or above years. Observe there are small cups on the central incisors that started to disappear. The cups on the intermediate and corner incisors are present. 
+Based on this information, estimate the age of this specimen.</dcterms:description>
+    <dcterms:contributor>Virginia-Maryland College of Veterinary Medicine</dcterms:contributor>
+    <dcterms:subject>Horses--Aging</dcterms:subject>
+    <dcterms:subject>Horses--Age determination</dcterms:subject>
+    <dcterms:type>Three Dimensional Object</dcterms:type>
+    <dcterms:medium>biospecimens</dcterms:medium>
+    <dcterms:format>model/gltf</dcterms:format>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/2b0ce290</edm:isShownAt>
+    <edm:preview>https://d4qp6z580yvb5.cloudfront.net/federated/CVM_DENT/P600074/3D/GLB/P600074_thumbnail2.jpg</edm:preview>
+    <dcterms:creator>Ms Pam Arnold (preparator)</dcterms:creator>
+    <dcterms:date>2025-09-19T15:37:09.380Z</dcterms:date>
+</mdRecord>

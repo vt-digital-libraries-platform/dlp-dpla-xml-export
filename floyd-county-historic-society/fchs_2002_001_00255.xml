@@ -1,0 +1,26 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2002_001_00255</dcterms:identifier>
+    <dcterms:title>Fiduciary Accounts: Guardianship of Anne H. Smith</dcterms:title>
+    <dcterms:description>Guardianship of Anne H. Smith
+C. M. Stigleman, Guardian
+B. P. Elliott, Clerk of Floyd County Court, Assigned as guardian ad Litem for Carrie H. Smith
+Estate of Henry T. Stump
+J. T. Jett, Administrator
+W. H. Morgan, Commissioner of Accounts who framed the administration of the estate of Henry T. Stump
+B. P. Elliott, Clerk of Floyd County Court, Assigned Guardian ad Litem for Carrie H. Smith in the matter of C. M. Stigleman vs. Carrie H. Smith.
+Recorded in Ledger Book 2, page 190, in Floyd County Courthouse</dcterms:description>
+    <dcterms:subject>Court Records</dcterms:subject>
+    <dcterms:medium>record books</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>The Circuit Court of Floyd County</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/b251hf2n</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2002_001_00255-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:06:28.992Z</dcterms:date>
+</mdRecord>

@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>Ms2021-048_75_002_077</dcterms:identifier>
+    <dcterms:title>Receiving Election Results</dcterms:title>
+    <dcterms:description>Boucher gets news of his Congressional win over the phone in his campaign headquarters in Abingdon, Virginia</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:subject>Elections</dcterms:subject>
+    <dcterms:type>Still Image</dcterms:type>
+    <dcterms:medium>color print</dcterms:medium>
+    <dcterms:format>image/jpeg</dcterms:format>
+    <dcterms:rights>https://rightsstatements.org/page/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/1e5ede6b</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/Ms2021-048/tiles/Ms2021-048_75_002_077-1/full/177,/0/default.jpg</edm:preview>
+    <dcterms:creator>Boucher, Rick</dcterms:creator>
+    <dcterms:date>2025-02-07T15:30:24.911Z</dcterms:date>
+</mdRecord>

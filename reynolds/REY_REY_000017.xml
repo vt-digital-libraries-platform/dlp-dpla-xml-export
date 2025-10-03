@@ -1,0 +1,21 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>REY_REY_000017</dcterms:identifier>
+    <dcterms:title>Photograph of Nancy Susan Reynolds</dcterms:title>
+    <dcterms:description>Nancy Susan Reynolds's picture taken when she was 19 years old. Photo marked Autumn, 1929.</dcterms:description>
+    <dcterms:subject>Reynolds family</dcterms:subject>
+    <dcterms:subject> Virginia</dcterms:subject>
+    <dcterms:type>Still Image</dcterms:type>
+    <dcterms:medium>photographs</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/hr29z475</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/swva/REY_HS/tiles/REY_REY_000017-1/full/189,/0/default.jpg</edm:preview>
+    <dcterms:creator>unknown</dcterms:creator>
+    <dcterms:date>2022-12-02T15:13:13.254Z</dcterms:date>
+</mdRecord>

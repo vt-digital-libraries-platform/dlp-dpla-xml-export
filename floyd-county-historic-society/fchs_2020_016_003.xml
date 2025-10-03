@@ -1,0 +1,19 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2020_016_003</dcterms:identifier>
+    <dcterms:title>Red 1830's Silk Dress</dcterms:title>
+    <dcterms:description>A bright red silk dress with a tiered skirt, puffy sleeves, and a wide lace collar worn in Floyd County circa 1830's. This dress would likely have been worn over layers of stays and petticoats, creating a much wider skirt silouette that was the fashion in the 1830's. The 1830's are also known for very puffed sleeves, and it is possible that this dress would have been worn over padding to make the sleeves more dramatically puffy. There is discoloration on the skirt and the fabric has begun to disintegrate where the discoloration appears. Under the arms the fabric has also begun to disintegrate. There are no longer any closures in the back of the dress.</dcterms:description>
+    <dcterms:subject>Clothing and dress</dcterms:subject>
+    <dcterms:medium>dresses (garments)</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/?language=en</dcterms:rights>
+    <dcterms:provenance>Miller, Gretchen</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/tf19sp8k</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_OBJ/tiles/fchs_2020_016_003-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-10T13:02:29.846Z</dcterms:date>
+</mdRecord>

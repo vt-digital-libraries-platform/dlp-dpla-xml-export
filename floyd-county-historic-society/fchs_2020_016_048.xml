@@ -1,0 +1,21 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2020_016_048</dcterms:identifier>
+    <dcterms:title>Letter from Jennie Howard to Dr. Thomas H. Howard Postmarked October 11, 1867</dcterms:title>
+    <dcterms:description>A letter from Jennie Howard of Campbellton Georgia to Dr. Thomas Henry Howard of Floyd County Virginia, postmarked October 11, 1867. This correspondence is short, as Jennie shares that she is sick after having a still born child at seven months. She tells Dr. Howard she is glad he has set a date to come and visit, but is worried he will disappoint her. She writes, "If a wife is all you want, you can get one down here, very easily. Your old sweetheart Mary Green is now a young rich widow living in Atlanta, then there is a plenty of nice girls.</dcterms:description>
+    <dcterms:subject>Courtship</dcterms:subject>
+    <dcterms:subject>Doctors</dcterms:subject>
+    <dcterms:subject>Family</dcterms:subject>
+    <dcterms:medium>correspondence</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Miller, Gretchen</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/qm799174</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2020_016_048-1/full/197,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:33:48.901Z</dcterms:date>
+</mdRecord>

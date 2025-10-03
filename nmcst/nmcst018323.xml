@@ -1,0 +1,20 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>nmcst018323</dcterms:identifier>
+    <dcterms:title>1944 La Coruna - Iberian Peninsula</dcterms:title>
+    <dcterms:description>Map of La Coruna - Iberian Peninsula</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:spatial>La Coruna, Iberian Peninsula, Spain</dcterms:spatial>
+    <dcterms:medium>maps (documents)</dcterms:medium>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/x2823z7g</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/nmcst/tiles/nmcst018323-1/full/211,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-11-04T18:38:23.516Z</dcterms:date>
+</mdRecord>

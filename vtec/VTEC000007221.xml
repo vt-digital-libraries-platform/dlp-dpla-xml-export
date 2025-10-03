@@ -1,0 +1,23 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>VTEC000007221</dcterms:identifier>
+    <dcterms:title>Nymphalidae (Rafinesque, 1815)</dcterms:title>
+    <dcterms:description>habitat: Grassy field</dcterms:description>
+    <dcterms:description>lifeStage: Adult</dcterms:description>
+    <dcterms:description>preparations: pinned specimen</dcterms:description>
+    <dcterms:contributor>G. Anderson (recorded by)</dcterms:contributor>
+    <dcterms:contributor>L. F. Vasquez (georeferenced by)</dcterms:contributor>
+    <dcterms:type>still image</dcterms:type>
+    <dcterms:spatial>Warren, Virginia, United States</dcterms:spatial>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:rights>http://creativecommons.org/publicdomain/zero/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/cz48dj8v</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/vtec/tiles/VTEC000007221-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-28T13:32:30.483Z</dcterms:date>
+</mdRecord>

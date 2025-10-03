@@ -1,0 +1,20 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_1983_001_002</dcterms:identifier>
+    <dcterms:title>Handcrafted Copper Still</dcterms:title>
+    <dcterms:description>This finely handcrafted copper still was most likely fabricated in a local blacksmith shop. It produced approximately three gallons per run. When confiscated in 1983, law enforcement officers estimated the still to be about 150 years old.
+The still belonged to Emitt Guy White of Indian Valley, whose grandfather had used it prior to Prohibition. Special Agent B.J. Webble, Deputy Jerry Yopp, State Trooper Jimmy Howery, Agent Jack Powell, and Sheriff George Branscome found the still during an October 25, 1983 raid. Recognizing its historical significance, they preserved the still. Through the efforts of Marguerite Tise and Prentice Thompson, The Floyd County Historical Society became the owner and protector on December 8, 1983.</dcterms:description>
+    <dcterms:subject>Distilleries</dcterms:subject>
+    <dcterms:medium>stills (culinary equipment)</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/?language=en</dcterms:rights>
+    <dcterms:provenance>General District Court of Floyd County, Virginia</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/qp600x0n</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_OBJ/tiles/fchs_1983_001_002-1/full/188,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-10T13:00:06.763Z</dcterms:date>
+</mdRecord>

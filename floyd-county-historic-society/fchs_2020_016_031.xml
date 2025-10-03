@@ -1,0 +1,20 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2020_016_031</dcterms:identifier>
+    <dcterms:title>Medicinal Root</dcterms:title>
+    <dcterms:description>A medicinal root is contained within this yellow envelope bearing the address of Simpson and Crawford Co., one of the premier department stores in downtown Manhattan for turn of the century fashions. Simpson Crawford Co. Sixth Ave. 19th to 20th Street. New York. Handwritten in pencil on the back are the words, "Root Tommie brought from the West for indigestion." Evidentially the indigestion remedy was never tried, and remains sealed in this envelope.</dcterms:description>
+    <dcterms:subject>Medicine</dcterms:subject>
+    <dcterms:subject>Medicinal plants</dcterms:subject>
+    <dcterms:medium>medicine container</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/?language=en</dcterms:rights>
+    <dcterms:provenance>Miller, Gretchen</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/b158w85j</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_OBJ/tiles/fchs_2020_016_031-1/full/182,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-10T13:02:39.166Z</dcterms:date>
+</mdRecord>

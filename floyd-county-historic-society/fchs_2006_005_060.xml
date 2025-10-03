@@ -1,0 +1,19 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2006_005_060</dcterms:identifier>
+    <dcterms:title>Family Correspondence and Personal Letter Sent from Ellen Stigleman Addressed to Capt. C. M. Stigleman</dcterms:title>
+    <dcterms:description>Family correspondence, personal letter dated August 7, 1861 to “My Dear Doctor,” sent from Ellen at Snowville addressed to Capt. C. M. Stigleman at Tudor Hall. 2 original pieces – letter and envelope and 4 photocopied pages.</dcterms:description>
+    <dcterms:subject>Records and correspondence</dcterms:subject>
+    <dcterms:medium>correspondence</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Dr.C.M. Stigleman Collection CG 0004</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/9d70nd4c</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2006_005_060-1/full/195,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:29:06.395Z</dcterms:date>
+</mdRecord>

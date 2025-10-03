@@ -1,0 +1,24 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2020_016_058</dcterms:identifier>
+    <dcterms:title>Letter from Jennie Howard to Dr. Thomas Henry Howard Dated Nov. 22, 1868</dcterms:title>
+    <dcterms:description>A letter from Jennie Howard, dated Nov. 22, 1868, wherein she implores her brother in law Dr. Howard to visit during the trial of Bill Camp, who murdered her husband, ever referred to as "Dr." She writes that the presence of a near relative can have great bearing on trials, and says, "Dr. was a good Brother to you all and would stand by you in everything.</dcterms:description>
+    <dcterms:subject>Courtship</dcterms:subject>
+    <dcterms:subject>Doctors</dcterms:subject>
+    <dcterms:subject>Family</dcterms:subject>
+    <dcterms:subject>Farming</dcterms:subject>
+    <dcterms:subject>Illnesses</dcterms:subject>
+    <dcterms:subject>Murders</dcterms:subject>
+    <dcterms:medium>correspondence</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Miller, Gretchen</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/cc02fs2w</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2020_016_058-1/full/199,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:34:00.200Z</dcterms:date>
+</mdRecord>

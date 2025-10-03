@@ -8,7 +8,7 @@ dplava.xsd">
     <dcterms:identifier>BTR_BTR_000265</dcterms:identifier>
     <dcterms:title>1982 Season</dcterms:title>
     <dcterms:description>Poster for the 1982 Barter Theatre season, 50th Anniversary. Productions include: Love's Labour's Lost by William Shakespeare, April 30- May 22 | You Can't Take it With You by George S. Kauffman and Moss Hart, June 9-27 | Hedda Gabler by Henrik Ibsen, June 30- July 18 | Matchmaker by Thornton Wilder, July 21- Aug 8 | Tintypes by Mary Kyte, Mel Marvin, Gary Pearle, Aug 11-29 | I Ought to be in Pictures by Neil Simon, Sep 1-26 | Mousetrap by Agatha Christie, Sep 29- Oct 31.</dcterms:description>
-    <dcterms:language>en</dcterms:language>
+    <dcterms:language>eng</dcterms:language>
     <dcterms:contributor>Barter Theatre (Organization : Abingdon, Va.)</dcterms:contributor>
     <dcterms:subject>Theater</dcterms:subject>
     <dcterms:subject> Virginia</dcterms:subject>
@@ -18,6 +18,8 @@ dplava.xsd">
     <dcterms:format>image/jpeg</dcterms:format>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:rights>The original object is the property of the Barter Theatre in Abingdon, VA (https://www.bartertheatre.com/). This digital surrogate is made publicly available by the Barter Theatre for use in research, teaching, private study, and other educational purposes. Responsibility for any use of these materials rests exclusively with the user. When using this item, users should give proper credit to the owner of the original object as well as to Virginia Tech Libraries.</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/tv412j5r</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/swva/BTR/tiles/BTR_BTR_000265-1/full/178,/0/default.jpg</edm:preview>
+    <dcterms:date>2023-02-21T15:42:39.997Z</dcterms:date>
 </mdRecord>

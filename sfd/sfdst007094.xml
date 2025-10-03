@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>sfdst007094</dcterms:identifier>
+    <dcterms:title>Virginia State Fireman's Convention Committee Memorandum, April 26, 1954</dcterms:title>
+    <dcterms:description>1954 Memorandum regarding the selection of Danville for the 68th Annual VA State Firemen’s Association Convention.</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:subject>Fire departments</dcterms:subject>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:spatial>Salem, Virginia, United States</dcterms:spatial>
+    <dcterms:medium>memorandums</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/7s42h06v</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/sfd/tiles/sfdst007094-1/full/175,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-06-03T20:50:18.887Z</dcterms:date>
+</mdRecord>

@@ -1,0 +1,24 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>P600073</dcterms:identifier>
+    <dcterms:title>Horse teeth clacker P600073</dcterms:title>
+    <dcterms:description>Age is assessed by examining the lower incisor teeth, which are easily accessible by simply opening the mouth.
+
+All the incisors present are permanent and display a distinct central groove on their labial surfaces. Presence of the canine teeth indicate that this horse is about five years or more. Looking on the occlusal (chewing) surfaces, the dental cups can be clearly seen on the corner incisors (typically disappear around 8 years of age) and on the intermediate incisors (typically disappear around 7 years). In the central incisors, the cups are almost gone, notice very small cup left as a dark spot  (the cup is almost an enamel spot). Notice the dental star  (secondary dentine) is present as brown narrow line near the labial surface. The cups of the central incisors completely disappear around 6 years. Based on the previous features and the shape of the occlusal surface this specimen is estimated 5 years old.</dcterms:description>
+    <dcterms:contributor>Virginia-Maryland College of Veterinary Medicine</dcterms:contributor>
+    <dcterms:subject>Horses--Aging</dcterms:subject>
+    <dcterms:subject>Horses--Age determination</dcterms:subject>
+    <dcterms:type>Three Dimensional Object</dcterms:type>
+    <dcterms:medium>biospecimens</dcterms:medium>
+    <dcterms:format>model/gltf</dcterms:format>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/ad03839e</edm:isShownAt>
+    <edm:preview>https://d4qp6z580yvb5.cloudfront.net/federated/CVM_DENT/P600073/3D/GLB/P600073_thumbnail2.jpg</edm:preview>
+    <dcterms:creator>Ms Pam Arnold (preparator)</dcterms:creator>
+    <dcterms:date>2025-09-19T15:37:04.972Z</dcterms:date>
+</mdRecord>

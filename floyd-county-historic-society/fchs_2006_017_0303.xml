@@ -1,0 +1,18 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2006_017_0303</dcterms:identifier>
+    <dcterms:title>Noah Reed Family Portrait</dcterms:title>
+    <dcterms:description>Noah Reed family: Noah Clayton Reed (b. 1877) with wife Susan Ellen and children (from left to right) Grace Pearl (m. Reed), Bertha (m. Sowers), Nina (m. Mitchell), and Asa with pony.</dcterms:description>
+    <dcterms:medium>photographs</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Cox, Ricky L.</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/j069fv8z</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_PHO/tiles/fchs_2006_017_0303-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-11T15:35:29.640Z</dcterms:date>
+</mdRecord>

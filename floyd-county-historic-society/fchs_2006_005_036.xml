@@ -1,0 +1,21 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2006_005_036</dcterms:identifier>
+    <dcterms:title>War Time Correspondence to General Jms B. Floyd from W. W. McComas</dcterms:title>
+    <dcterms:description>War time correspondence, June 4, 1861, to General Jms B. Floyd from W. W. McComas, subject: 8 or 10 thousand plus Lincoln's troops marching toward Va and Tenn R.R. - we have no arms - send help. 1 original piece. Note: this is actually in Thomas Shelor's handwriting so he copied the message to send.</dcterms:description>
+    <dcterms:subject>Soldiers</dcterms:subject>
+    <dcterms:subject>United States</dcterms:subject>
+    <dcterms:subject>Correspondence</dcterms:subject>
+    <dcterms:medium>correspondence</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Dr.C.M. Stigleman Collection CG 0004</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/fz284q1b</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2006_005_036-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:28:48.733Z</dcterms:date>
+</mdRecord>

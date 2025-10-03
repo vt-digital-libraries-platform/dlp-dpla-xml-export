@@ -1,0 +1,20 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2017_015_004</dcterms:identifier>
+    <dcterms:title>Sweepter, Vol. 2, No. 30, Novemember 17th, 1954</dcterms:title>
+    <dcterms:description>The Sweeper was published weekly for the welfare and recreation of Naval personnel serving in the Mine Force Command. It was printed in conformance to NAVEXOS P-35, Appendix B, revised November 1945, at no cost to the government. The Sweeper was a member of the Armed Forces Press Service (AFPS).</dcterms:description>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:subject>Newspapers</dcterms:subject>
+    <dcterms:medium>newspapers</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Femrite, Mark</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/zv33sq1s</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2017_015_004-1/full/159,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:30:20.539Z</dcterms:date>
+</mdRecord>

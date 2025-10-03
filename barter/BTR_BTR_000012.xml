@@ -1,0 +1,24 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>BTR_BTR_000012</dcterms:identifier>
+    <dcterms:title>Barter Theatre Playhouse, 1979, 47th Season</dcterms:title>
+    <dcterms:description>&lt;p&gt;Poster for multiple plays: A Doll House| Same Time Next Year| A Misalliance| Dames at Sea| Absurd Person Singular| Side by Side by Sondheim| Luv| Fantasticks.&lt;/p&gt;</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:contributor>Barter Theatre (Organization : Abingdon, Va.)</dcterms:contributor>
+    <dcterms:subject>Theater</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:spatial>Abingdon, Washington county, Virginia, United States</dcterms:spatial>
+    <dcterms:medium>posters</dcterms:medium>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:rights>&lt;p&gt;&lt;a href="http://rightsstatements.org/vocab/InC-EDU/1.0/" rel="noopener noreferrer" target="_blank"&gt;http://rightsstatements.org/vocab/InC-EDU/1.0/&lt;/a&gt;&lt;/p&gt;</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/m768jc86</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/swva/BTR/tiles/BTR_BTR_000012-1/full/196,/0/default.jpg</edm:preview>
+    <dcterms:date>2021-11-18T15:50:08.248Z</dcterms:date>
+</mdRecord>

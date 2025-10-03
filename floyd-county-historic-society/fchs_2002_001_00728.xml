@@ -1,0 +1,38 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2002_001_00728</dcterms:identifier>
+    <dcterms:title>Fiduciary Accounts: Estate of Samuel L. Vest</dcterms:title>
+    <dcterms:description>Estate of Samuel L. Vest
+John E. Vest, Executor
+Isaac H. Vest, Executor
+C. W. Vest, grandson
+Sarah S. Eam, granddaughter
+B. M. Vest, son
+James S. Vest, Grandson
+William F. Vest, grandson
+John E. Vest, son
+Abagaile Farrow, daughter
+Martha McDaniel, daughter
+Mary Conner, daughter
+Samuel A. Vest, son
+Sarah A. Conner, daughter
+Isaac A. Vest, son
+Hannah Hall, daughter
+Sarah C. Vest, granddaughter
+Maggie F. Vest granddaughter
+Mary F. McDaniel, granddaughter
+Recorded in Ledger Book 4, Page 253-255, in the Floyd County Courthouse.</dcterms:description>
+    <dcterms:subject>Court Records</dcterms:subject>
+    <dcterms:medium>record books</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>The Circuit Court of Floyd County</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/tr06s56h</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2002_001_00728-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:12:42.969Z</dcterms:date>
+</mdRecord>

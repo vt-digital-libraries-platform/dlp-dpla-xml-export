@@ -1,0 +1,25 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>P600062</dcterms:identifier>
+    <dcterms:title>Horse teeth clacker P600062</dcterms:title>
+    <dcterms:description>We assess age by examining the lower incisor teeth, as they are easily accessible when the mouth is opened.
+In this model, notice the presence of adult incisor teeth with a &lt;b&gt;central groove&lt;/b&gt; on the surface that labial surface. The chewing occlusal surface is not oval and presence of the cups (black areas located at the side of the tooth close to the tongue (lingual). The cups are clearly seen on the corner and intermediate incisors and almost disappeared from the central incisors which is a feature of 6 years old horse. Notice also the clear dental star (brown line) close to the labial side in the central and intermediate incisors.
+
+Please compare this model with the foal's decideous "milky" teeth clacker P600088.</dcterms:description>
+    <dcterms:contributor>Virginia-Maryland College of Veterinary Medicine</dcterms:contributor>
+    <dcterms:subject>Horses--Aging</dcterms:subject>
+    <dcterms:subject>Horses--Age determination</dcterms:subject>
+    <dcterms:type>Three Dimensional Object</dcterms:type>
+    <dcterms:medium>biospecimens</dcterms:medium>
+    <dcterms:format>model/gltf</dcterms:format>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/db68276c</edm:isShownAt>
+    <edm:preview>https://d4qp6z580yvb5.cloudfront.net/federated/CVM_DENT/P600062/3D/GLB/P600062_thumbnail2.jpg</edm:preview>
+    <dcterms:creator>Ms Pam Arnold (preparator)</dcterms:creator>
+    <dcterms:date>2025-09-19T15:37:02.781Z</dcterms:date>
+</mdRecord>

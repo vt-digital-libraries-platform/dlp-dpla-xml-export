@@ -1,0 +1,15 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>MTG_RNJ_002653</dcterms:identifier>
+    <dcterms:title>Radford News Journal (East Radford, VA), 69th Year, No. 233, Saturday, November 1, 1952</dcterms:title>
+    <dcterms:description>Afternoon newspaper from Radford, Virginia that includes global, national, and local news and advertisements.</dcterms:description>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/82889g24</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/swva/MTG/tiles/MTG_RNJ_002653-1/full/204,/0/default.jpg</edm:preview>
+    <dcterms:date>2022-12-21T17:24:35.389Z</dcterms:date>
+</mdRecord>

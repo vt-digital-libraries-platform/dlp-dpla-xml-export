@@ -1,0 +1,20 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2018_018_001</dcterms:identifier>
+    <dcterms:title>Clay Ingot signed by Ernie Pyle</dcterms:title>
+    <dcterms:description>Clay Ingot signed by Ernie Pyle. Pyle was a famous WW II correspondent. A museum honoring Mr. Pyle is in Dana, IN.</dcterms:description>
+    <dcterms:subject>World War, 1939-1945</dcterms:subject>
+    <dcterms:subject>Clay</dcterms:subject>
+    <dcterms:medium>clay blocks</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/?language=en</dcterms:rights>
+    <dcterms:provenance>Boreck, Linda</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/rs254n2z</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_OBJ/tiles/fchs_2018_018_001-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-10T13:00:57.362Z</dcterms:date>
+</mdRecord>

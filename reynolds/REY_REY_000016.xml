@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>REY_REY_000016</dcterms:identifier>
+    <dcterms:title>Photo of Sketch of Nancy Susan Reynolds</dcterms:title>
+    <dcterms:description>A Brook, artist.</dcterms:description>
+    <dcterms:subject>Reynolds family</dcterms:subject>
+    <dcterms:subject> Virginia</dcterms:subject>
+    <dcterms:type>Still Image</dcterms:type>
+    <dcterms:medium>photographs</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/9m07kf7r</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/swva/REY_HS/tiles/REY_REY_000016-1/full/206,/0/default.jpg</edm:preview>
+    <dcterms:creator>Brook, A.  (artist) </dcterms:creator>
+    <dcterms:creator> Peter A. Juley &amp; Son (photographer)</dcterms:creator>
+    <dcterms:date>2022-12-02T15:13:12.930Z</dcterms:date>
+</mdRecord>

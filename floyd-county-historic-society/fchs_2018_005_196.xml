@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2018_005_196</dcterms:identifier>
+    <dcterms:title>Dulaney Family Cemetery, Indian Valley District</dcterms:title>
+    <dcterms:description>Located adjacent to 835 White Rock Rd NW. There is a small drive way up to the cemetery which is on the right. Cemetery is enclosed in a fence and well maintained. It is difficult to see from the road and not visible on Google Earth due to tree cover.
+N 36 57.161'
+W 080 28.789'</dcterms:description>
+    <dcterms:subject>Lists</dcterms:subject>
+    <dcterms:subject>Cemeteries</dcterms:subject>
+    <dcterms:medium>lists</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Starkey, Genevieve C.</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/4495xv7k</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2018_005_196-1/full/152,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:32:53.115Z</dcterms:date>
+</mdRecord>

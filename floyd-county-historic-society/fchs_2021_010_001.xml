@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2021_010_001</dcterms:identifier>
+    <dcterms:title>Hand Made Building Brick</dcterms:title>
+    <dcterms:description>Hand Made Building Brick
+A brick that appears to be hand made. This was found when a construction crew was digging a pipe line behind the Floyd County Court House some years ago. The digging was near the area where the Sheriffs office dispatch is located today. It is believed that this brick was part of the foundation of the Court House build in 1851. There is no formal evidence that this is actually from the 1851 Court House.
+The donor acquired the brick from the back hoe operator on site.</dcterms:description>
+    <dcterms:subject>Building materials</dcterms:subject>
+    <dcterms:subject>Bricks</dcterms:subject>
+    <dcterms:medium>building brick (clay products)</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/?language=en</dcterms:rights>
+    <dcterms:provenance>Howery, Jimmy</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/27763f97</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_OBJ/tiles/fchs_2021_010_001-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-10T13:02:42.528Z</dcterms:date>
+</mdRecord>

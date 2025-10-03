@@ -1,0 +1,19 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_1950_001_051</dcterms:identifier>
+    <dcterms:title>Implement Hitching Hook</dcterms:title>
+    <dcterms:description>A heavy steel (likely hand forged) hook for attaching implements to a pulling harness or rig.</dcterms:description>
+    <dcterms:subject>Farm equipment</dcterms:subject>
+    <dcterms:medium>hitches</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/?language=en</dcterms:rights>
+    <dcterms:provenance>Donor, Unknown</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/kg95vx70</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_OBJ/tiles/fchs_1950_001_051-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-10T13:00:02.874Z</dcterms:date>
+</mdRecord>

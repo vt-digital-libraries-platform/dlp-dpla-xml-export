@@ -1,0 +1,20 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2019_012_001</dcterms:identifier>
+    <dcterms:title>White Rock Church of the Brethren</dcterms:title>
+    <dcterms:description>White Rock Church of the Brethren, Floyd VA
+100th Anniversary 1888 - 1988 Directory.</dcterms:description>
+    <dcterms:subject>Directory</dcterms:subject>
+    <dcterms:medium>directories</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Compton, Danny</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/jc031b8m</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2019_012_001-1/full/202,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:33:24.739Z</dcterms:date>
+</mdRecord>

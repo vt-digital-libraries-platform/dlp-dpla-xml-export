@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2020_016_043</dcterms:identifier>
+    <dcterms:title>Letter from Jennie Howard to Dr. Thomas H. Howard Dated August 22, 1859</dcterms:title>
+    <dcterms:description>A letter dated August 22, 1859 from Jennie Howard to her brother in law Dr. Henry Howard. The letter shares condolences for the passing of Dr. Howard's father. It also describes of the murder of Jacob Teel, an innocent bystander who attempted to break up a fight between road workers from out of town. Jennie goes on to describe a Camp Meeting as, "more nice girls than I had seen in a long time...all looking as sweet as if they had nothing else to do but "fall in love.</dcterms:description>
+    <dcterms:subject>Candidates, Political</dcterms:subject>
+    <dcterms:subject>Courtship</dcterms:subject>
+    <dcterms:subject>Murders</dcterms:subject>
+    <dcterms:subject>Political candidates</dcterms:subject>
+    <dcterms:medium>correspondence</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Miller, Gretchen</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/2494j42k</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2020_016_043-1/full/157,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:33:45.734Z</dcterms:date>
+</mdRecord>

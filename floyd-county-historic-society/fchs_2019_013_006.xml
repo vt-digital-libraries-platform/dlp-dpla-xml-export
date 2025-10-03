@@ -1,0 +1,20 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2019_013_006</dcterms:identifier>
+    <dcterms:title>Unknown Soldier Ambrotype Photograph</dcterms:title>
+    <dcterms:description>This is an ambrotype photographic image of what appears to be an unknown soldier of the American Civil War.</dcterms:description>
+    <dcterms:subject>United States--History--Civil War, 1861-1865</dcterms:subject>
+    <dcterms:subject>Ambrotype</dcterms:subject>
+    <dcterms:medium>ambrotypes (photographs)</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/?language=en</dcterms:rights>
+    <dcterms:provenance>Hylton, Sharon H.</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/wk32713p</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_OBJ/tiles/fchs_2019_013_006-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-10T13:01:00.080Z</dcterms:date>
+</mdRecord>

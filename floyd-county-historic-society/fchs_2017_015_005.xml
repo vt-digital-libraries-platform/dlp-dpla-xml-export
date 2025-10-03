@@ -1,0 +1,20 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2017_015_005</dcterms:identifier>
+    <dcterms:title>Waggoner - Gates Milling Co.</dcterms:title>
+    <dcterms:description>An original advertising poster to promote the products of the Waggoner - Gates Milling Co. Queen of the Pantry wheat flour. Independence, MO</dcterms:description>
+    <dcterms:subject>Advertisements</dcterms:subject>
+    <dcterms:subject>Advertising</dcterms:subject>
+    <dcterms:medium>posters</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Femrite, Mark</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/4842bj3p</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2017_015_005-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:30:21.279Z</dcterms:date>
+</mdRecord>

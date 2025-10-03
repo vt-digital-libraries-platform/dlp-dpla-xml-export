@@ -1,0 +1,19 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2020_016_001</dcterms:identifier>
+    <dcterms:title>Light Blue Floral Lace Dress</dcterms:title>
+    <dcterms:description>A lovely light blue dress covered with floral lace skirt and sleeves. Although the dress is in remarkable condition considering she was made in the 1850's, there is considerable staining on the bodice, and shredding of the satin lining fabric. She appears to be missing bead work that would have embellished the neckline (5 or 6 seed beads are still hanging on.) It also appears to be missing an outer layer of some kind around around the bodice. The front button details are finished in satin, however the blue fabric now showing around the waist and back is a more simple linen or cotton, and has unfinished outward facing seams. Perhaps more lace once covered the whole dress.</dcterms:description>
+    <dcterms:subject>Clothing and dress</dcterms:subject>
+    <dcterms:medium>dresses (garments)</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/?language=en</dcterms:rights>
+    <dcterms:provenance>Miller, Gretchen</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/xn28mg0p</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_OBJ/tiles/fchs_2020_016_001-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-10T13:02:29.066Z</dcterms:date>
+</mdRecord>

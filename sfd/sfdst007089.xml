@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>sfdst007089</dcterms:identifier>
+    <dcterms:title>Fire Protection Conference held at the 77th Annual General Meeting, Canadian Manufacturers' Association, Dated from May 26, 1948 to May 28, 1949</dcterms:title>
+    <dcterms:description>Proceedings documents from the Fire Protection Conference held at the 77th meeting of the Canadian Manufacturers' Association in Royal York Hotel, Toronto from May 26th to May 28th, 1948</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:subject>Fire departments</dcterms:subject>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:spatial>Salem, Virginia, United States</dcterms:spatial>
+    <dcterms:medium>conference proceedings</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/7d56280d</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/sfd/tiles/sfdst007089-1/full/170,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-06-03T20:50:11.925Z</dcterms:date>
+</mdRecord>

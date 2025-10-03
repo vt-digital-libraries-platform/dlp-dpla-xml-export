@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>REY_REY_000008</dcterms:identifier>
+    <dcterms:title>Bagley Family Photograph</dcterms:title>
+    <dcterms:description>This is a family photo of Nancy Susan Reynolds (the woman holding the baby), with her first husband, Henry Walker Bagley. Nancy Susan Reynolds was responsible for reconstructing the Reynolds Homestead, located in Critz, VA, and subsequently donating it to Virginia Tech for preservation of the home and her family’s history. Also pictured are her three children: Nancy Jane (young girl), Smith Walker (young boy), and Susan Walker (baby).</dcterms:description>
+    <dcterms:subject>Reynolds family</dcterms:subject>
+    <dcterms:subject> Virginia</dcterms:subject>
+    <dcterms:type>Still Image</dcterms:type>
+    <dcterms:spatial>Critz, Patrick, Virginia, United States</dcterms:spatial>
+    <dcterms:medium>photographs</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Gift (c.2018) from S. Walker Bagley, Jr.</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/wj27mp0b</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/swva/REY_HS/tiles/REY_REY_000008-1/full/175,/0/default.jpg</edm:preview>
+    <dcterms:date>2022-12-02T15:13:09.756Z</dcterms:date>
+</mdRecord>

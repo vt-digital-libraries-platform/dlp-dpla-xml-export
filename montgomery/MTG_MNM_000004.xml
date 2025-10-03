@@ -1,0 +1,15 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>MTG_MNM_000004</dcterms:identifier>
+    <dcterms:title>Montgomery News Messenger (Christiansburg, Montgomery County, VA), Vol. 1, No. 5, Wednesday, April 29, 1931</dcterms:title>
+    <dcterms:description>Newspaper from Christiansburg, Montgomery County, Virginia that includes local news and advertisements</dcterms:description>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/9g892d10</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/swva/MTG/tiles/MTG_MNM_000004-1/full/179,/0/default.jpg</edm:preview>
+    <dcterms:date>2022-12-21T16:55:54.351Z</dcterms:date>
+</mdRecord>

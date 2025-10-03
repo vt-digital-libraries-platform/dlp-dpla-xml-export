@@ -1,0 +1,19 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2006_032_43a-b</dcterms:identifier>
+    <dcterms:title>Setting Out Onions at Magdalen Epperly's</dcterms:title>
+    <dcterms:description>A group of children prepare beds and set out onions at Magdalen Epperly's garden.</dcterms:description>
+    <dcterms:subject>Gardens</dcterms:subject>
+    <dcterms:medium>photographs</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Marguerite Tise</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/hg63c986</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_PHO/tiles/fchs_2006_032_43a-b-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-11T15:35:50.382Z</dcterms:date>
+</mdRecord>

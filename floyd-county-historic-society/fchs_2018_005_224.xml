@@ -1,0 +1,23 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2018_005_224</dcterms:identifier>
+    <dcterms:title>Altizer Family Cemetery, Alum Ridge Dist.</dcterms:title>
+    <dcterms:description>Located off the intersection of Mt. Ebert Rd. NW &amp; Turman Dr. NW. Turn right off Alum Ridge Rd. onto Mt Ebert Rd Nw. Proceed to Turman Drive NW and turn right, go 100 yards. The cemetery is on your left 50 yards into a field just past 115 Turman Dr. NW. Look for the lone large tree with a fence at its base. Easily seen from the road. Fenced and very well maintained. Visible from Google Earth and Google Maps.
+
+N 36 58.226'
+W 80 23.643'</dcterms:description>
+    <dcterms:subject>Lists</dcterms:subject>
+    <dcterms:subject>Cemeteries</dcterms:subject>
+    <dcterms:medium>lists</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Starkey, Genevieve C.</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/6086g967</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2018_005_224-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:33:11.235Z</dcterms:date>
+</mdRecord>

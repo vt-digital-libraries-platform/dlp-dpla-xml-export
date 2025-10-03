@@ -1,0 +1,27 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>REY_REY_000021</dcterms:identifier>
+    <dcterms:title>Recollections of Major A.D. Reynolds</dcterms:title>
+    <dcterms:description>In 1916, using a partially used company ledger book, A.D. Reynolds set out to record his memoir in a series of sketches, anecdotes, and recorded memories. These sketches were written over an eight year period, between 1916 and 1924. Reynolds documents growing up on a tobacco plantation in Virginia, his role in the Confederate Army during the Civil War, and his life as a tobacco manufacturer. The recollections themselves document the period between 1862 and 1924. Included among the sketches are Reynold’s observations of his father, Hardin William Reynolds, and his more successful younger brother, R.J. Reynolds, founder of R.J. Reynolds Tobacco Company.</dcterms:description>
+    <dcterms:description>EA.2018.001</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:subject>Reynolds family</dcterms:subject>
+    <dcterms:subject>Tobacco industry</dcterms:subject>
+    <dcterms:subject>Reynolds, A.D. (Abram David), 1847-1925</dcterms:subject>
+    <dcterms:subject>United States--History--Civil War, 1861-1865</dcterms:subject>
+    <dcterms:subject> Virginia</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:medium>logs (records)</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>This volume is part of papers collected by Nancy Susan Reynolds (1910-1985), younger daughter of R.J. and Katharine Reynolds. Exact acquisition information is unknown.</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/gr24d91j</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/swva/REY_HMAA/tiles/REY_REY_000021-1/full/157,/0/default.jpg</edm:preview>
+    <dcterms:creator>Reynolds, A. D. (Abram David), 1847-1925 (author)</dcterms:creator>
+    <dcterms:date>2022-12-02T15:14:01.373Z</dcterms:date>
+</mdRecord>

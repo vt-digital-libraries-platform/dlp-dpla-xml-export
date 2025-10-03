@@ -1,0 +1,19 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2021_030_010</dcterms:identifier>
+    <dcterms:title>NASCAR # 26 Race Car driven by Curtis Turner</dcterms:title>
+    <dcterms:description>A 1:24 scale plastics model of the # 26 Ford driven by Curtis Turner.</dcterms:description>
+    <dcterms:subject>Automobiles--Models</dcterms:subject>
+    <dcterms:medium>model cars</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/?language=en</dcterms:rights>
+    <dcterms:provenance>Via, Vicki W.</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/7p68v319</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_OBJ/tiles/fchs_2021_030_010-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-10T13:03:00.729Z</dcterms:date>
+</mdRecord>

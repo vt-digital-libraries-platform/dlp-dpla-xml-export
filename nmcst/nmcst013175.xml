@@ -1,0 +1,20 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>nmcst013175</dcterms:identifier>
+    <dcterms:title>1937 Kronprins Frederiks Bjaerge</dcterms:title>
+    <dcterms:description>Map of Kronprins Frederiks Bjaerge</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:spatial>Greenland</dcterms:spatial>
+    <dcterms:medium>maps (documents)</dcterms:medium>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/mb14gz6x</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/nmcst/tiles/nmcst013175-1/full/203,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-11-04T18:38:18.257Z</dcterms:date>
+</mdRecord>

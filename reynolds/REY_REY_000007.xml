@@ -1,0 +1,24 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>REY_REY_000007</dcterms:identifier>
+    <dcterms:title>Notecard</dcterms:title>
+    <dcterms:description>2013 note from Virginia Via Allman (donor for item REY_REY_000010)</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:subject>Reynolds family</dcterms:subject>
+    <dcterms:subject> Virginia</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:spatial>Critz, Patrick, Virginia, United States</dcterms:spatial>
+    <dcterms:medium>notecard</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Gift from Virginia Via Allman, 2013 to Reynolds Homestead</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/0s550f2p</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/swva/REY_HS/tiles/REY_REY_000007-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:creator>Allman, Virginia Via (author)</dcterms:creator>
+    <dcterms:date>2022-12-02T15:13:09.392Z</dcterms:date>
+</mdRecord>

@@ -1,0 +1,24 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>TAU_ART_000143_0002</dcterms:identifier>
+    <dcterms:title>KINETOGRAPH #17</dcterms:title>
+    <dcterms:description>Abstract painter and teacher Richard Irving Bowman was known for both his idiosyncratic style and employing fluorescent paint. He received his BFA from the Art Institute of Chicago and his MFA from the University of Iowa. Bowman taught painting at the Art Institute of Chicago, the University of Manitoba, Winnipeg and Stanford University. he was a popular figure in the San Francisco abstract expressionist and beat scenes.</dcterms:description>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:subject>Art</dcterms:subject>
+    <dcterms:subject>PAINTINGS</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:medium>Oil and fluorescent lacquer Masonite</dcterms:medium>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:rights>&lt;a href="http://rightsstatements.org/page/InC-EDU/1.0/?language=en"&gt;http://rightsstatements.org/vocab/InC-EDU/1.0/&lt;/a&gt;</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries (Digital)</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/s126716w</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/swva/TAU_ART/tiles/TAU_ART_000143_0002-1/full/204,/0/default.jpg</edm:preview>
+    <dcterms:creator>BOWMAN, RICHARD (United States, 1918 - 2001)</dcterms:creator>
+    <dcterms:date>2022-12-15T18:28:56.782Z</dcterms:date>
+</mdRecord>

@@ -1,0 +1,24 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>LD5655.V8.T5_1931</dcterms:identifier>
+    <dcterms:title>The 1931 Tin Horn</dcterms:title>
+    <dcterms:description>The fourth and final volume of the Tin Horn, the yearbook for and by the female students at Virginia Polytechnic Institute. 
+
+Early women students at Virginia Polytechnic Institute (VPI) were not allowed to be in&amp;nbsp;&lt;em&gt;The Bugle&lt;/em&gt;&amp;nbsp;yearbook. For several years after they were first admitted, they produced their own yearbook, called&amp;nbsp;&lt;em&gt;The Tin Horn&lt;/em&gt;. Four issues of the&amp;nbsp;&lt;em&gt;The Tin Horn&lt;/em&gt;&amp;nbsp;were published. The 1925 and 1929 issues were produced by hand. Issues in 1930 and 1931 were published by professional printers.</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:subject>University Archives</dcterms:subject>
+    <dcterms:type>text</dcterms:type>
+    <dcterms:medium>ink on paper</dcterms:medium>
+    <dcterms:format>application/pdf</dcterms:format>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/kf26jg96</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/LD5655.V8.T5/LD5655.V8.T5_1931/LD5655.V8.T5_1931_thumbnail.jpg</edm:preview>
+    <dcterms:creator>Virginia Polytechnic Institute</dcterms:creator>
+    <dcterms:date>2024-07-29T16:19:52.466Z</dcterms:date>
+</mdRecord>

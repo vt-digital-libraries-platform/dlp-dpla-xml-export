@@ -1,0 +1,20 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2006_007_0082</dcterms:identifier>
+    <dcterms:title>Tazwell Headen Home</dcterms:title>
+    <dcterms:description>Tazewell Headen House circa 1989 view of the then Munsey home</dcterms:description>
+    <dcterms:subject>Housing</dcterms:subject>
+    <dcterms:subject>Buildings</dcterms:subject>
+    <dcterms:medium>color photographs</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Paul Kitchen</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/gx69zv4d</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_PHO/tiles/fchs_2006_007_0082-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-11T15:31:07.723Z</dcterms:date>
+</mdRecord>

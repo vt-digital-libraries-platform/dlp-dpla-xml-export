@@ -1,0 +1,21 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2021_011_017</dcterms:identifier>
+    <dcterms:title>Wooden Awl for Shaping Leather Shoes</dcterms:title>
+    <dcterms:description>A cobbler's awl originally belonging to Tazewell Sowers of Floyd County. He was listed in the 1870 census as a shoemaker at age 31, indicating that this tool is around 150 years old. This awl, along with a collection of other cobbler's tools, is said to have been passed down through four generations of the Sowers family. An awl is a thin metal shaft with a sharp point on the end. They have a large, gripping handle and are used to poke holes in heavy, thick materials like leather. When making a pair of leather shoes, a cobbler would use an awl to poke holes in the material and then use those holes to place their stitches. This awl has a long needle with hole for threading, and a beautifully curved wooden handle.</dcterms:description>
+    <dcterms:subject>Shoemakers</dcterms:subject>
+    <dcterms:subject>Shoe industry</dcterms:subject>
+    <dcterms:subject>Tools</dcterms:subject>
+    <dcterms:medium>saddler's awl</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/?language=en</dcterms:rights>
+    <dcterms:provenance>Monroe, Richard</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/3t659259</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_OBJ/tiles/fchs_2021_011_017-1/full/167,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-10T13:02:49.847Z</dcterms:date>
+</mdRecord>

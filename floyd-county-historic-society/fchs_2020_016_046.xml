@@ -1,0 +1,24 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2020_016_046</dcterms:identifier>
+    <dcterms:title>Letter from Jennie Howard to Dr. Thomas H. Howard Postmarked August 2nd, 1867</dcterms:title>
+    <dcterms:description>A letter postmarked August 2nd, 1867 adressed to Dr. Thomas Henry Howard of Floyd County Virginia, from sister in law Jennie Howard of Campbellton Georgia. As in almost all of her correspondence with Dr. Howard, Jennie urges him to come and visit her in Georgia. She writes "You must be certain to come out this fall and see us, for we are all looking for you and will be badly disappointed if you fail to come. If you don't come now, I am afraid you will never come for if you marry, you will settle down, and never leave home." Jennie mentions that her sister is teaching school. In the last paragraph Jennie writes, "The negroes are doing only tolerably well. I think we will have to learn to do without them in a few years.</dcterms:description>
+    <dcterms:subject>African Americans</dcterms:subject>
+    <dcterms:subject>Doctors</dcterms:subject>
+    <dcterms:subject>Family</dcterms:subject>
+    <dcterms:subject>Negroes</dcterms:subject>
+    <dcterms:subject>Reconstruction</dcterms:subject>
+    <dcterms:subject>Slavery</dcterms:subject>
+    <dcterms:medium>correspondence</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Miller, Gretchen</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/wt07bv8s</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2020_016_046-1/full/202,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:33:47.617Z</dcterms:date>
+</mdRecord>

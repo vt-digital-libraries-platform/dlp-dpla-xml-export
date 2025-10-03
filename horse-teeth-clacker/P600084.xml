@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>P600084</dcterms:identifier>
+    <dcterms:title>Horse teeth clacker P600084</dcterms:title>
+    <dcterms:description>All the incisors are permanent with a clear central groove on the labial surface of each tooth. The cusps are gone from all the lower incisors and replaced by enamel spots. The dental stars are present on all of the lower incisors. The upper corner incisors (UCI) have a hook and its length is slightly longer than its width. Based on these features the estimated age of this horse is about 11 years.</dcterms:description>
+    <dcterms:contributor>Virginia-Maryland College of Veterinary Medicine</dcterms:contributor>
+    <dcterms:subject>Horses--Aging</dcterms:subject>
+    <dcterms:subject>Horses--Age determination</dcterms:subject>
+    <dcterms:type>Three Dimensional Object</dcterms:type>
+    <dcterms:medium>biospecimens</dcterms:medium>
+    <dcterms:format>model/gltf</dcterms:format>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/8a681ef7</edm:isShownAt>
+    <edm:preview>https://d4qp6z580yvb5.cloudfront.net/federated/CVM_DENT/P600084/3D/GLB/P600084_thumbnail.jpg</edm:preview>
+    <dcterms:creator>Ms Pam Arnold (preparator)</dcterms:creator>
+    <dcterms:date>2025-09-19T15:37:07.106Z</dcterms:date>
+</mdRecord>

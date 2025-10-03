@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>Ms2021-048_75_003_147</dcterms:identifier>
+    <dcterms:title>Group Photo in Greece</dcterms:title>
+    <dcterms:description>A picture of a group of people, including Boucher, in Athens, Greece as part of a congressional delegation for the internet caucus</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:subject>Ruins</dcterms:subject>
+    <dcterms:type>Still Image</dcterms:type>
+    <dcterms:medium>color print</dcterms:medium>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:rights>https://rightsstatements.org/page/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/e7fe5f14</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/Ms2021-048/tiles/Ms2021-048_75_003_147-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:creator>Boucher, Rick</dcterms:creator>
+    <dcterms:date>2025-02-07T15:30:47.913Z</dcterms:date>
+</mdRecord>

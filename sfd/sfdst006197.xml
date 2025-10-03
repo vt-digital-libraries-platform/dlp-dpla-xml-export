@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>sfdst006197</dcterms:identifier>
+    <dcterms:title>Group Photo of Salem Firemen, 1957</dcterms:title>
+    <dcterms:description>Firemen group photo, 1957, The people that have been named in the photograph are as follows: Charlie Owen is in the top row furthest to the left, Harlow Garrett is in the top row second from the left, Grant Deasis is in the top row third from the left, "Tootie" Ballard is on the bottom row furthest to the left, Mars Stone is in the bottom row third from the left, Chuck Hoffman is in the bottom row seventh from the left, Jene Prohan is in the bottom row eighth from the left, someone whose only name given is Brown is in the bottom row ninth from the left, and Chief Hoffman is in the bottom row, eleventh from the left.</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:subject>Fire departments</dcterms:subject>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:type>Still Image</dcterms:type>
+    <dcterms:spatial>Salem, Virginia, United States</dcterms:spatial>
+    <dcterms:medium>photographs</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/qp46kj1c</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/sfd/tiles/sfdst006197-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-06-03T20:49:06.828Z</dcterms:date>
+</mdRecord>

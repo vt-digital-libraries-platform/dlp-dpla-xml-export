@@ -1,0 +1,24 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2006_032_0014</dcterms:identifier>
+    <dcterms:title>Academy Picture, Summer School, W.A. Sowers Teacher</dcterms:title>
+    <dcterms:description>Summer School Old Academy with the people included in the photograph being as follows: 
+Row 1: Waller Sowers, ?, ?, ?, Hubert Summer, Poff, Poff 
+Row 2: W.A.Sowers (seat), Henry Scott (boy), Hester Lancaster (seat), Ellie Dickerson, Etta Slusher,?
+Row 3: Mattie Ballinger, Addie Hatcher, Fred Agnew, ?, Will Harris, Ruth Lancaster</dcterms:description>
+    <dcterms:subject>Students</dcterms:subject>
+    <dcterms:subject>Teachers</dcterms:subject>
+    <dcterms:subject>Schools</dcterms:subject>
+    <dcterms:medium>photographs</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Marguerite Tise</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/86132z96</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_PHO/tiles/fchs_2006_032_0014-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-11T15:35:37.323Z</dcterms:date>
+</mdRecord>

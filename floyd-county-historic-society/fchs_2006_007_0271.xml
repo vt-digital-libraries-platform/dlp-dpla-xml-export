@@ -1,0 +1,18 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2006_007_0271</dcterms:identifier>
+    <dcterms:title>Sons of Coffee and Catherine Graham Dickerson</dcterms:title>
+    <dcterms:description>Sons of Coffee and Catherine Graham Dickerson.                                                                                                                                                                                              Six men formally posed  in front of old home, sons of Coffee and Catherine Dickerson: Julius b.1858, Cornelius b.1860, Moses b.1870, Peter b.1872 Walter b.1875, Posey G. b.1878</dcterms:description>
+    <dcterms:medium>photographs</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Paul Kitchen</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/9108352c</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_PHO/tiles/fchs_2006_007_0271-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-11T15:32:27.962Z</dcterms:date>
+</mdRecord>

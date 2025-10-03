@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>bhsst001051</dcterms:identifier>
+    <dcterms:title>Traces in the Sand: Pow Wow, Vol. 71, 2001</dcterms:title>
+    <dcterms:description>Yearbook of Blacksburg High School in 2001.</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:subject>Genealogy</dcterms:subject>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:spatial>Blacksburg, Montgomery, Virginia, United States</dcterms:spatial>
+    <dcterms:medium>school yearbooks</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/xr78cf6m</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/swva/BHS/tiles/bhsst001051-1/full/192,/0/default.jpg</edm:preview>
+    <dcterms:date>2022-05-11T20:31:56.395Z</dcterms:date>
+</mdRecord>

@@ -1,0 +1,19 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2006_027_002</dcterms:identifier>
+    <dcterms:title>Ornamental Candlesticks - Circa 1869</dcterms:title>
+    <dcterms:description>A pair of ornamental candlesticks circa 1868 originally owned by Elizabeth Law Spear, mother of Mrs. R. Gamble See</dcterms:description>
+    <dcterms:subject>Candlesticks</dcterms:subject>
+    <dcterms:medium>candlesticks</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/?language=en</dcterms:rights>
+    <dcterms:provenance>R. Devereaux Jarratt</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/c2430b2j</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_OBJ/tiles/fchs_2006_027_002-1/full/231,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-10T13:00:17.703Z</dcterms:date>
+</mdRecord>

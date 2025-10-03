@@ -1,0 +1,26 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2018_005_240</dcterms:identifier>
+    <dcterms:title>Kelley Family Cemeteries</dcterms:title>
+    <dcterms:description>There are two Kelley Cemeteries located on adjacent farms on Kelleys Drive SE, which is off Franklin Pike just beyond the Blue Ridge Parkway on the right. Both are visible using Google Earth.
+
+Kelley Family Cemetery (aka: Kelley-Peters) GPS
+N 36 57.745 W 80 9.363
+
+Kelley Cemetery #2 GPS
+N 36 57.591 W 80 9.320</dcterms:description>
+    <dcterms:subject>Lists</dcterms:subject>
+    <dcterms:subject>Cemeteries</dcterms:subject>
+    <dcterms:medium>lists</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Starkey, Genevieve C.</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/fs306p2c</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2018_005_240-1/full/192,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:33:21.577Z</dcterms:date>
+</mdRecord>

@@ -1,0 +1,20 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2006_037_001</dcterms:identifier>
+    <dcterms:title>Welby 31 Day Front Wind Chime Clock</dcterms:title>
+    <dcterms:description>Welby 31 Day Front Wind Chime Clock Model No. 238 purchased on May 15, 1978 at the Best Products, Co. in Roanoke, VA</dcterms:description>
+    <dcterms:subject>Clocks and watches</dcterms:subject>
+    <dcterms:subject>Wall clocks</dcterms:subject>
+    <dcterms:medium>wall clocks</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/?language=en</dcterms:rights>
+    <dcterms:provenance>Directors, Board of, Floyd County Historical Preservation Trust</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/hn797p3f</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_OBJ/tiles/fchs_2006_037_001-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-10T13:00:18.522Z</dcterms:date>
+</mdRecord>

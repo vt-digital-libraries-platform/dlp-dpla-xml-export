@@ -8,7 +8,7 @@ dplava.xsd">
     <dcterms:identifier>BTR_BTR_000229</dcterms:identifier>
     <dcterms:title>1987 Season</dcterms:title>
     <dcterms:description>Poster for the 1987 Barter Theatre season, April-Oct. Productions include: My Fat Friend | Beyond the Fringe | See How they Run | Augus Does his Bit | Village Wooing | Children | Oh Coward! | Pump Boys and Dinettes | Evening of One Acts | Rainmaker | A Comedy.</dcterms:description>
-    <dcterms:language>en</dcterms:language>
+    <dcterms:language>eng</dcterms:language>
     <dcterms:contributor>Barter Theatre (Organization : Abingdon, Va.)</dcterms:contributor>
     <dcterms:subject>Theater</dcterms:subject>
     <dcterms:subject> Virginia</dcterms:subject>
@@ -18,6 +18,8 @@ dplava.xsd">
     <dcterms:format>image/jpeg</dcterms:format>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:rights>The original object is the property of the Barter Theatre in Abingdon, VA (https://www.bartertheatre.com/). This digital surrogate is made publicly available by the Barter Theatre for use in research, teaching, private study, and other educational purposes. Responsibility for any use of these materials rests exclusively with the user. When using this item, users should give proper credit to the owner of the original object as well as to Virginia Tech Libraries.</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/6t334m1k</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/swva/BTR/tiles/BTR_BTR_000229-1/full/188,/0/default.jpg</edm:preview>
+    <dcterms:date>2023-02-21T15:42:37.445Z</dcterms:date>
 </mdRecord>

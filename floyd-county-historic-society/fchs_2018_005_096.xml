@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2018_005_096</dcterms:identifier>
+    <dcterms:title>Unnamed Cemetery on Chantilly Farm, Little River Dist.</dcterms:title>
+    <dcterms:description>The location is now part of Chantilly Farm RV park. The cemetery is located next to the RV park office/store at the corner of Blue Grass Trail and Chantilly Loop Dr. The site is now maintained by Chantilly Farm. There are three gravestones lying on the ground Only one has a few letters still visible. More research is need to determine who is buried there.
+N 36 56.093'
+W 80 13.626'</dcterms:description>
+    <dcterms:subject>Lists</dcterms:subject>
+    <dcterms:subject>Cemeteries</dcterms:subject>
+    <dcterms:medium>lists</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Starkey, Genevieve C.</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/7z14sm34</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2018_005_096-1/full/194,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:31:37.939Z</dcterms:date>
+</mdRecord>

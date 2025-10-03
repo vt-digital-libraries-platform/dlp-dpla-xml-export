@@ -1,0 +1,19 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_1950_001_032</dcterms:identifier>
+    <dcterms:title>50th reunion Celebration of Floyd High School</dcterms:title>
+    <dcterms:description>A booklet for the 50th reunion Celebration on June 20th, 1992 of Floyd High School classmates of 1939 - 1942. The booklet includes the schedule of events, photographs, stories, and statistics covering the school years 1939 through 1942.</dcterms:description>
+    <dcterms:subject>School reunions</dcterms:subject>
+    <dcterms:medium>booklets</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Donor, Unknown</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/r303w264</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_1950_001_032-1/full/182,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:02:38.914Z</dcterms:date>
+</mdRecord>

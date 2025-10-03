@@ -1,0 +1,23 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>DH80_1211</dcterms:identifier>
+    <dcterms:title>Spike &amp; Spine from Pickelhaube</dcterms:title>
+    <dcterms:description>The M1895 (M1896 for Bavarian model) Pickelhaube was used when the war broke out. It was a black lacquered leather helmet with a heavily rounded front visor and a less rounded rear visor. The rear spine was equipped with an air vent fitted with a small sliding cover. The spine had 5 ventilation holes in the base. Here only the spike, without the base, was found.</dcterms:description>
+    <dcterms:description>Nationality: German</dcterms:description>
+    <dcterms:subject>Germans</dcterms:subject>
+    <dcterms:subject>Bavarians</dcterms:subject>
+    <dcterms:type>Still Image</dcterms:type>
+    <dcterms:medium>pickelhaubes</dcterms:medium>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:format>Metal, Brass (material)</dcterms:format>
+    <dcterms:format>model/glb</dcterms:format>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/45e55746</edm:isShownAt>
+    <edm:preview>https://d4qp6z580yvb5.cloudfront.net/federated/DH80/tiles/DH80_1211-1/full/189,/0/default.jpg</edm:preview>
+    <dcterms:date>2025-09-16T20:47:36.595Z</dcterms:date>
+</mdRecord>

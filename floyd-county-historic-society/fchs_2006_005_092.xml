@@ -1,0 +1,21 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2006_005_092</dcterms:identifier>
+    <dcterms:title>War Time Correspondence from Martin H. Holt at Chamborozo Hospital</dcterms:title>
+    <dcterms:description>War time correspondence, January 5, 1862, from Martin H. Holt at Chamborozo Hospital, Richmond, Va. Subject: Mr. Holt’s health. Also states that Sergeant Stigleman is very sick with mumps and is asking for money. 1 original piece.</dcterms:description>
+    <dcterms:subject>Soldiers</dcterms:subject>
+    <dcterms:subject>United States</dcterms:subject>
+    <dcterms:subject>Correspondence</dcterms:subject>
+    <dcterms:medium>correspondence</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Dr.C.M. Stigleman Collection CG 0004</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/jv57sn57</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2006_005_092-1/full/216,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:29:30.363Z</dcterms:date>
+</mdRecord>

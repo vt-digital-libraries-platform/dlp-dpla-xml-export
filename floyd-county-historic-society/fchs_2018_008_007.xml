@@ -1,0 +1,21 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2018_008_007</dcterms:identifier>
+    <dcterms:title>FFA Agriculture Jacket</dcterms:title>
+    <dcterms:description>This jacket was worn by Robert S. Brown. It is circa 1954, the year Mr. Brown graduated from Check High School.</dcterms:description>
+    <dcterms:subject>Future Farmers of America</dcterms:subject>
+    <dcterms:subject>Clothing and dress</dcterms:subject>
+    <dcterms:subject>Jackets</dcterms:subject>
+    <dcterms:medium>jackets (short coats)</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/?language=en</dcterms:rights>
+    <dcterms:provenance>Brown Sr., Robert S.</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/zs52hc7d</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_OBJ/tiles/fchs_2018_008_007-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-10T13:00:55.682Z</dcterms:date>
+</mdRecord>

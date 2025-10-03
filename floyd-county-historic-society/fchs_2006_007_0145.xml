@@ -1,0 +1,24 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2006_007_0145</dcterms:identifier>
+    <dcterms:title>Floyd High School 1925 Graduating Class</dcterms:title>
+    <dcterms:description>1925 Floyd High School graduating class. People in the photograph include: 
+Row 1: Marie Williams, Anna Agnew, Leonard Williams Principal, Virginia Tise, Blanche Hungate
+Row 2: Sarah Phlegar, Sarah Agnew, John Newton Phlegar, Ella Poff, Eva Epperly
+Row 3: Henry DeHart, Zellwood Sweeney, Curtis Sumpter, Marie Howery, Lane Simmo</dcterms:description>
+    <dcterms:subject>Students</dcterms:subject>
+    <dcterms:subject>Schools</dcterms:subject>
+    <dcterms:subject>High school graduates</dcterms:subject>
+    <dcterms:medium>photographs</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Paul Kitchen</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/p484b310</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_PHO/tiles/fchs_2006_007_0145-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-11T15:31:38.189Z</dcterms:date>
+</mdRecord>
