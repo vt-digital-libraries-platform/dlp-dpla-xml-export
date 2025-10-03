@@ -1,0 +1,18 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2011_049_005</dcterms:identifier>
+    <dcterms:title>Thompson Family Portrait</dcterms:title>
+    <dcterms:description>A portrait of the William Wade Thompson family. Wife, Rosa Belle (Aunt Bell) Dickerson; sons Amos, Grover, and Davis</dcterms:description>
+    <dcterms:medium>photographs</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Wilkerson, Paula Kaye</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/p8531w24</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_PHO/tiles/fchs_2011_049_005-1/full/159,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-11T15:36:25.706Z</dcterms:date>
+</mdRecord>

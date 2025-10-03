@@ -1,0 +1,25 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2020_016_061</dcterms:identifier>
+    <dcterms:title>Letter from Jennie Howard to Dr. Thomas Henry Howard Dated March 11, 1869</dcterms:title>
+    <dcterms:description>A letter from Jennie Howard, dated March 11, 1869, in which she writes to her brother in law Dr. T. H. Howard residing in Floyd County, VA. She responds with gladness that Dr. Howard has said in his previous letter he has notions of moving to Georgia. Jennie shares her suspicion that Henry has found a lady in Rome, Georgia, and says, "I think you might have told me." She goes on to share how much various family members enjoyed seeing him during his recent visit, and other general family news.</dcterms:description>
+    <dcterms:subject>Courtship</dcterms:subject>
+    <dcterms:subject>Crops</dcterms:subject>
+    <dcterms:subject>Doctors</dcterms:subject>
+    <dcterms:subject>Family</dcterms:subject>
+    <dcterms:subject>Farm crops</dcterms:subject>
+    <dcterms:subject>Farming</dcterms:subject>
+    <dcterms:subject>Marriage</dcterms:subject>
+    <dcterms:medium>correspondence</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Miller, Gretchen</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/6414zb3x</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2020_016_061-1/full/199,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:34:02.217Z</dcterms:date>
+</mdRecord>

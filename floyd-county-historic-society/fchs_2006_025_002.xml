@@ -1,0 +1,19 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2006_025_002</dcterms:identifier>
+    <dcterms:title>Barrel Groover</dcterms:title>
+    <dcterms:description>A wooden barrel grooving tool.</dcterms:description>
+    <dcterms:subject>Wood-cutting tools</dcterms:subject>
+    <dcterms:medium>physical object</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Linda Jo Sheahan CG 0005</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/4b96rf1m</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2006_025_002-1/full/209,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:30:00.605Z</dcterms:date>
+</mdRecord>

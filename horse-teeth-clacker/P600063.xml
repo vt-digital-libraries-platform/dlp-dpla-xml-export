@@ -1,0 +1,27 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>P600063</dcterms:identifier>
+    <dcterms:title>Horse teeth clacker P600063</dcterms:title>
+    <dcterms:description>We estimate age by examining the lower incisor teeth, as they are easily visible when the mouth is opened. In this specimen, the central permanent incisors are present, indicated by their shape, size and the central groove on their labial surface, which typically erupt at around 2.5 years of age. The remaining incisors are still deciduous. Notably, there is some wear on the occlusal surface, suggesting an additional six months should be added. Also, observe that the occlusal surface appears oval in the horizontal plane—an indicator of a young animal.
+
+Based on this information, estimate the age of this specimen. 
+
+You can compare this young horse teeth to other aged ones.</dcterms:description>
+    <dcterms:contributor>Virginia-Maryland College of Veterinary Medicine</dcterms:contributor>
+    <dcterms:subject>Horses--Aging</dcterms:subject>
+    <dcterms:subject>Horses--Age determination</dcterms:subject>
+    <dcterms:type>Three Dimensional Object</dcterms:type>
+    <dcterms:medium>biospecimens</dcterms:medium>
+    <dcterms:format>model/glb</dcterms:format>
+    <dcterms:format>model/gltf</dcterms:format>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/74f0056c</edm:isShownAt>
+    <edm:preview>https://d4qp6z580yvb5.cloudfront.net/federated/CVM_DENT/P600063/3D/GLB/P600063_thumbnail2.jpg</edm:preview>
+    <dcterms:creator>Ms Pam Arnold (preparator)</dcterms:creator>
+    <dcterms:date>2025-08-28T13:29:07.358Z</dcterms:date>
+</mdRecord>

@@ -1,0 +1,16 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>VTEC000006128</dcterms:identifier>
+    <dcterms:title>VTEC000006128</dcterms:title>
+    <dcterms:type>three dimensional object</dcterms:type>
+    <dcterms:format>model/x3d</dcterms:format>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/2556bp7d</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/vtec/VTEC000006128/3d/HighRes_VTEC000006128_thumbnail.png</edm:preview>
+    <dcterms:date>2024-10-28T14:01:36.744Z</dcterms:date>
+</mdRecord>

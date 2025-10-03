@@ -1,0 +1,23 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2018_005_122</dcterms:identifier>
+    <dcterms:title>Weeks Cemetery</dcterms:title>
+    <dcterms:description>This cemetery is located in Montgomery County not far from the Floyd County line, It is just east of Pilot on High Rock Rd. Floyd County. (McDaniel's Mill Road, Montgomery County), just beyond Sunflower Rd. on the right. It is visible from High Rock Road.
+
+N 37 03.445'
+W080 20.750'</dcterms:description>
+    <dcterms:subject>Lists</dcterms:subject>
+    <dcterms:subject>Cemeteries</dcterms:subject>
+    <dcterms:medium>lists</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Starkey, Genevieve C.</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/3p86s803</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2018_005_122-1/full/197,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:31:57.658Z</dcterms:date>
+</mdRecord>

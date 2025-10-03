@@ -1,0 +1,28 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2020_014_001</dcterms:identifier>
+    <dcterms:title>Sears "Minnesota" Sewing Machine</dcterms:title>
+    <dcterms:description>A vintage sewing Machine belonging to Cordelia Weddle Harman.
+The sewing machine belonged to Hilda's grandmother, Cordelia Weddle Harman.
+Cordelia was born on January 21, 1879, to Samuel &amp; Catherine Harman Weddle.
+She died February 28, 1970. She had eleven brothers and sisters (Levi, Austin, Mordecai, Virginia, Attie, Aaron Garfield, Albert Ellis, Lissa, Uriah, Delilah, and Inez.
+Cordelia married Martin L. Harman on March 8, 1900. They had eleven children. Arlie, Annie, Charlie, Otho, Burnett, Mary Lee, Nancy, Harry, Ruth, and Melvin Fred (Hilda's father).
+Cordelia was a descendent of Benjamin Weddle who was born in Pennsylvania a few months after his parents arrived from Germany in 1742.
+Benjamin (1742) - Andrew (1787) - Levi (1819) - Samuel (1845) - Cordelia (1879) - Melvin Fred (1919)- Hilda (1956)</dcterms:description>
+    <dcterms:subject>Machine sewing</dcterms:subject>
+    <dcterms:subject>Sewing machines</dcterms:subject>
+    <dcterms:subject>Sewing</dcterms:subject>
+    <dcterms:subject>Sewing--Equipment and supplies</dcterms:subject>
+    <dcterms:medium>sewing machines (equipment)</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/?language=en</dcterms:rights>
+    <dcterms:provenance>Dickerson (Harman), Hilda</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/0g348c76</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_OBJ/tiles/fchs_2020_014_001-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-10T13:02:27.070Z</dcterms:date>
+</mdRecord>

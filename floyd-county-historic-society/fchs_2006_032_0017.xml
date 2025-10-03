@@ -1,0 +1,23 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2006_032_0017</dcterms:identifier>
+    <dcterms:title>Epperly / Hatcher Family Group</dcterms:title>
+    <dcterms:description>The Epperly/Hatcher Family Group outside a house. People included in the photograph are as follows:
+Epperly: Mr. &amp; Mrs.William Epperly (center standing),
+Mr. &amp; Mrs. William (Bill) Hatcher (bottom left),
+Mr. &amp; Mrs. Henry Hatcher (bottom far right),
+Addie, Emma, and Ocie Hatcher (second row far left to r.)</dcterms:description>
+    <dcterms:subject>Hatcher, William E. (William Eldridge), 1834-1912</dcterms:subject>
+    <dcterms:medium>photographs</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Marguerite Tise</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/ks197h24</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_PHO/tiles/fchs_2006_032_0017-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-11T15:35:38.681Z</dcterms:date>
+</mdRecord>

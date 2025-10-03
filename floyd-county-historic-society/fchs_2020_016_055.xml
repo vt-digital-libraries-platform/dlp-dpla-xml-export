@@ -1,0 +1,24 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2020_016_055</dcterms:identifier>
+    <dcterms:title>Letter from Jennie Howard to Dr. Thomas Henry Howard Written on August 8th, 1868</dcterms:title>
+    <dcterms:description>A personal letter from Jennie Howard to her brother in law Dr. Thomas Henry Howard, written on August 8th, 1868. She explains her delay in writing due to being very busy, saying, "No one but those that have experienced it can realize the endless items that keep a woman's mind and hands engaged, when she is the only moving power. The time was when we had only to issue our orders, and they would be carried out, but that day is past and gone, and we can only grin and endure, (but enough of this.)</dcterms:description>
+    <dcterms:subject>Doctors</dcterms:subject>
+    <dcterms:subject>Family</dcterms:subject>
+    <dcterms:subject>Farm crops</dcterms:subject>
+    <dcterms:subject>Farming</dcterms:subject>
+    <dcterms:subject>Labor</dcterms:subject>
+    <dcterms:subject>People associated with manual labor</dcterms:subject>
+    <dcterms:medium>correspondence</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Miller, Gretchen</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/0090z345</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2020_016_055-1/full/197,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:33:58.356Z</dcterms:date>
+</mdRecord>

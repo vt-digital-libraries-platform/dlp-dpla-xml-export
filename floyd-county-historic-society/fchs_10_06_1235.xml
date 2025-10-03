@@ -1,0 +1,19 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_10_06_1235</dcterms:identifier>
+    <dcterms:title>FHS 1927 Girls Basketball Team</dcterms:title>
+    <dcterms:description>1235_FHS 1927 Girls Basketball Team ID; Catherine Morgan, Mildred Robertson, Lillian DeHart, Bill (Wilma) Weeks, Dotte Slusher, Elizabeth Williams</dcterms:description>
+    <dcterms:subject>Basketball teams</dcterms:subject>
+    <dcterms:medium>photographs</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Multiple</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/3d684k24</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_PHO/tiles/fchs_10_06_1235-1/full/126,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-11T15:30:07.946Z</dcterms:date>
+</mdRecord>

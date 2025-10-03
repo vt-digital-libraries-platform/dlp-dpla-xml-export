@@ -1,0 +1,26 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2019_009_001</dcterms:identifier>
+    <dcterms:title>Daughters United Confederacy</dcterms:title>
+    <dcterms:description>A Civil War era medal presented by the "United Daughters Confederacy. To the U.C.V.
+Awarded to Ashury Bishop Williams, 1st Lieutenant - Company I, 4th Virginia Regiment.
+Born January 6, 1847.
+Enlisted in Confederate Army in the Spring of 1864 at 17 years of age.
+Battle of Saltville?
+Discharged in April 1865.</dcterms:description>
+    <dcterms:subject>United States--History--Civil War, 1861-1865</dcterms:subject>
+    <dcterms:subject>Awards</dcterms:subject>
+    <dcterms:subject>Medals</dcterms:subject>
+    <dcterms:medium>commemorative medals</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/?language=en</dcterms:rights>
+    <dcterms:provenance>Daiber, Rhonda</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/b949jz7x</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_OBJ/tiles/fchs_2019_009_001-1/full/248,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-10T13:00:58.279Z</dcterms:date>
+</mdRecord>

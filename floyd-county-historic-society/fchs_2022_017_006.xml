@@ -1,0 +1,20 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2022_017_006</dcterms:identifier>
+    <dcterms:title>Announcing the Opening of the Farmers' Supply 1910</dcterms:title>
+    <dcterms:description>A photocopy of a newspaper clipping from The Floyd Press dated May 26, 1910 that announced the opening of the Farmers' Supply Store on June 1st, 1910. G.W. Ratliff, Manager</dcterms:description>
+    <dcterms:subject>Farm equipment</dcterms:subject>
+    <dcterms:subject>Retail stores</dcterms:subject>
+    <dcterms:medium>newspaper clippings</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Martinez, Elaine</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/80890n85</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2022_017_006-1/full/147,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:36:21.799Z</dcterms:date>
+</mdRecord>

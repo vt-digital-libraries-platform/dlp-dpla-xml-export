@@ -1,0 +1,23 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>bhsst001029</dcterms:identifier>
+    <dcterms:title>Pow Wow, Vol. 49, 1979</dcterms:title>
+    <dcterms:description>Yearbook of Blacksburg High School in 1979.</dcterms:description>
+    <dcterms:description>Partial of page 183 and 186 are missing.</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:subject>Genealogy</dcterms:subject>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:spatial>Blacksburg, Montgomery, Virginia, United States</dcterms:spatial>
+    <dcterms:medium>school yearbooks</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/7s514w88</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/swva/BHS/tiles/bhsst001029-1/full/192,/0/default.jpg</edm:preview>
+    <dcterms:date>2022-11-10T15:40:01.428Z</dcterms:date>
+</mdRecord>

@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>P600080</dcterms:identifier>
+    <dcterms:title>Horse teeth clacker P600080</dcterms:title>
+    <dcterms:description>All the incisors are permanent and exhibit a distinct central groove on the labial surface. Canine teeth are present and show evidence of wear. These features collectively indicate that the specimen is over 5 years old. The cups on all lower incisors are absent, with no visible enamel spots, leaving only dental stars present at the center of the incisor tables. When only a rounded dental star is present in the lower central incisor is indicative of about 15-18 years old. The incisor tables are oval-shaped in the labiolingual (rostrocaudal) direction. The upper corner incisor (UCI) is taller than it is wide and displays Galvayne’s groove along its length. Based on these characteristics, the estimated age of this horse is approximately 20 - 25 years.</dcterms:description>
+    <dcterms:contributor>Virginia-Maryland College of Veterinary Medicine</dcterms:contributor>
+    <dcterms:subject>Horses--Aging</dcterms:subject>
+    <dcterms:subject>Horses--Age determination</dcterms:subject>
+    <dcterms:type>Three Dimensional Object</dcterms:type>
+    <dcterms:medium>biospecimens</dcterms:medium>
+    <dcterms:format>model/gltf</dcterms:format>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/d5905366</edm:isShownAt>
+    <edm:preview>https://d4qp6z580yvb5.cloudfront.net/federated/CVM_DENT/P600080/3D/GLB/P600080_thumbnail.jpg</edm:preview>
+    <dcterms:creator>Ms Pam Arnold (preparator)</dcterms:creator>
+    <dcterms:date>2025-09-19T15:37:06.590Z</dcterms:date>
+</mdRecord>

@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>DH80_1975</dcterms:identifier>
+    <dcterms:title>Toothbrush</dcterms:title>
+    <dcterms:description>Each of the nearly 7 million British men who served during WWI were issued a toothbrush as part of their standard gear. Wartime use saw a huge increase in teeth-brushing post-war.</dcterms:description>
+    <dcterms:description>Nationality: British</dcterms:description>
+    <dcterms:subject>British</dcterms:subject>
+    <dcterms:type>Still Image</dcterms:type>
+    <dcterms:medium>toothbrushes</dcterms:medium>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:format>bone (material)</dcterms:format>
+    <dcterms:format>model/glb</dcterms:format>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/a8283d46</edm:isShownAt>
+    <edm:preview>https://d4qp6z580yvb5.cloudfront.net/federated/DH80/tiles/DH80_1975-1/full/189,/0/default.jpg</edm:preview>
+    <dcterms:date>2025-09-16T20:47:36.223Z</dcterms:date>
+</mdRecord>

@@ -1,0 +1,20 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2020_016_002</dcterms:identifier>
+    <dcterms:title>Red Plaid Child's Dress</dcterms:title>
+    <dcterms:description>Child's red and green plaid dress circa 1830 - fabric shows signs of wear and is shredding in some places with several holes possibly from iron burns</dcterms:description>
+    <dcterms:subject>Clothing and dress</dcterms:subject>
+    <dcterms:subject>Children's clothing</dcterms:subject>
+    <dcterms:medium>dresses (garments)</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/?language=en</dcterms:rights>
+    <dcterms:provenance>Miller, Gretchen</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/qf13h64f</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_OBJ/tiles/fchs_2020_016_002-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-10T13:02:29.448Z</dcterms:date>
+</mdRecord>

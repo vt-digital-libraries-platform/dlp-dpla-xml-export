@@ -1,0 +1,31 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2006_032_0016</dcterms:identifier>
+    <dcterms:title>Sowers Reunion and Capt. Bill Sowers 60th Wedding Anniversary</dcterms:title>
+    <dcterms:description>The Sowers Reunion and Capt. Bill Sowers 60th Wedding Anniversary in 1927. The people included in the photograph are as follows:                                                                                                                                                                                                              Standing left: Capt. Bill Sowers
+Rosa Sowers (wife)
+Johnnie Cronk(F)
+Chris Epperly (behind)
+Johnson Agnew
+Bird Bishop
+Ratliff
+Mallie Whitlock.
+Rear right: Payton Williams?,
+Rev. See, 
+Claude Williams
+Hestle Sowers
+G</dcterms:description>
+    <dcterms:subject>Wedding anniversaries</dcterms:subject>
+    <dcterms:medium>photographs</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Marguerite Tise</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/5r53dz51</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_PHO/tiles/fchs_2006_032_0016-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-11T15:35:38.183Z</dcterms:date>
+</mdRecord>

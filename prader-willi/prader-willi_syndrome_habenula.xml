@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>prader-willi_syndrome_habenula</dcterms:identifier>
+    <dcterms:title>Co-expression of Nhlh2 mRNA and Snhg14 long non-coding RNA in the Habenula</dcterms:title>
+    <dcterms:description>The habenula is thought to play a role in various physiological and behavioral processes, including regulation of eating patterns. Studies have suggested that the habenula is involved in reward processing, motivation, and decision-making, which are all factors that can influence eating patterns.</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:contributor>Dr. Deborah Good</dcterms:contributor>
+    <dcterms:contributor>Dr. Christopher K.Thompson</dcterms:contributor>
+    <dcterms:contributor>Dr. Stu Tobet</dcterms:contributor>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:rights>https://rightsstatements.org/page/InC-NC/1.0/?language=en</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/40948aba</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/images/pws/habenula/habenula_thumb.png</edm:preview>
+    <dcterms:creator>Shadi Ariyanfar</dcterms:creator>
+    <dcterms:date>2023-11-29T11:14:43.264Z</dcterms:date>
+</mdRecord>

@@ -1,0 +1,19 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2006_005_023</dcterms:identifier>
+    <dcterms:title>Certificate of Commission to Calohill M. Stigleman</dcterms:title>
+    <dcterms:description>Certificate of commission to Calohill M. Stigleman as Captain in the 130th Regiment of the Twenty-sixth Brigade and Fifth Division of the Virginia Militia 28th day of April, 1860 - signed by Governor of the Commonwealth John Letcher. 1 original piece front and back and 1 photocopy.</dcterms:description>
+    <dcterms:subject>Records and correspondence</dcterms:subject>
+    <dcterms:medium>service records</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Dr.C.M. Stigleman Collection CG 0004</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/2969nj0s</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2006_005_023-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:28:38.619Z</dcterms:date>
+</mdRecord>

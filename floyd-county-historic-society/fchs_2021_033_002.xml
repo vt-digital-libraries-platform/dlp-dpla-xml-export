@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2021_033_002</dcterms:identifier>
+    <dcterms:title>Envelope for Work Contract The Steber Machine Compay</dcterms:title>
+    <dcterms:description>A contract between N. C. Slusher and The Steber Machine Company for making socks. The envelope the contract was mailed in.</dcterms:description>
+    <dcterms:subject>Sewing</dcterms:subject>
+    <dcterms:subject>Sewing machine industry</dcterms:subject>
+    <dcterms:subject>Sewing machines</dcterms:subject>
+    <dcterms:subject>Socks</dcterms:subject>
+    <dcterms:medium>envelopes</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Mason, Cathy</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/3991qc59</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2021_033_002-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:36:15.337Z</dcterms:date>
+</mdRecord>

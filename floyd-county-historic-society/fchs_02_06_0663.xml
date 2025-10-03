@@ -1,0 +1,19 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_02_06_0663</dcterms:identifier>
+    <dcterms:title>Three Mounted Pictures of Scenes of the Presumed Ambush and Shooting of Morris Francis</dcterms:title>
+    <dcterms:description>663_1_Ambush Murder Scene 663_2_AmbushMurderScene 663_3_AmbushMurderScene Written on reverse: 3. "Spot on road where --- Morris Francis was shot"; l. " The stump where man sat to watch for Morris Francis; 2. "the place where man got out (of buggy?).</dcterms:description>
+    <dcterms:subject>Morris, Francis</dcterms:subject>
+    <dcterms:medium>photographs</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Multiple</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/wr39fh37</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_PHO/tiles/fchs_02_06_0663-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-11T15:27:01.627Z</dcterms:date>
+</mdRecord>

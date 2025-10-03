@@ -1,0 +1,29 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2002_001_00994</dcterms:identifier>
+    <dcterms:title>Fiduciary Accounts: Estate of William M. Slaughter</dcterms:title>
+    <dcterms:description>Estate of William M. Slaughter
+Sabra Slaughter, Widow
+J.R. Slaughter, Son
+E.J. Levings, Daughter
+L.E. Matheney, Daughter
+Paris A. Slaughter, Child
+Ozena A. Slaughter, Child
+Henry A. Slaughter, Son
+Gerdie M. Slaughter, Daughter
+Zebrem Keith, Administrator de bonis non
+Recorded in Ledger Book 5, page 114, in the Floyd County Courthouse.</dcterms:description>
+    <dcterms:subject>Court Records</dcterms:subject>
+    <dcterms:medium>record books</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>The Circuit Court of Floyd County</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/bx987h63</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2002_001_00994-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:16:09.634Z</dcterms:date>
+</mdRecord>

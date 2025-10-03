@@ -1,0 +1,19 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2006_005_119</dcterms:identifier>
+    <dcterms:title>Personal Family Correspondence to Mattie Stigleman</dcterms:title>
+    <dcterms:description>Personal family correspondence to Mattie Stigleman, 3rd child of Dr. and Mrs. C. M. Stigleman born 1863. Correspondence dated March 13, 1884, 2 photocopied pages.</dcterms:description>
+    <dcterms:subject>Records and correspondence</dcterms:subject>
+    <dcterms:medium>correspondence</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Dr.C.M. Stigleman Collection CG 0004</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/6b71t03m</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2006_005_119-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:29:50.757Z</dcterms:date>
+</mdRecord>

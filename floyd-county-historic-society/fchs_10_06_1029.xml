@@ -1,0 +1,19 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_10_06_1029</dcterms:identifier>
+    <dcterms:title>Nara McCarthy and Husband; Nara Weddle (McCarthy), Son Daniel, Infant Granddaughter, Daughter-in-Law, Grandchildren Daniel David and Janet Delia; June 28, 1942 Bridgeboro, NJ</dcterms:title>
+    <dcterms:description>1029_McCarthy Family 2; two family photos taken twenty years apart</dcterms:description>
+    <dcterms:subject>McCarthy family</dcterms:subject>
+    <dcterms:medium>photographs</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Multiple</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/xq340m0h</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_PHO/tiles/fchs_10_06_1029-1/full/102,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-11T15:28:32.046Z</dcterms:date>
+</mdRecord>

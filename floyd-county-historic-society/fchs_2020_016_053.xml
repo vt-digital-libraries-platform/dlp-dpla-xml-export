@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2020_016_053</dcterms:identifier>
+    <dcterms:title>Letter from Jennie Howard to Dr. Thomas H. Howard Written on May 22nd, 1868</dcterms:title>
+    <dcterms:description>A letter from Jennie Howard to her brother in law Dr. Thomas Henry Howard, written on May 22nd, 1868. She shares general updates about family members and local happenings. Jennie writes, "We are now luxuriating in green peas, beans, Irish potatoes, beets, and strawberries." She thanks Henry for sending the cabbage seed that she had asked for, and says it is coming up nicely. She also encloses a note that reads, "Lillie's first letter to her Uncle Henry." It is an exuberant scribble in pencil, done by Jennie Howard's daughter who is under 5 years old.</dcterms:description>
+    <dcterms:subject>Doctors</dcterms:subject>
+    <dcterms:subject>Family</dcterms:subject>
+    <dcterms:subject>Farm crops</dcterms:subject>
+    <dcterms:subject>Farming</dcterms:subject>
+    <dcterms:medium>correspondence</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Miller, Gretchen</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/qw32ck6n</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2020_016_053-1/full/200,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:33:52.078Z</dcterms:date>
+</mdRecord>

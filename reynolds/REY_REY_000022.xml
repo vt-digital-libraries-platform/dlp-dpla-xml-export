@@ -1,0 +1,23 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>REY_REY_000022</dcterms:identifier>
+    <dcterms:title>Hardin William Reynolds Account Book</dcterms:title>
+    <dcterms:description>Account Book for Hardin William Reynolds' general store which operated at Rock Spring Plantation documents customer purchases, including purchases made by R.J. Reynolds. Notably, African American patrons of the store are identifiable by the use of the term "Colored" adjacent to the names on the accounts. Some of the names represent former enslaved individials who remained near Rock Spring Plantation after the Civil War. This account book is part of PC.194.03.</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:subject>Migration, Internal</dcterms:subject>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:medium>account books</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>The Reynolds Family Papers were initially gifted to Wake Forest University by Nancy Susan Reynolds on 15 May 1976 and 22 February 1982. Other items were received by Wake Forest University as transfers from Reynolda House, Inc., on 13 August 1976, 30 November 1976, 15 June 1978, 6 October 1980, 28 October 1980, and 26 January 1981. In 1993, when Reynolda House Museum of American Art established its archives, the collection was transferred to the RHMAA Archives. Additionally, other items in the collection have been gifted or purchased directly to Reynolda House Museum of American Art with various accession dates.</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/g526ph4s</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/swva/REY_HMAA/tiles/REY_REY_000022-1/full/167,/0/default.jpg</edm:preview>
+    <dcterms:creator>Reynolds, Hardin (author)</dcterms:creator>
+    <dcterms:date>2022-12-02T15:14:01.832Z</dcterms:date>
+</mdRecord>

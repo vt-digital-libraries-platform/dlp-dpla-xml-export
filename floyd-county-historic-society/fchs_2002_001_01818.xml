@@ -1,0 +1,27 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2002_001_01818</dcterms:identifier>
+    <dcterms:title>Criminal Warrants, Justice of the Peace: Commonwealth vs William Bowers</dcterms:title>
+    <dcterms:description>Commonwealth vs William Bowers
+Offense: Assault and Battery
+Victim and Complainant:
+Recorded in Floyd County Courthouse 06.22.1887
+Guilty
+Cost: $4.76, Fine $5.00
+This is a payment received on previous charge
+Satisfied in full 07.12.1887</dcterms:description>
+    <dcterms:subject>Court Records</dcterms:subject>
+    <dcterms:subject>Warrants (Law)</dcterms:subject>
+    <dcterms:medium>record books</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>The Circuit Court of Floyd County</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/5w19b758</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2002_001_01818-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:26:27.617Z</dcterms:date>
+</mdRecord>

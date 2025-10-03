@@ -1,0 +1,20 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_10_06_1168</dcterms:identifier>
+    <dcterms:title>Unknown Couple, Herman and Jessie Heafner Card, Jessie in Mother's Wedding Dress</dcterms:title>
+    <dcterms:description>1168_Heafner DAR Costumes 3; Three similar snapshots: unknown costumed couple at DAR convention, Herman and Jessie Heafner 1976 Bicentenial in period dress, Jessie in mother's wedding dress for 1991 DAR Norfolk Convention in yard of Oxford St. home</dcterms:description>
+    <dcterms:subject>Daughters of the American Revolution</dcterms:subject>
+    <dcterms:subject>Bicentennial Celebration (U.S. : 1976)</dcterms:subject>
+    <dcterms:medium>color photographs</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Multiple</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/rg42xg3z</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_PHO/tiles/fchs_10_06_1168-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-11T15:29:33.501Z</dcterms:date>
+</mdRecord>

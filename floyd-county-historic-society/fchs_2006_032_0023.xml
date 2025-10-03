@@ -1,0 +1,20 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2006_032_0023</dcterms:identifier>
+    <dcterms:title>Sarah Surface Phlegar, 2nd Wife of Benjamin Phlegar</dcterms:title>
+    <dcterms:description>Portrait photograph of Sarah Surface Phlegar, 2nd wife of Benjamin Phlegar.</dcterms:description>
+    <dcterms:subject>Portraits</dcterms:subject>
+    <dcterms:subject>Portrait photography</dcterms:subject>
+    <dcterms:medium>photographs</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Marguerite Tise</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/pz97zg4c</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_PHO/tiles/fchs_2006_032_0023-1/full/179,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-11T15:35:40.583Z</dcterms:date>
+</mdRecord>

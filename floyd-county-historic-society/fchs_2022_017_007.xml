@@ -1,0 +1,21 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2022_017_007</dcterms:identifier>
+    <dcterms:title>The End of a Perfect Day</dcterms:title>
+    <dcterms:description>A photocopy of a newspaper clipping - "The End of a Perfect Day" - An advertisement for a Fordson Tractor placed in the Floyd Press on December 1, 1921 by Farmers' Supply Co. of Floyd Virginia</dcterms:description>
+    <dcterms:subject>Farm equipment</dcterms:subject>
+    <dcterms:subject>Retail stores</dcterms:subject>
+    <dcterms:subject>Tractors</dcterms:subject>
+    <dcterms:medium>newspaper clippings</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Martinez, Elaine</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/fm81w64m</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2022_017_007-1/full/179,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:36:22.484Z</dcterms:date>
+</mdRecord>

@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>P600070</dcterms:identifier>
+    <dcterms:title>Horse teeth clacker P600070</dcterms:title>
+    <dcterms:description>All the incisors are permanent and exhibit a distinct central groove on the labial surface. Canine teeth are present and show evidence of wear. These features collectively indicate that the specimen is over 5 years old. The cups on all lower incisors are absent, with visible enamel spots and dental stars. The incisor tables of the central incisors are triangular (a feature of 10 to 15 years). The upper corner incisor (UCI) is taller than it is wide and displays Galvayne’s groove extending from the gum line but does not reach to the middle of the tooth. Based on these characteristics, the estimated age of this horse is approximately 12 years.</dcterms:description>
+    <dcterms:contributor>Virginia-Maryland College of Veterinary Medicine</dcterms:contributor>
+    <dcterms:subject>Horses--Aging</dcterms:subject>
+    <dcterms:subject>Horses--Age determination</dcterms:subject>
+    <dcterms:type>Three Dimensional Object</dcterms:type>
+    <dcterms:medium>biospecimens</dcterms:medium>
+    <dcterms:format>model/gltf</dcterms:format>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/400b85b7</edm:isShownAt>
+    <edm:preview>https://d4qp6z580yvb5.cloudfront.net/federated/CVM_DENT/P600070/3D/GLB/P600070_thumbnail.jpg</edm:preview>
+    <dcterms:creator>Ms Pam Arnold (preparator)</dcterms:creator>
+    <dcterms:date>2025-09-19T15:37:06.036Z</dcterms:date>
+</mdRecord>

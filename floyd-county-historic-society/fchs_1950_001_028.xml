@@ -1,0 +1,20 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_1950_001_028</dcterms:identifier>
+    <dcterms:title>Singing School of Topeco Church of the Brethren</dcterms:title>
+    <dcterms:description>Singing School of Topeco Church of the Brethren (circa 1918 - 1920)
+Mr. Garland Shirley of Dayton, Virginia held two ten-day singing school sesions when he came to the Topeco community. Jacob Alderman was the song leader for Topeco and conducted many singing schools throughout the area.</dcterms:description>
+    <dcterms:subject>Virginia--Dayton</dcterms:subject>
+    <dcterms:medium>photographic prints</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Donor, Unknown</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/xr25752g</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_PHO/tiles/fchs_1950_001_028-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-11T15:30:41.640Z</dcterms:date>
+</mdRecord>

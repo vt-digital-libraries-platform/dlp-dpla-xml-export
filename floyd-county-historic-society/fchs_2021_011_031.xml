@@ -1,0 +1,20 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2021_011_031</dcterms:identifier>
+    <dcterms:title>Hotel Floyd - Floyd, Virginia</dcterms:title>
+    <dcterms:description>A vintage picture postcard depicting the historic Hotel Floyd in Floyd, Virginia. The postcard was published by William Pendelton.</dcterms:description>
+    <dcterms:subject>Postcards</dcterms:subject>
+    <dcterms:subject>Real photo postcards</dcterms:subject>
+    <dcterms:medium>picture postcards</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/?language=en</dcterms:rights>
+    <dcterms:provenance>Monroe, Richard</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/f395b93j</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_OBJ/tiles/fchs_2021_011_031-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-10T13:02:55.807Z</dcterms:date>
+</mdRecord>

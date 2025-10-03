@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>prader-willi_syndrome_pvn</dcterms:identifier>
+    <dcterms:title>Co-expression of Nhlh2 mRNA and Snhg14 long noncoding RNA in the paraventricular nucleus (PVN) of the hypothalamus</dcterms:title>
+    <dcterms:description>The paraventricular nucleus (PVN) of the hypothalamus. PVN is a key area in the control of appetite and contains neurons with the melanocortin-4 receptor (food and body weight regulation), and tyrotropin-releasing hormone (TRH) neurons (regulation of energy homeostasis)</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:contributor>Dr. Deborah Good</dcterms:contributor>
+    <dcterms:contributor>Dr. Christopher K.Thompson</dcterms:contributor>
+    <dcterms:contributor>Dr. Stu Tobet</dcterms:contributor>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:rights>https://rightsstatements.org/page/InC-NC/1.0/?language=en</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/8919df16</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/images/pws/PVN/pvn_thumb.png</edm:preview>
+    <dcterms:creator>Shadi Ariyanfar</dcterms:creator>
+    <dcterms:date>2023-11-29T11:14:43.264Z</dcterms:date>
+</mdRecord>

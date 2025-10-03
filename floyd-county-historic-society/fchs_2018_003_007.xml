@@ -1,0 +1,20 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2018_003_007</dcterms:identifier>
+    <dcterms:title>Genealogy Information</dcterms:title>
+    <dcterms:description>Information on the Keith and Reed families, photocopy of original. No information on the title of the original work.</dcterms:description>
+    <dcterms:subject>Keith family</dcterms:subject>
+    <dcterms:subject>Reed family</dcterms:subject>
+    <dcterms:medium>photocopies</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Heafner, Ruth</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/0g273g58</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_PHO/tiles/fchs_2018_003_007-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-11T15:37:01.061Z</dcterms:date>
+</mdRecord>

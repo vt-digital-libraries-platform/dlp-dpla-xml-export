@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2020_016_054</dcterms:identifier>
+    <dcterms:title>Letter from Jennie Howard to Dr. Thomas Henry Howard Written on June 25th, 1868</dcterms:title>
+    <dcterms:description>A letter from Jennie Howard to her brother in law Dr. Thomas Henry Howard, written on June 25th, 1868. Jennie is glad to hear that Dr. Howard will visit Georgia, and says any time will be agreeable, especially in August when the crops will be "laid by" and people will have time for leisure. Jennie shares that her daughter Lillie was hit on the head by the iron windlass of the well while the bucket was descending, but has recovered. The gardens are doing poorly because of a draught, and the men who rented her farm failed to plant wheat, so there will be none.</dcterms:description>
+    <dcterms:subject>Doctors</dcterms:subject>
+    <dcterms:subject>Family</dcterms:subject>
+    <dcterms:subject>Farm crops</dcterms:subject>
+    <dcterms:subject>Farming</dcterms:subject>
+    <dcterms:medium>correspondence</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Miller, Gretchen</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/77723r26</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2020_016_054-1/full/199,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:33:57.736Z</dcterms:date>
+</mdRecord>

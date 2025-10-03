@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2006_005_035</dcterms:identifier>
+    <dcterms:title>War Time Handwritten Receipt</dcterms:title>
+    <dcterms:description>War time document May 27, 1861, handwritten receipt, "Received of Colonel J A Early the following ordnance and ordnance stores for the use of my company of Virginia Volunteers" signed by J. W. Headen 1st Lt. Commanding, 1 original piece.
+This document was written by John William Headen Jr. [14 Jan 1841 Patrick Co- 22 Oct 1906 Roanoke Co] s/o John William Headen and Ellen Helms Headen Howard. (He was a nephew of Dr. Tazewell Headen and James Bennett Headen) JW was a medical student at UVA when the war broke out, and at age 19 enlisted 14 May 1861 at Floyd CH in Capt. Dr. Stigleman's unit, 24th VA Infantry. He was enlisted as a 1st Lt., commanding Co A, "Floyd Riflemen". Prior to joining the CSA, he'd been appointed as a 1st Lt to the local militia by the Governor of VA in 1860. JW was slightly wounded at the Battle of Winchester in 1862, and lost his right eye at the Battle of Gettysburg in 1863, while leading a charge with Pickett's Brigade. He returned to service, was promoted to Capt. in 1864, and continued to serve until the end of the war. He was married to Ann Elizabeth Attaway "Attie" Hylton.</dcterms:description>
+    <dcterms:subject>Soldiers</dcterms:subject>
+    <dcterms:subject>United States</dcterms:subject>
+    <dcterms:subject>Correspondence</dcterms:subject>
+    <dcterms:medium>correspondence</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Dr.C.M. Stigleman Collection CG 0004</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/4495td0c</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2006_005_035-1/full/213,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:28:47.980Z</dcterms:date>
+</mdRecord>

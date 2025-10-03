@@ -1,0 +1,20 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_1950_001_054</dcterms:identifier>
+    <dcterms:title>Genealogy of Floyd County</dcterms:title>
+    <dcterms:description>A flowchart showing the historic changes made to ultimately arrive at the creation of Floyd County in 1831.</dcterms:description>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:subject>Geneology</dcterms:subject>
+    <dcterms:medium>genealogies (histories)</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Donor, Unknown</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/df318v5h</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_1950_001_054-1/full/215,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:02:41.930Z</dcterms:date>
+</mdRecord>

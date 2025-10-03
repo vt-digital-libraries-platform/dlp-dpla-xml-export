@@ -1,0 +1,21 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>REY_REY_000018</dcterms:identifier>
+    <dcterms:title>Appreciation Certificate for Nannie Ruth Cooper Terry</dcterms:title>
+    <dcterms:description>Detailed appreciation for dedication to the Reynolds Homestead, upon Nannie Ruth Cooper Terry's death.</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:subject>Reynolds Homestead Continuing Education Center</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:medium>certificates</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/7b246m47</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/swva/REY_HS/tiles/REY_REY_000018-1/full/199,/0/default.jpg</edm:preview>
+    <dcterms:creator>Virginia Tech and Reynolds Homestead Advisory Board, 1986</dcterms:creator>
+    <dcterms:date>2022-12-02T15:13:13.611Z</dcterms:date>
+</mdRecord>

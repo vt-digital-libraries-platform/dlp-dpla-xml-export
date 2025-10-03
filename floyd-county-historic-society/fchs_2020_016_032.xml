@@ -1,0 +1,20 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2020_016_032</dcterms:identifier>
+    <dcterms:title>Advertisement for Dr. F. Clyde Bedsaul</dcterms:title>
+    <dcterms:description>A small postcard sent by mail in 1937 by Dr. F. Clyde Bedsaul to announce that his office had moved. The postcard bears a picture of the new location with the directions "Office entrance on South end of house - Down Concrete Walk." It goes on to say "Dr. F. Clyde Bedsaul Floyd, Va. Announces the moving of his office to new home on N. Locust St., Highway No. 8. Between Brame Hotel Block and Floyd High School. June 25th, 1937." The postcard was sent with a 1 cent stamp to Mr. Hargrove Muncey, Floyd, Va. and postmarked Jun. 30, 1937.</dcterms:description>
+    <dcterms:subject>Advertisements</dcterms:subject>
+    <dcterms:subject>Announcements</dcterms:subject>
+    <dcterms:medium>advertising cards</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Miller, Gretchen</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/ck96hm0m</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2020_016_032-1/full/182,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:33:38.259Z</dcterms:date>
+</mdRecord>

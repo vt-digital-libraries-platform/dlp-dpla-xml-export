@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>sfdst007114</dcterms:identifier>
+    <dcterms:title>VA Association of Fire Chiefs Memorandums Regarding An Invitation to the Convention and Parade Logistics, June 10, 1954</dcterms:title>
+    <dcterms:description>Memorandum written on June 10, 1954, concerning the VA Association of Fire Chiefs’ convention, where the memo is the formal invitation to the convention to be held in Danville, and the second image is concerned with the parade being held in July, and asking for information should the recipient desire to attend.</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:subject>Fire departments</dcterms:subject>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:spatial>Salem, Virginia, United States</dcterms:spatial>
+    <dcterms:medium>memorandums</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/kv117v46</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/sfd/tiles/sfdst007114-1/full/196,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-06-03T20:50:26.885Z</dcterms:date>
+</mdRecord>

@@ -1,0 +1,20 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_1950_001_055</dcterms:identifier>
+    <dcterms:title>Roads, Passes, and Spurs over the Blue Ridge Mountains</dcterms:title>
+    <dcterms:description>A hand drawn map of the roads, passes, and spurs over the Blue Ridge Parkway mountains from Sling's Gap on Bent Mountain in the east, to Low Gap Road 89 in the west. Some have been closed for years and not all can reach the Blue Ridge Parkway as shown.
+The map and information compiled by W. J. Ayers, Floyd County Courthouse, Virginia, May 1980 (Lewis Burwell contributor)</dcterms:description>
+    <dcterms:subject>Outline and base maps</dcterms:subject>
+    <dcterms:medium>base maps</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Donor, Unknown</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/0307z226</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_1950_001_055-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:02:42.716Z</dcterms:date>
+</mdRecord>

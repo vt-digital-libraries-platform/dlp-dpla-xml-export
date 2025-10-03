@@ -1,0 +1,21 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2020_016_021</dcterms:identifier>
+    <dcterms:title>Floyd History is Recounted, Resources Cited for Visitors</dcterms:title>
+    <dcterms:description>This article appeared in The Radford News Journal on Thursday, September 27, 1928 as part of "A Friendship Tour Editorial" highlighting neighboring areas to Radford, including Floyd County. The article gives a short history of the county and flatteringly details the geography, industries, and population. The article states "The town of Floyd has two first class hotels; five churches, including that of the colored people, Presbyterian, Methodist, Missionary Baptist, a high school, several mercantile stores, hardware store, drug store, etc., and has a population of about 500.</dcterms:description>
+    <dcterms:subject>Commerce</dcterms:subject>
+    <dcterms:subject>Tourist trade</dcterms:subject>
+    <dcterms:subject>Trade</dcterms:subject>
+    <dcterms:medium>newspaper clippings</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Miller, Gretchen</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/dn20mj63</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2020_016_021-1/full/102,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:33:31.758Z</dcterms:date>
+</mdRecord>

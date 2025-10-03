@@ -1,0 +1,20 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2020_016_019</dcterms:identifier>
+    <dcterms:title>Virginia Fire and Marine Insurance Co. Advertising Card</dcterms:title>
+    <dcterms:description>An advertising card for the Virginia Fire and Marine Insurance Co., Richmond, Virginia.</dcterms:description>
+    <dcterms:subject>Advertisements</dcterms:subject>
+    <dcterms:subject>Advertising</dcterms:subject>
+    <dcterms:medium>advertising cards</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Miller, Gretchen</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/t579r94j</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2020_016_019-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:33:30.537Z</dcterms:date>
+</mdRecord>

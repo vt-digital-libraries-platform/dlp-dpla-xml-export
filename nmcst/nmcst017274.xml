@@ -1,0 +1,20 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>nmcst017274</dcterms:identifier>
+    <dcterms:title>2013 Washington Cape Flattery, Minerals Management Status, Surface Management Status</dcterms:title>
+    <dcterms:description>Map of Washington Cape Flattery, Minerals Management Status, Surface Management Status</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:spatial>Cape Flattery, Clallam, Washington, United States</dcterms:spatial>
+    <dcterms:medium>maps (documents)</dcterms:medium>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/5g38bm98</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/nmcst/tiles/nmcst017274-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-11-04T18:38:22.216Z</dcterms:date>
+</mdRecord>

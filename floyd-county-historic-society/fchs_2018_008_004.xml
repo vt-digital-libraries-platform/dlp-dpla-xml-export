@@ -1,0 +1,19 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2018_008_004</dcterms:identifier>
+    <dcterms:title>Progress in Floyd County: Twentieth Century Development of the Education System</dcterms:title>
+    <dcterms:description>An essay (appears to be a photo copy) about the history and development of the educational system in Floyd County.</dcterms:description>
+    <dcterms:subject>Education</dcterms:subject>
+    <dcterms:medium>essays</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Brown Sr., Robert S.</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/pb840f83</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2018_008_004-1/full/182,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:33:22.196Z</dcterms:date>
+</mdRecord>

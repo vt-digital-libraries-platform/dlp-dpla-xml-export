@@ -1,0 +1,23 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>DH80_1781</dcterms:identifier>
+    <dcterms:title>Bavarian M1907/10 Taillenhaken</dcterms:title>
+    <dcterms:description>A Taillenhaken is a waist hook sewn to the rear of a coat or tunic to keep the belt from sliding down. This hook is specific to uniforms produced for the Bavarian army M1907/10 Waffenrock.
+Nationality: German (Bavarian)</dcterms:description>
+    <dcterms:subject>Germans</dcterms:subject>
+    <dcterms:subject>Bavarians</dcterms:subject>
+    <dcterms:type>Still Image</dcterms:type>
+    <dcterms:medium>clothing clips</dcterms:medium>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:format>Metal, Brass (material)</dcterms:format>
+    <dcterms:format>model/glb</dcterms:format>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/71c46aa4</edm:isShownAt>
+    <edm:preview>https://d4qp6z580yvb5.cloudfront.net/federated/DH80/tiles/DH80_1781-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2025-09-15T20:45:15.328Z</dcterms:date>
+</mdRecord>

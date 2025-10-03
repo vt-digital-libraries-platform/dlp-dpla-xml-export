@@ -1,0 +1,21 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2006_005_046</dcterms:identifier>
+    <dcterms:title>General Order No. 2 for Capt. Stigleman from Headquarters of the 6th Brigade by Order of Col. J. A. Early</dcterms:title>
+    <dcterms:description>General Order No. 2 for Capt. Stigleman from Headquarters of the 6th Brigade, Army of the Potomac at Camp Pryor, July 6, 1861, by order of Col. J. A. Early, Commander of Brigade, signed by F. Gardner Capt. A.A.A. Genl. Subject: baggage of the regiments and companies. 1 original piece.</dcterms:description>
+    <dcterms:subject>Soldiers</dcterms:subject>
+    <dcterms:subject>United States</dcterms:subject>
+    <dcterms:subject>Correspondence</dcterms:subject>
+    <dcterms:medium>correspondence</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Dr.C.M. Stigleman Collection CG 0004</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/q852rj5p</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2006_005_046-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:28:55.783Z</dcterms:date>
+</mdRecord>

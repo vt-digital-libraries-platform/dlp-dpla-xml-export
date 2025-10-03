@@ -1,0 +1,21 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2021_011_001</dcterms:identifier>
+    <dcterms:title>Cobbler's Wooden Shoe Last</dcterms:title>
+    <dcterms:description>A wooden cobbler's shoe form, called a last, which would have been used as a pattern to create a shoe from. A cobbler would have had a set of lasts in different sizes and perhaps styles. This set bears the number 3 scratched into the front. This set of lasts, along with an array of cobbler's tools, is believed to have been passed down four generations in Floyd County from Tazewell Sowers, who was listed in the 1870 census as a shoemaker at age 31.</dcterms:description>
+    <dcterms:subject>Shoemakers</dcterms:subject>
+    <dcterms:subject>Shoe industry</dcterms:subject>
+    <dcterms:subject>Tools</dcterms:subject>
+    <dcterms:medium>lasts (shoemaking tools)</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/?language=en</dcterms:rights>
+    <dcterms:provenance>Monroe, Richard</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/x647234j</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_OBJ/tiles/fchs_2021_011_001-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-10T13:02:43.207Z</dcterms:date>
+</mdRecord>

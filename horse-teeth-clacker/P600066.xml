@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>P600066</dcterms:identifier>
+    <dcterms:title>Horse teeth clacker P600066</dcterms:title>
+    <dcterms:description>In this model, note the presence of &lt;b&gt;deciduous&lt;/b&gt; (milk) incisors, which appear white and lack a central groove on their labial (front) surface. Each tooth has a distinct constricted neck, and the occlusal (chewing) surface is clearly oval in shape. All six incisors have erupted, allowing us to apply the Rule of 6: central incisors erupt around 6 days, intermediates at 6 weeks, and corners at 6 months. Additionally, signs of wear are visible on the occlusal surfaces of the corners. It takes about 6 months from the time of eruption for a new tooth to protrude far enough to reach its antagonist, the corner incisors are usually not in wear until the horse is about a year old. Based on these features, this model represents a horse approximately one year old.</dcterms:description>
+    <dcterms:contributor>Virginia-Maryland College of Veterinary Medicine</dcterms:contributor>
+    <dcterms:subject>Horses--Aging</dcterms:subject>
+    <dcterms:subject>Horses--Age determination</dcterms:subject>
+    <dcterms:type>Three Dimensional Object</dcterms:type>
+    <dcterms:medium>biospecimens</dcterms:medium>
+    <dcterms:format>model/gltf</dcterms:format>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/56ee8957</edm:isShownAt>
+    <edm:preview>https://d4qp6z580yvb5.cloudfront.net/federated/CVM_DENT/P600066/3D/GLB/P600066_thumbnail2.jpg</edm:preview>
+    <dcterms:creator>Ms Pam Arnold (preparator)</dcterms:creator>
+    <dcterms:date>2025-09-19T15:37:03.871Z</dcterms:date>
+</mdRecord>

@@ -1,0 +1,24 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2020_016_026</dcterms:identifier>
+    <dcterms:title>Valentine Day Love Letter</dcterms:title>
+    <dcterms:description>A lovely ornate paper Valentine's Day Love Letter to Miss Maud Howard, Floyd C.H. Va. postmarked 1882. The valentine is pink with white lace cutout creating a frame with doors that open to a painting of a ladies portrait. Above the doors is a little boy with a net and a blue flower, and below is a bouquet of flowers that says "Hope." Inside is a brightly colored border encircling the message:
+Accept my Love,
+Thou art my life, my love, my heart,
+The very eyes of me,
+And hast command of every part,
+To live and die for thee.</dcterms:description>
+    <dcterms:subject>Records and correspondence</dcterms:subject>
+    <dcterms:medium>correspondence</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Miller, Gretchen</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/9148jf4z</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2020_016_026-1/full/182,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:33:34.975Z</dcterms:date>
+</mdRecord>

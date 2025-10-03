@@ -1,0 +1,23 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>TAU_ART_000140_0003</dcterms:identifier>
+    <dcterms:title>CHICAGO WOMAN</dcterms:title>
+    <dcterms:description>Richmond based painter, teacher and writer Torres was best known for his large scale stone carved sculptures. focusing primarily on the human form, Torres' work, according to Richmond based collector, Jack Blanton, harkened back to classical Greek sculpture, "Viewing his sculpture is like seeing ruins from Mesopotamia," said Blanton. "Salvaged classical ruins--that was a reference point. He always let the stone speak to him to determine what he would carve from it."</dcterms:description>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:subject>Art</dcterms:subject>
+    <dcterms:subject>SCULPTURE</dcterms:subject>
+    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:medium>Carved and polished Virginia soapstone</dcterms:medium>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:rights>&lt;a href="http://rightsstatements.org/page/InC-EDU/1.0/?language=en"&gt;http://rightsstatements.org/vocab/InC-EDU/1.0/&lt;/a&gt;</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries (Digital)</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:preview>https://img.cloud.lib.vt.edu/swva/TAU_ART/tiles/TAU_ART_000140_0003-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:creator>TORRES, JOHN JR. (United States, 1939-2001)</dcterms:creator>
+    <dcterms:date>2022-12-22T18:58:31.232Z</dcterms:date>
+</mdRecord>

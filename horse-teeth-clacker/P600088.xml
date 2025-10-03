@@ -1,0 +1,26 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>P600088</dcterms:identifier>
+    <dcterms:title>Horse teeth clacker P600088</dcterms:title>
+    <dcterms:description>We assess age by examining the lower incisor teeth, as they are easily accessible when the mouth is opened. In this model, most teeth are absent; however, if you look closely, you can see that the two little tiny parts of the central deciduous (baby) incisors have just begun to erupt from the gum—typically around 6 days of age. These teeth appear small and white. Note the oval-shaped chewing (occlusal) surface.
+
+Based on the description above, estimate the age of this specimen. 
+
+You can compare this young foal's decideous "milky" teeth to other adult ones like model P6000069.</dcterms:description>
+    <dcterms:contributor>Virginia-Maryland College of Veterinary Medicine</dcterms:contributor>
+    <dcterms:subject>Horses--Aging</dcterms:subject>
+    <dcterms:subject>Horses--Age determination</dcterms:subject>
+    <dcterms:type>Three Dimensional Object</dcterms:type>
+    <dcterms:medium>biospecimens</dcterms:medium>
+    <dcterms:format>model/gltf</dcterms:format>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/e28e5535</edm:isShownAt>
+    <edm:preview>https://d4qp6z580yvb5.cloudfront.net/federated/CVM_DENT/P600088/3D/GLB/P600088_thumbnail2.jpg</edm:preview>
+    <dcterms:creator>Ms Pam Arnold (preparator)</dcterms:creator>
+    <dcterms:date>2025-08-28T13:29:06.552Z</dcterms:date>
+</mdRecord>

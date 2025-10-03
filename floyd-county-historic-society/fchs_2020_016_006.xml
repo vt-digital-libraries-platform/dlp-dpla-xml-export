@@ -1,0 +1,20 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2020_016_006</dcterms:identifier>
+    <dcterms:title>VA Fire &amp; Marine Insurance Company Policy</dcterms:title>
+    <dcterms:description>Virginia Fire and Marine Insurance Company Policy No. 633967 under Agent A.J. Tice for the Assured T.H. Howard covering his granary, barn &amp; stable all situated on the North side of Main St. Floyd, VA. The policy was signed February 6th, 1905, and covered up to $200 for one year with a Premium of $3.30.</dcterms:description>
+    <dcterms:subject>Insurance</dcterms:subject>
+    <dcterms:subject>Insurance certificates</dcterms:subject>
+    <dcterms:medium>insurance policies</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Miller, Gretchen</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/dt00187d</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2020_016_006-1/full/182,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:33:28.599Z</dcterms:date>
+</mdRecord>

@@ -1,0 +1,18 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>VTEC000005940</dcterms:identifier>
+    <dcterms:title>Lasioglossum versatum (Robertson, 1902)</dcterms:title>
+    <dcterms:type>still image</dcterms:type>
+    <dcterms:spatial>Virginia Beach, Virginia, United States</dcterms:spatial>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:rights>http://creativecommons.org/publicdomain/zero/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/ks82k74d</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/vtec/tiles/VTEC000005940-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-28T13:21:03.696Z</dcterms:date>
+</mdRecord>

@@ -1,0 +1,19 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2006_005_010</dcterms:identifier>
+    <dcterms:title>Personal Correspondence to C.M. Stigeman at Shawsville from J.H. Hinston</dcterms:title>
+    <dcterms:description>Personal correspondence, October 14,1853, to C.M. Stigeman at Shawsville, Momtgomery Cty, VA from J.H. Hinston of Floyd CH, VA, 2 original pages and 2 photocopies.</dcterms:description>
+    <dcterms:subject>Records and correspondence</dcterms:subject>
+    <dcterms:medium>correspondence</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Dr.C.M. Stigleman Collection CG 0004</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/dx95mh7b</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2006_005_010-1/full/196,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:28:29.002Z</dcterms:date>
+</mdRecord>

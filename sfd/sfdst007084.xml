@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>sfdst007084</dcterms:identifier>
+    <dcterms:title>Standards of the National Board of Fire Underwriters for the Prevention of Dust Explosions in Starch Factories, Terminal Grain Elevators, Flour and Feed Mills as Recommended by the National Fire Protection Association, c. 1948</dcterms:title>
+    <dcterms:description>Pamphlet written by the National Board of Fire Underwriters in 1948 about the NBFU's standards for the prevention of dust explosions in starch factories, terminal grain elevators, and flour and feed mills.</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:subject>Fire departments</dcterms:subject>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:spatial>Salem, Virginia, United States</dcterms:spatial>
+    <dcterms:medium>pamphlets</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/wq60jh9n</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/sfd/tiles/sfdst007084-1/full/167,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-06-03T20:50:09.785Z</dcterms:date>
+</mdRecord>

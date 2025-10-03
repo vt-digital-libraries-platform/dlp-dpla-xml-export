@@ -1,0 +1,23 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2022_009_001</dcterms:identifier>
+    <dcterms:title>Piano Cased Reed Organ</dcterms:title>
+    <dcterms:description>This organ was the treasured possession of Mary Elizabeth "Betty" Clower Moles, daughter of Willard and Evelyn Clower. Willard was a noted musician in Floyd County and the owner of Clower Feed &amp; Seed where Angels in the Attic is now located. Betty graduated from Floyd High School in 1947. She saved her money and bought this organ when she was a young girl.
+This organ is a rare example of this type of organ. By the beginning of the 20th century "parlor" organs were being replaced by pianos. Organ manufacturers reacted by putting organs in piano frames to make them look like pianos. They were only made for a few years. This example was made by George P. Bent of Chicago for the Crown Pianos &amp; Organs brand. Crown was owned by Sears &amp; Robuck and was available through their retail catalog.
+Donated by Amy Moles Lawrence in honor of her mother Mary Elizabeth Clower Moles.</dcterms:description>
+    <dcterms:subject>Music</dcterms:subject>
+    <dcterms:subject>Musical instruments</dcterms:subject>
+    <dcterms:subject>Organs</dcterms:subject>
+    <dcterms:medium>reed organs</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/?language=en</dcterms:rights>
+    <dcterms:provenance>Lawrence, Amy</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/f636tf2d</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_OBJ/tiles/fchs_2022_009_001-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-10T13:03:12.528Z</dcterms:date>
+</mdRecord>

@@ -1,0 +1,19 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2022_016_001</dcterms:identifier>
+    <dcterms:title>Student Desk and Chair</dcterms:title>
+    <dcterms:description>A vintage school room desk and chair from the Pilot School circa late 1920's through early 1930's. The school principal at the time was Mae Rutherford Angle (The aunt of the donor Pam Neate).</dcterms:description>
+    <dcterms:subject>Schools--Furniture, equipment, etc.</dcterms:subject>
+    <dcterms:medium>school desks</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/?language=en</dcterms:rights>
+    <dcterms:provenance>Neate, Pam</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/kx56zd4c</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_OBJ/tiles/fchs_2022_016_001-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-10T13:03:14.531Z</dcterms:date>
+</mdRecord>

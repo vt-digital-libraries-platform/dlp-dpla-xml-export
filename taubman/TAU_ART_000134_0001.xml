@@ -1,0 +1,24 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>TAU_ART_000134_0001</dcterms:identifier>
+    <dcterms:title>BECOMING</dcterms:title>
+    <dcterms:description>Abstract painter Lois Bartlett Tracy was well known for her use of color. Hailed as a visionary artist , Tracy, whose work had been shown in exhibitions throughout the country, founded an artist colony in Englewood, Florida in the 1960s and taught college-level art courses at several universities. Her work was loosely inspired by the Florida landscape and was characterized by bright colors and swirling movement.</dcterms:description>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:subject>Art</dcterms:subject>
+    <dcterms:subject>PAINTINGS</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:medium>Oil Canvas</dcterms:medium>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:rights>&lt;a href="http://rightsstatements.org/page/InC-EDU/1.0/?language=en"&gt;http://rightsstatements.org/vocab/InC-EDU/1.0/&lt;/a&gt;</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries (Digital)</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/cw61v798</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/swva/TAU_ART/tiles/TAU_ART_000134_0001-1/full/199,/0/default.jpg</edm:preview>
+    <dcterms:creator>TRACY, LOIS BARTLETT (United States, 1901-2008)</dcterms:creator>
+    <dcterms:date>2022-12-15T18:28:53.926Z</dcterms:date>
+</mdRecord>

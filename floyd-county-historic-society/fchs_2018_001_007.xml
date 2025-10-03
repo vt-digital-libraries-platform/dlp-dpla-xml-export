@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2018_001_007</dcterms:identifier>
+    <dcterms:title>Violin</dcterms:title>
+    <dcterms:description>Alden H. Wood, Born 1923, Died 1994
+Alden Learned the craft of woodworking from hiss father, W. Rufus Wood, at an early age. Born in Rock Castle Gorge, and raised 'on the mountains', Alden knew at an early age to build what you need from materials available. His first effort as a young boy was a wooden bicycle.
+As a youn man, Alden's craft developed in furniture, like his father, and then as a more lucrative and 'in demant' craft of custom cabinety for new homes. His "Wood's Cabinet Shop" on Epperly Mill Road in Floyd, was a busy enterprise as he designed and built custom cabinets for new homes in Blackssburg, Christiansburg, and Roanoke,
+His reputation for precision and perfection grew and many of his cabinets and furniture pieces are now in homes in Pennsylvania, Florida, and throughout Virginina.</dcterms:description>
+    <dcterms:subject>Violin</dcterms:subject>
+    <dcterms:medium>color photographs</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Joyce Wood Gardner</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/qk519c9x</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_PHO/tiles/fchs_2018_001_007-1/full/187,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-11T15:36:58.069Z</dcterms:date>
+</mdRecord>

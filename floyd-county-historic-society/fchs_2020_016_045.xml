@@ -1,0 +1,21 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2020_016_045</dcterms:identifier>
+    <dcterms:title>Letter from Jennie Howard to Dr. Thomas H. Howard Postmarked May 27th, 1867</dcterms:title>
+    <dcterms:description>A letter postmarked May 27th, 1867, addressed to Dr. Thomas Henry Howard of Floyd County Virginia, written by his sister in law Jennie Howard of Campbellton Georgia. In this letter Jennie again tells Henry that she wishes him to relocate to her town and take over the recently vacated Physician's office. Jennie recounts the details about how her husband Dr. Tazewell Howard, (whom she refers to as The Doctor,) was shot. There was a "difficulty" between Mr. Bill Camp and Jan Garmon. Mr Garmon made it known he was displeased with the language that Mr. Camp used against the Union League, and he struck him with a stick. Mr. Bell then pulled out a pistol, and when the Doctor stepped in to tell him to put it away, Mr. Bell shot him, saying he was a Union man also. Evidently, the Doctor was in disbelief that Bell Camp would shoot him, not ever having had any disagreements outside differences in politics.</dcterms:description>
+    <dcterms:subject>Doctors</dcterms:subject>
+    <dcterms:subject>Family</dcterms:subject>
+    <dcterms:subject>Physicians</dcterms:subject>
+    <dcterms:medium>correspondence</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Miller, Gretchen</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/0974qm79</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2020_016_045-1/full/199,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:33:46.978Z</dcterms:date>
+</mdRecord>

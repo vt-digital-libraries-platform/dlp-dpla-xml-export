@@ -1,0 +1,21 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2020_016_038</dcterms:identifier>
+    <dcterms:title>Ledger Book of Dr. Thomas Howard 1903-1909</dcterms:title>
+    <dcterms:description>The ledger book of Dr. Thomas Howard from February1903 - April 1908. In the ledger are the handwritten records of each patient's name, when they payed their bill, the amount, and how they payed. How payment was received could include "Cash" or "4 Bushels Buckwheat" or other goods, with an equivalent dollar amount.</dcterms:description>
+    <dcterms:subject>Doctors</dcterms:subject>
+    <dcterms:subject>Record keeping</dcterms:subject>
+    <dcterms:subject>Records (Information)</dcterms:subject>
+    <dcterms:medium>ledgers (account books)</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Miller, Gretchen</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/0h33p285</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2020_016_038-1/full/167,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:33:41.481Z</dcterms:date>
+</mdRecord>

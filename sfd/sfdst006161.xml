@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>sfdst006161</dcterms:identifier>
+    <dcterms:title>Group of People Outside Log Cabin, 1900</dcterms:title>
+    <dcterms:description>Group outside a log cabin, the first photograph showing a child standing in front of a man embracing a woman holding a banjo, with a man using a washboard for clothes on their left, and a woman standing in the doorway with a girl in a chair with a cat in her lap, with a decription on the back that reads "Winter 1900", and the second photograph showing the same people, with the girl standing in front of the two women with a man using the washboard for clothes and the girl in the chair holding the banjo with a man holding the cat, with a description on the back which reads ""</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:subject>Fire departments</dcterms:subject>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:type>Still Image</dcterms:type>
+    <dcterms:spatial>Salem, Virginia, United States</dcterms:spatial>
+    <dcterms:medium>photographs</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/5k27b51f</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/sfd/tiles/sfdst006161-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-06-03T20:48:51.722Z</dcterms:date>
+</mdRecord>

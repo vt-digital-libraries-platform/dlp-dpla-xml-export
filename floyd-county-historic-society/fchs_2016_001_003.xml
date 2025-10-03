@@ -1,0 +1,21 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2016_001_003</dcterms:identifier>
+    <dcterms:title>A.K. Akers &amp; M.H. Hall</dcterms:title>
+    <dcterms:description>Photograph of A.K. Akers and M.H. Hall on a post card with the following notes.
+"Miss Susan G. Akers"
+"Murray, Kentucky"
+"c/o Mrs. J. A. Wilkinson</dcterms:description>
+    <dcterms:medium>photographs</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Akers, Susan</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/5v56pf4f</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_PHO/tiles/fchs_2016_001_003-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-11T15:36:45.863Z</dcterms:date>
+</mdRecord>

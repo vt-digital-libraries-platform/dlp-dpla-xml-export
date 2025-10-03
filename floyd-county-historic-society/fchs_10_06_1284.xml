@@ -1,0 +1,18 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_10_06_1284</dcterms:identifier>
+    <dcterms:title>William M. Dickerson Family</dcterms:title>
+    <dcterms:description>1284_Wm M. Dickerson Family ID; Front row: Patriarch William M. Dickerson, 2nd wife Ellen (Hylton), Mullen (son) and baby, Nija (son in law) and son Harman Dickerson, Haskew Dickerson (Loula and Nija's son). Rear: Hiley Moses and wife Josie (daughter), Eliza Hylton (daughter), Rosalie</dcterms:description>
+    <dcterms:medium>photographs</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Multiple</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/tt88w21s</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_PHO/tiles/fchs_10_06_1284-1/full/245,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-11T15:30:31.803Z</dcterms:date>
+</mdRecord>

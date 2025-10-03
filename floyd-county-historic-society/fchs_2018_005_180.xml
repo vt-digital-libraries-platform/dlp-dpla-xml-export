@@ -1,0 +1,23 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2018_005_180</dcterms:identifier>
+    <dcterms:title>Smith Chapel Church Cemetery,Locust Grove Dist</dcterms:title>
+    <dcterms:description>Located on the northeast corner of the intersection of Shawsville Pike NE and Daniel's Run Rd. NE behind the old Smith Chapel Church. The grounds are well maintained. Drive around to the back of the church. On the back right side of the church lot there is a pathway to the cemetery.
+
+N 37 02.303'
+W 080 12.194'</dcterms:description>
+    <dcterms:subject>Lists</dcterms:subject>
+    <dcterms:subject>Cemeteries</dcterms:subject>
+    <dcterms:medium>lists</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Starkey, Genevieve C.</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/5m19q52d</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2018_005_180-1/full/188,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:32:40.919Z</dcterms:date>
+</mdRecord>

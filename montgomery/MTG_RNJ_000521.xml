@@ -1,0 +1,15 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>MTG_RNJ_000521</dcterms:identifier>
+    <dcterms:title>Radford News Journal (East Radford, VA), Vol. 62, No. 107, Thursday, June 28, 1945</dcterms:title>
+    <dcterms:description>Newspaper from Radford, Virginia that includes local news and advertisements</dcterms:description>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/bq88td2h</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/swva/MTG/tiles/MTG_RNJ_000521-1/full/201,/0/default.jpg</edm:preview>
+    <dcterms:date>2022-12-21T17:00:26.054Z</dcterms:date>
+</mdRecord>

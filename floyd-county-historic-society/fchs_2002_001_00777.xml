@@ -1,0 +1,27 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2002_001_00777</dcterms:identifier>
+    <dcterms:title>Fiduciary Accounts: Estate of Hamilton Helms</dcterms:title>
+    <dcterms:description>Estate of Hamilton Helms
+Emma Jones, daughter
+A. F. Helms, son
+M. K. Helms, son
+M. C. Helms, son
+Soloman E. Helms, son
+Susan E. Mabry, daughter
+D. Slusher, Sheriff of Floyd County and as such Administrator de bonis non
+Recorded in Ledger Book 4, Page 327, in the Floyd County Courthouse.</dcterms:description>
+    <dcterms:subject>Court Records</dcterms:subject>
+    <dcterms:medium>record books</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>The Circuit Court of Floyd County</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/mw72pt2g</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2002_001_00777-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:13:21.109Z</dcterms:date>
+</mdRecord>

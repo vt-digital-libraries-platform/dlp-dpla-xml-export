@@ -1,0 +1,25 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>REY_REY_000010</dcterms:identifier>
+    <dcterms:title>Willie Reynolds Letter</dcterms:title>
+    <dcterms:description>This is a letter written by Willie Reynolds to an anonymous girl, referred to only as “Sugar-Pie.” Typed in 1919 on a Danville and Western Railway Company letterhead, the letter appeals to the anonymous woman romantically, requesting that she write back and asking if she has feelings for the sender, Willie. At this time, there exists little information on who Willie is in relation to the Reynolds family - while there was a Willie Reynolds alive around that time, the boy was only around 10 years old at the time the letter was written. However, the letter still provides an interesting insight into the love lives of people in the early 1900s, and how the process of courting contrasts to modern methods.</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:subject>Reynolds family</dcterms:subject>
+    <dcterms:subject> Love-letters</dcterms:subject>
+    <dcterms:subject> Virginia</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:spatial>Critz, Patrick, Virginia, United States</dcterms:spatial>
+    <dcterms:medium>love letters</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Gift from Virginia Via Allman, 2013 to Reynolds Homestead</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/zw471020</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/swva/REY_HS/tiles/REY_REY_000010-1/full/202,/0/default.jpg</edm:preview>
+    <dcterms:creator>Reynolds, Willie (Critz) (author)</dcterms:creator>
+    <dcterms:date>2022-12-02T15:13:10.551Z</dcterms:date>
+</mdRecord>

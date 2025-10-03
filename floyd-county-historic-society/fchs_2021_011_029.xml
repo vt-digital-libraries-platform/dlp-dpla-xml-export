@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2021_011_029</dcterms:identifier>
+    <dcterms:title>Cobbler's Shoe Anvil Size "A</dcterms:title>
+    <dcterms:description>A collection of Cobbler tools.
+The accompanying cobbler's tools are given to the Floyd County Historical Society in memory of my mother, Beulah Margaret (nee Sowers) Monroe and in honor of her family who were long time residents of Floyd County. My mother was born in Willis, Virginia to J. (Johile) Luther Sowers and Frances Ellen (nee Weddle) Sowers. She was the granddaughter of David Weddle and Letitia Catharine (nee Stigleman) Weddle and of Tazewell Edgar Sowers and Mary Ann (nee Spangler) Sowers. The 1870 census lists Tazewell Sowers, age 31, as a shoemaker. It is believed these tools have remained in our family for these four generations.</dcterms:description>
+    <dcterms:subject>Shoemakers</dcterms:subject>
+    <dcterms:subject>Shoe industry</dcterms:subject>
+    <dcterms:subject>Tools</dcterms:subject>
+    <dcterms:medium>shoemaker's anvils</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/?language=en</dcterms:rights>
+    <dcterms:provenance>Monroe, Richard</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/2d80x91x</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_OBJ/tiles/fchs_2021_011_029-1/full/167,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-10T13:02:55.006Z</dcterms:date>
+</mdRecord>

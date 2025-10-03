@@ -1,0 +1,21 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2014_012_001</dcterms:identifier>
+    <dcterms:title>To Arms! To Arms!</dcterms:title>
+    <dcterms:description>Copy of an American Civil War recruiting poster (copied form the Internet) offering $50 bounty for volunteers to join Capt. Stigleman's company.
+Feb. 22, 1862 - Two months before the draft.</dcterms:description>
+    <dcterms:subject>Civil wars</dcterms:subject>
+    <dcterms:subject>War posters</dcterms:subject>
+    <dcterms:medium>posters</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Ryan, Mike</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/1d80h63w</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2014_012_001-1/full/179,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:30:09.321Z</dcterms:date>
+</mdRecord>

@@ -1,0 +1,23 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2018_005_234</dcterms:identifier>
+    <dcterms:title>Andy Duncan Cemetery, Alum Ridge Dist</dcterms:title>
+    <dcterms:description>This cemetery was originally documented shortly after the surrounding timber had been harvested. At that time the cemetery overlooked the original homestead. After 45 years the trees have regrown into a dense forest shading out most undergrowth. Access is by Dulaney Road NW(off White Rock Rd NW). Take Dulaney Rd down a hill until you reach the "End of State Maintainence" sign. The road is overgrown beyond this point. Walk About 50 yards until you come to an old logging road bearing to the right. Then walk 300 yards straight up the ridge. the road will gradually veer to the left.
+
+N 36 56.721'
+W 80 29.427'</dcterms:description>
+    <dcterms:subject>Lists</dcterms:subject>
+    <dcterms:subject>Cemeteries</dcterms:subject>
+    <dcterms:medium>lists</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Starkey, Genevieve C.</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/bw07pb7f</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2018_005_234-1/full/153,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:33:17.775Z</dcterms:date>
+</mdRecord>

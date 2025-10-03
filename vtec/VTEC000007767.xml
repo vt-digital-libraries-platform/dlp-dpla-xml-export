@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>VTEC000007767</dcterms:identifier>
+    <dcterms:title>Euptoieta hegesia (Cramer)</dcterms:title>
+    <dcterms:description>lifeStage: Adult</dcterms:description>
+    <dcterms:description>preparations: pinned specimen</dcterms:description>
+    <dcterms:contributor>C. Laub (identified by)</dcterms:contributor>
+    <dcterms:contributor>G.T. Harrison (georeferenced by)</dcterms:contributor>
+    <dcterms:type>still image</dcterms:type>
+    <dcterms:spatial>San Blas, Nayarit, Mexico</dcterms:spatial>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:rights>http://creativecommons.org/publicdomain/zero/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/pv42wv8q</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/vtec/tiles/VTEC000007767-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-28T13:37:48.168Z</dcterms:date>
+</mdRecord>

@@ -1,0 +1,20 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>nmcst019198</dcterms:identifier>
+    <dcterms:title>1983 Die Turkei 1920 / Turkey, 1920, Die Turkei 1923 / Turkey, 1923</dcterms:title>
+    <dcterms:description>Map of Die Turkei 1920 / Turkey, 1920, Die Turkei 1923 / Turkey, 1923</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:spatial>Middle East</dcterms:spatial>
+    <dcterms:medium>maps (documents)</dcterms:medium>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/32233r7s</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/nmcst/tiles/nmcst019198-1/full/176,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-11-04T18:38:25.839Z</dcterms:date>
+</mdRecord>

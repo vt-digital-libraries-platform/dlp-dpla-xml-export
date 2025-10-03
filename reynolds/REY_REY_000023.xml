@@ -1,0 +1,27 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>REY_REY_000023</dcterms:identifier>
+    <dcterms:title>Zachary Smith Reynolds Log of Aeroplane NR-898W</dcterms:title>
+    <dcterms:description>This handwritten log kept by Z. Smith Reynolds documents his 17,000-mile solo journey from England to China from August 26, 1931 to April 5, 1932. After several false starts, Smith finally began his flight in London in December 1931, landing outside of Paris. He then flew south over Italy and the Mediterranean until he reached North Africa. From there, he followed airline routes already established by British fliers, traveling across the Syrian Desert from Gaza to Baghdad and on to India. In the log, Smith Reynolds records not only equipment and flight data but also his impressions and experiences in the places he landed. It is clear from the log that Smith often flew in remote areas and sometimes encountered dangerous situations, and he was alone, with no contact with the ground for most of the journey. After his landing at Fort Bayard, a French military base in present-day Zhanjiang, China, Smith recorded his final log entry on April 5, 1932. Nancy Susan Reynolds, Smith’s sister, believed that Smith continued on to Hong Kong, his prearranged destination, despite those entries being absent from his log.</dcterms:description>
+    <dcterms:description>EA.2017.002</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:subject>Aviation</dcterms:subject>
+    <dcterms:subject>Travel</dcterms:subject>
+    <dcterms:subject>Reynolds, Zachary Smith, 1911-1932</dcterms:subject>
+    <dcterms:subject>Holman, Libby, 1904-1971</dcterms:subject>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:medium>logs (records)</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Z. Smith Reynolds’s handwritten log of his 1931-1932 transcontinental flight in the Aeroplane NR-898W was made available to Reynolda House Museum of American Art by Smith Reynolds's grandson Lloyd P. (“Jock”) Tate Jr. and his wife Kathryn B. Tate.</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/26578t5h</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/swva/REY_HMAA/tiles/REY_REY_000023-1/full/205,/0/default.jpg</edm:preview>
+    <dcterms:creator>Reynolds, Zachary Smith, 1911-1932 (author)</dcterms:creator>
+    <dcterms:date>2022-12-02T15:14:02.235Z</dcterms:date>
+</mdRecord>

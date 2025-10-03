@@ -1,0 +1,21 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2006_030_004</dcterms:identifier>
+    <dcterms:title>Ananias Harman Family Group</dcterms:title>
+    <dcterms:description>803_D_HarmanFamily 803_D_HarmanFamily_reverse Harman, Ananias
+Harman, Mary Hylton
+their four adult children (l to r) Luther, Absolum, Ida, Amanda outdoor portrait of Ananias and Mary Hylton Harman
+and their four adult children taken at same occasion as #802</dcterms:description>
+    <dcterms:medium>photographs</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Wilkerson, Paula Kaye</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/rb44qj9b</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_PHO/tiles/fchs_2006_030_004-1/full/186,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-11T15:35:31.827Z</dcterms:date>
+</mdRecord>

@@ -1,0 +1,20 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2018_006_001</dcterms:identifier>
+    <dcterms:title>Sengbusch Inkwell and Pen</dcterms:title>
+    <dcterms:description>A black glass Sengbusch inkwell and fountain pen. The pen nib is marked Pen - In - Ink Iridium Tip Coarse. The pen is marked Robinson Pwn - In - Ink.</dcterms:description>
+    <dcterms:subject>Writing</dcterms:subject>
+    <dcterms:subject>Inkwells</dcterms:subject>
+    <dcterms:medium>inkwells</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/?language=en</dcterms:rights>
+    <dcterms:provenance>Slusher, Nadine</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/k679pp6k</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_OBJ/tiles/fchs_2018_006_001-1/full/130,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-10T13:00:54.873Z</dcterms:date>
+</mdRecord>

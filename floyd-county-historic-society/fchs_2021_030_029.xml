@@ -1,0 +1,19 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2021_030_029</dcterms:identifier>
+    <dcterms:title>Sportsmen's and Amateur Stock Car Races No. 3</dcterms:title>
+    <dcterms:description>Sportsmen's and Amateur Stock Car Races program number 3.</dcterms:description>
+    <dcterms:subject>NASCAR</dcterms:subject>
+    <dcterms:medium>programs (documents)</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Via, Vicki W.</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/n516wp2n</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2021_030_029-1/full/197,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:34:16.195Z</dcterms:date>
+</mdRecord>

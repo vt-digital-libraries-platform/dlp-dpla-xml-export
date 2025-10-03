@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>sfdst006223</dcterms:identifier>
+    <dcterms:title>Fire Fighters Group Photograph</dcterms:title>
+    <dcterms:description>Fire fighters group photo, undated, the following people appear in this photograph: the man in the top row fifth from the left is Lt. Roney Purdue, the youngest lieutenant ever promoted by the fire department, also made the first EMS/Health/first responder call with M.J. Brown, Larry Halite is in the top row furthest to the left, Barry Lawson is in the top row second from the left, John Lucas is in the top row third from the left, someone whose only given name is Cramer is in the top row fourth from the left, Dan Hunk is on the bottom row furthest to the left, someone whose only given name is Jeffery is in the bottom row second from the left, Roger Ray is in the bottom row third from the left, and Meagle Brown is in the bottom row, fourth from the left.</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:subject>Fire departments</dcterms:subject>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:type>Still Image</dcterms:type>
+    <dcterms:spatial>Salem, Virginia, United States</dcterms:spatial>
+    <dcterms:medium>photographs</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/9w88p59v</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/sfd/tiles/sfdst006223-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-06-03T20:49:22.642Z</dcterms:date>
+</mdRecord>

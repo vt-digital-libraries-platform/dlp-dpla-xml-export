@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_1992_001_001</dcterms:identifier>
+    <dcterms:title>Church pump organ from the Harvestwood Church</dcterms:title>
+    <dcterms:description>Church pump organ from the no longer standing Harvestwood Church. Mrs. Thelma Turner Houchins played the organ for many years. Pumping the foot pedals forced air over the free-floating reeds to made the musical notes. The faster the pumping, the louder the sound.</dcterms:description>
+    <dcterms:subject>Music</dcterms:subject>
+    <dcterms:subject>Musical instruments</dcterms:subject>
+    <dcterms:subject>Organ (Musical instrument)</dcterms:subject>
+    <dcterms:subject>Reed organ</dcterms:subject>
+    <dcterms:medium>pump organs</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/?language=en</dcterms:rights>
+    <dcterms:provenance>Vest, Susie Belle</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/jb90753p</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_OBJ/tiles/fchs_1992_001_001-1/full/196,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-10T13:00:07.164Z</dcterms:date>
+</mdRecord>

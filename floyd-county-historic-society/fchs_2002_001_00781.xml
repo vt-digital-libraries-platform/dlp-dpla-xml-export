@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2002_001_00781</dcterms:identifier>
+    <dcterms:title>Fiduciary Accounts: Estate of Caleb Weddle</dcterms:title>
+    <dcterms:description>Estate of Caleb Weddle
+Jonas Lee Weddle, son of Caleb who died 05.13.1894 when he was under 21 years of age
+Cyrena E. Weddle, Administrator
+Recorded in Ledger Book 4, Page 329, in the Floyd County Courthouse.</dcterms:description>
+    <dcterms:subject>Court Records</dcterms:subject>
+    <dcterms:medium>record books</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>The Circuit Court of Floyd County</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/d288w87k</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2002_001_00781-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:13:24.135Z</dcterms:date>
+</mdRecord>

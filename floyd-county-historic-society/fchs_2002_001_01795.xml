@@ -1,0 +1,24 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2002_001_01795</dcterms:identifier>
+    <dcterms:title>Criminal Warrants, Justice of the Peace: Commonwealth vs Joseph M. Thomas</dcterms:title>
+    <dcterms:description>Commonwealth vs Joseph M. Thomas
+Offense: Assault and Battery
+Victim and Complainant: Peter P. Hall
+Recorded in Floyd County Courthouse 01.24.1887
+Fine of $2.50 plus $2.00 court costs</dcterms:description>
+    <dcterms:subject>Court Records</dcterms:subject>
+    <dcterms:subject>Warrants (Law)</dcterms:subject>
+    <dcterms:medium>record books</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>The Circuit Court of Floyd County</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/2157n05g</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2002_001_01795-1/full/158,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:26:10.426Z</dcterms:date>
+</mdRecord>

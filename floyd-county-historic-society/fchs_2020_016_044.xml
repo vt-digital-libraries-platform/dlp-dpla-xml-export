@@ -1,0 +1,21 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2020_016_044</dcterms:identifier>
+    <dcterms:title>Letter from Jennie Howard to Dr. Thomas H. Howard Postmarked May 17, 1867</dcterms:title>
+    <dcterms:description>A personal correspondence from Jennie Howard of Campbellton Georgia to her brother in law Dr. Thomas Henry Howard of Floyd County Virginia, postmarked May 17, 1867. In this letter Jennie is very distraught about the recent death of Henry's brother, her husband Dr. Tazewell Howard, on May 9th. She urges Henry to come and visit her, she writes "It was Doctor's dying request for you to come out and see me and advise with me, and help me all you could." She suggests that the Doctor was doing very well financially, and Henry could relocate to Campbellton if he wished and do well as the town's Physician. Jennie also laments that her health is poor and she may not be long in the world.</dcterms:description>
+    <dcterms:subject>Doctors</dcterms:subject>
+    <dcterms:subject>Family</dcterms:subject>
+    <dcterms:subject>Physicians</dcterms:subject>
+    <dcterms:medium>correspondence</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Miller, Gretchen</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/n877pd3z</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2020_016_044-1/full/199,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:33:46.376Z</dcterms:date>
+</mdRecord>

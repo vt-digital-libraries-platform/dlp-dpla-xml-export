@@ -1,0 +1,21 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2016_001_016</dcterms:identifier>
+    <dcterms:title>Confederate Five Dollar Note</dcterms:title>
+    <dcterms:description>A Conferderate five dollar bill. There is a hand writen number "88684" on the bill in the upper right corner above the picture of the building.</dcterms:description>
+    <dcterms:subject>United States--History--Civil War, 1861-1865</dcterms:subject>
+    <dcterms:subject>Paper money</dcterms:subject>
+    <dcterms:subject>Money</dcterms:subject>
+    <dcterms:medium>North American paper money</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/?language=en</dcterms:rights>
+    <dcterms:provenance>Akers, Susan</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/fw00hz2p</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_OBJ/tiles/fchs_2016_001_016-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-10T13:00:37.808Z</dcterms:date>
+</mdRecord>

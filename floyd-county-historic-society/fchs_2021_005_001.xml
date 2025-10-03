@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2021_005_001</dcterms:identifier>
+    <dcterms:title>The Military Uniform of William C. Harris</dcterms:title>
+    <dcterms:description>William Cleveland Harris was born in Floyd County, VA to Walter Jackson Harris and Rosie Ellar Harmon Harris. He attended Willis High School and joined the United States Army in 1943. He served in the 118 Combat Ordnance attached to the 8th Army in the South Pacific until 1947. Honorable Discharge given at Manila, Luzon, Philippine Islands - 10.16.1945. Final discharge papers given at Fort Bragg, North Carolina - 11.24.1946
+He married Winnifred Vivian Rhudy 05.03.1947. They had one adopted daughter, Clevie Ellen Harris, who married Danny Karl Wingate.
+William was initiated into the Masonic Lodge in 1949 in Floyd County. He served in the Independence Lodge No. 129 until his death. He was a 32nd degree member of the Scottish Rites of Free Masonry and a Shriner with membership in Kazim Temple, Roanoke, VA. He joined the Independence Order of the Eastern Star in 1950, serving twice as Worthy Patron.
+Mr. Harris worked in textiles for 40 years and was later employed by the Grayson School Board as a school bus driver. He was an active member of his church and community. He served as Chief of the Elk Creek Valley Volunteer Fire Department for many years.</dcterms:description>
+    <dcterms:subject>World War, 1939-1945</dcterms:subject>
+    <dcterms:medium>military uniforms</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/?language=en</dcterms:rights>
+    <dcterms:provenance>Wingate, Clevie Harris</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/cm403752</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_OBJ/tiles/fchs_2021_005_001-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-10T13:02:40.111Z</dcterms:date>
+</mdRecord>

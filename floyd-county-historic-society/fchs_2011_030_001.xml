@@ -1,0 +1,37 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2011_030_001</dcterms:identifier>
+    <dcterms:title>Our Rigney Story</dcterms:title>
+    <dcterms:description>The book covers nine generations starting with Nancy Howell and Isham Rigney of Montgomery County, Virginia. It includes copies of indentures dates ab 1814 and 1820 for Greenville and Isom Rigney.
+There are 70 pags of descendant's records. There are photographs, cememtry records, and sstories written by descendants of the Rigney family.
+Rigney, Nancy Howell
+Rigney, Isham
+Rigney, Greenville
+Rigney, Isom
+Akers
+Bishop
+Cox
+Dodd
+Hancock
+Howell
+Moore
+Morris
+Phillips
+Semones
+Via
+Turman
+Weaver</dcterms:description>
+    <dcterms:subject>Genealogical tables</dcterms:subject>
+    <dcterms:medium>record books</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Thurman, Jean Williams</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/2b472t9t</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2011_030_001-1/full/182,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:30:03.243Z</dcterms:date>
+</mdRecord>

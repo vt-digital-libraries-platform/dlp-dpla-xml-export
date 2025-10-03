@@ -1,0 +1,23 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2006_034_001</dcterms:identifier>
+    <dcterms:title>Mandolin Guitar</dcterms:title>
+    <dcterms:description>Mandolin Guitar (Zither) musical instrument.
+Described by Ms. Schaeffer as "A 'mandolin guitar' (probably a zither - looks like an autoharp without the chord buttons). Back in the early 1900s, my maternal grandpa (C. L. "Cam" Turner) bought this musical instrument for my mother (Clara Turner Thomas) and her other siblings. It was a Christmas gift for the family from Grandpa. (In my book and in the picture book done by historical society, there's a picture of my Grandpa Turner's store on the Franklin Pike.) Years before, though, my grandparents lived nearby on Paradise Lane and they were living there when Grandpa brought home the zither as a Christmas gift. I don't recall ever hearing anyone play this instrument.
+I came to have it from my mother and her Turner side of family. I think there may have at one time been a few pieces of sheet music - notes that could be slid under the strings. Kind of like children’s toy pianos used to have.</dcterms:description>
+    <dcterms:subject>Zither</dcterms:subject>
+    <dcterms:subject>Stringed instruments</dcterms:subject>
+    <dcterms:subject>Musical instruments</dcterms:subject>
+    <dcterms:medium>zithers</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/?language=en</dcterms:rights>
+    <dcterms:provenance>Schaeffer, Jean T</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/hb95jx43</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_OBJ/tiles/fchs_2006_034_001-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-10T13:00:18.113Z</dcterms:date>
+</mdRecord>

@@ -1,0 +1,21 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>VTCatalogUndergrad_1992-1993</dcterms:identifier>
+    <dcterms:title>Course Catalog, 1992-93</dcterms:title>
+    <dcterms:description>Annual undergraduate course catalog of Virginia Polytechnic University: including campus maps; facility descriptions; lists of courses, schedules, students, and faculty; and other information relating to the operations of the institution.</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:subject>Virginia Polytechnic Institute and State University</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:format>application/pdf</dcterms:format>
+    <dcterms:rights>This Item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. In addition, no permission is required from the rights-holder(s) for educational uses. For other uses, you need to obtain permission from the rights-holder(s). &lt;a target="_blank" href="https://rightsstatements.org/page/InC-EDU/1.0/?language=en" rel="noreferrer noopener"&gt;https://rightsstatements.org/page/InC-EDU/1.0/&lt;/a&gt;</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/7a12d629</edm:isShownAt>
+    <edm:preview>https://d4qp6z580yvb5.cloudfront.net/federated/LD5655.A3.C3/VTCatalogUndergrad_1992-1993/VTCatalogUndergrad_1992-1993_thumbnail.jpg</edm:preview>
+    <dcterms:creator>Virginia Polytechnic Institute and State University</dcterms:creator>
+    <dcterms:date>2025-04-15T15:52:38.405Z</dcterms:date>
+</mdRecord>

@@ -1,0 +1,19 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_L2020002_001</dcterms:identifier>
+    <dcterms:title>Penney Scale Machine</dcterms:title>
+    <dcterms:description>This is a scale to weigh people for a fee. Put in a coin and get your weight. The front has charts to compare a normal weight given your height.</dcterms:description>
+    <dcterms:subject>Weighing instruments</dcterms:subject>
+    <dcterms:medium>scales (weighing devices)</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/?language=en</dcterms:rights>
+    <dcterms:provenance>Hatcher, Micky</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/jv200m86</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_OBJ/tiles/fchs_L2020002_001-1/full/220,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-10T13:03:21.312Z</dcterms:date>
+</mdRecord>

@@ -1,0 +1,24 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>TAU_ART_000136_0003</dcterms:identifier>
+    <dcterms:title>SHACKLED HANDS AND HUMAN CHAINS</dcterms:title>
+    <dcterms:description>African American artist Purvis Young was born and lived in the Overtown neighborhood of Miami, Florida. Using a blend of collage, painting and found objects, the self taught artist focused on the experience of African Americans in the south including social issues and slavery. His work was shown in major museums throughout the United States and in 2008 collectors Don and Mera Rubell donated over one hundred of young's work to Morehouse College in Atlanta, Georgia.</dcterms:description>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:subject>Art</dcterms:subject>
+    <dcterms:subject>PAINTINGS</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:medium>Oil Masonite</dcterms:medium>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:rights>&lt;a href="http://rightsstatements.org/page/InC-EDU/1.0/?language=en"&gt;http://rightsstatements.org/vocab/InC-EDU/1.0/&lt;/a&gt;</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries (Digital)</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/b215k28z</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/swva/TAU_ART/tiles/TAU_ART_000136_0003-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:creator>YOUNG, PURVIS (United States, 1943-2010)</dcterms:creator>
+    <dcterms:date>2022-12-15T18:28:54.679Z</dcterms:date>
+</mdRecord>

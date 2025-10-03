@@ -1,0 +1,19 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2010_006_001</dcterms:identifier>
+    <dcterms:title>Check School Clock</dcterms:title>
+    <dcterms:description>Reba Craighead graduated from Check High School in 1940. Clock is wooden/oak casing that was in Check High School principal office. Used to ring 2 sets of class bells. Reba purchased at a PTA sale.</dcterms:description>
+    <dcterms:subject>Clocks and watches</dcterms:subject>
+    <dcterms:medium>electronic clocks</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/?language=en</dcterms:rights>
+    <dcterms:provenance>Peak, Robert</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/p4746v3x</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_OBJ/tiles/fchs_2010_006_001-1/full/155,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-10T13:00:22.064Z</dcterms:date>
+</mdRecord>

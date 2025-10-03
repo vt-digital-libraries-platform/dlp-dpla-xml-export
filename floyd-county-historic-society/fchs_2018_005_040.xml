@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2018_005_040</dcterms:identifier>
+    <dcterms:title>Akers-Weeks Cemetery, Court house Dist.</dcterms:title>
+    <dcterms:description>Located .25 miles east of the intersection of Weeks Rd. NW and Reedsville Rd. NW, on the left on a slight hill, directly across from 1492 Reedsville Rd.. Access is via a faint dirt road. Cemetery is fenced and well maintained. This area can be accessed from either Ridgeview Rd. NW (SR730), Alum Ridge Rd. NW (SR750) to Reedsville Rd. NW(Sr743), or Laurel Branch Rd. to Reedsville Road NW(SR743.
+N 36 55.121'
+W 80 26.431'</dcterms:description>
+    <dcterms:subject>Lists</dcterms:subject>
+    <dcterms:subject>Cemeteries</dcterms:subject>
+    <dcterms:medium>lists</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Starkey, Genevieve C.</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/sh20cw6c</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2018_005_040-1/full/194,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:30:55.699Z</dcterms:date>
+</mdRecord>

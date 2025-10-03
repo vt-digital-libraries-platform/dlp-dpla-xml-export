@@ -1,0 +1,23 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2018_005_126</dcterms:identifier>
+    <dcterms:title>Mills Wimmer Beckner Cemetery, Locust Grove District</dcterms:title>
+    <dcterms:description>AKA Mills Cemetery, Wimmer Burial ground, Beckner Cemetery. In Locust Grove District . This small family cemetery is located about 3/10ths of a mile along Deer Run Drive (State Rd. 647) just east of US221 in Copper Hill. It is on a small rise on the right hand side of the road just beyond the intersection with Parkway Dr. SE and just across from the backyard of 8614 Parkway Dr. SE.. It is obscured by weeds and grass, but it can be seen if you look carefully. It is also Visible from Google Earth if you look closely.
+N 37 05.o16'
+W 80 07.277'
+.</dcterms:description>
+    <dcterms:subject>Lists</dcterms:subject>
+    <dcterms:subject>Cemeteries</dcterms:subject>
+    <dcterms:medium>lists</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Starkey, Genevieve C.</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/sv29p85j</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2018_005_126-1/full/193,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:32:00.779Z</dcterms:date>
+</mdRecord>

@@ -1,0 +1,19 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2018_009_001</dcterms:identifier>
+    <dcterms:title>Floyd County welcomes The City of Roanoke</dcterms:title>
+    <dcterms:description>A paperweight inscribed with "Floyd County welcomes The City of Roanoke and All Her Trade Resources, Dated July 30, 1924.</dcterms:description>
+    <dcterms:subject>Paperweights</dcterms:subject>
+    <dcterms:medium>paperweights</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/?language=en</dcterms:rights>
+    <dcterms:provenance>Bingham, Karen A.</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/sn450w6c</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_OBJ/tiles/fchs_2018_009_001-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-10T13:00:56.059Z</dcterms:date>
+</mdRecord>

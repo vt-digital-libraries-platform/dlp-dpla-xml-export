@@ -1,0 +1,20 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2010_001_002</dcterms:identifier>
+    <dcterms:title>Loom, 30 Inch. Floor Loom</dcterms:title>
+    <dcterms:description>A Relatively Modern 20th century Loom that has a 30 inch capacity warp. This loom has been repaired and is fully functional. A warp has been installed so that the loom is ready to weave and use for demonstrations.</dcterms:description>
+    <dcterms:subject>Looms</dcterms:subject>
+    <dcterms:subject>Weaving</dcterms:subject>
+    <dcterms:medium>looms (textile tools)</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/?language=en</dcterms:rights>
+    <dcterms:provenance>Jones, J. B.</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/pj285b2p</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_OBJ/tiles/fchs_2010_001_002-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-10T13:00:20.806Z</dcterms:date>
+</mdRecord>

@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2018_005_137</dcterms:identifier>
+    <dcterms:title>Radford Cemetery, On Silverleaf Rd.</dcterms:title>
+    <dcterms:description>Located on Silverleaf Road adjacent to 3490 Silverleaf Rd. on the Floyd /Franklin County Line.
+N 36 56.308, W 80 11.078
+Directions: From Floyd go north on Rt. 221, Right on Franklin Pike, Right on Shooting Creek Rd. to the Blue Ridge Parkway. Turn left and go 4 miles to Cannady's Gap Rd., turn left and make an immediate right onto Silverleaf Road (gravel Road). Go 1.5 miles. The cemetery is on the left on a slight rise, there is a large brick and concrete sign.</dcterms:description>
+    <dcterms:subject>Lists</dcterms:subject>
+    <dcterms:subject>Cemeteries</dcterms:subject>
+    <dcterms:medium>lists</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Starkey, Genevieve C.</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/p547nc9w</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2018_005_137-1/full/193,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:32:08.386Z</dcterms:date>
+</mdRecord>

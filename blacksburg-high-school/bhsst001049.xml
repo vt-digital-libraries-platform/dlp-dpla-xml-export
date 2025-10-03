@@ -1,0 +1,23 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>bhsst001049</dcterms:identifier>
+    <dcterms:title>Visions of Yesterday: Pow Wow, Vol. 69, 1999</dcterms:title>
+    <dcterms:description>Yearbook of Blacksburg High School in 1999.</dcterms:description>
+    <dcterms:description>Pages 1 and 2 of the yearbook were torn out from the yearbook.</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:subject>Genealogy</dcterms:subject>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:spatial>Blacksburg, Montgomery, Virginia, United States</dcterms:spatial>
+    <dcterms:medium>school yearbooks</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/cr55nw9k</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/swva/BHS/tiles/bhsst001049-1/full/190,/0/default.jpg</edm:preview>
+    <dcterms:date>2022-05-11T20:31:55.235Z</dcterms:date>
+</mdRecord>

@@ -1,0 +1,19 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2018_017_001</dcterms:identifier>
+    <dcterms:title>Floyd County Courthouse Bell</dcterms:title>
+    <dcterms:description>This is the original bell that was saved when the first Floyd County Courthouse was razed and replaced.</dcterms:description>
+    <dcterms:subject>Bells</dcterms:subject>
+    <dcterms:medium>bells (idiophones)</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/?language=en</dcterms:rights>
+    <dcterms:provenance>Supervisors, Floyd County Board of Supervisors</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/3q108m2x</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_OBJ/tiles/fchs_2018_017_001-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-10T13:00:56.962Z</dcterms:date>
+</mdRecord>

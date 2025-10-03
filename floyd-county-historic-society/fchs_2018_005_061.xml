@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2018_005_061</dcterms:identifier>
+    <dcterms:title>Ira Hylton Cemetery</dcterms:title>
+    <dcterms:description>Location: Take Huckleberry Rd. NW to the End of State Maintenance sign. Bear left onto Smith-Walker Rd. At the crest of the hill go thru the gate on your left. Follow the crest of the field 275 Yards to the end of the tree line on your left. Go thru another gate, the cemetery can be see in a small fenced area to the left. It is overgrown with briars and ground cover but, fortunately not trees. There is a single large cedar tree in the center. It would not take much work to clear this cemetery. When we visited this site the front fence was electrified and cattle were grazing in the field. Always get permission from the land owner before entering pastures.
+N 36 55.070
+W 80 24.432</dcterms:description>
+    <dcterms:subject>Lists</dcterms:subject>
+    <dcterms:subject>Cemeteries</dcterms:subject>
+    <dcterms:medium>lists</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Starkey, Genevieve C.</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/zw49js17</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2018_005_061-1/full/194,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:31:11.589Z</dcterms:date>
+</mdRecord>

@@ -1,0 +1,26 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>P600064</dcterms:identifier>
+    <dcterms:title>Horse teeth clacker P600064</dcterms:title>
+    <dcterms:description>We assess age by examining the lower incisor teeth, as they are easily accessible when the mouth is opened.
+
+This horse shows the presence of all deciduous teeth so which mean it is above 6 months old. The deciduous incisors have small ridges and grooves on their labial surface. The occlusal tables of deciduous incisors are oval in the horizontal direction. The small deciduous incisors are worn down more and more on the occlusal surface and look less sharp and dulled slightly not white, preparing to be replaced soon by permanent ones. 
+
+Please compare this model with the perminant teeth clackers example: P600062</dcterms:description>
+    <dcterms:contributor>Virginia-Maryland College of Veterinary Medicine</dcterms:contributor>
+    <dcterms:subject>Horses--Aging</dcterms:subject>
+    <dcterms:subject>Horses--Age determination</dcterms:subject>
+    <dcterms:type>Three Dimensional Object</dcterms:type>
+    <dcterms:medium>biospecimens</dcterms:medium>
+    <dcterms:format>model/gltf</dcterms:format>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/e08d77ca</edm:isShownAt>
+    <edm:preview>https://d4qp6z580yvb5.cloudfront.net/federated/CVM_DENT/P600064/3D/GLB/P600064_thumbnail2.jpg</edm:preview>
+    <dcterms:creator>Ms Pam Arnold (preparator)</dcterms:creator>
+    <dcterms:date>2025-09-19T15:37:03.325Z</dcterms:date>
+</mdRecord>

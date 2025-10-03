@@ -1,0 +1,26 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2020_016_062</dcterms:identifier>
+    <dcterms:title>Letter from Jennie Howard to Dr. Thomas Henry Howard Dated April 29th 1869</dcterms:title>
+    <dcterms:description>A personal correspondence from Jennie Howard, dated April 29th 1869, to her brother in law Dr. Thomas Henry Howard residing in Floyd County. She shares her joy that Henry will be moving to Georgia. She then shares that she has been sick for a month with Neuralgia, (nerve pain,) in her head and ears. She mentions she had "Dr.'s" picture, (her recently deceased husband,) copied from an old ambrotype -a picture printed on glass, introduced in the 1850's before tintype photos superseded them.</dcterms:description>
+    <dcterms:subject>Ambrotypes</dcterms:subject>
+    <dcterms:subject>Crops</dcterms:subject>
+    <dcterms:subject>Doctors</dcterms:subject>
+    <dcterms:subject>Family</dcterms:subject>
+    <dcterms:subject>Farm crops</dcterms:subject>
+    <dcterms:subject>Farming</dcterms:subject>
+    <dcterms:subject>Illnesses</dcterms:subject>
+    <dcterms:subject>Marriage</dcterms:subject>
+    <dcterms:medium>correspondence</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Miller, Gretchen</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/8h18816f</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2020_016_062-1/full/201,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:34:02.882Z</dcterms:date>
+</mdRecord>

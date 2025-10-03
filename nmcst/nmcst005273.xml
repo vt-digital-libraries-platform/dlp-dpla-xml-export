@@ -1,0 +1,21 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>nmcst005273</dcterms:identifier>
+    <dcterms:title>1974 Dutch Gap Quadrangle Virginia</dcterms:title>
+    <dcterms:description>Map of Dutch Gap Quadrangle Virginia</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:spatial>Dutch Gap Chesterfield, Virginia, United States</dcterms:spatial>
+    <dcterms:medium>maps (documents)</dcterms:medium>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/8163zj3v</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/nmcst/tiles/nmcst005273-1/full/200,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-11-04T18:37:57.619Z</dcterms:date>
+</mdRecord>

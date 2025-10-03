@@ -1,0 +1,19 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_2014_022_001</dcterms:identifier>
+    <dcterms:title>Property Tax Payment from William Spangler 1876</dcterms:title>
+    <dcterms:description>1877 - To Treasurer of Floyd County singed by J. A. Dehart, Deputy Treasurer accepting property tax payment of $22.68 from William Spangler.</dcterms:description>
+    <dcterms:subject>Taxes</dcterms:subject>
+    <dcterms:medium>receipt books</dcterms:medium>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Spangler, Daniel</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/rq70vb77</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2014_022_001-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-13T20:30:10.340Z</dcterms:date>
+</mdRecord>

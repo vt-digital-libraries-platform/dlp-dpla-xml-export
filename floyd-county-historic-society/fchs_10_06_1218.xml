@@ -1,0 +1,19 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>fchs_10_06_1218</dcterms:identifier>
+    <dcterms:title>August 1976 Zion Lutheran Church Homecoming Picnic Group</dcterms:title>
+    <dcterms:description>1218_Zion 1976 Homecoming ID; Row 1. Nancy Hill (Willis), Mrs. Munzing, Mildred Leudesdorf, Row 2. Mrs. Eula Robertson, ___, ___, Mrs. Elva Keith, Nancy Smith Harman, Chester Leudesdorf, Ray Harman, ___, ___, ___, Wm. Munzing, Joe Rutrough, Evelyn Burnett Bondurant, Ray Mower, Sidney</dcterms:description>
+    <dcterms:subject>Lutheran Church</dcterms:subject>
+    <dcterms:medium>color photographs</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Multiple</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/tp76xw7d</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_PHO/tiles/fchs_10_06_1218-1/full/160,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-10-11T15:30:00.562Z</dcterms:date>
+</mdRecord>
