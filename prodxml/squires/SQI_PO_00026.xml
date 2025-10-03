@@ -1,0 +1,24 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>SQI_PO_00026</dcterms:identifier>
+    <dcterms:title>Basically Baroque</dcterms:title>
+    <dcterms:description>Production poster for Basically Baroque.</dcterms:description>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:contributor>Virginia Polytechnic Institute and State University. Department of Music; Virginia Polytechnic Institute and State University. Department of Performing Arts and Communications</dcterms:contributor>
+    <dcterms:subject>Choirs (Music)</dcterms:subject>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:spatial>Blacksburg, Montgomery, Virginia, United States</dcterms:spatial>
+    <dcterms:medium>posters</dcterms:medium>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/g8801q6x</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/SQI_PO/tiles/SQI_PO_00026-1/full/163,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-09-17T20:25:09.477Z</dcterms:date>
+</mdRecord>
