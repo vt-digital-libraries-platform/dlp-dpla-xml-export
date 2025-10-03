@@ -7,13 +7,14 @@ dplava.xsd">
 
     <dcterms:identifier>SQI_PO_00014</dcterms:identifier>
     <dcterms:title>New River Valley Symphony 1983-84 Season</dcterms:title>
-    <dcterms:description>Production poster for New River Valley Symphony 1983-84 Season. Programs: "Prometheus" Overture | Violin Concerto No. 3 | Rosenkavalier Waltzes | Hary Janos Suite | "Rienzi" Overture | Symphonic Variations | Symphony No. 104 | Requiem Mass | Concerto Grosso, Op. 6 No. 4 | Songs of a Wayfarer | Pictures at an Exhibition</dcterms:description>
+    <dcterms:description>Production poster for New River Valley Symphony 1983-84 Season. Programs: \"Prometheus\" Overture | Violin Concerto No. 3 | Rosenkavalier Waltzes | Hary Janos Suite | \"Rienzi\" Overture | Symphonic Variations | Symphony No. 104 | Requiem Mass | Concerto Grosso, Op. 6 No. 4 | Songs of a Wayfarer | Pictures at an Exhibition</dcterms:description>
     <dcterms:language>eng</dcterms:language>
     <dcterms:contributor>Virginia Polytechnic Institute and State University. Department of Music</dcterms:contributor>
     <dcterms:subject>Concerts</dcterms:subject>
     <dcterms:subject>Virginia</dcterms:subject>
     <dcterms:spatial>Blacksburg, Montgomery, Virginia, United States</dcterms:spatial>
     <dcterms:medium>posters</dcterms:medium>
+    <dcterms:format>image/tiff</dcterms:format>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/dv37n492</edm:isShownAt>

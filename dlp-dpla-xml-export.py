@@ -34,6 +34,10 @@ try:
     dynamodb = boto3.resource("dynamodb", env["REGION"])
     dbtable = dynamodb.Table(env["DYNAMODB_TABLE"])
     print(f'DEBUG: Connected to DynamoDB table: {env["DYNAMODB_TABLE"]}')
+    # Add folder lookup table connection
+    folder_table_name = os.getenv("FOLDER_LOOKUP_TABLE")
+    folder_table = dynamodb.Table(folder_table_name)
+    print(f'DEBUG: Connected to folder lookup table: {folder_table_name}')
 except Exception as e:
     print(f'ERROR: Failed to connect to DynamoDB: {e}')
     raise
@@ -110,15 +114,6 @@ def build_xml(item):
                     value = get_iso_639_2_code(value)
                 ET.SubElement(root, f"{{{NSMAP['dcterms']}}}{field}").text = str(value)
 
-    # Add format from item if present
-    item_format = item.get("format")
-    if item_format:
-        if isinstance(item_format, list):
-            for fmt in item_format:
-                ET.SubElement(root, f"{{{NSMAP['dcterms']}}}format").text = str(fmt)
-        else:
-            ET.SubElement(root, f"{{{NSMAP['dcterms']}}}format").text = str(item_format)
-
     # Always add provenance as required by DPLA
     ET.SubElement(
         root,
@@ -182,13 +177,43 @@ print(f'DEBUG: Output base directory set to repo root: {output_base_dir}')
 
 
 # Filter and sort items for squires only
-items = [item for item in items if item.get("identifier", "").upper().startswith("SQI")]
-print(f'DEBUG: Filtered items for squires only, count: {len(items)}')
+#items = [item for item in items if item.get("identifier", "").upper().startswith("SQI")]
+#print(f'DEBUG: Filtered items for squires only, count: {len(items)}')
 #items = sorted(items, key=lambda x: x.get("identifier", ""))
 #print('DEBUG: Items sorted by identifier for output order.')
-
+filter_prefix = os.getenv("IDENTIFIER_PREFIX", None)  # Set in your .sh script
+if filter_prefix:
+    items = [item for item in items if item.get("identifier", "").upper().startswith(filter_prefix.upper())]
+    print(f'DEBUG: Filtered items for {filter_prefix} only, count: {len(items)}')
+else:
+    print(f'DEBUG: Processing all items, count: {len(items)}')
 # Mapping for identifier prefixes to folders/subfolders
 def get_output_subdir(identifier):
+    """
+    Look up folder mapping using GSI query on file_name.
+    Falls back to hardcoded logic if DynamoDB lookup fails.
+    """
+    try:        
+        # Query the GSI using file_name as partition key
+        response = folder_table.query(
+            IndexName='file_name-index',
+            KeyConditionExpression=boto3.dynamodb.conditions.Key('file_name').eq(identifier.upper())
+        )
+        
+        if response['Items']:
+            folder = response['Items'][0].get('folder')
+            print(f"DEBUG: Found folder mapping for identifier '{identifier}': {folder}")
+            return folder
+        else:
+            print(f"WARNING: No DynamoDB mapping found for '{identifier}', using hardcoded fallback")
+            return get_hardcoded_mapping(identifier)
+            
+    except Exception as e:
+        print(f"WARNING: DynamoDB lookup failed for '{identifier}': {e}, using hardcoded fallback")
+        return get_hardcoded_mapping(identifier)
+
+def get_hardcoded_mapping(identifier):
+    """Fallback to existing hardcoded logic"""
     identifier = identifier.upper()
     if identifier.startswith("SQI"):
         return "squires"
@@ -244,12 +269,12 @@ def get_output_subdir(identifier):
         # United States: LJC_029
         if identifier.startswith("LJC_029_"):
             return "currie/currie-unitedstates"
-        if identifier.startswith("NMCST"):
-            return "nmcst"
-        if identifier.startswith("SFDST"):
-            return "sfdst"
-        if identifier.startswith("XB17J67J"):
-            return "xb17j67j"
+    if identifier.startswith("NMCST"):
+        return "nmcst"
+    if identifier.startswith("SFDST"):
+        return "sfdst"
+    if identifier.startswith("XB17J67J"):
+        return "xb17j67j"
     # Default: None matched
     return None
 
