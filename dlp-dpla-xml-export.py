@@ -22,9 +22,7 @@ print('DEBUG: Starting dpla_xmloutput.py')
 # JLG 09/08/2025
 # This script exports DynamoDB records to XML files for use in DPLA ingestion.
 # It assumes a specific schema in DynamoDB and maps fields to XML elements.
-#
-# can you programmatically get all the collection identifiers and loop through them? to pass that as a variable?
-#
+
 env = {}
 env["region_name"] = "set in .sh file"
 env["COLLECTION_IDENTIFIER"] = os.getenv("COLLECTION_IDENTIFIER")
@@ -166,7 +164,7 @@ def parse_display_date(date_str):
     except Exception:
         pass
 
-    # Try MM/DD/YYYY vs DD/MM/YYYY (U.S. style preferred, but check for day > 12)
+    # Try MM/DD/YYYY vs DD/MM/YYYY (U.S. style, check for day > 12)
     if "/" in date_str:
         parts = [p.strip() for p in date_str.split("/")]
         if len(parts) == 3 and all(p.isdigit() for p in parts):
