@@ -1,7 +1,19 @@
 import boto3
 import xml.etree.ElementTree as ET
 import os
+from datetime import datetime
+import logging
 
+# Add a timestamp to the log file name
+log_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'logs')
+os.makedirs(log_dir, exist_ok=True)
+timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+log_filename = os.path.join(log_dir, f'display_dates_debug_{timestamp}.log')
+logging.basicConfig(
+    filename=log_filename,
+    level=logging.DEBUG,
+    format='%(asctime)s %(levelname)s %(message)s'
+)
 # DEBUG: Script started
 print('DEBUG: Starting dpla_xmloutput.py')
 
@@ -55,7 +67,7 @@ NSMAP = {
 for prefix, uri in NSMAP.items():
     if prefix:  # skip default namespace
         ET.register_namespace(prefix, uri)
-        print(f'DEBUG: Registered namespace {prefix}: {uri}')
+        #rint(f'DEBUG: Registered namespace {prefix}: {uri}')
 
 # Function to look up ISO 639-2 code from language codes DynamoDB table
 def get_iso_639_2_code(iso_639_1):
@@ -84,6 +96,153 @@ def get_permalink(item):
     print(f"WARNING: Could not construct permalink for item: long_url_path={long_url_path}, item_type={item_type}, noid={noid}")
     return ""
 
+def is_likely_date(s):
+    # Accepts YYYY-MM-DD, YYYY-MM, YYYY/MM/DD, YYYY/MM, or 4-digit year
+    s = s.strip()
+    if len(s) == 4 and s.isdigit():
+        return True
+    try:
+        datetime.strptime(s, "%Y-%m-%d")
+        return True
+    except Exception:
+        pass
+    try:
+        datetime.strptime(s, "%Y-%m")
+        return True
+    except Exception:
+        pass
+    try:
+        datetime.strptime(s, "%Y/%m/%d")
+        return True
+    except Exception:
+        pass
+    try:
+        datetime.strptime(s, "%Y/%m")
+        return True
+    except Exception:
+        pass
+    return False
+
+def parse_display_date(date_str):
+    """
+    Parse a date string and return it in YYYY-MM-DD format if possible.
+    - If the input is already YYYY-MM-DD, return as is.
+    - If only year is present, return just the year.
+    - If year and month, return YYYY-MM.
+    - If blank or unparseable, return 'undated'.
+    - For ambiguous MM/DD/YYYY or DD/MM/YYYY, prefer U.S. style (MM/DD/YYYY), but if day > 12, treat as DD/MM/YYYY.
+    - Parse a date string and return a list of YYYY-MM-DD formatted dates.
+    - Handles single dates, date ranges (two dates), and multi-date lists separated by '/'.
+    """
+    if not date_str or not date_str.strip():
+        return ["undated"]
+    date_str = date_str.strip()
+
+    # Handle multi-date lists like '1984-02-23/1984-05-31/1984-09-27/1985-01-31/1985-04-25'
+    if "/" in date_str and not any(c.isalpha() for c in date_str):
+        parts = [p.strip() for p in date_str.split("/")]
+        # Only treat as multi-date if ALL parts are likely dates
+        if len(parts) > 1 and all(is_likely_date(p) for p in parts):
+            dates = []
+            for part in parts:
+                single = parse_display_date(part)
+                if isinstance(single, list):
+                    dates.extend(single)
+                else:
+                    dates.append(single)
+            return dates
+
+    # If already in YYYY-MM-DD, return as is
+    try:
+        dt = datetime.strptime(date_str, "%Y-%m-%d")
+        return [dt.strftime("%Y-%m-%d")]
+    except Exception:
+        pass
+
+    # Try YYYY/MM/DD
+    try:
+        dt = datetime.strptime(date_str, "%Y/%m/%d")
+        return [dt.strftime("%Y-%m-%d")]
+    except Exception:
+        pass
+
+    # Try MM/DD/YYYY vs DD/MM/YYYY (U.S. style preferred, but check for day > 12)
+    if "/" in date_str:
+        parts = [p.strip() for p in date_str.split("/")]
+        if len(parts) == 3 and all(p.isdigit() for p in parts):
+            month, day, year = int(parts[0]), int(parts[1]), int(parts[2])
+            # If month > 12, it's likely DD/MM/YYYY
+            if month > 12:
+                try:
+                    dt = datetime.strptime(date_str, "%d/%m/%Y")
+                    return [dt.strftime("%Y-%m-%d")]
+                except Exception:
+                    pass
+            else:
+                try:
+                    dt = datetime.strptime(date_str, "%m/%d/%Y")
+                    return [dt.strftime("%Y-%m-%d")]
+                except Exception:
+                    pass
+
+    # Try MM-DD-YYYY vs DD-MM-YYYY (U.S. style preferred, but check for day > 12)
+    if "-" in date_str:
+        parts = date_str.split("-")
+        if len(parts) == 3 and all(p.isdigit() for p in parts):
+            month, day, year = int(parts[0]), int(parts[1]), int(parts[2])
+            # If day > 12, it's likely DD-MM-YYYY
+            if day > 12:
+                try:
+                    dt = datetime.strptime(date_str, "%d-%m-%Y")
+                    return [dt.strftime("%Y-%m-%d")]
+                except Exception:
+                    pass
+            else:
+                try:
+                    dt = datetime.strptime(date_str, "%m-%d-%Y")
+                    return [dt.strftime("%Y-%m-%d")]
+                except Exception:
+                    pass
+
+    # Try other common formats
+    fmts = [
+        "%Y-%d-%m", "%Y.%m.%d", "%d.%m.%Y",
+        "%B %d, %Y", "%b %d, %Y"
+    ]
+    for fmt in fmts:
+        try:
+            dt = datetime.strptime(date_str, fmt)
+            return [dt.strftime("%Y-%m-%d")]
+        except Exception:
+            continue
+
+    # Handle YYYY-MM or MM-YYYY
+    try:
+        dt = datetime.strptime(date_str, "%Y-%m")
+        return [date_str]  # Only year and month, return as YYYY-MM
+    except Exception:
+        pass
+    try:
+        dt = datetime.strptime(date_str, "%m-%Y")
+        return [dt.strftime("%Y-%m")]
+    except Exception:
+        pass
+
+    # Handle only year
+    try:
+        dt = datetime.strptime(date_str, "%Y")
+        return [date_str]  # Only year
+    except Exception:
+        pass
+
+    # Handle custom cases like YYYY--DD
+    if "--" in date_str:
+        parts = date_str.split("--")
+        if len(parts) == 2 and parts[0].isdigit() and parts[1].isdigit():
+            return [f"{parts[0]}--{parts[1].zfill(2)}"]
+
+    return ["undated"]
+
 def build_xml(item):
     """
     Build XML for a single DynamoDB row.
@@ -107,7 +266,7 @@ def build_xml(item):
                 for v in value:
                     if field == "language":
                         v = get_iso_639_2_code(v)
-                    print(f'DEBUG: Adding multi-value for field "{field}": {v}')
+                    #print(f'DEBUG: Adding multi-value for field "{field}": {v}')
                     ET.SubElement(root, f"{{{NSMAP['dcterms']}}}{field}").text = str(v)
             else:
                 if field == "language":
@@ -141,10 +300,23 @@ def build_xml(item):
         else:
             ET.SubElement(root, f"{{{NSMAP['dcterms']}}}creator").text = str(creator)
 
-    # Always add date element mapped from createdAt if present
-    created_at = item.get("createdAt")
-    if created_at:
-        ET.SubElement(root, f"{{{NSMAP['dcterms']}}}date").text = str(created_at)
+    # Replace createdAt with display_date logic
+    display_dates = item.get("display_date", [])
+    if not isinstance(display_dates, list):
+        display_dates = [display_dates]
+    print(f"DEBUG: Raw display_dates for {item.get('identifier', 'NO IDENTIFIER FOUND')}: {display_dates}")
+    logging.debug(f"Raw display_dates for {item.get('identifier', 'NO IDENTIFIER FOUND')}: {display_dates}")
+    if display_dates:
+        for date_str in display_dates:
+            formatted_dates = parse_display_date(date_str)
+            print(f"DEBUG: Parsed display_date for {item.get('identifier', 'NO IDENTIFIER FOUND')}: {date_str} -> {formatted_dates}")
+            logging.debug(f"Parsed display_date for {item.get('identifier', 'NO IDENTIFIER FOUND')}: {date_str} -> {formatted_dates}")
+            for formatted_date in formatted_dates:
+                ET.SubElement(root, f"{{{NSMAP['dcterms']}}}date").text = formatted_date
+    else:
+        print(f"DEBUG: No display_dates found for {item.get('identifier', 'NO IDENTIFIER FOUND')}, using 'undated'")
+        logging.debug(f"No display_dates found for {item.get('identifier', 'NO IDENTIFIER FOUND')}, using 'undated'")
+        ET.SubElement(root, f"{{{NSMAP['dcterms']}}}date").text = "undated"
 
     print(f'DEBUG: Finished building XML for item: {item.get("identifier", "NO IDENTIFIER FOUND")}')
     return root
@@ -321,7 +493,7 @@ def indent(elem, level=0):
 
 for idx, item in enumerate(items):
     print(f'\nDEBUG: Processing item {idx+1}/{len(items)}')
-    print(f'DEBUG: Raw item: {item}')
+    #rint(f'DEBUG: Raw item: {item}')
     xml_root = build_xml(item)
 
     identifier = item.get("identifier", f"item_{idx+1}")

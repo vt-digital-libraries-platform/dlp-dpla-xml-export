@@ -29,8 +29,8 @@ vtgrad/
 xb17j67j/
 podcast/
 testextract/
-
-
+logs/
+# Do not ignore the following recently edited folders
 !barter/
 !blacksburg-high-school/
 !crewe/
