@@ -18,7 +18,7 @@ from bs4 import BeautifulSoup
 import os
 
 # Configuration
-DYNAMODB_TABLE = os.environ.get('LANGUAGE_CODES_TABLE')
+LANGUAGE_CODES_TABLE = os.environ.get('LANGUAGE_CODES_TABLE')
 REGION = os.environ.get('REGION')
 
 # Download the code list
@@ -29,26 +29,26 @@ response.raise_for_status()
 soup = BeautifulSoup(response.text, "html.parser")
 
 # Connect to DynamoDB
-print(f"Connecting to DynamoDB table '{DYNAMODB_TABLE}' in region '{REGION}' ...")
+print(f"Connecting to DynamoDB table '{LANGUAGE_CODES_TABLE}' in region '{REGION}' ...")
 dynamodb = boto3.resource('dynamodb', region_name=REGION)
 
 def create_table_if_not_exists():
     existing_tables = [t.name for t in dynamodb.tables.all()]
-    if DYNAMODB_TABLE not in existing_tables:
-        print(f"Table '{DYNAMODB_TABLE}' does not exist. Creating ...")
+    if LANGUAGE_CODES_TABLE not in existing_tables:
+        print(f"Table '{LANGUAGE_CODES_TABLE}' does not exist. Creating ...")
         table = dynamodb.create_table(
-            TableName=DYNAMODB_TABLE,
+            TableName=LANGUAGE_CODES_TABLE,
             KeySchema=[{'AttributeName': 'iso_639_1', 'KeyType': 'HASH'}],
             AttributeDefinitions=[{'AttributeName': 'iso_639_1', 'AttributeType': 'S'}],
             BillingMode='PAY_PER_REQUEST',
         )
         table.wait_until_exists()
-        print(f"Table '{DYNAMODB_TABLE}' created.")
+        print(f"Table '{LANGUAGE_CODES_TABLE}' created.")
     else:
-        print(f"Table '{DYNAMODB_TABLE}' already exists.")
+        print(f"Table '{LANGUAGE_CODES_TABLE}' already exists.")
 
 create_table_if_not_exists()
-table = dynamodb.Table(DYNAMODB_TABLE)
+table = dynamodb.Table(LANGUAGE_CODES_TABLE)
 
 # Parse and insert
 rows = soup.find_all('tr')[1:]  # skip header
