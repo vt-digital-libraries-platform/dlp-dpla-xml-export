@@ -309,12 +309,11 @@ def build_xml(item):
             formatted_dates = parse_display_date(date_str)
             print(f"DEBUG: Parsed display_date for {item.get('identifier', 'NO IDENTIFIER FOUND')}: {date_str} -> {formatted_dates}")
             logging.debug(f"Parsed display_date for {item.get('identifier', 'NO IDENTIFIER FOUND')}: {date_str} -> {formatted_dates}")
-            for formatted_date in formatted_dates:
-                ET.SubElement(root, f"{{{NSMAP['dcterms']}}}date").text = formatted_date
-    else:
-        print(f"DEBUG: No display_dates found for {item.get('identifier', 'NO IDENTIFIER FOUND')}, using 'undated'")
-        logging.debug(f"No display_dates found for {item.get('identifier', 'NO IDENTIFIER FOUND')}, using 'undated'")
-        ET.SubElement(root, f"{{{NSMAP['dcterms']}}}date").text = "undated"
+            # Only add date tags if not undated
+            if formatted_dates != ["undated"]:
+                for formatted_date in formatted_dates:
+                    ET.SubElement(root, f"{{{NSMAP['dcterms']}}}date").text = formatted_date
+# Do nothing if undated or no display_dates
 
     print(f'DEBUG: Finished building XML for item: {item.get("identifier", "NO IDENTIFIER FOUND")}')
     return root
