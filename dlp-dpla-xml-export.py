@@ -121,126 +121,6 @@ def is_likely_date(s):
         pass
     return False
 
-def parse_display_date(date_str):
-    """
-    Parse a date string and return it in YYYY-MM-DD format if possible.
-    - If the input is already YYYY-MM-DD, return as is.
-    - If only year is present, return just the year.
-    - If year and month, return YYYY-MM.
-    - If blank or unparseable, return 'undated'.
-    - For ambiguous MM/DD/YYYY or DD/MM/YYYY, prefer U.S. style (MM/DD/YYYY), but if day > 12, treat as DD/MM/YYYY.
-    - Parse a date string and return a list of YYYY-MM-DD formatted dates.
-    - Handles single dates, date ranges (two dates), and multi-date lists separated by '/'.
-    """
-    if not date_str or not date_str.strip():
-        return ["undated"]
-    date_str = date_str.strip()
-
-    # Handle multi-date lists like '1984-02-23/1984-05-31/1984-09-27/1985-01-31/1985-04-25'
-    if "/" in date_str and not any(c.isalpha() for c in date_str):
-        parts = [p.strip() for p in date_str.split("/")]
-        # Only treat as multi-date if ALL parts are likely dates
-        if len(parts) > 1 and all(is_likely_date(p) for p in parts):
-            dates = []
-            for part in parts:
-                single = parse_display_date(part)
-                if isinstance(single, list):
-                    dates.extend(single)
-                else:
-                    dates.append(single)
-            return dates
-
-    # If already in YYYY-MM-DD, return as is
-    try:
-        dt = datetime.strptime(date_str, "%Y-%m-%d")
-        return [dt.strftime("%Y-%m-%d")]
-    except Exception:
-        pass
-
-    # Try YYYY/MM/DD
-    try:
-        dt = datetime.strptime(date_str, "%Y/%m/%d")
-        return [dt.strftime("%Y-%m-%d")]
-    except Exception:
-        pass
-
-    # Try MM/DD/YYYY vs DD/MM/YYYY (U.S. style, check for day > 12)
-    if "/" in date_str:
-        parts = [p.strip() for p in date_str.split("/")]
-        if len(parts) == 3 and all(p.isdigit() for p in parts):
-            month, day, year = int(parts[0]), int(parts[1]), int(parts[2])
-            # If month > 12, it's likely DD/MM/YYYY
-            if month > 12:
-                try:
-                    dt = datetime.strptime(date_str, "%d/%m/%Y")
-                    return [dt.strftime("%Y-%m-%d")]
-                except Exception:
-                    pass
-            else:
-                try:
-                    dt = datetime.strptime(date_str, "%m/%d/%Y")
-                    return [dt.strftime("%Y-%m-%d")]
-                except Exception:
-                    pass
-
-    # Try MM-DD-YYYY vs DD-MM-YYYY (U.S. style preferred, but check for day > 12)
-    if "-" in date_str:
-        parts = date_str.split("-")
-        if len(parts) == 3 and all(p.isdigit() for p in parts):
-            month, day, year = int(parts[0]), int(parts[1]), int(parts[2])
-            # If day > 12, it's likely DD-MM-YYYY
-            if day > 12:
-                try:
-                    dt = datetime.strptime(date_str, "%d-%m-%Y")
-                    return [dt.strftime("%Y-%m-%d")]
-                except Exception:
-                    pass
-            else:
-                try:
-                    dt = datetime.strptime(date_str, "%m-%d-%Y")
-                    return [dt.strftime("%Y-%m-%d")]
-                except Exception:
-                    pass
-
-    # Try other common formats
-    fmts = [
-        "%Y-%d-%m", "%Y.%m.%d", "%d.%m.%Y",
-        "%B %d, %Y", "%b %d, %Y"
-    ]
-    for fmt in fmts:
-        try:
-            dt = datetime.strptime(date_str, fmt)
-            return [dt.strftime("%Y-%m-%d")]
-        except Exception:
-            continue
-
-    # Handle YYYY-MM or MM-YYYY
-    try:
-        dt = datetime.strptime(date_str, "%Y-%m")
-        return [date_str]  # Only year and month, return as YYYY-MM
-    except Exception:
-        pass
-    try:
-        dt = datetime.strptime(date_str, "%m-%Y")
-        return [dt.strftime("%Y-%m")]
-    except Exception:
-        pass
-
-    # Handle only year
-    try:
-        dt = datetime.strptime(date_str, "%Y")
-        return [date_str]  # Only year
-    except Exception:
-        pass
-
-    # Handle custom cases like YYYY--DD
-    if "--" in date_str:
-        parts = date_str.split("--")
-        if len(parts) == 2 and parts[0].isdigit() and parts[1].isdigit():
-            return [f"{parts[0]}--{parts[1].zfill(2)}"]
-
-    return ["undated"]
-
 def build_xml(item):
     """
     Build XML for a single DynamoDB row.
@@ -298,22 +178,20 @@ def build_xml(item):
         else:
             ET.SubElement(root, f"{{{NSMAP['dcterms']}}}creator").text = str(creator)
 
-    # Replace createdAt with display_date logic
-    display_dates = item.get("display_date", [])
-    if not isinstance(display_dates, list):
-        display_dates = [display_dates]
-    print(f"DEBUG: Raw display_dates for {item.get('identifier', 'NO IDENTIFIER FOUND')}: {display_dates}")
-    logging.debug(f"Raw display_dates for {item.get('identifier', 'NO IDENTIFIER FOUND')}: {display_dates}")
-    if display_dates:
-        for date_str in display_dates:
-            formatted_dates = parse_display_date(date_str)
-            print(f"DEBUG: Parsed display_date for {item.get('identifier', 'NO IDENTIFIER FOUND')}: {date_str} -> {formatted_dates}")
-            logging.debug(f"Parsed display_date for {item.get('identifier', 'NO IDENTIFIER FOUND')}: {date_str} -> {formatted_dates}")
-            # Only add date tags if not undated
-            if formatted_dates != ["undated"]:
-                for formatted_date in formatted_dates:
-                    ET.SubElement(root, f"{{{NSMAP['dcterms']}}}date").text = formatted_date
-# Do nothing if undated or no display_dates
+    # Replace createdAt with created_at date logic
+    created_at = item.get("createdAt")
+    date_value = None
+    if isinstance(created_at, list):
+        # If for some reason it's a list, take the first value
+        created_at = created_at[0] if created_at else None
+    if created_at and isinstance(created_at, str):
+        # Extract just the date part (YYYY-MM-DD) from ISO 8601
+        try:
+            date_value = created_at.split("T")[0]
+        except Exception:
+            date_value = None
+    if date_value:
+        ET.SubElement(root, f"{{{NSMAP['dcterms']}}}date").text = date_value
 
     print(f'DEBUG: Finished building XML for item: {item.get("identifier", "NO IDENTIFIER FOUND")}')
     return root
