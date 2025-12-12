@@ -47,3 +47,7 @@ logs/
 !vt-catalog/
 !vtec/
 !vtgrad-catalog/
+*.csv
+update_archive_dates_from_csv.py
+dynamodb_column_uniques.py
+.github/
