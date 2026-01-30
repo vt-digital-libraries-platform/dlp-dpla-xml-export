@@ -50,4 +50,6 @@ logs/
 *.csv
 update_archive_dates_from_csv.py
 dynamodb_column_uniques.py
-.github/
+.github/*
+!.github/workflows/
+unique_medium_values_cleaned.txt

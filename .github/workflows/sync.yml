@@ -1,0 +1,40 @@
+name: Sync folders to dplava/vt
+
+on:
+  push:
+    branches:
+      - main
+      - feature/xml-output-test
+  workflow_dispatch:
+
+jobs:
+  sync-folders:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source repo
+        uses: actions/checkout@v4
+
+      - name: Prepare temp directory with only folders (no .sh, .py, or root files)
+        run: |
+          mkdir temp-sync
+          shopt -s dotglob
+          for d in */ ; do
+            if [ -d "$d" ] && [[ "$d" != ".git/" && "$d" != ".github/" ]]; then
+              mkdir -p "temp-sync/$d"
+              rsync -av --exclude='*.sh' --exclude='*.py' --exclude='*.*' --prune-empty-dirs "$d" "temp-sync/"
+            fi
+          done
+
+      - name: Push to target repo (overwrite target folders)
+        env:
+          TOKEN: ${{ secrets.synctokendplava }}
+        run: |
+          cd temp-sync
+          git init
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add .
+          git commit -m "Sync folders from dlp-dpla-xml-export (folders only, no .sh, .py, or root files)"
+          git branch -M main
+          git remote add target https://x-access-token:${TOKEN}@github.com/dplava/vt.git
+          git push --force target main:main
