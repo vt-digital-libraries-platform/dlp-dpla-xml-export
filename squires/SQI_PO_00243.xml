@@ -12,12 +12,13 @@ dplava.xsd">
     <dcterms:contributor>John F. Kennedy Center for the Performing Arts (U.S.); American Theatre Association. University and College Theatre Association (producer); U.S. Department of Education (supporter); Amoco companies (sponsor)</dcterms:contributor>
     <dcterms:subject>Theater</dcterms:subject>
     <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:spatial>Blacksburg, Montgomery, Virginia, United States</dcterms:spatial>
     <dcterms:medium>posters</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
-    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/fm72s50c</edm:isShownAt>
-    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/SQI_PO/tiles/SQI_PO_00243-1/full/163,/0/default.jpg</edm:preview>
-    <dcterms:date>2024-06-19</dcterms:date>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/g656m48j</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/SQI_PO/tiles/SQI_PO_00243-1/full/163,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-09-17</dcterms:date>
 </mdRecord>

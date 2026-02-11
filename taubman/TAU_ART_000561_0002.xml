@@ -7,17 +7,14 @@ dplava.xsd">
 
     <dcterms:identifier>TAU_ART_000561_0002</dcterms:identifier>
     <dcterms:title>ECBATANA - INNER WALL</dcterms:title>
-    <dcterms:subject>Virginia</dcterms:subject>
-    <dcterms:subject>Art</dcterms:subject>
-    <dcterms:subject>DRAWINGS</dcterms:subject>
+    <dcterms:subject>Virginia,Art,DRAWING</dcterms:subject>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>ink and colored pencil</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
-    <dcterms:rights>&lt;a href="http://rightsstatements.org/page/InC-EDU/1.0/?language=en"&gt;http://rightsstatements.org/vocab/InC-EDU/1.0/&lt;/a&gt;</dcterms:rights>
-    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries (Digital)</dcterms:provenance>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
-    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/9p13pz4n</edm:isShownAt>
-    <edm:preview>https://img.cloud.lib.vt.edu/swva/TAU_ART/tiles/TAU_ART_000561_0002-1/full/244,/0/default.jpg</edm:preview>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/5e967da5</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000561_0002-1/full/244,/0/default.jpg</edm:preview>
     <dcterms:creator>RIEMANN, PETER C. (West German, Born 1945)</dcterms:creator>
-    <dcterms:date>2022-12-15T18:32:20.962Z</dcterms:date>
+    <dcterms:date>2024-11-13</dcterms:date>
 </mdRecord>

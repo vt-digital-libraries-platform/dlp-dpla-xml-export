@@ -6,18 +6,15 @@
 dplava.xsd">
 
     <dcterms:identifier>TAU_ART_000850_0001</dcterms:identifier>
-    <dcterms:title>STENCIL [DIAGONAL STRIPES]</dcterms:title>
-    <dcterms:subject>Virginia</dcterms:subject>
-    <dcterms:subject>Art</dcterms:subject>
-    <dcterms:subject>STENCILS</dcterms:subject>
+    <dcterms:title>TENCIL DIAGONAL TRIPE</dcterms:title>
+    <dcterms:subject>Virginia,Art,TENCIL</dcterms:subject>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>stencil</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
-    <dcterms:rights>&lt;a href="http://rightsstatements.org/page/InC-EDU/1.0/?language=en"&gt;http://rightsstatements.org/vocab/InC-EDU/1.0/&lt;/a&gt;</dcterms:rights>
-    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries (Digital)</dcterms:provenance>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
-    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/z580kg8z</edm:isShownAt>
-    <edm:preview>https://img.cloud.lib.vt.edu/swva/TAU_ART/tiles/TAU_ART_000850_0001-1/full/172,/0/default.jpg</edm:preview>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/2b66bb37</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000850_0001-1/full/172,/0/default.jpg</edm:preview>
     <dcterms:creator>(Japanese)</dcterms:creator>
-    <dcterms:date>2022-12-15T18:38:32.406Z</dcterms:date>
+    <dcterms:date>2024-11-13</dcterms:date>
 </mdRecord>

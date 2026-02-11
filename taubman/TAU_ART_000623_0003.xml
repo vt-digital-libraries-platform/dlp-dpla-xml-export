@@ -6,18 +6,15 @@
 dplava.xsd">
 
     <dcterms:identifier>TAU_ART_000623_0003</dcterms:identifier>
-    <dcterms:title>PORTRAIT OF A YOUNG MAN [WILLIAM H. MACDOWELL]</dcterms:title>
-    <dcterms:subject>Virginia</dcterms:subject>
-    <dcterms:subject>Art</dcterms:subject>
-    <dcterms:subject>WATER MEDIA</dcterms:subject>
+    <dcterms:title>PORTRAIT OF A YOUNG MAN WILLIAM H. MACDOWELL</dcterms:title>
+    <dcterms:subject>Virginia,Art,WATER MEDIA</dcterms:subject>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Gouache and ink on vellum</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
-    <dcterms:rights>&lt;a href="http://rightsstatements.org/page/InC-EDU/1.0/?language=en"&gt;http://rightsstatements.org/vocab/InC-EDU/1.0/&lt;/a&gt;</dcterms:rights>
-    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries (Digital)</dcterms:provenance>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
-    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/0z83mq7x</edm:isShownAt>
-    <edm:preview>https://img.cloud.lib.vt.edu/swva/TAU_ART/tiles/TAU_ART_000623_0003-1/full/199,/0/default.jpg</edm:preview>
-    <dcterms:creator>SCHOOL, AMERICAN (United States, 1904-1977)</dcterms:creator>
-    <dcterms:date>2022-12-15T18:32:47.762Z</dcterms:date>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/f10beebf</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000623_0003-1/full/199,/0/default.jpg</edm:preview>
+    <dcterms:creator>CHOOL, AMERICAN (United tates, 1904-1977)</dcterms:creator>
+    <dcterms:date>2024-11-13</dcterms:date>
 </mdRecord>

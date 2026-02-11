@@ -53,3 +53,4 @@ dynamodb_column_uniques.py
 .github/*
 !.github/workflows/
 unique_medium_values_cleaned.txt
+run_production.sh

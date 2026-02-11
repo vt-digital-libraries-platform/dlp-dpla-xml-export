@@ -17,6 +17,7 @@ import requests
 from bs4 import BeautifulSoup
 import os
 
+# quit()
 # Configuration
 LANGUAGE_CODES_TABLE = os.environ.get('LANGUAGE_CODES_TABLE')
 REGION = os.environ.get('REGION')

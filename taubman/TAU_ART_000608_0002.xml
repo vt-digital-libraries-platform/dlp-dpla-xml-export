@@ -6,17 +6,14 @@
 dplava.xsd">
 
     <dcterms:identifier>TAU_ART_000608_0002</dcterms:identifier>
-    <dcterms:title>NUDE PHOTO OF CARRIE MACDOWELL AS A BABY</dcterms:title>
-    <dcterms:subject>Virginia</dcterms:subject>
-    <dcterms:subject>Art</dcterms:subject>
-    <dcterms:subject>PHOTOGRAPHS</dcterms:subject>
+    <dcterms:title>NUDE PHOTO OF CARRIE MACDOWELL A A BABY</dcterms:title>
+    <dcterms:subject>Virginia,Art,PHOTOGRAPH</dcterms:subject>
     <dcterms:type>Image</dcterms:type>
     <dcterms:format>image/tiff</dcterms:format>
-    <dcterms:rights>&lt;a href="http://rightsstatements.org/page/InC-EDU/1.0/?language=en"&gt;http://rightsstatements.org/vocab/InC-EDU/1.0/&lt;/a&gt;</dcterms:rights>
-    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries (Digital)</dcterms:provenance>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
-    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/mm31r44j</edm:isShownAt>
-    <edm:preview>https://img.cloud.lib.vt.edu/swva/TAU_ART/tiles/TAU_ART_000608_0002-1/full/178,/0/default.jpg</edm:preview>
-    <dcterms:creator>KENTON, ELIZABETH MACDOWELL (United States, 1858-1953)</dcterms:creator>
-    <dcterms:date>2022-12-15T18:32:40.301Z</dcterms:date>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/55e307d8</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000608_0002-1/full/178,/0/default.jpg</edm:preview>
+    <dcterms:creator>KENTON, ELIZABETH MACDOWELL (United tates, 1858-1953)</dcterms:creator>
+    <dcterms:date>2024-11-13</dcterms:date>
 </mdRecord>

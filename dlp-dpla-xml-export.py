@@ -133,7 +133,7 @@ def build_xml(item):
     dcterms_fields = [
         "identifier", "title", "description", "language", "contributor",
         "subject", "type", "isPartOf", "spatial", "medium", "format",
-        "rights", "provenance"
+        "rights"
     ]
 
 

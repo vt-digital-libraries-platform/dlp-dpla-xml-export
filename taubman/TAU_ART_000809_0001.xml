@@ -6,18 +6,15 @@
 dplava.xsd">
 
     <dcterms:identifier>TAU_ART_000809_0001</dcterms:identifier>
-    <dcterms:title>NIGHT VIEW OF YOSHIHARA BANK AT SUMIDA</dcterms:title>
-    <dcterms:subject>Virginia</dcterms:subject>
-    <dcterms:subject>Art</dcterms:subject>
-    <dcterms:subject>PRINTS</dcterms:subject>
+    <dcterms:title>NIGHT VIEW OF YOHIHARA BANK AT UMIDA</dcterms:title>
+    <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>woodcut</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
-    <dcterms:rights>&lt;a href="http://rightsstatements.org/page/InC-EDU/1.0/?language=en"&gt;http://rightsstatements.org/vocab/InC-EDU/1.0/&lt;/a&gt;</dcterms:rights>
-    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries (Digital)</dcterms:provenance>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
-    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/r825248q</edm:isShownAt>
-    <edm:preview>https://img.cloud.lib.vt.edu/swva/TAU_ART/tiles/TAU_ART_000809_0001-1/full/159,/0/default.jpg</edm:preview>
-    <dcterms:creator>HIROSHIGE, ICHIRYUSAI (Japanese, 1797-1858)</dcterms:creator>
-    <dcterms:date>2022-12-15T18:38:15.139Z</dcterms:date>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/f8c82111</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000809_0001-1/full/159,/0/default.jpg</edm:preview>
+    <dcterms:creator>HIROHIGE, ICHIRYUAI (Japanese, 1797-1858)</dcterms:creator>
+    <dcterms:date>2024-11-13</dcterms:date>
 </mdRecord>

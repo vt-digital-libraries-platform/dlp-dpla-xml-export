@@ -6,18 +6,15 @@
 dplava.xsd">
 
     <dcterms:identifier>TAU_ART_001005_0001</dcterms:identifier>
-    <dcterms:title>BREADS GREENS AND EGGS</dcterms:title>
-    <dcterms:subject>Virginia</dcterms:subject>
-    <dcterms:subject>Art</dcterms:subject>
-    <dcterms:subject>DRAWINGS</dcterms:subject>
+    <dcterms:title>BREAD GREEN AND EGG</dcterms:title>
+    <dcterms:subject>Virginia,Art,DRAWING</dcterms:subject>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>mixed conte crayon</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
-    <dcterms:rights>&lt;a href="http://rightsstatements.org/page/InC-EDU/1.0/?language=en"&gt;http://rightsstatements.org/vocab/InC-EDU/1.0/&lt;/a&gt;</dcterms:rights>
-    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries (Digital)</dcterms:provenance>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
-    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/9z25qz89</edm:isShownAt>
-    <edm:preview>https://img.cloud.lib.vt.edu/swva/TAU_ART/tiles/TAU_ART_001005_0001-1/full/250,/0/default.jpg</edm:preview>
-    <dcterms:creator>KNIPE, JANICE (United States, Born 1944)</dcterms:creator>
-    <dcterms:date>2022-12-15T18:41:46.411Z</dcterms:date>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/429cbfcd</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_001005_0001-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:creator>KNIPE, JANICE (United tates, Born 1944)</dcterms:creator>
+    <dcterms:date>2024-11-13</dcterms:date>
 </mdRecord>
