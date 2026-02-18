@@ -1,9 +1,10 @@
-<mdRecord xmlns="http://dplava.lib.virginia.edu"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     xmlns:edm="http://www.europeana.eu/schemas/edm/"
-    xsi:schemaLocation="http://dplava.lib.virginia.edu
-dplava.xsd">
+    xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
 
     <dcterms:identifier>MTG_RNJ_001867</dcterms:identifier>
     <dcterms:title>Radford News Journal (East Radford, VA), Vol. 5, No. 121, Wednesday, June 21, 1950</dcterms:title>
@@ -20,5 +21,5 @@ dplava.xsd">
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/d206a60d</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/MTG/tiles/MTG_RNJ_001867-1/full/201,/0/default.jpg</edm:preview>
-    <dcterms:date>2025-02-08</dcterms:date>
+    <dcterms:created>1950-06-21</dcterms:created>
 </mdRecord>

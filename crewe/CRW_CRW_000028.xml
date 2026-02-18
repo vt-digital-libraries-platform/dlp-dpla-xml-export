@@ -1,9 +1,10 @@
-<mdRecord xmlns="http://dplava.lib.virginia.edu"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     xmlns:edm="http://www.europeana.eu/schemas/edm/"
-    xsi:schemaLocation="http://dplava.lib.virginia.edu
-dplava.xsd">
+    xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
 
     <dcterms:identifier>CRW_CRW_000028</dcterms:identifier>
     <dcterms:title>An ordinance providing for the disposition of a portion of the town of crewe industrial park</dcterms:title>
@@ -21,5 +22,4 @@ dplava.xsd">
     <edm:isShownAt>https://digital.lib.vt.edu/archive/rp81k000</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/CRW/tiles/CRW_CRW_000028-1/full/167,/0/default.jpg</edm:preview>
     <dcterms:creator>Town of Crewe. Town Office</dcterms:creator>
-    <dcterms:date>2024-09-17</dcterms:date>
 </mdRecord>

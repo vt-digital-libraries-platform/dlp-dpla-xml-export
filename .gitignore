@@ -30,6 +30,7 @@ xb17j67j/
 podcast/
 testextract/
 logs/
+__pycache__/
 # Do not ignore the following recently edited folders
 !barter/
 !blacksburg-high-school/
@@ -47,6 +48,7 @@ logs/
 !vt-catalog/
 !vtec/
 !vtgrad-catalog/
+!squires
 *.csv
 update_archive_dates_from_csv.py
 dynamodb_column_uniques.py
@@ -54,3 +56,15 @@ dynamodb_column_uniques.py
 !.github/workflows/
 unique_medium_values_cleaned.txt
 run_production.sh
+check_btr_identifiers.py
+error_log.txt
+run_barter_only.sh
+analyze_display_date_formats.py
+
+# Ignore analysis output files
+display_date_formats_*.txt
+dynamodb_*.csv
+items_no_format_*.csv
+*_formats_*.txt
+unique_collection_folders_*.txt
+error_log.txt

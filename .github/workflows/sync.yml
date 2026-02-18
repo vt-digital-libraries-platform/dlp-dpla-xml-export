@@ -1,11 +1,12 @@
-name: Sync folders to dplava/vt
+name: Sync folders to dplava/vt (DISABLED)
 
-on:
-  push:
-    branches:
-      - main
-      - feature/xml-output-test
-  workflow_dispatch:
+# Workflow disabled - uncomment 'on' section to re-enable
+# on:
+#   push:
+#     branches:
+#       - main
+#       - feature/xml-output-test
+#   workflow_dispatch:
 
 jobs:
   sync-folders:

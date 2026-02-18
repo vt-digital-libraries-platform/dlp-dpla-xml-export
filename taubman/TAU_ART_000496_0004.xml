@@ -1,12 +1,13 @@
-<mdRecord xmlns="http://dplava.lib.virginia.edu"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     xmlns:edm="http://www.europeana.eu/schemas/edm/"
-    xsi:schemaLocation="http://dplava.lib.virginia.edu
-dplava.xsd">
+    xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
 
     <dcterms:identifier>TAU_ART_000496_0004</dcterms:identifier>
-    <dcterms:title>JUAREZ UITE RECORD</dcterms:title>
+    <dcterms:title>JUAREZ SUITE RECORD</dcterms:title>
     <dcterms:description>Record verso</dcterms:description>
     <dcterms:subject>Virginia,Art,MULTI-MEDIA</dcterms:subject>
     <dcterms:type>Image</dcterms:type>
@@ -17,5 +18,5 @@ dplava.xsd">
     <edm:isShownAt>https://digital.lib.vt.edu/archive/33251129</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000496_0004-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>ALLEN, TERRY (United tates, Born 1943)</dcterms:creator>
-    <dcterms:date>2024-11-13</dcterms:date>
+    <dcterms:created>1976</dcterms:created>
 </mdRecord>

@@ -1,9 +1,10 @@
-<mdRecord xmlns="http://dplava.lib.virginia.edu"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     xmlns:edm="http://www.europeana.eu/schemas/edm/"
-    xsi:schemaLocation="http://dplava.lib.virginia.edu
-dplava.xsd">
+    xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
 
     <dcterms:identifier>SQI_PO_00037</dcterms:identifier>
     <dcterms:title>Madwoman of Chaillot by Jean Giraudoux November 17-21</dcterms:title>
@@ -20,5 +21,4 @@ dplava.xsd">
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/v893cs9x</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/SQI_PO/tiles/SQI_PO_00037-1/full/191,/0/default.jpg</edm:preview>
-    <dcterms:date>2024-09-17</dcterms:date>
 </mdRecord>

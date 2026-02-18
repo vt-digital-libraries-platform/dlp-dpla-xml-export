@@ -14,6 +14,10 @@ logging.basicConfig(
     level=logging.DEBUG,
     format='%(asctime)s %(levelname)s %(message)s'
 )
+
+# Set up warning file for identifier issues and fallbacks
+multiple_identifiers_warning_file = os.path.join(log_dir, f'identifier_warnings_{timestamp}.txt')
+
 # DEBUG: Script started
 print('DEBUG: Starting dpla_xmloutput.py')
 
@@ -59,6 +63,7 @@ NSMAP = {
     "dcterms": "http://purl.org/dc/terms/",
     "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
     "edm": "http://www.europeana.eu/schemas/edm/",
+    "xsi": "http://www.w3.org/2001/XMLSchema-instance",
     None: "http://dplava.lib.virginia.edu"
 }
 # DEBUG: Registering XML namespaces
@@ -126,8 +131,10 @@ def build_xml(item):
     Build XML for a single DynamoDB row.
     """
     print(f'DEBUG: Building XML for item: {item.get("identifier", "NO IDENTIFIER FOUND")}')
-        # Create root with minimal attributes, custom serialization will handle formatting
+    # Create root with minimal attributes, custom serialization will handle formatting
     root = ET.Element("mdRecord")
+    # Add xsi:schemaLocation attribute
+    root.set(f"{{{NSMAP['xsi']}}}schemaLocation", "http://dplava.lib.virginia.edu dplava.xsd")
 
     # Loop over expected dcterms fields
     dcterms_fields = [
@@ -135,7 +142,6 @@ def build_xml(item):
         "subject", "type", "isPartOf", "spatial", "medium", "format",
         "rights"
     ]
-
 
     for field in dcterms_fields:
         if field in item:
@@ -177,22 +183,19 @@ def build_xml(item):
                 ET.SubElement(root, f"{{{NSMAP['dcterms']}}}creator").text = str(c)
         else:
             ET.SubElement(root, f"{{{NSMAP['dcterms']}}}creator").text = str(creator)
-
-    # Replace createdAt with created_at date logic
-    created_at = item.get("createdAt")
-    date_value = None
-    if isinstance(created_at, list):
-        # If for some reason it's a list, take the first value
-        created_at = created_at[0] if created_at else None
-    if created_at and isinstance(created_at, str):
-        # Extract just the date part (YYYY-MM-DD) from ISO 8601
-        try:
-            date_value = created_at.split("T")[0]
-        except Exception:
-            date_value = None
-    if date_value:
-        ET.SubElement(root, f"{{{NSMAP['dcterms']}}}date").text = date_value
-
+            
+    # Add display_date as created element
+    display_date = item.get("display_date")
+    if display_date:
+        if isinstance(display_date, list):
+            # Join all list items with comma
+            display_date = ", ".join([str(d).strip() for d in display_date if d and str(d).strip()])
+        if display_date and isinstance(display_date, str):
+            display_date = display_date.strip()
+            if display_date:  # Only add if not empty after stripping
+                ET.SubElement(root, f"{{{NSMAP['dcterms']}}}created").text = display_date
+        
+        
     print(f'DEBUG: Finished building XML for item: {item.get("identifier", "NO IDENTIFIER FOUND")}')
     return root
 
@@ -371,10 +374,63 @@ for idx, item in enumerate(items):
     #rint(f'DEBUG: Raw item: {item}')
     xml_root = build_xml(item)
 
-    identifier = item.get("identifier", f"item_{idx+1}")
-    print(f'DEBUG: Current identifier: {identifier}')
-    file_name = identifier + ".xml"
+    # Use other_identifier for file naming, fallback to identifier if not available
+    other_id = item.get("other_identifier")
+    identifier_value = item.get("identifier")
+    
+    # Determine which identifier to use and log if using fallback
+    if other_id:
+        file_identifier = other_id
+    elif identifier_value:
+        # Fallback to identifier field
+        file_identifier = identifier_value
+        warning_msg = (
+            f"INFO: Item missing other_identifier, using 'identifier' field as fallback\n"
+            f"  identifier: {identifier_value}\n"
+            f"  Using for filename: {identifier_value}\n"
+            f"  title: {item.get('title', 'N/A')}\n"
+            f"  {'-'*60}\n"
+        )
+        print(warning_msg)
+        with open(multiple_identifiers_warning_file, 'a', encoding='utf-8') as f:
+            f.write(warning_msg)
+    else:
+        # Final fallback to item number
+        file_identifier = f"item_{idx+1}"
+        warning_msg = (
+            f"WARNING: Item missing both other_identifier AND identifier, using generated name\n"
+            f"  Generated filename: item_{idx+1}\n"
+            f"  title: {item.get('title', 'N/A')}\n"
+            f"  {'-'*60}\n"
+        )
+        print(warning_msg)
+        with open(multiple_identifiers_warning_file, 'a', encoding='utf-8') as f:
+            f.write(warning_msg)
+    
+    # Handle case where other_identifier might be a list
+    if isinstance(file_identifier, list):
+        # Check if there are multiple identifiers and log warning
+        if len(file_identifier) > 1:
+            warning_msg = (
+                f"WARNING: Item has multiple other_identifiers\n"
+                f"  identifier: {item.get('identifier', 'N/A')}\n"
+                f"  other_identifier values: {file_identifier}\n"
+                f"  Using first value: {file_identifier[0]}\n"
+                f"  title: {item.get('title', 'N/A')}\n"
+                f"  {'-'*60}\n"
+            )
+            print(warning_msg)
+            # Write to warning file
+            with open(multiple_identifiers_warning_file, 'a', encoding='utf-8') as f:
+                f.write(warning_msg)
+        
+        file_identifier = file_identifier[0] if file_identifier else f"item_{idx+1}"
+    
+    print(f'DEBUG: File identifier (for filename): {file_identifier}')
+    file_name = file_identifier + ".xml"
 
+    # Use identifier field for folder mapping (based on prefix)
+    identifier = item.get("identifier", "")
     output_subdir = get_output_subdir(identifier)
     print(f'DEBUG: Output subdir from mapping: {output_subdir}')
 
@@ -397,12 +453,13 @@ for idx, item in enumerate(items):
             def serialize_with_custom_root(root_elem):
                 # Build the exact root opening tag
                 root_tag = (
-                    '<mdRecord xmlns="http://dplava.lib.virginia.edu"\n'
-                    '    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"\n'
-                    '    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"\n'
+                    '<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"\n'
+                    '    xmlns:dcterms="http://purl.org/dc/terms/"\n'
+                    '    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"\n'
                     '    xmlns:edm="http://www.europeana.eu/schemas/edm/"\n'
-                    '    xsi:schemaLocation="http://dplava.lib.virginia.edu\n'
-                    'dplava.xsd">'
+                    '    xmlns="http://dplava.lib.virginia.edu"\n'
+                    '    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"\n'
+                    '    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">'
                 )
                 # Serialize children
                 children = ET.tostring(root_elem, encoding="unicode", method="xml")
@@ -420,3 +477,18 @@ for idx, item in enumerate(items):
     except Exception as e:
         print(f'ERROR: Failed to write XML file {file_path}: {e}')
         print(f'DEBUG: Identifier {identifier} mapped to folder: {output_dir}')
+
+# Print summary about multiple identifiers
+print("\n" + "="*70)
+print("SCRIPT COMPLETE")
+print("="*70)
+if os.path.exists(multiple_identifiers_warning_file) and os.path.getsize(multiple_identifiers_warning_file) > 0:
+    print(f"⚠️  NOTICE: Some items have identifier issues or used fallbacks!")
+    print(f"    Review this file: {multiple_identifiers_warning_file}")
+    print(f"    Issues may include:")
+    print(f"      - Multiple other_identifier values (using first)")
+    print(f"      - Missing other_identifier (using identifier field)")
+    print(f"      - Missing both identifiers (using generated name)")
+else:
+    print(f"✅ All items have single other_identifier values. No fallbacks used.")
+print("="*70)

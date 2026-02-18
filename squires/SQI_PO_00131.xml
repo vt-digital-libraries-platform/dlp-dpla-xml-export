@@ -1,9 +1,10 @@
-<mdRecord xmlns="http://dplava.lib.virginia.edu"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     xmlns:edm="http://www.europeana.eu/schemas/edm/"
-    xsi:schemaLocation="http://dplava.lib.virginia.edu
-dplava.xsd">
+    xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
 
     <dcterms:identifier>SQI_PO_00131</dcterms:identifier>
     <dcterms:title>She Stoops to Conquer The Mistakes of a Night by Oliver Goldsmith</dcterms:title>
@@ -21,5 +22,5 @@ dplava.xsd">
     <edm:isShownAt>https://digital.lib.vt.edu/archive/c413pf6d</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/SQI_PO/tiles/SQI_PO_00131-1/full/170,/0/default.jpg</edm:preview>
     <dcterms:creator>Butterfield, Tom</dcterms:creator>
-    <dcterms:date>2024-09-17</dcterms:date>
+    <dcterms:created>1984-11-27/1984-12-01</dcterms:created>
 </mdRecord>
