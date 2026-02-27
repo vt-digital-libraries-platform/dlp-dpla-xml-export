@@ -8,8 +8,9 @@
 
     <dcterms:identifier>TAU_ART_001075_0001</dcterms:identifier>
     <dcterms:title>TAUBMAN PANORAMA TAUBMAN VIEW, eries of four paintings</dcterms:title>
-    <dcterms:description>William White's panorama panels on display</dcterms:description>
+    <dcterms:description>William White&apos;s panorama panels on display</dcterms:description>
     <dcterms:subject>Virginia,Art,PAINTING</dcterms:subject>
+    <dcterms:date>2011</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Oil on canvas</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -18,5 +19,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/9b3c1506</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_001075_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>WHITE, WILLIAM G. (United tates, Born 1945)</dcterms:creator>
-    <dcterms:created>2011</dcterms:created>
 </mdRecord>

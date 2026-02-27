@@ -10,6 +10,7 @@
     <dcterms:title>WOODED POND</dcterms:title>
     <dcterms:description>igned Vera Mason</dcterms:description>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1965</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>woodcut</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -18,5 +19,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/c78b1611</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000893_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>MAON, VERA (United tates)</dcterms:creator>
-    <dcterms:created>1965</dcterms:created>
 </mdRecord>

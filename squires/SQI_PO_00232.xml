@@ -8,11 +8,12 @@
 
     <dcterms:identifier>SQI_PO_00232</dcterms:identifier>
     <dcterms:title>Winter Concert</dcterms:title>
-    <dcterms:description>Production poster for Winter Concert. Intracollegiate Band, David Widder, Conductor with Guest Piano Soloist, Ron Chiles. Gershwin's \\\"Rhapsody in Blue\\\".</dcterms:description>
+    <dcterms:description>Production poster for Winter Concert. Intracollegiate Band, David Widder, Conductor with Guest Piano Soloist, Ron Chiles. Gershwin&apos;s \\&quot;Rhapsody in Blue\\&quot;.</dcterms:description>
     <dcterms:language>eng</dcterms:language>
     <dcterms:contributor>Virginia Polytechnic Institute and State University. Department of Performing Arts and Communications</dcterms:contributor>
     <dcterms:subject>Concerts</dcterms:subject>
     <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:date>3/3/1974</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:spatial>Blacksburg, Montgomery, Virginia, United States</dcterms:spatial>
     <dcterms:medium>posters</dcterms:medium>
@@ -21,5 +22,4 @@
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/3431q79m</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/SQI_PO/tiles/SQI_PO_00232-1/full/196,/0/default.jpg</edm:preview>
-    <dcterms:created>3/3/1974</dcterms:created>
 </mdRecord>

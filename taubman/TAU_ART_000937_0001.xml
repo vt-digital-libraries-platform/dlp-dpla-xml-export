@@ -10,6 +10,7 @@
     <dcterms:title>MERRY CHRITMA TO ALL</dcterms:title>
     <dcterms:description>Recto</dcterms:description>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>no date</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Engraving on newsprint</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -18,5 +19,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/41e04784</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000937_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>NAT, THOMA (United tates, born Germany, 1840-1902)</dcterms:creator>
-    <dcterms:created>no date</dcterms:created>
 </mdRecord>

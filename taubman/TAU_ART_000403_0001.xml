@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000403_0001</dcterms:identifier>
     <dcterms:title>JONGLEUR</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1921</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>lithograph</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/28c12917</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000403_0001-1/full/183,/0/default.jpg</edm:preview>
     <dcterms:creator>ROUAULT, GEORGE (French, 1871-1958)</dcterms:creator>
-    <dcterms:created>1921</dcterms:created>
 </mdRecord>

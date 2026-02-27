@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_001180_0001</dcterms:identifier>
     <dcterms:title>ENVELOPE DOGLIKE BEAT AND PIPE</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>no date</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>woodblock printing</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/88021127</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_001180_0001-1/full/182,/0/default.jpg</edm:preview>
     <dcterms:creator>(\Japanese, dates unknown\)</dcterms:creator>
-    <dcterms:created>no date</dcterms:created>
 </mdRecord>

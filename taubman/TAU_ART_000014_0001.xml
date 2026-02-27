@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000014_0001</dcterms:identifier>
     <dcterms:title>PALM BAY</dcterms:title>
     <dcterms:subject>Virginia,Art,PHOTOGRAPH</dcterms:subject>
+    <dcterms:date>1977</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>hand-colored photograph</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/2d515a6d</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000014_0001-1/full/194,/0/default.jpg</edm:preview>
     <dcterms:creator>LYON-BRUNO, LENNY (United tates, Born 1947)</dcterms:creator>
-    <dcterms:created>1977</dcterms:created>
 </mdRecord>

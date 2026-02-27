@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000223_0001</dcterms:identifier>
     <dcterms:title>AARON TAYING THE PLAGUE</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1811</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>engraving</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/fa793b8e</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000223_0001-1/full/176,/0/default.jpg</edm:preview>
     <dcterms:creator>MOE, HENRY (British, 1782-1870)</dcterms:creator>
-    <dcterms:created>1811</dcterms:created>
 </mdRecord>

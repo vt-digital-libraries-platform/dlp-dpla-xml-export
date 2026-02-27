@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000871_0001</dcterms:identifier>
     <dcterms:title>POTURE OF CONTEMPLATION</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1959</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Woodcut</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/16c3802a</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000871_0001-1/full/160,/0/default.jpg</edm:preview>
     <dcterms:creator>DANTO, ARTHUR (United tates, 1924 - 2013)</dcterms:creator>
-    <dcterms:created>1959</dcterms:created>
 </mdRecord>

@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000375_0002</dcterms:identifier>
     <dcterms:title>LA ENTRADA</dcterms:title>
     <dcterms:subject>Virginia,Art,DRAWING</dcterms:subject>
+    <dcterms:date>1931</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>pencil</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/7f49a162</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000375_0002-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>BITTRAM, EMIL (United tates. Born in Romania, 1895 - 1976)</dcterms:creator>
-    <dcterms:created>1931</dcterms:created>
 </mdRecord>

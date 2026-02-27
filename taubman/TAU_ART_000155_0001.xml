@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000155_0001</dcterms:identifier>
     <dcterms:title>TWO BLACK BIRD</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>ca. 1945</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>linocut</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/e21b44e5</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000155_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>FLINT, WILLIAM LEROY (United tates, 1909-1991)</dcterms:creator>
-    <dcterms:created>ca. 1945</dcterms:created>
 </mdRecord>

@@ -7,8 +7,9 @@
     xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
 
     <dcterms:identifier>TAU_ART_000211_0001</dcterms:identifier>
-    <dcterms:title>L'HOMME A L'OILLET</dcterms:title>
+    <dcterms:title>L&apos;HOMME A L&apos;OILLET</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>ca. 1878</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>engraving</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/6721c173</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000211_0001-1/full/191,/0/default.jpg</edm:preview>
     <dcterms:creator>GAILLARD, CLAUDE FERDINAND (French, 1834-1887)</dcterms:creator>
-    <dcterms:created>ca. 1878</dcterms:created>
 </mdRecord>

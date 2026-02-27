@@ -12,6 +12,7 @@
     <dcterms:language>eng</dcterms:language>
     <dcterms:subject>Theater</dcterms:subject>
     <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:date>10/20/1984</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:spatial>Blacksburg, Montgomery, Virginia, United States</dcterms:spatial>
     <dcterms:medium>posters</dcterms:medium>
@@ -21,5 +22,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/bb93525k</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/SQI_PO/tiles/SQI_PO_00247-1/full/189,/0/default.jpg</edm:preview>
     <dcterms:creator>Butterfield, Tom</dcterms:creator>
-    <dcterms:created>10/20/1984</dcterms:created>
 </mdRecord>

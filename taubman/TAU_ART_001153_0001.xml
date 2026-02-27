@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_001153_0001</dcterms:identifier>
     <dcterms:title>QUADRATET</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>no date</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>silkscreen</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/f7015794</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_001153_0001-1/full/247,/0/default.jpg</edm:preview>
     <dcterms:creator>CRO, GERALD (United tates, 1934-2020)</dcterms:creator>
-    <dcterms:created>no date</dcterms:created>
 </mdRecord>

@@ -10,6 +10,7 @@
     <dcterms:title>BOOK FRAGMENT AMURAI READING; TENT OPENING WITH BOX</dcterms:title>
     <dcterms:description>Tent opening with box</dcterms:description>
     <dcterms:subject>Virginia,Art,BOOK ART</dcterms:subject>
+    <dcterms:date>no date</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>woodblock printing</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -18,5 +19,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/40eb6325</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000678_0003-1/full/169,/0/default.jpg</edm:preview>
     <dcterms:creator>(\Japanese, dates unknown\)</dcterms:creator>
-    <dcterms:created>no date</dcterms:created>
 </mdRecord>

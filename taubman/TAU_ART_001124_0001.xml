@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_001124_0001</dcterms:identifier>
     <dcterms:title>INNER PECTRUM</dcterms:title>
     <dcterms:subject>Virginia,Art,PAINTING</dcterms:subject>
+    <dcterms:date>undated, no later than 1960</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Oil Canvas</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/18068497</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_001124_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>JAMION, ARLAN (United tates)</dcterms:creator>
-    <dcterms:created>undated, no later than 1960</dcterms:created>
 </mdRecord>

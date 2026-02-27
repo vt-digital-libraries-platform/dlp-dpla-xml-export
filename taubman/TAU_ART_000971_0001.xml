@@ -10,6 +10,7 @@
     <dcterms:title>TRICTLY KOHER</dcterms:title>
     <dcterms:description>Colophon</dcterms:description>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>no date</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>etching</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -18,5 +19,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/b32d6680</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000971_0001-1/full/167,/0/default.jpg</edm:preview>
     <dcterms:creator>LIMBACH, RUEL T. (United tates, Born 1904)</dcterms:creator>
-    <dcterms:created>no date</dcterms:created>
 </mdRecord>

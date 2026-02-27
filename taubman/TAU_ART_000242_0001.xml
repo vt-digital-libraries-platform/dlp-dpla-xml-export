@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000242_0001</dcterms:identifier>
     <dcterms:title>FELICITY</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1937</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>lithograph</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/575fe7f8</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000242_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>TAIT, AGNE (United tates, 1894-1981)</dcterms:creator>
-    <dcterms:created>1937</dcterms:created>
 </mdRecord>

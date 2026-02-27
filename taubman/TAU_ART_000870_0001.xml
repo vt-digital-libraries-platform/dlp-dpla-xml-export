@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000870_0001</dcterms:identifier>
     <dcterms:title>TRIUMPH OF WEED</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1959</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Etching on rag paper</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/5e24505f</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000870_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>PETERDI, GABOR F. (Hungarian-American, 1915-2001)</dcterms:creator>
-    <dcterms:created>1959</dcterms:created>
 </mdRecord>

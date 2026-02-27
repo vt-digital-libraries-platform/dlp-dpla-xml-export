@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000715_0001</dcterms:identifier>
     <dcterms:title>BOAT IN HARBOR</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>no date</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>woodblock print</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/51258a72</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000715_0001-1/full/163,/0/default.jpg</edm:preview>
     <dcterms:creator>HIROHIGE, ICHIRYUAI (Japanese, 1797-1858)</dcterms:creator>
-    <dcterms:created>no date</dcterms:created>
 </mdRecord>

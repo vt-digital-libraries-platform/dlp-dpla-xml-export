@@ -10,6 +10,7 @@
     <dcterms:title>JUAREZ UITE RECORD</dcterms:title>
     <dcterms:description>Recto</dcterms:description>
     <dcterms:subject>Virginia,Art,MULTI-MEDIA</dcterms:subject>
+    <dcterms:date>1976</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>33-rpm record</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -18,5 +19,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/57f20f8a</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000496_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>ALLEN, TERRY (United tates, Born 1943)</dcterms:creator>
-    <dcterms:created>1976</dcterms:created>
 </mdRecord>

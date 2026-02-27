@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000632_0001</dcterms:identifier>
     <dcterms:title>GLOUCETER</dcterms:title>
     <dcterms:subject>Virginia,Art,WATER MEDIA</dcterms:subject>
+    <dcterms:date>circa 1895</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Watercolor on paper</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/c7e0d6f2</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000632_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>KENTON, ELIZABETH MACDOWELL (United tates, 1858-1953)</dcterms:creator>
-    <dcterms:created>circa 1895</dcterms:created>
 </mdRecord>

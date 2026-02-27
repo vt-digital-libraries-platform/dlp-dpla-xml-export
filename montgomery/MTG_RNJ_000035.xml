@@ -12,6 +12,7 @@
     <dcterms:language>eng</dcterms:language>
     <dcterms:subject>Virginia</dcterms:subject>
     <dcterms:subject>Newspapers</dcterms:subject>
+    <dcterms:date>1949-03-02</dcterms:date>
     <dcterms:type>Text</dcterms:type>
     <dcterms:spatial>Radford, Virginia, United States</dcterms:spatial>
     <dcterms:medium>newspapers</dcterms:medium>
@@ -20,5 +21,4 @@
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/a0cb1884</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/MTG/tiles/MTG_RNJ_000035-1/full/196,/0/default.jpg</edm:preview>
-    <dcterms:created>1949-03-02</dcterms:created>
 </mdRecord>

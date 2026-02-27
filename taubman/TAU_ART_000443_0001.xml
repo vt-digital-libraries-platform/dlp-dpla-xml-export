@@ -10,6 +10,7 @@
     <dcterms:title>UNTITLED</dcterms:title>
     <dcterms:description>igned hanks</dcterms:description>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>ca. 1950-1955</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>etching</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -18,5 +19,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/4da3df8b</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000443_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>HANK (United tates)</dcterms:creator>
-    <dcterms:created>ca. 1950-1955</dcterms:created>
 </mdRecord>

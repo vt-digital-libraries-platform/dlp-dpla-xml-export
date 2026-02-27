@@ -7,9 +7,10 @@
     xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
 
     <dcterms:identifier>TAU_ART_000297_0012</dcterms:identifier>
-    <dcterms:title>LET' TALK</dcterms:title>
+    <dcterms:title>LET&apos; TALK</dcterms:title>
     <dcterms:description>Print in the portfolio 10 ARTIT A CATALYT</dcterms:description>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1992</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>serigraph</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -18,5 +19,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/bc0731cd</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000297_0012-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>PIPER, ADRIAN (United tates, Born 1948)</dcterms:creator>
-    <dcterms:created>1992</dcterms:created>
 </mdRecord>

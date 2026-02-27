@@ -7,8 +7,9 @@
     xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
 
     <dcterms:identifier>TAU_ART_001135_0042</dcterms:identifier>
-    <dcterms:title>THE DRUM'S. THE TAPESTRY ROOM.WEYER CAVE. CENTRAL R.R. AUGUTA COUNTY VA.</dcterms:title>
+    <dcterms:title>THE DRUM&apos;S. THE TAPESTRY ROOM.WEYER CAVE. CENTRAL R.R. AUGUTA COUNTY VA.</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1857</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>lithograph</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/b0f6b7d6</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_001135_0042-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>BEYER, EDWARD (German, 1820 - 1865)</dcterms:creator>
-    <dcterms:created>1857</dcterms:created>
 </mdRecord>

@@ -7,8 +7,9 @@
     xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
 
     <dcterms:identifier>TAU_ART_000653_0001</dcterms:identifier>
-    <dcterms:title>ELIZA COWPERTHWAITE, EAKIN' AUNT, 1729 MT. VERNON STREET, PHILADELPHIA</dcterms:title>
+    <dcterms:title>ELIZA COWPERTHWAITE, EAKIN&apos; AUNT, 1729 MT. VERNON STREET, PHILADELPHIA</dcterms:title>
     <dcterms:subject>Virginia,Art,PHOTOGRAPH</dcterms:subject>
+    <dcterms:date>original 1880&apos;s; reprint 1976</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Gelatin silver print photograph</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/8b3f95ec</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000653_0001-1/full/208,/0/default.jpg</edm:preview>
     <dcterms:creator>EAKIN, THOMA COWPERTHWAITE (United tates, 1844-1916)</dcterms:creator>
-    <dcterms:created>original 1880's; reprint 1976</dcterms:created>
 </mdRecord>

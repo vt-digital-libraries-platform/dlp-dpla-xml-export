@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000040_0001</dcterms:identifier>
     <dcterms:title>PORTRAIT OF WILLIAM H. MACDOWELL WITH DOG</dcterms:title>
     <dcterms:subject>Virginia,Art,PAINTING</dcterms:subject>
+    <dcterms:date>circa 1878</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Oil Canvas</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/eaa03e1b</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000040_0001-1/full/206,/0/default.jpg</edm:preview>
     <dcterms:creator>EAKIN, UAN MACDOWELL (United tates, 1851-1938)</dcterms:creator>
-    <dcterms:created>circa 1878</dcterms:created>
 </mdRecord>

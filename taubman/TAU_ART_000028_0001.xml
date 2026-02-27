@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000028_0001</dcterms:identifier>
     <dcterms:title>GRANDFATHER MACDOWELL</dcterms:title>
     <dcterms:subject>Virginia,Art,PAINTING</dcterms:subject>
+    <dcterms:date>1879</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Oil Fredrix canvasboard</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/c7026a8a</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000028_0001-1/full/177,/0/default.jpg</edm:preview>
     <dcterms:creator>EAKIN, UAN MACDOWELL (United tates, 1851-1938)</dcterms:creator>
-    <dcterms:created>1879</dcterms:created>
 </mdRecord>

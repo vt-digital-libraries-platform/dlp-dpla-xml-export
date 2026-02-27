@@ -7,8 +7,9 @@
     xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
 
     <dcterms:identifier>TAU_ART_000945_0004</dcterms:identifier>
-    <dcterms:title>Receipt for First Payment on Moses Brought to Pharoah's Daughter and t. Paul before Felix</dcterms:title>
+    <dcterms:title>Receipt for First Payment on Moses Brought to Pharoah&apos;s Daughter and t. Paul before Felix</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1746 - 1782</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Engraving</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/6b00cb5d</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000945_0004-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>HOGARTH, WILLIAM (British, 1697-1764)</dcterms:creator>
-    <dcterms:created>1746 - 1782</dcterms:created>
 </mdRecord>

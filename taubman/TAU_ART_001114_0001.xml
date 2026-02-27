@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_001114_0001</dcterms:identifier>
     <dcterms:title>PAPER PLATE</dcterms:title>
     <dcterms:subject>Virginia,Art,WORK ON PAPER</dcterms:subject>
+    <dcterms:date>1969</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>silkscreened cardboard plate</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/66f0520d</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_001114_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>LICHTENTEIN, ROY (United tates, 1923-1997)</dcterms:creator>
-    <dcterms:created>1969</dcterms:created>
 </mdRecord>

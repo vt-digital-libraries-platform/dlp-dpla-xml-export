@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000512_0001</dcterms:identifier>
     <dcterms:title>NIPE IN RAIN</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>circa 1912</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>woodcut</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/4cde8fcb</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000512_0001-1/full/138,/0/default.jpg</edm:preview>
     <dcterms:creator>OHARA, KOON (Japanese, 1877-1945)</dcterms:creator>
-    <dcterms:created>circa 1912</dcterms:created>
 </mdRecord>

@@ -10,6 +10,7 @@
     <dcterms:title>UNTITLED</dcterms:title>
     <dcterms:description>verso</dcterms:description>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1961</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>serigraph</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -18,5 +19,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/aa45fdf0</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000380_0002-1/full/198,/0/default.jpg</edm:preview>
     <dcterms:creator>BUNCH, CLARENCE (United tates)</dcterms:creator>
-    <dcterms:created>1961</dcterms:created>
 </mdRecord>

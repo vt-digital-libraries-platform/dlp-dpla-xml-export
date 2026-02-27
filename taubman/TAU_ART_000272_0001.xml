@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000272_0001</dcterms:identifier>
     <dcterms:title>CHILD AT WINDOW</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1949</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>lithograph</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/7f577cd8</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000272_0001-1/full/170,/0/default.jpg</edm:preview>
     <dcterms:creator>CHAPIN, JAME (United tates, 1887 - 1975)</dcterms:creator>
-    <dcterms:created>1949</dcterms:created>
 </mdRecord>

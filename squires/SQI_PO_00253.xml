@@ -12,6 +12,7 @@
     <dcterms:language>eng</dcterms:language>
     <dcterms:contributor>Virginia Tech Union</dcterms:contributor>
     <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:date>10/19/1984</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:spatial>Blacksburg, Montgomery, Virginia, United States</dcterms:spatial>
     <dcterms:medium>posters</dcterms:medium>
@@ -20,5 +21,4 @@
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/1x32wx6s</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/SQI_PO/tiles/SQI_PO_00253-1/full/188,/0/default.jpg</edm:preview>
-    <dcterms:created>10/19/1984</dcterms:created>
 </mdRecord>

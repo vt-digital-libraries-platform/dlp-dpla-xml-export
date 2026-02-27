@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000287_0001</dcterms:identifier>
     <dcterms:title>DIOGENE</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1952</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>lithograph</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/d52a9a2d</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000287_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>GROPPER, WILLIAM (United tates, 1897-1977)</dcterms:creator>
-    <dcterms:created>1952</dcterms:created>
 </mdRecord>

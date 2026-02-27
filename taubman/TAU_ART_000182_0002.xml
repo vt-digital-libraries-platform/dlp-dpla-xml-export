@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000182_0002</dcterms:identifier>
     <dcterms:title>UNTITLED CARD</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1960 - 1975</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>print on paper</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/6530c0a7</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000182_0002-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>UNITED TATE KRIEL, HAROLD (United tates, 1920-1995)</dcterms:creator>
-    <dcterms:created>1960 - 1975</dcterms:created>
 </mdRecord>

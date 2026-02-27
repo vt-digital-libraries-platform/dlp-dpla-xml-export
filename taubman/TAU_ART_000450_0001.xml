@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000450_0001</dcterms:identifier>
     <dcterms:title>TATION #50 PRING RAIN AT TUCHIYAMA TUCHIYAMA, HARU NO AME</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1833</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Polychrome woodblock print</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/c2f7c249</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000450_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>HIROHIGE, ICHIRYUAI (Japanese, 1797-1858)</dcterms:creator>
-    <dcterms:created>1833</dcterms:created>
 </mdRecord>

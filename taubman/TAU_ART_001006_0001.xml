@@ -7,8 +7,9 @@
     xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
 
     <dcterms:identifier>TAU_ART_001006_0001</dcterms:identifier>
-    <dcterms:title>UNDAY GO-TO MEETIN'</dcterms:title>
+    <dcterms:title>UNDAY GO-TO MEETIN&apos;</dcterms:title>
     <dcterms:subject>Virginia,Art,WATER MEDIA</dcterms:subject>
+    <dcterms:date>1940 - 1950</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Watercolor Mattboard</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/fd5fe9a8</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_001006_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>PALMER, ALLEN INGLE (United tates, 1910-1950)</dcterms:creator>
-    <dcterms:created>1940 - 1950</dcterms:created>
 </mdRecord>

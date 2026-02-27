@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000048_0001</dcterms:identifier>
     <dcterms:title>CRUCIFIXION</dcterms:title>
     <dcterms:subject>Virginia,Art,PAINTING</dcterms:subject>
+    <dcterms:date>ca. 1990</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Housepaint on wood</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/98297e9d</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000048_0001-1/full/140,/0/default.jpg</edm:preview>
     <dcterms:creator>TOLLIVER, MOE (United tates, 1920-2006)</dcterms:creator>
-    <dcterms:created>ca. 1990</dcterms:created>
 </mdRecord>

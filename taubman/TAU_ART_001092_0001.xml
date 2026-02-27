@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_001092_0001</dcterms:identifier>
     <dcterms:title>ORNAMENT</dcterms:title>
     <dcterms:subject>Virginia,Art,METAL</dcterms:subject>
+    <dcterms:date>ca. 1980</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>\bronze, copper silver on fabric covered framed panel\</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/1fd3bb06</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_001092_0001-1/full/209,/0/default.jpg</edm:preview>
     <dcterms:creator>CODY, BRUCE (United tates, Born 1955)</dcterms:creator>
-    <dcterms:created>ca. 1980</dcterms:created>
 </mdRecord>

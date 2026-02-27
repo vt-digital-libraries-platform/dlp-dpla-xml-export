@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000153_0002</dcterms:identifier>
     <dcterms:title>CHRITMA CARD</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>mid-20th century</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>linocut</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/47543536</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000153_0002-1/full/187,/0/default.jpg</edm:preview>
     <dcterms:creator>CORER, JEAN (American)</dcterms:creator>
-    <dcterms:created>mid-20th century</dcterms:created>
 </mdRecord>

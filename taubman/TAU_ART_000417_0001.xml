@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000417_0001</dcterms:identifier>
     <dcterms:title>TAUFCHEIN FOR PETER ROLAR</dcterms:title>
     <dcterms:subject>Virginia,Art,DRAWING</dcterms:subject>
+    <dcterms:date>ca. 1804</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>watercolor and ink on paper</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/e8bcc85f</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000417_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>BARNHART, PETER (United tates)</dcterms:creator>
-    <dcterms:created>ca. 1804</dcterms:created>
 </mdRecord>

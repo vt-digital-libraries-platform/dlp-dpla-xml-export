@@ -7,8 +7,9 @@
     xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
 
     <dcterms:identifier>TAU_ART_000004_0001</dcterms:identifier>
-    <dcterms:title>KATE, PEGGY, JOIE, IRMA, AND POLLY ON JOIE' 88TH BIRTHDAY</dcterms:title>
+    <dcterms:title>KATE, PEGGY, JOIE, IRMA, AND POLLY ON JOIE&apos; 88TH BIRTHDAY</dcterms:title>
     <dcterms:subject>Virginia,Art,PHOTOGRAPH</dcterms:subject>
+    <dcterms:date>1988</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>silver tone print with selinium toner</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/13c20040</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000004_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>MOLLER, JONATHAN (United tates, Born 1963)</dcterms:creator>
-    <dcterms:created>1988</dcterms:created>
 </mdRecord>

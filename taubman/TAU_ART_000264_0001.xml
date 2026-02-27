@@ -7,8 +7,9 @@
     xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
 
     <dcterms:identifier>TAU_ART_000264_0001</dcterms:identifier>
-    <dcterms:title>CHAD' PLACE</dcterms:title>
+    <dcterms:title>CHAD&apos; PLACE</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1952</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>etching</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/91fb9514</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000264_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>THAL, AM (United tates, 1903-1964)</dcterms:creator>
-    <dcterms:created>1952</dcterms:created>
 </mdRecord>

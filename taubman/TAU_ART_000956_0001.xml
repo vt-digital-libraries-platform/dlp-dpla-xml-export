@@ -7,8 +7,9 @@
     xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
 
     <dcterms:identifier>TAU_ART_000956_0001</dcterms:identifier>
-    <dcterms:title>NEWPORT A WINTER' DAY</dcterms:title>
+    <dcterms:title>NEWPORT A WINTER&apos; DAY</dcterms:title>
     <dcterms:subject>Virginia,Art,WATER MEDIA</dcterms:subject>
+    <dcterms:date>1978</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Watercolor on paper</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/d6f8f295</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000956_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>FITZPATRICK, ERIC (United tates, Born 1953)</dcterms:creator>
-    <dcterms:created>1978</dcterms:created>
 </mdRecord>

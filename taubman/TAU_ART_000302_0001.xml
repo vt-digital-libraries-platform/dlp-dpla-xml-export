@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000302_0001</dcterms:identifier>
     <dcterms:title>ILENCE AND NOW</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1951</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>monoprint</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/0edf5eac</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000302_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>KING, GWYNETH (United tates, born Wales, 1908-1985)</dcterms:creator>
-    <dcterms:created>1951</dcterms:created>
 </mdRecord>

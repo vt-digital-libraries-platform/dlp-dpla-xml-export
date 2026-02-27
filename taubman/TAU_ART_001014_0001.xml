@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_001014_0001</dcterms:identifier>
     <dcterms:title>IN REPLENDENT PLACE</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1968</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>color lithograph</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/b12ae52e</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_001014_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>BELKIN, ARNOLD (Canadian-Mexican, 1930 - 1992)</dcterms:creator>
-    <dcterms:created>1968</dcterms:created>
 </mdRecord>

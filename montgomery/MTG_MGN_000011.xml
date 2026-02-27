@@ -12,6 +12,7 @@
     <dcterms:language>eng</dcterms:language>
     <dcterms:subject>Virginia</dcterms:subject>
     <dcterms:subject>Newspapers</dcterms:subject>
+    <dcterms:date>1928-03-15</dcterms:date>
     <dcterms:type>Text</dcterms:type>
     <dcterms:spatial>Christiansburg, Montgomery, Virginia, United States</dcterms:spatial>
     <dcterms:medium>newspapers</dcterms:medium>
@@ -20,5 +21,4 @@
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/fa469494</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/MTG/tiles/MTG_MGN_000011-1/full/189,/0/default.jpg</edm:preview>
-    <dcterms:created>1928-03-15</dcterms:created>
 </mdRecord>

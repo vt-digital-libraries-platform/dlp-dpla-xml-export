@@ -15,6 +15,7 @@
     <dcterms:subject>Newspapers</dcterms:subject>
     <dcterms:subject>Genealogy</dcterms:subject>
     <dcterms:subject>History</dcterms:subject>
+    <dcterms:date>1951-05-23</dcterms:date>
     <dcterms:type>Text</dcterms:type>
     <dcterms:spatial>Radford, Virginia, United States</dcterms:spatial>
     <dcterms:medium>newspapers</dcterms:medium>
@@ -23,5 +24,4 @@
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/f4c3934f</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/MTG/tiles/MTG_RNJ_002145-1/full/202,/0/default.jpg</edm:preview>
-    <dcterms:created>1951-05-23</dcterms:created>
 </mdRecord>

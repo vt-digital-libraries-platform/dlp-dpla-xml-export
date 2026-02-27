@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000032_0001</dcterms:identifier>
     <dcterms:title>AMPLER</dcterms:title>
     <dcterms:subject>Virginia,Art,TEXTILE</dcterms:subject>
+    <dcterms:date>1826</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>ilk on linen</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/fdd52315</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000032_0001-1/full/232,/0/default.jpg</edm:preview>
     <dcterms:creator>GARDNER, ELIZABETH (United tates, 1837-1922)</dcterms:creator>
-    <dcterms:created>1826</dcterms:created>
 </mdRecord>

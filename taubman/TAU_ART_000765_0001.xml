@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000765_0001</dcterms:identifier>
     <dcterms:title>WALNUT</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>ca. 1970</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>mezzotint</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/135e32bc</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000765_0001-1/full/210,/0/default.jpg</edm:preview>
     <dcterms:creator>ATO, M. (Japanese, Born 1941-?)</dcterms:creator>
-    <dcterms:created>ca. 1970</dcterms:created>
 </mdRecord>

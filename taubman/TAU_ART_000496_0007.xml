@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000496_0007</dcterms:identifier>
     <dcterms:title>JUAREZ SUITE</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1976</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:format>image/tiff</dcterms:format>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
@@ -16,5 +17,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/c731e1e3</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000496_0007-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>ALLEN, TERRY (United tates, Born 1943)</dcterms:creator>
-    <dcterms:created>1976</dcterms:created>
 </mdRecord>

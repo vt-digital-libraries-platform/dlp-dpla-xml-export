@@ -7,13 +7,14 @@
     xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
 
     <dcterms:identifier>SQI_PO_00142</dcterms:identifier>
-    <dcterms:title>Summer Arts Festival '92</dcterms:title>
-    <dcterms:description>Production poster for Summer Arts Festival '92, events include Outdoor concerts, Theatre, Celebrations and Festivals, and VTU Films.</dcterms:description>
+    <dcterms:title>Summer Arts Festival &apos;92</dcterms:title>
+    <dcterms:description>Production poster for Summer Arts Festival &apos;92, events include Outdoor concerts, Theatre, Celebrations and Festivals, and VTU Films.</dcterms:description>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:contributor>Virginia Polytechnic Institute and State University. Division of Performing Arts; Virginia Tech Union; Blacksburg's Parks and Recreation Department</dcterms:contributor>
+    <dcterms:contributor>Virginia Polytechnic Institute and State University. Division of Performing Arts; Virginia Tech Union; Blacksburg&apos;s Parks and Recreation Department</dcterms:contributor>
     <dcterms:subject>Theater</dcterms:subject>
     <dcterms:subject>Concerts</dcterms:subject>
     <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:date>1992-05-20/1992-08-08</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:spatial>Blacksburg, Montgomery, Virginia, United States</dcterms:spatial>
     <dcterms:medium>posters</dcterms:medium>
@@ -22,5 +23,4 @@
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/zf65zp3m</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/SQI_PO/tiles/SQI_PO_00142-1/full/250,/0/default.jpg</edm:preview>
-    <dcterms:created>1992-05-20/1992-08-08</dcterms:created>
 </mdRecord>

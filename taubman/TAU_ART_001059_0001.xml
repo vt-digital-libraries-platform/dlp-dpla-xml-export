@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_001059_0001</dcterms:identifier>
     <dcterms:title>THE NATURAL BRIDGE</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1820</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Hand-tinted Aquatint Paper</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/938eb5cb</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_001059_0001-1/full/160,/0/default.jpg</edm:preview>
     <dcterms:creator>DRAYTON, J.</dcterms:creator>
-    <dcterms:created>1820</dcterms:created>
 </mdRecord>

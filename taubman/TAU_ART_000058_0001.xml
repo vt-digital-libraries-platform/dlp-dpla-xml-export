@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000058_0001</dcterms:identifier>
     <dcterms:title>UNBAND II</dcterms:title>
     <dcterms:subject>Virginia,Art,PAINTING</dcterms:subject>
+    <dcterms:date>1975</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Acrylic and oil Canvas</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/5e405bee</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000058_0001-1/full/201,/0/default.jpg</edm:preview>
     <dcterms:creator>CALCAGNO, LAWRENCE (United tates, Born 1913)</dcterms:creator>
-    <dcterms:created>1975</dcterms:created>
 </mdRecord>

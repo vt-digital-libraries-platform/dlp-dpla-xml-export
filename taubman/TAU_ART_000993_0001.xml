@@ -10,6 +10,7 @@
     <dcterms:title>PENNYLVANIA TURNPIKE</dcterms:title>
     <dcterms:description>Recto</dcterms:description>
     <dcterms:subject>Virginia,Art,WATER MEDIA</dcterms:subject>
+    <dcterms:date>1947</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>watercolor on paper</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -18,5 +19,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/0c2b6876</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000993_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>DEHN, ADOLF (United tates, 1895 - 1968)</dcterms:creator>
-    <dcterms:created>1947</dcterms:created>
 </mdRecord>

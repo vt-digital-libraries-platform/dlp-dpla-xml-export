@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000775_0001</dcterms:identifier>
     <dcterms:title>LE VIEUX THREE TATE OF THE AME PRINT</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1879-1880</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>1 drypoint etching; 2 and 3 etching with added drypoint and aquatint;</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/67be75c6</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000775_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>BUHOT, FELIX (French, 1847 - 1898)</dcterms:creator>
-    <dcterms:created>1879-1880</dcterms:created>
 </mdRecord>

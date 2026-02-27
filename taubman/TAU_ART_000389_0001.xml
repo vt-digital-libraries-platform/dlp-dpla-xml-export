@@ -10,6 +10,7 @@
     <dcterms:title>ACT AND MONUMENT OF THE CHRITIAN MARTYR, PAGE I</dcterms:title>
     <dcterms:description>Recto</dcterms:description>
     <dcterms:subject>Virginia,Art,BOOK ART</dcterms:subject>
+    <dcterms:date>no date</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>woodcut</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -18,5 +19,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/a3266386</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000389_0001-1/full/161,/0/default.jpg</edm:preview>
     <dcterms:creator>(English)</dcterms:creator>
-    <dcterms:created>no date</dcterms:created>
 </mdRecord>

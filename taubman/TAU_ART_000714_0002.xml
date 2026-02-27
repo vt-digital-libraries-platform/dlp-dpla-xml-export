@@ -10,6 +10,7 @@
     <dcterms:title>ENVELOPE BAMBOO LUICE</dcterms:title>
     <dcterms:description>Verso</dcterms:description>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>no date</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>woodblock print</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -18,5 +19,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/4d24f03b</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000714_0002-1/full/246,/0/default.jpg</edm:preview>
     <dcterms:creator>(Japan)</dcterms:creator>
-    <dcterms:created>no date</dcterms:created>
 </mdRecord>

@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000633_0001</dcterms:identifier>
     <dcterms:title>IN HELTER</dcterms:title>
     <dcterms:subject>Virginia,Art,WATER MEDIA</dcterms:subject>
+    <dcterms:date>1911</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Watercolor on paper</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/fdcfd3ec</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000633_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>KENTON, ELIZABETH MACDOWELL (United tates, 1858-1953)</dcterms:creator>
-    <dcterms:created>1911</dcterms:created>
 </mdRecord>

@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000296_0002</dcterms:identifier>
     <dcterms:title>FOUR TONE</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>unknown</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Color lithograph</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/084d2b44</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000296_0002-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>FRANCI, AM (United tates, 1923-1994)</dcterms:creator>
-    <dcterms:created>unknown</dcterms:created>
 </mdRecord>

@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_001099_0001</dcterms:identifier>
     <dcterms:title>PORTRAIT</dcterms:title>
     <dcterms:subject>Virginia,Art,PAINTING</dcterms:subject>
+    <dcterms:date>1940</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Oil Board</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/c45a2b1f</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_001099_0001-1/full/221,/0/default.jpg</edm:preview>
     <dcterms:creator>JUNKIN, MARION MONTAGUE (United tates, 1905-1977)</dcterms:creator>
-    <dcterms:created>1940</dcterms:created>
 </mdRecord>

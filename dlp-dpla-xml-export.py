@@ -1,6 +1,7 @@
 import boto3
 import xml.etree.ElementTree as ET
 import os
+import re
 from datetime import datetime
 import logging
 
@@ -99,6 +100,25 @@ def get_permalink(item):
     print(f"WARNING: Could not construct permalink for item: long_url_path={long_url_path}, item_type={item_type}, noid={noid}")
     return ""
 
+def clean_text_for_xml(text):
+    """
+    Clean text by removing backslash escaping before XML generation.
+    ElementTree handles <, >, & escaping automatically.
+    Our serialization handles quote/apostrophe escaping with &quot; and &apos;.
+    """
+    if not text:
+        return text
+    
+    text_str = str(text)
+    
+    # Remove backslash-escaped quotes from source data
+    # DynamoDB has \"  which should become just "
+    # Then our serialization will convert " to &quot;
+    text_str = text_str.replace('\\"', '"')
+    text_str = text_str.replace("\\'", "'")
+    
+    return text_str
+
 def is_likely_date(s):
     # Accepts YYYY-MM-DD, YYYY-MM, YYYY/MM/DD, YYYY/MM, or 4-digit year
     s = s.strip()
@@ -136,26 +156,58 @@ def build_xml(item):
     # Add xsi:schemaLocation attribute
     root.set(f"{{{NSMAP['xsi']}}}schemaLocation", "http://dplava.lib.virginia.edu dplava.xsd")
 
-    # Loop over expected dcterms fields
-    dcterms_fields = [
-        "identifier", "title", "description", "language", "contributor",
-        "subject", "type", "isPartOf", "spatial", "medium", "format",
-        "rights"
+    # Add dcterms fields in specific order with date appearing after subject
+    # Fields before date
+    fields_before_date = [
+        "identifier", "title", "description", "language", "contributor", "subject"
     ]
-
-    for field in dcterms_fields:
+    
+    for field in fields_before_date:
         if field in item:
             value = item[field]
             if isinstance(value, list):
                 for v in value:
                     if field == "language":
                         v = get_iso_639_2_code(v)
-                    #print(f'DEBUG: Adding multi-value for field "{field}": {v}')
-                    ET.SubElement(root, f"{{{NSMAP['dcterms']}}}{field}").text = str(v)
+                    # Clean text to remove backslash escaping before assigning
+                    cleaned_text = clean_text_for_xml(v)
+                    ET.SubElement(root, f"{{{NSMAP['dcterms']}}}{field}").text = cleaned_text
             else:
                 if field == "language":
                     value = get_iso_639_2_code(value)
-                ET.SubElement(root, f"{{{NSMAP['dcterms']}}}{field}").text = str(value)
+                # Clean text to remove backslash escaping before assigning
+                cleaned_text = clean_text_for_xml(value)
+                ET.SubElement(root, f"{{{NSMAP['dcterms']}}}{field}").text = cleaned_text
+
+    # Add display_date as dcterms:date element (immediately after subject elements)
+    display_date = item.get("display_date")
+    if display_date:
+        if isinstance(display_date, list):
+            # Join all list items with comma
+            display_date = ", ".join([str(d).strip() for d in display_date if d and str(d).strip()])
+        if display_date and isinstance(display_date, str):
+            display_date = display_date.strip()
+            if display_date:  # Only add if not empty after stripping
+                cleaned_date = clean_text_for_xml(display_date)
+                ET.SubElement(root, f"{{{NSMAP['dcterms']}}}date").text = cleaned_date
+    
+    # Fields after date
+    fields_after_date = [
+        "type", "isPartOf", "spatial", "medium", "format", "rights"
+    ]
+    
+    for field in fields_after_date:
+        if field in item:
+            value = item[field]
+            if isinstance(value, list):
+                for v in value:
+                    # Clean text to remove backslash escaping before assigning
+                    cleaned_text = clean_text_for_xml(v)
+                    ET.SubElement(root, f"{{{NSMAP['dcterms']}}}{field}").text = cleaned_text
+            else:
+                # Clean text to remove backslash escaping before assigning
+                cleaned_text = clean_text_for_xml(value)
+                ET.SubElement(root, f"{{{NSMAP['dcterms']}}}{field}").text = cleaned_text
 
     # Always add provenance as required by DPLA
     ET.SubElement(
@@ -180,21 +232,11 @@ def build_xml(item):
     if creator:
         if isinstance(creator, list):
             for c in creator:
-                ET.SubElement(root, f"{{{NSMAP['dcterms']}}}creator").text = str(c)
+                cleaned_creator = clean_text_for_xml(c)
+                ET.SubElement(root, f"{{{NSMAP['dcterms']}}}creator").text = cleaned_creator
         else:
-            ET.SubElement(root, f"{{{NSMAP['dcterms']}}}creator").text = str(creator)
-            
-    # Add display_date as created element
-    display_date = item.get("display_date")
-    if display_date:
-        if isinstance(display_date, list):
-            # Join all list items with comma
-            display_date = ", ".join([str(d).strip() for d in display_date if d and str(d).strip()])
-        if display_date and isinstance(display_date, str):
-            display_date = display_date.strip()
-            if display_date:  # Only add if not empty after stripping
-                ET.SubElement(root, f"{{{NSMAP['dcterms']}}}created").text = display_date
-        
+            cleaned_creator = clean_text_for_xml(creator)
+            ET.SubElement(root, f"{{{NSMAP['dcterms']}}}creator").text = cleaned_creator
         
     print(f'DEBUG: Finished building XML for item: {item.get("identifier", "NO IDENTIFIER FOUND")}')
     return root
@@ -467,6 +509,17 @@ for idx, item in enumerate(items):
                 children = children[children.find('>')+1:]
                 # Remove closing tag
                 children = children[:children.rfind('</mdRecord>')]
+                
+                # Escape quotes in element text content (between > and <)
+                # This regex finds text between tags and escapes quotes in it
+                def escape_quotes_in_content(match):
+                    text = match.group(1)
+                    # Only escape if it's element content (not inside tag)
+                    return '>' + text.replace('"', '&quot;').replace("'", '&apos;') + '<'
+                
+                # Replace quotes in text content (between > and <)
+                children = re.sub(r'>([^<>]+)<', escape_quotes_in_content, children)
+                
                 # Compose final XML
                 return f'{root_tag}\n{children}</mdRecord>'
 

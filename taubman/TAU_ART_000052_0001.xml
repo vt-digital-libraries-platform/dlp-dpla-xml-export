@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000052_0001</dcterms:identifier>
     <dcterms:title>PORTRAIT OF MARTHA GREGORY KNIELY</dcterms:title>
     <dcterms:subject>Virginia,Art,PAINTING</dcterms:subject>
+    <dcterms:date>1927</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Oil Canvas</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/c58564a7</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000052_0001-1/full/196,/0/default.jpg</edm:preview>
     <dcterms:creator>ILVETTE, ELLI M. (United tates, 1876-1940)</dcterms:creator>
-    <dcterms:created>1927</dcterms:created>
 </mdRecord>

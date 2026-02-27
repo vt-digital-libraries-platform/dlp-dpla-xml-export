@@ -7,8 +7,9 @@
     xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
 
     <dcterms:identifier>TAU_ART_000776_0001</dcterms:identifier>
-    <dcterms:title>LE HAUT D'UN BATTANT DE PORTE THE TOP OF A WINGING DOOR</dcterms:title>
+    <dcterms:title>LE HAUT D&apos;UN BATTANT DE PORTE THE TOP OF A WINGING DOOR</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1852</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Ethching on laid paper ivory laid paper</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/b909e0ba</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000776_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>BRACQUEMOND, FELIX (French, 1833 - 1914)</dcterms:creator>
-    <dcterms:created>1852</dcterms:created>
 </mdRecord>

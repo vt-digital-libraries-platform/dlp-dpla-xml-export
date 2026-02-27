@@ -8,11 +8,12 @@
 
     <dcterms:identifier>btrst059001</dcterms:identifier>
     <dcterms:title>Barter Theatre at: Holbert L. Harris Theatre, George Mason University</dcterms:title>
-    <dcterms:description>Poster for the 1981-1982 Season of the Barter Theatre. Shows include: Corn is Green Nov 11-29 | Deathtrap Dec 2-20 | On Golden Pond Dec 30-Jan 17 |Talley's Folly: Jan 20- Feb 7 | Heiress Feb 10-28.</dcterms:description>
+    <dcterms:description>Poster for the 1981-1982 Season of the Barter Theatre. Shows include: Corn is Green Nov 11-29 | Deathtrap Dec 2-20 | On Golden Pond Dec 30-Jan 17 |Talley&apos;s Folly: Jan 20- Feb 7 | Heiress Feb 10-28.</dcterms:description>
     <dcterms:language>eng</dcterms:language>
     <dcterms:contributor>Barter Theatre (Organization : Abingdon, Va.)</dcterms:contributor>
     <dcterms:subject>Theater</dcterms:subject>
     <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:date>1981-11-11/1982-02-28</dcterms:date>
     <dcterms:type>Still Image</dcterms:type>
     <dcterms:medium>posters</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -20,5 +21,4 @@
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/4p60qn9q</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/BTR/tiles/btrst059001-1/full/159,/0/default.jpg</edm:preview>
-    <dcterms:created>1981-11-11/1982-02-28</dcterms:created>
 </mdRecord>

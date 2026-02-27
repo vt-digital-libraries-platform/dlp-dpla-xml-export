@@ -10,6 +10,7 @@
     <dcterms:title>DAY AND NIGHT</dcterms:title>
     <dcterms:description>End paper</dcterms:description>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1952</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>woodcut</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -18,5 +19,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/84b17a07</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000402_0005-1/full/180,/0/default.jpg</edm:preview>
     <dcterms:creator>FRACONI, ANTONIO (United tates (Born in Argentina), 1919-2013)</dcterms:creator>
-    <dcterms:created>1952</dcterms:created>
 </mdRecord>

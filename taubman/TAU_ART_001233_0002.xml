@@ -10,6 +10,7 @@
     <dcterms:title>HERON MAIDEN</dcterms:title>
     <dcterms:description>Version of the photo with directional lighting to show gauffrage</dcterms:description>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1898</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>woodblock print</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -18,5 +19,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/3cdbbdc0</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_001233_0002-1/full/169,/0/default.jpg</edm:preview>
     <dcterms:creator>YOHITOHI, TUKIOKA (Japanese, 1839-1892)</dcterms:creator>
-    <dcterms:created>1898</dcterms:created>
 </mdRecord>

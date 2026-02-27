@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000191_0002</dcterms:identifier>
     <dcterms:title>FEMALE FIGURE</dcterms:title>
     <dcterms:subject>Virginia,Art,DRAWING</dcterms:subject>
+    <dcterms:date>no date</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>crayon</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/22e16d10</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000191_0002-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>ARIKY, MICHAEL (United tates, 1906-1974)</dcterms:creator>
-    <dcterms:created>no date</dcterms:created>
 </mdRecord>

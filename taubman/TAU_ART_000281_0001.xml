@@ -7,8 +7,9 @@
     xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
 
     <dcterms:identifier>TAU_ART_000281_0001</dcterms:identifier>
-    <dcterms:title>FIHERMAN' COVE, MAINE</dcterms:title>
+    <dcterms:title>FIHERMAN&apos; COVE, MAINE</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1953</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:format>image/tiff</dcterms:format>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
@@ -16,5 +17,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/c74a7b7d</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000281_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>FIENE, ERNET (American, born Germany, 1894-1965)</dcterms:creator>
-    <dcterms:created>1953</dcterms:created>
 </mdRecord>

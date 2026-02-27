@@ -7,8 +7,9 @@
     xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
 
     <dcterms:identifier>TAU_ART_000295_0001</dcterms:identifier>
-    <dcterms:title>ELEGY'</dcterms:title>
+    <dcterms:title>ELEGY&apos;</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1968</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Etching/Intaglio</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/1f332304</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000295_0001-1/full/160,/0/default.jpg</edm:preview>
     <dcterms:creator>TEG, J. L. (United tates, 1922-2001)</dcterms:creator>
-    <dcterms:created>1968</dcterms:created>
 </mdRecord>

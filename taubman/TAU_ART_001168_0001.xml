@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_001168_0001</dcterms:identifier>
     <dcterms:title>FLUME</dcterms:title>
     <dcterms:subject>Virginia,Art,WATER MEDIA</dcterms:subject>
+    <dcterms:date>1977</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>watercolor with beeswax</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/f5c0dd4d</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_001168_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>KA, RAY (United tates, Born 1944)</dcterms:creator>
-    <dcterms:created>1977</dcterms:created>
 </mdRecord>

@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000802_0001</dcterms:identifier>
     <dcterms:title>COURTEAN AND ELDERLY MAN</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1830 - 1870</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>woodblock print</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/ec6c6402</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000802_0001-1/full/220,/0/default.jpg</edm:preview>
     <dcterms:creator>(Japan)</dcterms:creator>
-    <dcterms:created>1830 - 1870</dcterms:created>
 </mdRecord>

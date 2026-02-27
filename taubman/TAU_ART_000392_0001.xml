@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000392_0001</dcterms:identifier>
     <dcterms:title>WILLIE MAY</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1940</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>lithograph</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/6205802c</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000392_0001-1/full/221,/0/default.jpg</edm:preview>
     <dcterms:creator>BROOK, ALEXANDER (United tates, 1898 - 1980 (Painted until 1965))</dcterms:creator>
-    <dcterms:created>1940</dcterms:created>
 </mdRecord>

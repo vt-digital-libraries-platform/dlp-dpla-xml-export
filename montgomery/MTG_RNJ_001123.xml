@@ -13,6 +13,7 @@
     <dcterms:subject>Radford (Va.)</dcterms:subject>
     <dcterms:subject>Montgomery County (Va.)</dcterms:subject>
     <dcterms:subject>Newspapers</dcterms:subject>
+    <dcterms:date>1947-10-22</dcterms:date>
     <dcterms:type>Text</dcterms:type>
     <dcterms:spatial>Radford, Virginia, United States</dcterms:spatial>
     <dcterms:medium>newspapers</dcterms:medium>
@@ -21,5 +22,4 @@
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/d17380f6</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/MTG/tiles/MTG_RNJ_001123-1/full/199,/0/default.jpg</edm:preview>
-    <dcterms:created>1947-10-22</dcterms:created>
 </mdRecord>

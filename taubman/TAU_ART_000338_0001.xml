@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000338_0001</dcterms:identifier>
     <dcterms:title>POODLE AND THE CLOWN</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1946</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>lithograph</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/c634c8b8</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000338_0001-1/full/196,/0/default.jpg</edm:preview>
     <dcterms:creator>TERNBERG, HARRY (United tates, 1904-2001)</dcterms:creator>
-    <dcterms:created>1946</dcterms:created>
 </mdRecord>

@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000036_0001</dcterms:identifier>
     <dcterms:title>DAY DREAM PORTRAIT OF CAROLINE EAKIN</dcterms:title>
     <dcterms:subject>Virginia,Art,PAINTING</dcterms:subject>
+    <dcterms:date>1879 - 1882</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Oil Canvas</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/1526ae3c</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000036_0001-1/full/200,/0/default.jpg</edm:preview>
     <dcterms:creator>KENTON, ELIZABETH MACDOWELL (United tates, 1858-1953)</dcterms:creator>
-    <dcterms:created>1879 - 1882</dcterms:created>
 </mdRecord>

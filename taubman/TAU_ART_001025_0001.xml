@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_001025_0001</dcterms:identifier>
     <dcterms:title>NIGHT</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1932</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>lithograph</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/43dcf3b3</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_001025_0001-1/full/238,/0/default.jpg</edm:preview>
     <dcterms:creator>GUILBEAU, HONORE (United tates, 1907-2006)</dcterms:creator>
-    <dcterms:created>1932</dcterms:created>
 </mdRecord>

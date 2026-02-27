@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000213_0001</dcterms:identifier>
     <dcterms:title>WOMAN AND BURRO</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>no date</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>lithograph</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/efb904a5</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000213_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>KELLER, HENRY G. (United tates, 1869-1949)</dcterms:creator>
-    <dcterms:created>no date</dcterms:created>
 </mdRecord>

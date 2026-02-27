@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000212_0001</dcterms:identifier>
     <dcterms:title>DERRIERE LE MIROIR</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1961</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>lithograph</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/10ad1756</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000212_0001-1/full/185,/0/default.jpg</edm:preview>
     <dcterms:creator>GIACOMETTI, ALBERTO (wiss, 1901-1965)</dcterms:creator>
-    <dcterms:created>1961</dcterms:created>
 </mdRecord>

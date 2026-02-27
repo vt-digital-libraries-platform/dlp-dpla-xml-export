@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000020_0001</dcterms:identifier>
     <dcterms:title>VIIRGIN AND CHILD WITH INFANT AINT JOHN</dcterms:title>
     <dcterms:subject>Virginia,Art,PAINTING</dcterms:subject>
+    <dcterms:date>16th-18th century</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Oil Panel</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/53726e84</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000020_0001-1/full/196,/0/default.jpg</edm:preview>
     <dcterms:creator>Unknown Maker (Italian (Venice, Florence or Rome))</dcterms:creator>
-    <dcterms:created>16th-18th century</dcterms:created>
 </mdRecord>

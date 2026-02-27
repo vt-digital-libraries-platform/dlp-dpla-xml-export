@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000727_0001</dcterms:identifier>
     <dcterms:title>HOW SLEEP THE BRAVE</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1870 - 1890</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>woodblock print</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/cf48d90c</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000727_0001-1/full/165,/0/default.jpg</edm:preview>
     <dcterms:creator>YOHITOHI, TUKIOKA (Japanese, 1839-1892)</dcterms:creator>
-    <dcterms:created>1870 - 1890</dcterms:created>
 </mdRecord>

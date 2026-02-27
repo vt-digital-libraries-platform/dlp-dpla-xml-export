@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_001161_0001</dcterms:identifier>
     <dcterms:title>FRAGMENT</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1999</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Mezzotint etching on paper</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/ea0218f7</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_001161_0001-1/full/186,/0/default.jpg</edm:preview>
     <dcterms:creator>KIPNI, ROBERT (United tates, Born 1931)</dcterms:creator>
-    <dcterms:created>1999</dcterms:created>
 </mdRecord>

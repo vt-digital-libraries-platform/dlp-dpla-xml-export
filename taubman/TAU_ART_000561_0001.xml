@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000561_0001</dcterms:identifier>
     <dcterms:title>ECBATANA - OUTER WALL</dcterms:title>
     <dcterms:subject>Virginia,Art,DRAWING</dcterms:subject>
+    <dcterms:date>1979</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>ink and colored pencil</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/1992da80</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000561_0001-1/full/208,/0/default.jpg</edm:preview>
     <dcterms:creator>RIEMANN, PETER C. (West German, Born 1945)</dcterms:creator>
-    <dcterms:created>1979</dcterms:created>
 </mdRecord>

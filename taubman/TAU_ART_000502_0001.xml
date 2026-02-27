@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000502_0001</dcterms:identifier>
     <dcterms:title>MOONLIGHT ILLUMINATING FLAT BOAT ON THE OHIO RIVER</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1923</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Mezzotint on paper</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/88c737fa</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000502_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>HURLEY, EDWARD T. (United tates, 1887-1979)</dcterms:creator>
-    <dcterms:created>1923</dcterms:created>
 </mdRecord>

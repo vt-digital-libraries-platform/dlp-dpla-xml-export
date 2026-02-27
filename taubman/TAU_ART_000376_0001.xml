@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000376_0001</dcterms:identifier>
     <dcterms:title>MANUCRIPT FROM THE KORAN</dcterms:title>
     <dcterms:subject>Virginia,Art,BOOK ART</dcterms:subject>
+    <dcterms:date>1862</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>ink and gold pigment</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/adc51a36</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000376_0001-1/full/170,/0/default.jpg</edm:preview>
     <dcterms:creator>RIFCATI, HAAN AR (Persian)</dcterms:creator>
-    <dcterms:created>1862</dcterms:created>
 </mdRecord>

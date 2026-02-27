@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000015_0001</dcterms:identifier>
     <dcterms:title>CARNIVAL, BAINBRIDGE, GA.</dcterms:title>
     <dcterms:subject>Virginia,Art,PHOTOGRAPH</dcterms:subject>
+    <dcterms:date>1976</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Gelatin silver print</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/d23752c6</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000015_0001-1/full/166,/0/default.jpg</edm:preview>
     <dcterms:creator>KWILECKI, PAUL (United tates, 1928-2009)</dcterms:creator>
-    <dcterms:created>1976</dcterms:created>
 </mdRecord>

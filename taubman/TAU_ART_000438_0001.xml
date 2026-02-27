@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000438_0001</dcterms:identifier>
     <dcterms:title>G-FF</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>undated, circa 1970</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>silkscreen with embossing</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/aa908139</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000438_0001-1/full/229,/0/default.jpg</edm:preview>
     <dcterms:creator>VAARELY, VICTOR (French-Hungarian, 1906-1997)</dcterms:creator>
-    <dcterms:created>undated, circa 1970</dcterms:created>
 </mdRecord>

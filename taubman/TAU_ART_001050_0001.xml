@@ -7,8 +7,9 @@
     xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
 
     <dcterms:identifier>TAU_ART_001050_0001</dcterms:identifier>
-    <dcterms:title>BILLY'S SALEM AVENUE</dcterms:title>
+    <dcterms:title>BILLY&apos;S SALEM AVENUE</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1974</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Drypoint etching</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/39ece5ea</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_001050_0001-1/full/197,/0/default.jpg</edm:preview>
     <dcterms:creator>LITTLE, HAROLD EDOUARD (United tates, 1940-2011)</dcterms:creator>
-    <dcterms:created>1974</dcterms:created>
 </mdRecord>

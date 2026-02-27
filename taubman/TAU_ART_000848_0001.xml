@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000848_0001</dcterms:identifier>
     <dcterms:title>TENCIL TWO TALK OF BAMBOO</dcterms:title>
     <dcterms:subject>Virginia,Art,TENCIL</dcterms:subject>
+    <dcterms:date>no date</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>stencil</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/a0da2366</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000848_0001-1/full/191,/0/default.jpg</edm:preview>
     <dcterms:creator>(Japanese)</dcterms:creator>
-    <dcterms:created>no date</dcterms:created>
 </mdRecord>

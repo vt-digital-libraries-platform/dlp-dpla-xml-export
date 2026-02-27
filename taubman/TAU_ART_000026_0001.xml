@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000026_0001</dcterms:identifier>
     <dcterms:title>UNTITLED</dcterms:title>
     <dcterms:subject>Virginia,Art,PAINTING</dcterms:subject>
+    <dcterms:date>mid-1980s</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Pigment and Roplex on cheesecloth mounted on wire</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/1e634c4c</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000026_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>JOHNON, MARTIN (United tates, Born 1951)</dcterms:creator>
-    <dcterms:created>mid-1980s</dcterms:created>
 </mdRecord>

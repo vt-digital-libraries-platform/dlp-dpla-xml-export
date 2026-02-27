@@ -10,6 +10,7 @@
     <dcterms:title>CHERRY BLOOM AND MOON DUPLICATE IMAGE</dcterms:title>
     <dcterms:description>Recto. Copy one of two.</dcterms:description>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>ca. 1900</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>woodblock print</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -18,5 +19,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/c8be3b87</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000522_0003-1/full/170,/0/default.jpg</edm:preview>
     <dcterms:creator>GEAI, FUKUI (Japan)</dcterms:creator>
-    <dcterms:created>ca. 1900</dcterms:created>
 </mdRecord>

@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000189_0002</dcterms:identifier>
     <dcterms:title>DANCER</dcterms:title>
     <dcterms:subject>Virginia,Art,CULPTURE</dcterms:subject>
+    <dcterms:date>1989</dcterms:date>
     <dcterms:type>Physical Object</dcterms:type>
     <dcterms:medium>Rosa Portuguese marble</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/7d61b071</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000189_0002-1/full/167,/0/default.jpg</edm:preview>
     <dcterms:creator>BRANCH, BETTY (United tates, Born 1934)</dcterms:creator>
-    <dcterms:created>1989</dcterms:created>
 </mdRecord>

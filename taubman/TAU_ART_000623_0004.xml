@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000623_0004</dcterms:identifier>
     <dcterms:title>PORTRAIT OF A YOUNG MAN WILLIAM H. MACDOWELL</dcterms:title>
     <dcterms:subject>Virginia,Art,WATER MEDIA</dcterms:subject>
+    <dcterms:date>circa 1820</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Gouache and ink on vellum</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/d73bc1be</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000623_0004-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>CHOOL, AMERICAN (United tates, 1904-1977)</dcterms:creator>
-    <dcterms:created>circa 1820</dcterms:created>
 </mdRecord>

@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000377_0001</dcterms:identifier>
     <dcterms:title>AYING OF MUHAMMED</dcterms:title>
     <dcterms:subject>Virginia,Art,BOOK ART</dcterms:subject>
+    <dcterms:date>no date</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>ink and gold pigment</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/73e70e7d</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000377_0001-1/full/172,/0/default.jpg</edm:preview>
     <dcterms:creator>(Persian)</dcterms:creator>
-    <dcterms:created>no date</dcterms:created>
 </mdRecord>

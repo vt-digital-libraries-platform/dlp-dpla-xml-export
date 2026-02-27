@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000194_0001</dcterms:identifier>
     <dcterms:title>MARKET CENE</dcterms:title>
     <dcterms:subject>Virginia,Art,PAINTING</dcterms:subject>
+    <dcterms:date>1865 - 1925</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Oil Wooden Panel</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/a4cd8696</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000194_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>HAMZA, JOHANN (Austrian, 1850-1927)</dcterms:creator>
-    <dcterms:created>1865 - 1925</dcterms:created>
 </mdRecord>

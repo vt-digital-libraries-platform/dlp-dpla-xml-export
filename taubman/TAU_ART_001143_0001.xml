@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_001143_0001</dcterms:identifier>
     <dcterms:title>UNTITLED</dcterms:title>
     <dcterms:subject>Virginia,Art,CULPTURE</dcterms:subject>
+    <dcterms:date>1973</dcterms:date>
     <dcterms:type>Physical Object</dcterms:type>
     <dcterms:medium>Welded and sander-finished aluminum</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/e30c56d0</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_001143_0001-1/full/167,/0/default.jpg</edm:preview>
     <dcterms:creator>BARRETT, BILL (United tates, Born 1934)</dcterms:creator>
-    <dcterms:created>1973</dcterms:created>
 </mdRecord>

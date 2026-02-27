@@ -10,6 +10,7 @@
     <dcterms:title>UNTITLED</dcterms:title>
     <dcterms:description>Envelope</dcterms:description>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1932 - 1946</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>etching Card stock</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -18,5 +19,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/451a82f5</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000185_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>KELLER, HENRY G.</dcterms:creator>
-    <dcterms:created>1932 - 1946</dcterms:created>
 </mdRecord>

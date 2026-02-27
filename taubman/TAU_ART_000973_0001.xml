@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000973_0001</dcterms:identifier>
     <dcterms:title>VIRGINIA FRAKTUR,TAUFCHEIN FOR ANA ARA HOTTEL</dcterms:title>
     <dcterms:subject>Virginia,Art,DRAWING</dcterms:subject>
+    <dcterms:date>1793</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>watercolor and ink on paper</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/20c83f1d</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000973_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>ARTIT, WILD TURKEY (United tates)</dcterms:creator>
-    <dcterms:created>1793</dcterms:created>
 </mdRecord>

@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000932_0001</dcterms:identifier>
     <dcterms:title>HEAD OF A WOMAN</dcterms:title>
     <dcterms:subject>Virginia,Art,DRAWING</dcterms:subject>
+    <dcterms:date>ca 1930</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>graphite</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/505bb1bd</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000932_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>BIGG, WALTER (United tates, 1886 - 1968)</dcterms:creator>
-    <dcterms:created>ca 1930</dcterms:created>
 </mdRecord>

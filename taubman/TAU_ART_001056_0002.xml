@@ -10,6 +10,7 @@
     <dcterms:title>UNDER THE NATURAL BRIDGE</dcterms:title>
     <dcterms:description>Verso</dcterms:description>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1872</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Hand-tinted engraving Paper</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -18,5 +19,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/cb2f8cc2</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_001056_0002-1/full/169,/0/default.jpg</edm:preview>
     <dcterms:creator>FENN, HARRY (United tates, Born England, 1845-1911)</dcterms:creator>
-    <dcterms:created>1872</dcterms:created>
 </mdRecord>

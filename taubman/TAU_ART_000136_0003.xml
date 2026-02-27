@@ -8,8 +8,9 @@
 
     <dcterms:identifier>TAU_ART_000136_0003</dcterms:identifier>
     <dcterms:title>HACKLED HAND AND HUMAN CHAIN</dcterms:title>
-    <dcterms:description>African American artist Purvis Young was born and lived in the Overtown neighborhood of Miami, Florida. Using a blend of collage, painting and found objects, the self taught artist focused on the experience of African Americans in the south including social issues and slavery. His work was shown in major museums throughout the United tates and in 2008 collectors Don and Mera Rubell donated over one hundred of young's work to Morehouse College in Atlanta, Georgia.</dcterms:description>
+    <dcterms:description>African American artist Purvis Young was born and lived in the Overtown neighborhood of Miami, Florida. Using a blend of collage, painting and found objects, the self taught artist focused on the experience of African Americans in the south including social issues and slavery. His work was shown in major museums throughout the United tates and in 2008 collectors Don and Mera Rubell donated over one hundred of young&apos;s work to Morehouse College in Atlanta, Georgia.</dcterms:description>
     <dcterms:subject>Virginia,Art,PAINTING</dcterms:subject>
+    <dcterms:date>ca. 1970-80</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Oil Masonite</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -18,5 +19,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/bf7b0e27</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000136_0003-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>YOUNG, PURVI (United tates, 1943-2010)</dcterms:creator>
-    <dcterms:created>ca. 1970-80</dcterms:created>
 </mdRecord>

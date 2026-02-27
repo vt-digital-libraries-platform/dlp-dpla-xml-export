@@ -10,6 +10,7 @@
     <dcterms:title>ONE OF THREE PLAYING CARD</dcterms:title>
     <dcterms:description>Verso</dcterms:description>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>ca. 1967</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>silkscreen</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -18,5 +19,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/b207a936</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_001028_0002-1/full/167,/0/default.jpg</edm:preview>
     <dcterms:creator>DUBUFFET, JEAN (French, 1901-1985)</dcterms:creator>
-    <dcterms:created>ca. 1967</dcterms:created>
 </mdRecord>

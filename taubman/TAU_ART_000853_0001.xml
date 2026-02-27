@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000853_0001</dcterms:identifier>
     <dcterms:title>GALAXI PROPYLAEN</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>no date</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>collograph</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/c2ec6ab3</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000853_0001-1/full/209,/0/default.jpg</edm:preview>
     <dcterms:creator>MACK, HEINZ (German, Born 1931)</dcterms:creator>
-    <dcterms:created>no date</dcterms:created>
 </mdRecord>

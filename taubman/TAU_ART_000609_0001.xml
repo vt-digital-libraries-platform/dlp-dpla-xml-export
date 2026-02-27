@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000609_0001</dcterms:identifier>
     <dcterms:title>CARRIE MACDOWELL</dcterms:title>
     <dcterms:subject>Virginia,Art,PHOTOGRAPH</dcterms:subject>
+    <dcterms:date>no date</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>printing out paper</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/1fbf4f58</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000609_0001-1/full/225,/0/default.jpg</edm:preview>
     <dcterms:creator>KENTON, ELIZABETH MACDOWELL (United tates, 1858-1953)</dcterms:creator>
-    <dcterms:created>no date</dcterms:created>
 </mdRecord>

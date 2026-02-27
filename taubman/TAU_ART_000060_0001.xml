@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000060_0001</dcterms:identifier>
     <dcterms:title>UNTITLED</dcterms:title>
     <dcterms:subject>Virginia,Art,PAINTING</dcterms:subject>
+    <dcterms:date>mid-20th century</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Acrylic Masonite</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/8e32c736</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000060_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>CROFT, LEWI COTT</dcterms:creator>
-    <dcterms:created>mid-20th century</dcterms:created>
 </mdRecord>

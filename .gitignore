@@ -68,3 +68,13 @@ items_no_format_*.csv
 *_formats_*.txt
 unique_collection_folders_*.txt
 error_log.txt
+test_single_item.py
+test_xml_generation.py
+test_all_special_chars.py
+check_backslash_quotes.py
+check_btr_backslashes.py
+check_btrst_backslashes.py
+check_identifier_samples.py
+test_backslash_removal.py
+test_xml_generation.py
+test_xml_generation.py

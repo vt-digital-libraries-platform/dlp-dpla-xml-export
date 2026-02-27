@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_001106_0001</dcterms:identifier>
     <dcterms:title>THE BROWN BOMBER</dcterms:title>
     <dcterms:subject>Virginia,Art,PAINTING</dcterms:subject>
+    <dcterms:date>1938</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Tempera on panel Panel</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/90142cdd</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_001106_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>RIGG, ROBERT (United tates, 1896-1970)</dcterms:creator>
-    <dcterms:created>1938</dcterms:created>
 </mdRecord>

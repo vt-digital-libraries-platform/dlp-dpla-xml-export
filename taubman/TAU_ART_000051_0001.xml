@@ -7,8 +7,9 @@
     xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
 
     <dcterms:identifier>TAU_ART_000051_0001</dcterms:identifier>
-    <dcterms:title>JIMMIE O'DONNELL</dcterms:title>
+    <dcterms:title>JIMMIE O&apos;DONNELL</dcterms:title>
     <dcterms:subject>Virginia,Art,PAINTING</dcterms:subject>
+    <dcterms:date>1924</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Oil Canvas</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/a1138a1b</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000051_0001-1/full/210,/0/default.jpg</edm:preview>
     <dcterms:creator>HENRI, ROBERT (United tates, 1865-1929)</dcterms:creator>
-    <dcterms:created>1924</dcterms:created>
 </mdRecord>

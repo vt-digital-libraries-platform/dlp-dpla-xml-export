@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000156_0001</dcterms:identifier>
     <dcterms:title>PARROT</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1923</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>linocut</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/94197977</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000156_0001-1/full/220,/0/default.jpg</edm:preview>
     <dcterms:creator>EATMAN, WILLIAM JOEPH (United tates, 1888-1950)</dcterms:creator>
-    <dcterms:created>1923</dcterms:created>
 </mdRecord>

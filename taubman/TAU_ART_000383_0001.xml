@@ -7,8 +7,9 @@
     xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
 
     <dcterms:identifier>TAU_ART_000383_0001</dcterms:identifier>
-    <dcterms:title>TELL' CHAIR</dcterms:title>
+    <dcterms:title>TELL&apos; CHAIR</dcterms:title>
     <dcterms:subject>Virginia,Art,DRAWING</dcterms:subject>
+    <dcterms:date>ca. 1972</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>ink</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/83973f09</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000383_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>HATHAWAY, WALTER (United tates, 1939-1989)</dcterms:creator>
-    <dcterms:created>ca. 1972</dcterms:created>
 </mdRecord>

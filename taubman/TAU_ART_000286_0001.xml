@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000286_0001</dcterms:identifier>
     <dcterms:title>CONFIRMATION</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>no date</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>lithograph</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/b93ffcd6</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000286_0001-1/full/189,/0/default.jpg</edm:preview>
     <dcterms:creator>HARMON, LILY (United tates, 1912-1998)</dcterms:creator>
-    <dcterms:created>no date</dcterms:created>
 </mdRecord>

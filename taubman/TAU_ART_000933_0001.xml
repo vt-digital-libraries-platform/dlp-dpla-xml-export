@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000933_0001</dcterms:identifier>
     <dcterms:title>UNTITLED</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>2009</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Woodcut on rice papr</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/c8b0d4f9</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000933_0001-1/full/179,/0/default.jpg</edm:preview>
     <dcterms:creator>JIE, ZHANG MIN (Chinese, Born 1959)</dcterms:creator>
-    <dcterms:created>2009</dcterms:created>
 </mdRecord>

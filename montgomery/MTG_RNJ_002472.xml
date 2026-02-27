@@ -14,6 +14,7 @@
     <dcterms:subject>Montgomery County (Va.)</dcterms:subject>
     <dcterms:subject>Newspapers</dcterms:subject>
     <dcterms:subject>Fashion</dcterms:subject>
+    <dcterms:date>1952-03-31</dcterms:date>
     <dcterms:type>Text</dcterms:type>
     <dcterms:spatial>Radford, Virginia, United States</dcterms:spatial>
     <dcterms:medium>newspapers</dcterms:medium>
@@ -22,5 +23,4 @@
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/08f8ee5d</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/MTG/tiles/MTG_RNJ_002472-1/full/198,/0/default.jpg</edm:preview>
-    <dcterms:created>1952-03-31</dcterms:created>
 </mdRecord>

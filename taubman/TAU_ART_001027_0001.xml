@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_001027_0001</dcterms:identifier>
     <dcterms:title>OLIVE TREE</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1932</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>aquatint</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/4e15b37a</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_001027_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>CARTER, CLARENCE H.</dcterms:creator>
-    <dcterms:created>1932</dcterms:created>
 </mdRecord>

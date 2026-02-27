@@ -13,6 +13,7 @@
     <dcterms:contributor>Barter Theatre (Organization : Abingdon, Va.)</dcterms:contributor>
     <dcterms:subject>Theater</dcterms:subject>
     <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:date>1984-11-26/1984-12-15</dcterms:date>
     <dcterms:type>Still Image</dcterms:type>
     <dcterms:medium>playbills</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -20,5 +21,4 @@
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/nf45wj67</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/BTR/tiles/btrst612001-1/full/168,/0/default.jpg</edm:preview>
-    <dcterms:created>1984-11-26/1984-12-15</dcterms:created>
 </mdRecord>

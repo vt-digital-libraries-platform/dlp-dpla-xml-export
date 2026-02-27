@@ -10,6 +10,7 @@
     <dcterms:title>FIGURE</dcterms:title>
     <dcterms:description>verso</dcterms:description>
     <dcterms:subject>Virginia,Art,WATER MEDIA</dcterms:subject>
+    <dcterms:date>undated</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>water color</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -18,5 +19,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/e9378d6a</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000399_0002-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>BORDETT, EDWARD (United tates, Born 1952)</dcterms:creator>
-    <dcterms:created>undated</dcterms:created>
 </mdRecord>

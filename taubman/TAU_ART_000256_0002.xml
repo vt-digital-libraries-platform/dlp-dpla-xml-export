@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000256_0002</dcterms:identifier>
     <dcterms:title>BARNYARD MELODIE</dcterms:title>
     <dcterms:subject>Virginia,Art,DRAWING</dcterms:subject>
+    <dcterms:date>no date</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>drawing</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/87d80712</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000256_0002-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>KELLER, HENRY G. (United tates, 1869-1949)</dcterms:creator>
-    <dcterms:created>no date</dcterms:created>
 </mdRecord>

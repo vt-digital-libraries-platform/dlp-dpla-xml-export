@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000838_0001</dcterms:identifier>
     <dcterms:title>MEN RUNNING ALONG TRING</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>ca. 1900</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>woodblock print</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/8afef7ea</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000838_0001-1/full/186,/0/default.jpg</edm:preview>
     <dcterms:creator>(Japan)</dcterms:creator>
-    <dcterms:created>ca. 1900</dcterms:created>
 </mdRecord>

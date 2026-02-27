@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000154_0002</dcterms:identifier>
     <dcterms:title>QUIRREL</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>no date</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>linocut</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/77d4ebb4</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000154_0002-1/full/191,/0/default.jpg</edm:preview>
     <dcterms:creator>EATMAN, WILLIAM JOEPH (United tates, 1888-1950)</dcterms:creator>
-    <dcterms:created>no date</dcterms:created>
 </mdRecord>

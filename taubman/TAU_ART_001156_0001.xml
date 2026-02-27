@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_001156_0001</dcterms:identifier>
     <dcterms:title>KETCH FROM NATURE</dcterms:title>
     <dcterms:subject>Virginia,Art,PAINTING</dcterms:subject>
+    <dcterms:date>ca. 1870</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>oil on paper mounted on canvas</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/5ac4f2f9</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_001156_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>WYANT, ALEXANDER HELWIG (United tates, 1836-1892)</dcterms:creator>
-    <dcterms:created>ca. 1870</dcterms:created>
 </mdRecord>

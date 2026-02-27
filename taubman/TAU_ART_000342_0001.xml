@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000342_0001</dcterms:identifier>
     <dcterms:title>THUNDERHOWER</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1925</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>woodcut</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/917b49a8</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000342_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>FEININGER, LYONEL (United tates, 1871-1956)</dcterms:creator>
-    <dcterms:created>1925</dcterms:created>
 </mdRecord>

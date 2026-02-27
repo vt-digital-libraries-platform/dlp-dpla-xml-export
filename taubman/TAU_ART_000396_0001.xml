@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000396_0001</dcterms:identifier>
     <dcterms:title>UNTITLED</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>no date</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>etching</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/f4ee115b</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000396_0001-1/full/185,/0/default.jpg</edm:preview>
     <dcterms:creator>BIHOP, BARBARA (United tates, 1939 - 1991)</dcterms:creator>
-    <dcterms:created>no date</dcterms:created>
 </mdRecord>

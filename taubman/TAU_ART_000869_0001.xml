@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000869_0001</dcterms:identifier>
     <dcterms:title>WINTER MOON</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1959</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Etching</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/ca786ca6</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000869_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>CYRIL, RUTH (United tates, 1938 - 1988)</dcterms:creator>
-    <dcterms:created>1959</dcterms:created>
 </mdRecord>

@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000721_0001</dcterms:identifier>
     <dcterms:title>ONAKATOMI NO YOHINOBU</dcterms:title>
     <dcterms:subject>Virginia,Art,DRAWING</dcterms:subject>
+    <dcterms:date>first half 18th century</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Ink Paper</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/a3bc20fd</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000721_0001-1/full/177,/0/default.jpg</edm:preview>
     <dcterms:creator>MORIKUNI, TACHIBANA (Japanese, 1679-1748)</dcterms:creator>
-    <dcterms:created>first half 18th century</dcterms:created>
 </mdRecord>

@@ -10,6 +10,7 @@
     <dcterms:title>THE NATURAL BRIDGE, VIRGINIA</dcterms:title>
     <dcterms:description>Recto</dcterms:description>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>no date</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Hand-tinted engraving Paper</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -18,5 +19,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/79eaa626</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_001054_0001-1/full/173,/0/default.jpg</edm:preview>
     <dcterms:creator>T., R.</dcterms:creator>
-    <dcterms:created>no date</dcterms:created>
 </mdRecord>

@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000206_0001</dcterms:identifier>
     <dcterms:title>TOWER AND TAR</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>no date</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>linocut</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/77918daa</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000206_0001-1/full/195,/0/default.jpg</edm:preview>
     <dcterms:creator>DOHANO, TEPHEN (United tates, 1907 - 1994)</dcterms:creator>
-    <dcterms:created>no date</dcterms:created>
 </mdRecord>

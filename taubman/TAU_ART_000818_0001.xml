@@ -10,6 +10,7 @@
     <dcterms:title>LEAPING CARP</dcterms:title>
     <dcterms:description>Recto</dcterms:description>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1910 - 1923</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>woodcut</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -18,5 +19,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/7c357f56</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000818_0001-1/full/116,/0/default.jpg</edm:preview>
     <dcterms:creator>OHARA, KOON (Japanese, 1877-1945)</dcterms:creator>
-    <dcterms:created>1910 - 1923</dcterms:created>
 </mdRecord>

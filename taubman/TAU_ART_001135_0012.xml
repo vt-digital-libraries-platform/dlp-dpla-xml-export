@@ -7,8 +7,9 @@
     xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
 
     <dcterms:identifier>TAU_ART_001135_0012</dcterms:identifier>
-    <dcterms:title>VIEW'S OF WEYER'S CAVE AUGUSTA CO. VIRGINIA. TAKEN FROM NATURE BY ED. BEYER 1856</dcterms:title>
+    <dcterms:title>VIEW&apos;S OF WEYER&apos;S CAVE AUGUSTA CO. VIRGINIA. TAKEN FROM NATURE BY ED. BEYER 1856</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1856</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>lithograph</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/2ad5a633</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_001135_0012-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>BEYER, EDWARD (German, 1820 - 1865)</dcterms:creator>
-    <dcterms:created>1856</dcterms:created>
 </mdRecord>

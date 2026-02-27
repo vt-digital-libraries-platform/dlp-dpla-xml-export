@@ -10,6 +10,7 @@
     <dcterms:title>PICTURE BOOK VIEW OF MOUNT FUJI</dcterms:title>
     <dcterms:description>Page 16</dcterms:description>
     <dcterms:subject>Virginia,Art,BOOK ART</dcterms:subject>
+    <dcterms:date>no date</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>woodblock printing</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -18,5 +19,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/42a8d2cd</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_001189_0017-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>HOKUAI, KATUHIKA (Japanese, 1760-1849)</dcterms:creator>
-    <dcterms:created>no date</dcterms:created>
 </mdRecord>

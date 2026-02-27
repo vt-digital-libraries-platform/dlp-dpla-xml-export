@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000247_0001</dcterms:identifier>
     <dcterms:title>FIHERMEN OF PERCE</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>no date</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>etching</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/6a514b42</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000247_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>WILCOX, FRANK NELON (United tates, 1887-1964)</dcterms:creator>
-    <dcterms:created>no date</dcterms:created>
 </mdRecord>

@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000766_0001</dcterms:identifier>
     <dcterms:title>DRAWING ON PAPER</dcterms:title>
     <dcterms:subject>Virginia,Art,DRAWING</dcterms:subject>
+    <dcterms:date>late eighteenth - early nineteenth centuries</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Ink on paper</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/2aa0f371</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000766_0001-1/full/174,/0/default.jpg</edm:preview>
     <dcterms:creator>HOKUAI, KATUHIKA (Japanese, 1760-1849)</dcterms:creator>
-    <dcterms:created>late eighteenth - early nineteenth centuries</dcterms:created>
 </mdRecord>

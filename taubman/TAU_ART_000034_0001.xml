@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000034_0001</dcterms:identifier>
     <dcterms:title>COATAL LANDCAPE</dcterms:title>
     <dcterms:subject>Virginia,Art,PAINTING</dcterms:subject>
+    <dcterms:date>1883</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Oil Canvas</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/2e2ae997</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000034_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>AHREN, ELLEN WETHERALD (United tates, 1859 - 1953)</dcterms:creator>
-    <dcterms:created>1883</dcterms:created>
 </mdRecord>

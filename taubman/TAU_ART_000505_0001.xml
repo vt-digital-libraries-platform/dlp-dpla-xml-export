@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000505_0001</dcterms:identifier>
     <dcterms:title>RICE DOCK AT CHARLETON</dcterms:title>
     <dcterms:subject>Virginia,Art,WATER MEDIA</dcterms:subject>
+    <dcterms:date>1949</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>watercolor</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/247480f7</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000505_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>PALMER, ALLEN INGLE (United tates, 1910-1950)</dcterms:creator>
-    <dcterms:created>1949</dcterms:created>
 </mdRecord>

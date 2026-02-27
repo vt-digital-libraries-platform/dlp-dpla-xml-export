@@ -7,8 +7,9 @@
     xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
 
     <dcterms:identifier>TAU_ART_000942_0001</dcterms:identifier>
-    <dcterms:title>THE HARLOT' PROGRE, PLATE IIII</dcterms:title>
+    <dcterms:title>THE HARLOT&apos; PROGRE, PLATE IIII</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1799</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Engraving</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/136b4afb</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000942_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>HOGARTH, WILLIAM (British, 1697-1764)</dcterms:creator>
-    <dcterms:created>1799</dcterms:created>
 </mdRecord>

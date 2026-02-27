@@ -10,6 +10,7 @@
     <dcterms:title>KNOWN FABLE</dcterms:title>
     <dcterms:description>Pages 13 and 14</dcterms:description>
     <dcterms:subject>Virginia,Art,BOOK ART</dcterms:subject>
+    <dcterms:date>1964</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>woodcut</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -18,5 +19,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/31c49440</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_001183_0013-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>FRACONI, ANTONIO (United tates (Born in Argentina), 1919-2013)</dcterms:creator>
-    <dcterms:created>1964</dcterms:created>
 </mdRecord>

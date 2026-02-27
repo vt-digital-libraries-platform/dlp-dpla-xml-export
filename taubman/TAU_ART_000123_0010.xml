@@ -10,6 +10,7 @@
     <dcterms:title>PORTRAIT OF NORAH GRIBBLE</dcterms:title>
     <dcterms:description>Detail. Variations in the shine of the varnish around the head and shoulders show where the artist altered the pose after the original version was complete.</dcterms:description>
     <dcterms:subject>Virginia,Art,PAINTING</dcterms:subject>
+    <dcterms:date>1888</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Oil on canvas Canvas</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -18,5 +19,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/771d3054</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000123_0010-1/full/170,/0/default.jpg</edm:preview>
     <dcterms:creator>ARGENT, JOHN INGER (United tates, Born Florence, Italy, 1856-1925)</dcterms:creator>
-    <dcterms:created>1888</dcterms:created>
 </mdRecord>

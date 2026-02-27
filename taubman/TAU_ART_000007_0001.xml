@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000007_0001</dcterms:identifier>
     <dcterms:title>CUBIT DEIGN</dcterms:title>
     <dcterms:subject>Virginia,Art,PHOTOGRAPH</dcterms:subject>
+    <dcterms:date>1947</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>bromide print photograph</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/a7910680</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000007_0001-1/full/202,/0/default.jpg</edm:preview>
     <dcterms:creator>BODINE, A. AUBREY (United tates, 1906 - 1970)</dcterms:creator>
-    <dcterms:created>1947</dcterms:created>
 </mdRecord>

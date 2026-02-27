@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000049_0001</dcterms:identifier>
     <dcterms:title>HAPPY DAY</dcterms:title>
     <dcterms:subject>Virginia,Art,PAINTING</dcterms:subject>
+    <dcterms:date>ca. 1910-1920</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Oil Panel</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/8536a03a</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000049_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>POTTHAT, EDWARD H. (United tates, 1857-1927)</dcterms:creator>
-    <dcterms:created>ca. 1910-1920</dcterms:created>
 </mdRecord>

@@ -7,8 +7,9 @@
     xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
 
     <dcterms:identifier>TAU_ART_000828_0001</dcterms:identifier>
-    <dcterms:title>WOMEN' PROCEION BY MOUNT FUJI</dcterms:title>
+    <dcterms:title>WOMEN&apos; PROCEION BY MOUNT FUJI</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>ca. 1820</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>woodblock print</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/8ce1a8a7</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000828_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>HUNEN (Japan, 1762-ca. 1830)</dcterms:creator>
-    <dcterms:created>ca. 1820</dcterms:created>
 </mdRecord>

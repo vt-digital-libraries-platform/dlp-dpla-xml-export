@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_001072_0001</dcterms:identifier>
     <dcterms:title>PLATE NO. 879</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>Oct 1, 1805</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Hand-tinted engraving Paper</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/d509ead5</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_001072_0001-1/full/159,/0/default.jpg</edm:preview>
     <dcterms:creator>EDWARD, YDENHAM TEAT (British, 1768-1819)</dcterms:creator>
-    <dcterms:created>Oct 1, 1805</dcterms:created>
 </mdRecord>

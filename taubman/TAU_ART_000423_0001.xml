@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000423_0001</dcterms:identifier>
     <dcterms:title>TEEPLE IN THE MOUNTAIN</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1946</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>etching</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/79131297</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000423_0001-1/full/180,/0/default.jpg</edm:preview>
     <dcterms:creator>LUCIONI, LUIGI (Italian-American, 1900-1988)</dcterms:creator>
-    <dcterms:created>1946</dcterms:created>
 </mdRecord>

@@ -8,10 +8,11 @@
 
     <dcterms:identifier>SQI_PO_00228</dcterms:identifier>
     <dcterms:title>Theatre Arts at Virginia Tech 2006-07 Season</dcterms:title>
-    <dcterms:description>Production poster for Theatre Arts at Virginia Tech 2006-07 Season. Boston Marriage by David Mamet | Bat Boy: The Musical book by Keythe Farley and Brian Flemming, music and lyrics by Laurence O'Keefe | The Other Shore by Gao Xingjian | Joe Turner's Come and Gone by August Wilson.</dcterms:description>
+    <dcterms:description>Production poster for Theatre Arts at Virginia Tech 2006-07 Season. Boston Marriage by David Mamet | Bat Boy: The Musical book by Keythe Farley and Brian Flemming, music and lyrics by Laurence O&apos;Keefe | The Other Shore by Gao Xingjian | Joe Turner&apos;s Come and Gone by August Wilson.</dcterms:description>
     <dcterms:language>eng</dcterms:language>
     <dcterms:subject>Theater</dcterms:subject>
     <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:date>2006-09-21/2007-04-15</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:spatial>Blacksburg, Montgomery, Virginia, United States</dcterms:spatial>
     <dcterms:medium>posters</dcterms:medium>
@@ -20,5 +21,4 @@
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/cm292w5r</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/SQI_PO/tiles/SQI_PO_00228-1/full/249,/0/default.jpg</edm:preview>
-    <dcterms:created>2006-09-21/2007-04-15</dcterms:created>
 </mdRecord>

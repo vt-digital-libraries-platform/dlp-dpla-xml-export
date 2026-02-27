@@ -10,6 +10,7 @@
     <dcterms:title>ALBUM OF VIRGINIA/ILLUTRATED/BY/ED. BEYER/1858</dcterms:title>
     <dcterms:description>Cover</dcterms:description>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1858</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:format>image/tiff</dcterms:format>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/8c504965</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_001135_0001-1/full/180,/0/default.jpg</edm:preview>
     <dcterms:creator>BEYER, EDWARD (German, 1820 - 1865)</dcterms:creator>
-    <dcterms:created>1858</dcterms:created>
 </mdRecord>

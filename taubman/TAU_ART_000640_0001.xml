@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000640_0001</dcterms:identifier>
     <dcterms:title>PINNING</dcterms:title>
     <dcterms:subject>Virginia,Art,WATER MEDIA</dcterms:subject>
+    <dcterms:date>circa 1879</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Watercolor on paper</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/ae5afa4a</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000640_0001-1/full/177,/0/default.jpg</edm:preview>
     <dcterms:creator>EAKIN, UAN MACDOWELL (United tates, 1851-1938)</dcterms:creator>
-    <dcterms:created>circa 1879</dcterms:created>
 </mdRecord>

@@ -7,8 +7,9 @@
     xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
 
     <dcterms:identifier>TAU_ART_000455_0001</dcterms:identifier>
-    <dcterms:title>THE NIGHT ATTACK OF THE FORTY-EVEN RONIN THE FIGHT IN THE GARDEN AND THE DEFENE OF MORONAO' HIDING PLACE</dcterms:title>
+    <dcterms:title>THE NIGHT ATTACK OF THE FORTY-EVEN RONIN THE FIGHT IN THE GARDEN AND THE DEFENE OF MORONAO&apos; HIDING PLACE</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1849-1852</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Color woodblock print</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/96b778b6</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000455_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>KUNIYOHI, UTAGAWA (Japanese, 1797-1861)</dcterms:creator>
-    <dcterms:created>1849-1852</dcterms:created>
 </mdRecord>

@@ -10,6 +10,7 @@
     <dcterms:title>EACAPE</dcterms:title>
     <dcterms:description>American painter and muralist William de Leftwich Dodge was born in Bedford, Virginia and spent most of his childhood life abroad in Europe where he studied painting in Paris and Berlin. Aligned with the American Impressionists, Dodge planned and built Villa Francesca, a remarkable studio house overlooking etauket bay, New York. Painting en plein air (outside), Dodge captured the light , churning movement, and deep blue color of the sea near his home in his painting eascape.</dcterms:description>
     <dcterms:subject>Virginia,Art,PAINTING</dcterms:subject>
+    <dcterms:date>ca. 1920</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Oil Canvas</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -18,5 +19,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/c38d2ee6</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000117_0007-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>DODGE, WILLIAM DE LEFTWICH (United tates, 1867-1935)</dcterms:creator>
-    <dcterms:created>ca. 1920</dcterms:created>
 </mdRecord>

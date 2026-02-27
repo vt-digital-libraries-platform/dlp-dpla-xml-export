@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_001009_0001</dcterms:identifier>
     <dcterms:title>RAPBERRY BANK</dcterms:title>
     <dcterms:subject>Virginia,Art,WATER MEDIA</dcterms:subject>
+    <dcterms:date>1975</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>watercolor</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/77b98778</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_001009_0001-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>JOHNON, ERNET M. (United tates, 1924-1996)</dcterms:creator>
-    <dcterms:created>1975</dcterms:created>
 </mdRecord>

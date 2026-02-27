@@ -10,6 +10,7 @@
     <dcterms:title>THREE BOATING CENE</dcterms:title>
     <dcterms:description>2 of 3 scenes</dcterms:description>
     <dcterms:subject>Virginia,Art,PHOTOGRAPH</dcterms:subject>
+    <dcterms:date>no date</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Gelatin silver photographs</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -18,5 +19,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/7cf5ec0c</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000618_0002-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>(United tates)</dcterms:creator>
-    <dcterms:created>no date</dcterms:created>
 </mdRecord>

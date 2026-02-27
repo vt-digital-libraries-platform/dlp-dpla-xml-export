@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_001128_0001</dcterms:identifier>
     <dcterms:title>RECLINING NUDE</dcterms:title>
     <dcterms:subject>Virginia,Art,WATER MEDIA</dcterms:subject>
+    <dcterms:date>no date</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>watercolor paper</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/76cba431</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_001128_0001-1/full/160,/0/default.jpg</edm:preview>
     <dcterms:creator>KADAR, BELA (Hungarian, 1877-1956)</dcterms:creator>
-    <dcterms:created>no date</dcterms:created>
 </mdRecord>

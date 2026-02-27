@@ -9,6 +9,7 @@
     <dcterms:identifier>TAU_ART_000054_0001</dcterms:identifier>
     <dcterms:title>THE MILLIONAIRE</dcterms:title>
     <dcterms:subject>Virginia,Art,PAINTING</dcterms:subject>
+    <dcterms:date>circa 1938</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Oil on canvas</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
@@ -17,5 +18,4 @@
     <edm:isShownAt>https://digital.lib.vt.edu/archive/b5bf2a95</edm:isShownAt>
     <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000054_0001-1/full/115,/0/default.jpg</edm:preview>
     <dcterms:creator>LEVINE, JACK (United tates, 1915-2010)</dcterms:creator>
-    <dcterms:created>circa 1938</dcterms:created>
 </mdRecord>
