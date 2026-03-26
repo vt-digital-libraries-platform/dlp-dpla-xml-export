@@ -7,14 +7,16 @@
     xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
 
     <dcterms:identifier>TAU_ART_000938_0001</dcterms:identifier>
-    <dcterms:title>HENENDO VALLEY</dcterms:title>
-    <dcterms:subject>Virginia,Art,WATER MEDIA</dcterms:subject>
+    <dcterms:title>SHENENDO VALLEY</dcterms:title>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:subject>Art</dcterms:subject>
+    <dcterms:subject>WATER MEDIA</dcterms:subject>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>watercolor on paper</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
-    <edm:isShownAt>https://digital.lib.vt.edu/archive/9ae88ba8</edm:isShownAt>
-    <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000938_0001-1/full/250,/0/default.jpg</edm:preview>
-    <dcterms:creator>COWLE, RUELL (United tates, 1887 - 1979)</dcterms:creator>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/xj20jr7h</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/swva/TAU_ART/tiles/TAU_ART_000938_0001-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:creator>COWLES, RUSSELL (United States, 1887 - 1979)</dcterms:creator>
 </mdRecord>

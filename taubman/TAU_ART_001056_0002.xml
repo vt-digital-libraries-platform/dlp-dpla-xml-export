@@ -9,14 +9,15 @@
     <dcterms:identifier>TAU_ART_001056_0002</dcterms:identifier>
     <dcterms:title>UNDER THE NATURAL BRIDGE</dcterms:title>
     <dcterms:description>Verso</dcterms:description>
-    <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
-    <dcterms:date>1872</dcterms:date>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:subject>Art</dcterms:subject>
+    <dcterms:subject>PRINTS</dcterms:subject>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Hand-tinted engraving Paper</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
-    <edm:isShownAt>https://digital.lib.vt.edu/archive/cb2f8cc2</edm:isShownAt>
-    <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_001056_0002-1/full/169,/0/default.jpg</edm:preview>
-    <dcterms:creator>FENN, HARRY (United tates, Born England, 1845-1911)</dcterms:creator>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/7p76bw03</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/swva/TAU_ART/tiles/TAU_ART_001056_0002-1/full/169,/0/default.jpg</edm:preview>
+    <dcterms:creator>FENN, HARRY (United States, Born England, 1845-1911)</dcterms:creator>
 </mdRecord>

@@ -7,14 +7,15 @@
     xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
 
     <dcterms:identifier>TAU_ART_000604_0001</dcterms:identifier>
-    <dcterms:title>MARY MACDOWELL IN LIGHT DRE, ITTING, FACING RIGHT.</dcterms:title>
-    <dcterms:subject>Virginia,Art,PHOTOGRAPH</dcterms:subject>
-    <dcterms:date>ca. 1885</dcterms:date>
+    <dcterms:title>MARY MACDOWELL IN LIGHT DRESS, SITTING, FACING RIGHT.</dcterms:title>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:subject>Art</dcterms:subject>
+    <dcterms:subject>PHOTOGRAPHS</dcterms:subject>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>albumen print</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
-    <edm:isShownAt>https://digital.lib.vt.edu/archive/ab902fe1</edm:isShownAt>
-    <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000604_0001-1/full/213,/0/default.jpg</edm:preview>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/wg325662</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/swva/TAU_ART/tiles/TAU_ART_000604_0001-1/full/213,/0/default.jpg</edm:preview>
 </mdRecord>

@@ -7,15 +7,16 @@
     xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
 
     <dcterms:identifier>TAU_ART_001228_0001</dcterms:identifier>
-    <dcterms:title>FROM THE MARDI GRA PORTFOLIO (HIGH-HEELED NEAKER)</dcterms:title>
-    <dcterms:subject>Virginia,Art,BONE</dcterms:subject>
-    <dcterms:date>undated</dcterms:date>
+    <dcterms:title>FROM THE MARDI GRAS PORTFOLIO (HIGH-HEELED SNEAKERS)</dcterms:title>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:subject>Art</dcterms:subject>
+    <dcterms:subject>BONE</dcterms:subject>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Gelatin silver print</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
-    <edm:isShownAt>https://digital.lib.vt.edu/archive/12bf5c10</edm:isShownAt>
-    <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_001228_0001-1/full/250,/0/default.jpg</edm:preview>
-    <dcterms:creator>BONGE, LYLE (United tates, 1929 - 2009)</dcterms:creator>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/h176340x</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/swva/TAU_ART/tiles/TAU_ART_001228_0001-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:creator>BONGE, LYLE (United States, 1929 - 2009)</dcterms:creator>
 </mdRecord>

@@ -9,14 +9,15 @@
     <dcterms:identifier>TAU_ART_000138_0005</dcterms:identifier>
     <dcterms:title>APARTMENT &apos;C&apos;</dcterms:title>
     <dcterms:description>Clifton was born in Norfolk, Virginia and was raised in Newport News. He studied painting at the Pennsylvania Academy of Fine Arts in Philadelphia. Known for his enigmatic portraits and landscapes, Clifton exhibited throughout Virginia and had a career retrospective at the Charles H. Taylor Arts Center in Hampton, Virginia that featured more than 50 drawings and paintings from his 60-year career.</dcterms:description>
-    <dcterms:subject>Virginia,Art,PAINTING</dcterms:subject>
-    <dcterms:date>1960&apos;s</dcterms:date>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:subject>Art</dcterms:subject>
+    <dcterms:subject>PAINTINGS</dcterms:subject>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Oil Masonite</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
-    <edm:isShownAt>https://digital.lib.vt.edu/archive/22f2d53e</edm:isShownAt>
-    <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000138_0005-1/full/80,/0/default.jpg</edm:preview>
-    <dcterms:creator>CLIFTON, JACK (United tates, 1912 - 1990)</dcterms:creator>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/pd40c42s</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/swva/TAU_ART/tiles/TAU_ART_000138_0005-1/full/80,/0/default.jpg</edm:preview>
+    <dcterms:creator>CLIFTON, JACK (United States, 1912 - 1990)</dcterms:creator>
 </mdRecord>

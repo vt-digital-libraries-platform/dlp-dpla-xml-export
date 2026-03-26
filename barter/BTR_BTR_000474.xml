@@ -6,19 +6,19 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
 
-    <dcterms:identifier>btrst474001</dcterms:identifier>
-    <dcterms:title>Granny&apos;s Millions by Anne Armstrong</dcterms:title>
+    <dcterms:identifier>BTR_BTR_000474</dcterms:identifier>
+    <dcterms:title>Granny&apos;s Millions by Anne Armstrong; Moon is Blue</dcterms:title>
     <dcterms:description>Poster for the plays Granny&apos;s Millions by Anne Armstrong, Sep 15-17, 1954 | Moon is Blue, Sep 18, 1954.</dcterms:description>
     <dcterms:language>eng</dcterms:language>
     <dcterms:contributor>Barter Theatre (Organization : Abingdon, Va.)</dcterms:contributor>
     <dcterms:subject>Theater</dcterms:subject>
-    <dcterms:subject>Virginia</dcterms:subject>
-    <dcterms:date>1954-08-15/1954-08-18</dcterms:date>
+    <dcterms:subject> Virginia</dcterms:subject>
     <dcterms:type>Still Image</dcterms:type>
+    <dcterms:spatial>Abingdon, Washington, Virginia, United States</dcterms:spatial>
     <dcterms:medium>posters</dcterms:medium>
-    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:format>image/jpeg</dcterms:format>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
-    <edm:isShownAt>https://digital.lib.vt.edu/archive/7224kv0s</edm:isShownAt>
-    <edm:preview>https://img.cloud.lib.vt.edu/federated/BTR/tiles/btrst474001-1/full/250,/0/default.jpg</edm:preview>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/b419d27x</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/swva/BTR/tiles/BTR_BTR_000474-1/full/250,/0/default.jpg</edm:preview>
 </mdRecord>

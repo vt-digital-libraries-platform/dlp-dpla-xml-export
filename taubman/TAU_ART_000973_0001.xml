@@ -7,15 +7,16 @@
     xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
 
     <dcterms:identifier>TAU_ART_000973_0001</dcterms:identifier>
-    <dcterms:title>VIRGINIA FRAKTUR,TAUFCHEIN FOR ANA ARA HOTTEL</dcterms:title>
-    <dcterms:subject>Virginia,Art,DRAWING</dcterms:subject>
-    <dcterms:date>1793</dcterms:date>
+    <dcterms:title>&quot;VIRGINIA FRAKTUR,TAUFSCHEIN FOR ANA SARA HOTTEL&quot;</dcterms:title>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:subject>Art</dcterms:subject>
+    <dcterms:subject>DRAWINGS</dcterms:subject>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>watercolor and ink on paper</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
-    <edm:isShownAt>https://digital.lib.vt.edu/archive/20c83f1d</edm:isShownAt>
-    <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000973_0001-1/full/250,/0/default.jpg</edm:preview>
-    <dcterms:creator>ARTIT, WILD TURKEY (United tates)</dcterms:creator>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/cm046515</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/swva/TAU_ART/tiles/TAU_ART_000973_0001-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:creator>ARTIST, WILD TURKEY (United States)</dcterms:creator>
 </mdRecord>

@@ -8,14 +8,15 @@
 
     <dcterms:identifier>TAU_ART_000980_0001</dcterms:identifier>
     <dcterms:title>LADDER BOX</dcterms:title>
-    <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
-    <dcterms:date>1970</dcterms:date>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:subject>Art</dcterms:subject>
+    <dcterms:subject>PRINTS</dcterms:subject>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>aquatint and drypoint etching</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
-    <edm:isShownAt>https://digital.lib.vt.edu/archive/66c23af1</edm:isShownAt>
-    <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000980_0001-1/full/241,/0/default.jpg</edm:preview>
-    <dcterms:creator>HOUE, GORDON (British, 1932-2004)</dcterms:creator>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/5z54hp3c</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/swva/TAU_ART/tiles/TAU_ART_000980_0001-1/full/241,/0/default.jpg</edm:preview>
+    <dcterms:creator>HOUSE, GORDON (British, 1932-2004)</dcterms:creator>
 </mdRecord>

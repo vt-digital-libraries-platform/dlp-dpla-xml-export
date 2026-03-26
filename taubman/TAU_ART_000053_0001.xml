@@ -7,15 +7,16 @@
     xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
 
     <dcterms:identifier>TAU_ART_000053_0001</dcterms:identifier>
-    <dcterms:title>RECOLLECTION OF PRING PAT</dcterms:title>
-    <dcterms:subject>Virginia,Art,PAINTING</dcterms:subject>
-    <dcterms:date>no date</dcterms:date>
+    <dcterms:title>RECOLLECTIONS OF SPRINGS PAST</dcterms:title>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:subject>Art</dcterms:subject>
+    <dcterms:subject>PAINTINGS</dcterms:subject>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Oil Masonite</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
-    <edm:isShownAt>https://digital.lib.vt.edu/archive/39adf451</edm:isShownAt>
-    <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000053_0001-1/full/225,/0/default.jpg</edm:preview>
-    <dcterms:creator>MEAGHER, LAURA COLEMAN (United tates, 1914-2074)</dcterms:creator>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/x838h09j</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/swva/TAU_ART/tiles/TAU_ART_000053_0001-1/full/225,/0/default.jpg</edm:preview>
+    <dcterms:creator>MEAGHER, LAURA COLEMAN (United States, 1914-2074)</dcterms:creator>
 </mdRecord>

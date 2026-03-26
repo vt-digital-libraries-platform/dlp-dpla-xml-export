@@ -6,19 +6,19 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
 
-    <dcterms:identifier>btrst611001</dcterms:identifier>
+    <dcterms:identifier>BTR_BTR_000611</dcterms:identifier>
     <dcterms:title>Bell, Book and Candle</dcterms:title>
     <dcterms:description>Playbill for Bell, Book and Candle by John Van Druten. Rex Partington, Producing Director. Directed by Ken Costigan. Sep 19- Oct 7, 1984. 52nd Season.</dcterms:description>
     <dcterms:language>eng</dcterms:language>
     <dcterms:contributor>Barter Theatre (Organization : Abingdon, Va.)</dcterms:contributor>
     <dcterms:subject>Theater</dcterms:subject>
-    <dcterms:subject>Virginia</dcterms:subject>
-    <dcterms:date>1984-09-19/1984-10-07</dcterms:date>
+    <dcterms:subject> Virginia</dcterms:subject>
     <dcterms:type>Still Image</dcterms:type>
+    <dcterms:spatial>Abingdon, Washington, Virginia, United States</dcterms:spatial>
     <dcterms:medium>playbills</dcterms:medium>
-    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:format>image/jpeg</dcterms:format>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
-    <edm:isShownAt>https://digital.lib.vt.edu/archive/vc32sm16</edm:isShownAt>
-    <edm:preview>https://img.cloud.lib.vt.edu/federated/BTR/tiles/btrst611001-1/full/168,/0/default.jpg</edm:preview>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/wv97kb2c</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/swva/BTR/tiles/BTR_BTR_000611-1/full/168,/0/default.jpg</edm:preview>
 </mdRecord>

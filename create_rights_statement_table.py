@@ -20,8 +20,8 @@ import os
 import sys
 
 # Configuration from environment variables
-REGION = os.environ.get('REGION')
-ENV = os.environ.get('ENV')
+REGION = os.environ.get('REGION','us-east-1')
+ENV = os.environ.get('ENV','prod')
 
 # Table name (same for both preprod and prod)
 TABLE_NAME = 'RightsStatement'

@@ -7,6 +7,9 @@ multi_valued_or_dimension_format_results_20250930_063905.txt
 multi_valued_or_dimension_format_results.txt
 README.md
 run_vtdlp-dpla-xml-export.sh
+run_vtdlp-dpla-xml-export-prod.sh
+run_production.sh
+*.sh
 squires_formats_20251001_113401.txt
 squires_formats_20251001_113543.txt
 squires_formats_20251001_113947.txt
@@ -29,6 +32,7 @@ vtgrad/
 xb17j67j/
 podcast/
 testextract/
+other/
 logs/
 __pycache__/
 # Do not ignore the following recently edited folders
@@ -78,3 +82,24 @@ check_identifier_samples.py
 test_backslash_removal.py
 test_xml_generation.py
 test_xml_generation.py
+INTEGRATION_GUIDE.md
+item*.xml
+RIGHTS_STATEMENT_*.xml
+check_s3_structure.py
+CODE_CHANGES_SUMMARY.md
+list_s3_federated_identifiers.py
+check_vtcatalog_s3.py
+check_vtcatalog_rights.py
+count_federated_items
+find_page_uirs
+check_isactive.py
+check_rights_table.py
+count_federated_items.py
+RIGHTS_STATEMENT_README.md
+analyze_invalid_csv.py
+test_rights_integration.py
+add_folder_mappings.py
+find_page_uris.py
+populate_rights_statements.py
+*.txt
+

@@ -9,15 +9,7 @@
     <dcterms:identifier>MTG_MGM_000035</dcterms:identifier>
     <dcterms:title>Montgomery Messenger (Christiansburg, Montgomery County, VA), Vol. LI., No. 38, September 19, 1919</dcterms:title>
     <dcterms:description>Newspaper from Christiansburg, Montgomery County, Virginia that includes local news and advertisements</dcterms:description>
-    <dcterms:language>eng</dcterms:language>
-    <dcterms:subject>Virginia</dcterms:subject>
-    <dcterms:subject>Newspapers</dcterms:subject>
-    <dcterms:date>1919-09-19</dcterms:date>
-    <dcterms:type>Text</dcterms:type>
-    <dcterms:spatial>Christiansburg, Montgomery, Virginia, United States</dcterms:spatial>
-    <dcterms:medium>newspapers</dcterms:medium>
-    <dcterms:format>image/tif</dcterms:format>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
-    <edm:isShownAt>https://digital.lib.vt.edu/archive/4ccc4639</edm:isShownAt>
-    <edm:preview>https://img.cloud.lib.vt.edu/federated/MTG/tiles/MTG_MGM_000035-1/full/179,/0/default.jpg</edm:preview>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/f9620r7f</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/swva/MTG/tiles/MTG_MGM_000035-1/full/179,/0/default.jpg</edm:preview>
 </mdRecord>

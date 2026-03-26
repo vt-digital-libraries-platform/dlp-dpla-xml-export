@@ -6,19 +6,19 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
 
-    <dcterms:identifier>btrst641001</dcterms:identifier>
+    <dcterms:identifier>BTR_BTR_000641</dcterms:identifier>
     <dcterms:title>Broadway to Hollywood</dcterms:title>
     <dcterms:description>Playbill for Broadway to Hollywood- A Journey Through Music. Featuring Tony Partington, Adrienne Doucette, Logan Brown. Directed by Adrienne Doucette. 1992.</dcterms:description>
     <dcterms:language>eng</dcterms:language>
     <dcterms:contributor>Barter Theatre (Organization : Abingdon, Va.)</dcterms:contributor>
     <dcterms:subject>Theater</dcterms:subject>
-    <dcterms:subject>Virginia</dcterms:subject>
-    <dcterms:date>1992</dcterms:date>
+    <dcterms:subject> Virginia</dcterms:subject>
     <dcterms:type>Still Image</dcterms:type>
+    <dcterms:spatial>Abingdon, Washington, Virginia, United States</dcterms:spatial>
     <dcterms:medium>playbills</dcterms:medium>
-    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:format>image/jpeg</dcterms:format>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
-    <edm:isShownAt>https://digital.lib.vt.edu/archive/km85sx8s</edm:isShownAt>
-    <edm:preview>https://img.cloud.lib.vt.edu/federated/BTR/tiles/btrst641001-1/full/163,/0/default.jpg</edm:preview>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/p5848p9w</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/swva/BTR/tiles/BTR_BTR_000641-1/full/163,/0/default.jpg</edm:preview>
 </mdRecord>

@@ -7,15 +7,16 @@
     xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
 
     <dcterms:identifier>TAU_ART_001135_0023</dcterms:identifier>
-    <dcterms:title>BULLARD ROCK ON THE NEW RIVER/NEAR THE NEW RIVER WHITE ULFER PRING GILE COUNTY, VA.</dcterms:title>
-    <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
-    <dcterms:date>1857</dcterms:date>
+    <dcterms:title>&quot;BULLARD ROCK ON THE NEW RIVER/NEAR THE NEW RIVER WHITE SULFER SPRING GILES COUNTY, VA.&quot;</dcterms:title>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:subject>Art</dcterms:subject>
+    <dcterms:subject>PRINTS</dcterms:subject>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>lithograph</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
-    <edm:isShownAt>https://digital.lib.vt.edu/archive/0f06e9ba</edm:isShownAt>
-    <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_001135_0023-1/full/250,/0/default.jpg</edm:preview>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/wr98s47v</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/swva/TAU_ART/tiles/TAU_ART_001135_0023-1/full/250,/0/default.jpg</edm:preview>
     <dcterms:creator>BEYER, EDWARD (German, 1820 - 1865)</dcterms:creator>
 </mdRecord>

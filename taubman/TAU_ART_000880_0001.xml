@@ -7,15 +7,16 @@
     xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
 
     <dcterms:identifier>TAU_ART_000880_0001</dcterms:identifier>
-    <dcterms:title>TRANLATION</dcterms:title>
-    <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
-    <dcterms:date>undated, circa 1967</dcterms:date>
+    <dcterms:title>TRANSLATION</dcterms:title>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:subject>Art</dcterms:subject>
+    <dcterms:subject>PRINTS</dcterms:subject>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>etching</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
-    <edm:isShownAt>https://digital.lib.vt.edu/archive/6be96a73</edm:isShownAt>
-    <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000880_0001-1/full/201,/0/default.jpg</edm:preview>
-    <dcterms:creator>THRALL, ARTHUR (United tates, 1926-2015)</dcterms:creator>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/4432n23q</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/swva/TAU_ART/tiles/TAU_ART_000880_0001-1/full/201,/0/default.jpg</edm:preview>
+    <dcterms:creator>THRALL, ARTHUR (United States, 1926-2015)</dcterms:creator>
 </mdRecord>
