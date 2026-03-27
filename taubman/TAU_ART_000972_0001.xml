@@ -7,16 +7,14 @@
     xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
 
     <dcterms:identifier>TAU_ART_000972_0001</dcterms:identifier>
-    <dcterms:title>&quot;CHANCELLORSVILLE, VISITOR IN CONFEDERATE CAMP&quot;</dcterms:title>
-    <dcterms:subject>Virginia</dcterms:subject>
-    <dcterms:subject>Art</dcterms:subject>
-    <dcterms:subject>PHOTOGRAPHS</dcterms:subject>
+    <dcterms:title>CHANCELLORVILLE, VIITOR IN CONFEDERATE CAMP</dcterms:title>
+    <dcterms:subject>Virginia,Art,PHOTOGRAPH</dcterms:subject>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Gelatin silver print pinhole photograph</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
-    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/9d493k8v</edm:isShownAt>
-    <edm:preview>https://img.cloud.lib.vt.edu/swva/TAU_ART/tiles/TAU_ART_000972_0001-1/full/250,/0/default.jpg</edm:preview>
-    <dcterms:creator>WRIGHT, WILLIE ANNE (United States, Born 1924)</dcterms:creator>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/09706721</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000972_0001-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:creator>WRIGHT, WILLIE ANNE (United tates, Born 1924)</dcterms:creator>
 </mdRecord>

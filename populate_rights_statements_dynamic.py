@@ -40,7 +40,7 @@ except ImportError:
 
 # Configuration from environment variables
 REGION = os.environ.get('REGION', 'us-east-1')
-ENV = os.environ.get('ENV', 'preprod')
+ENV = os.environ.get('ENV', 'production')
 
 # Table name (same for both preprod and prod)
 TABLE_NAME = 'RightsStatement'

@@ -7,16 +7,14 @@
     xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
 
     <dcterms:identifier>TAU_ART_000977_0002</dcterms:identifier>
-    <dcterms:title>THE HEAD OF BLESSED OLIVER PLUNKETT</dcterms:title>
-    <dcterms:subject>Virginia</dcterms:subject>
-    <dcterms:subject>Art</dcterms:subject>
-    <dcterms:subject>PHOTOGRAPHS</dcterms:subject>
+    <dcterms:title>THE HEAD OF BLEED OLIVER PLUNKETT</dcterms:title>
+    <dcterms:subject>Virginia,Art,PHOTOGRAPH</dcterms:subject>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>photograph</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
-    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/c0653f5f</edm:isShownAt>
-    <edm:preview>https://img.cloud.lib.vt.edu/swva/TAU_ART/tiles/TAU_ART_000977_0002-1/full/235,/0/default.jpg</edm:preview>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/d9934a29</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000977_0002-1/full/235,/0/default.jpg</edm:preview>
     <dcterms:creator>MACWEENEY, ALEN (Irish, Born 1939)</dcterms:creator>
 </mdRecord>

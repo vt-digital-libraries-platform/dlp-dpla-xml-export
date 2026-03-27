@@ -7,16 +7,14 @@
     xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
 
     <dcterms:identifier>TAU_ART_000056_0001</dcterms:identifier>
-    <dcterms:title>STILL LIFE WITH JOE MONK&apos;S BOWL</dcterms:title>
-    <dcterms:subject>Virginia</dcterms:subject>
-    <dcterms:subject>Art</dcterms:subject>
-    <dcterms:subject>PAINTINGS</dcterms:subject>
+    <dcterms:title>TILL LIFE WITH JOE MONK&apos; BOWL</dcterms:title>
+    <dcterms:subject>Virginia,Art,PAINTING</dcterms:subject>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Acrylic Canvasboard</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
-    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/zz51jr9m</edm:isShownAt>
-    <edm:preview>https://img.cloud.lib.vt.edu/swva/TAU_ART/tiles/TAU_ART_000056_0001-1/full/191,/0/default.jpg</edm:preview>
-    <dcterms:creator>KLEIN, PEYTON (United States, 1921-2005)</dcterms:creator>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/50ecc605</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000056_0001-1/full/191,/0/default.jpg</edm:preview>
+    <dcterms:creator>KLEIN, PEYTON (United tates, 1921-2005)</dcterms:creator>
 </mdRecord>

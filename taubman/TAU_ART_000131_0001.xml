@@ -8,16 +8,14 @@
 
     <dcterms:identifier>TAU_ART_000131_0001</dcterms:identifier>
     <dcterms:title>CIRCLE OF POWER/MATT X</dcterms:title>
-    <dcterms:description>Self-taught artist Hugo Sperger was born in Italy and afterwards his family resettles in upstate New York. After a stint in the U. S. Army, Sperger lived in rural Kentucky. A prolific artist, Sperger created hundreds of paintings for over 40 years. Focusing on biblical scenes, his work gained attention after his death and was subsequently included in several exhibitions.</dcterms:description>
-    <dcterms:subject>Virginia</dcterms:subject>
-    <dcterms:subject>Art</dcterms:subject>
-    <dcterms:subject>PAINTINGS</dcterms:subject>
+    <dcterms:description>elf-taught artist Hugo perger was born in Italy and afterwards his family resettles in upstate New York. After a stint in the U. . Army, perger lived in rural Kentucky. A prolific artist, perger created hundreds of paintings for over 40 years. Focusing on biblical scenes, his work gained attention after his death and was subsequently included in several exhibitions.</dcterms:description>
+    <dcterms:subject>Virginia,Art,PAINTING</dcterms:subject>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Acrylic Masonite</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
-    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/d589q00f</edm:isShownAt>
-    <edm:preview>https://img.cloud.lib.vt.edu/swva/TAU_ART/tiles/TAU_ART_000131_0001-1/full/250,/0/default.jpg</edm:preview>
-    <dcterms:creator>SPERGER, HUGO (United States, born Italy, 1922-1996)</dcterms:creator>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/687d518c</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000131_0001-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:creator>PERGER, HUGO (United tates, born Italy, 1922-1996)</dcterms:creator>
 </mdRecord>

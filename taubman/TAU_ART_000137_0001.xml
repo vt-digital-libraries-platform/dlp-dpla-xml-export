@@ -7,17 +7,15 @@
     xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
 
     <dcterms:identifier>TAU_ART_000137_0001</dcterms:identifier>
-    <dcterms:title>STUDIO LIGHT SUITE</dcterms:title>
-    <dcterms:description>Beloved Hollins University Professor emeritus and artist Bill White is a consummate artist whose paintings imply immortality, regardless of their actual size. It&apos;s all about the studio coupled with the plein air experience, the physicality of the paint and the act of painting. In Studio Light Suite, White captures the trail of shifting light and its residual shadows over a myriad of details present in twelve individual paintings grouped in a grid. In documenting the actual passage of time as translated by light, the paintings are a bittersweet homage to the notion of memento mori, reminding us of life&apos;s impermanence.</dcterms:description>
-    <dcterms:subject>Virginia</dcterms:subject>
-    <dcterms:subject>Art</dcterms:subject>
-    <dcterms:subject>PAINTINGS</dcterms:subject>
+    <dcterms:title>TUDIO LIGHT SUITE</dcterms:title>
+    <dcterms:description>Beloved Hollins University Professor emeritus and artist Bill White is a consummate artist whose paintings imply immortality, regardless of their actual size. It&apos;s all about the studio coupled with the plein air experience, the physicality of the paint and the act of painting. In tudio Light uite, White captures the trail of shifting light and its residual shadows over a myriad of details present in twelve individual paintings grouped in a grid. In documenting the actual passage of time as translated by light, the paintings are a bittersweet homage to the notion of memento mori, reminding us of life&apos;s impermanence.</dcterms:description>
+    <dcterms:subject>Virginia,Art,PAINTING</dcterms:subject>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Oil Masonite</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
-    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/6318dt5q</edm:isShownAt>
-    <edm:preview>https://img.cloud.lib.vt.edu/swva/TAU_ART/tiles/TAU_ART_000137_0001-1/full/250,/0/default.jpg</edm:preview>
-    <dcterms:creator>WHITE, WILLIAM G. (United States, Born 1945)</dcterms:creator>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/6abfe28f</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000137_0001-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:creator>WHITE, WILLIAM G. (United tates, Born 1945)</dcterms:creator>
 </mdRecord>

@@ -6,19 +6,19 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
 
-    <dcterms:identifier>BTR_BTR_000445</dcterms:identifier>
-    <dcterms:title>John Loves Mary; East Lynne</dcterms:title>
+    <dcterms:identifier>btrst445001</dcterms:identifier>
+    <dcterms:title>John Loves Mary</dcterms:title>
     <dcterms:description>Poster for the July 9-14, 1947 production of John Loves Mary | East Lynne.</dcterms:description>
     <dcterms:language>eng</dcterms:language>
     <dcterms:contributor>Barter Theatre (Organization : Abingdon, Va.)</dcterms:contributor>
     <dcterms:subject>Theater</dcterms:subject>
-    <dcterms:subject> Virginia</dcterms:subject>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:date>1947-07-09</dcterms:date>
     <dcterms:type>Still Image</dcterms:type>
-    <dcterms:spatial>Abingdon, Washington, Virginia, United States</dcterms:spatial>
     <dcterms:medium>posters</dcterms:medium>
-    <dcterms:format>image/jpeg</dcterms:format>
+    <dcterms:format>image/tiff</dcterms:format>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
-    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/r493rb76</edm:isShownAt>
-    <edm:preview>https://img.cloud.lib.vt.edu/swva/BTR/tiles/BTR_BTR_000445-1/full/172,/0/default.jpg</edm:preview>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/9693x76k</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/BTR/tiles/btrst445001-1/full/172,/0/default.jpg</edm:preview>
 </mdRecord>

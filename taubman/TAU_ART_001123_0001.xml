@@ -7,16 +7,14 @@
     xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
 
     <dcterms:identifier>TAU_ART_001123_0001</dcterms:identifier>
-    <dcterms:title>BURKS&apos; GARDEN</dcterms:title>
-    <dcterms:subject>Virginia</dcterms:subject>
-    <dcterms:subject>Art</dcterms:subject>
-    <dcterms:subject>PAINTINGS</dcterms:subject>
+    <dcterms:title>BURK&apos; GARDEN</dcterms:title>
+    <dcterms:subject>Virginia,Art,PAINTING</dcterms:subject>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Oil Canvas</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
-    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/2k27z87x</edm:isShownAt>
-    <edm:preview>https://img.cloud.lib.vt.edu/swva/TAU_ART/tiles/TAU_ART_001123_0001-1/full/250,/0/default.jpg</edm:preview>
-    <dcterms:creator>WOODS, KATE (New Zealand, Born 1981)</dcterms:creator>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/df2a5635</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_001123_0001-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:creator>WOOD, KATE (New Zealand, Born 1981)</dcterms:creator>
 </mdRecord>

@@ -8,16 +8,14 @@
 
     <dcterms:identifier>TAU_ART_000122_0004</dcterms:identifier>
     <dcterms:title>THE PIPER</dcterms:title>
-    <dcterms:description>Virginia illustrator, sculptor, and painter Robert Ryland Kearfott was born in Martinsville, Virginia. In his paintings, Kearfott was known for representing people both realistically, and with character. He was well known and earned such high praise as, &quot;Kearfott is noted for his fidelity to his subjects. He has never had a portrait commision rejected due to lack of likeness to the sitter.&quot;</dcterms:description>
-    <dcterms:subject>Virginia</dcterms:subject>
-    <dcterms:subject>Art</dcterms:subject>
-    <dcterms:subject>PAINTINGS</dcterms:subject>
+    <dcterms:description>Virginia illustrator, sculptor, and painter Robert Ryland Kearfott was born in Martinsville, Virginia. In his paintings, Kearfott was known for representing people both realistically, and with character. He was well known and earned such high praise as, \Kearfott is noted for his fidelity to his subjects. He has never had a portrait commision rejected due to lack of likeness to the sitter.\</dcterms:description>
+    <dcterms:subject>Virginia,Art,PAINTING</dcterms:subject>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Oil Canvas on board</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
-    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/3f75gf50</edm:isShownAt>
-    <edm:preview>https://img.cloud.lib.vt.edu/swva/TAU_ART/tiles/TAU_ART_000122_0004-1/full/250,/0/default.jpg</edm:preview>
-    <dcterms:creator>KEARFOTT, ROBERT RYLAND (United States, 1890-1968)</dcterms:creator>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/4450d57d</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000122_0004-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:creator>KEARFOTT, ROBERT RYLAND (United tates, 1890-1968)</dcterms:creator>
 </mdRecord>

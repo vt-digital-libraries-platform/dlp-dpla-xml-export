@@ -8,16 +8,14 @@
 
     <dcterms:identifier>TAU_ART_000297_0015</dcterms:identifier>
     <dcterms:title>CURE/HEAL</dcterms:title>
-    <dcterms:description>Print in the portfolio 10  ARTIST AS CATALYST</dcterms:description>
-    <dcterms:subject>Virginia</dcterms:subject>
-    <dcterms:subject>Art</dcterms:subject>
-    <dcterms:subject>PRINTS</dcterms:subject>
+    <dcterms:description>Print in the portfolio 10 ARTIT A CATALYT</dcterms:description>
+    <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>serigraph</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
-    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/sx66g73m</edm:isShownAt>
-    <edm:preview>https://img.cloud.lib.vt.edu/swva/TAU_ART/tiles/TAU_ART_000297_0015-1/full/250,/0/default.jpg</edm:preview>
-    <dcterms:creator>SIMPSON, LORNA (United States, Born 1960)</dcterms:creator>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/d033a55a</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000297_0015-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:creator>IMPON, LORNA (United tates, Born 1960)</dcterms:creator>
 </mdRecord>

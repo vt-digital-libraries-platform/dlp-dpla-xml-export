@@ -6,19 +6,19 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
 
-    <dcterms:identifier>BTR_BTR_000212</dcterms:identifier>
+    <dcterms:identifier>btrst212001</dcterms:identifier>
     <dcterms:title>King of Hearts by Jean Kerr and Elanor Brooke</dcterms:title>
     <dcterms:description>Poster for the play King of Hearts by Jean Kerr and Elanor Brooke. June 27- July 2, 1955. With Cleo Holladay, Wood Romoff, Charles Quinlivan, Peter Pagan.</dcterms:description>
     <dcterms:language>eng</dcterms:language>
     <dcterms:contributor>Barter Theatre (Organization : Abingdon, Va.)</dcterms:contributor>
     <dcterms:subject>Theater</dcterms:subject>
-    <dcterms:subject> Virginia</dcterms:subject>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:date>1955-06-27</dcterms:date>
     <dcterms:type>Still Image</dcterms:type>
-    <dcterms:spatial>Abingdon, Washington, Virginia, United States</dcterms:spatial>
     <dcterms:medium>posters</dcterms:medium>
-    <dcterms:format>image/jpeg</dcterms:format>
+    <dcterms:format>image/tiff</dcterms:format>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
-    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/n931fg3k</edm:isShownAt>
-    <edm:preview>https://img.cloud.lib.vt.edu/swva/BTR/tiles/BTR_BTR_000212-1/full/165,/0/default.jpg</edm:preview>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/1g67vv1j</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/BTR/tiles/btrst212001-1/full/165,/0/default.jpg</edm:preview>
 </mdRecord>

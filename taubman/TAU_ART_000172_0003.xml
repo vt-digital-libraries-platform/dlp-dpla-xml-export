@@ -8,15 +8,13 @@
 
     <dcterms:identifier>TAU_ART_000172_0003</dcterms:identifier>
     <dcterms:title>CHEF</dcterms:title>
-    <dcterms:subject>Virginia</dcterms:subject>
-    <dcterms:subject>Art</dcterms:subject>
-    <dcterms:subject>DRAWINGS</dcterms:subject>
+    <dcterms:subject>Virginia,Art,DRAWING</dcterms:subject>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>graphite pencil</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
-    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/1w85t726</edm:isShownAt>
-    <edm:preview>https://img.cloud.lib.vt.edu/swva/TAU_ART/tiles/TAU_ART_000172_0003-1/full/173,/0/default.jpg</edm:preview>
-    <dcterms:creator>G.KELLER, HENRY (United States, 1869-1949)</dcterms:creator>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/d996fa57</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000172_0003-1/full/173,/0/default.jpg</edm:preview>
+    <dcterms:creator>G.KELLER, HENRY (United tates, 1869-1949)</dcterms:creator>
 </mdRecord>
