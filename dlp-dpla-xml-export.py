@@ -112,60 +112,61 @@ except Exception as e:
 
 
 # Function to collect S3 paths for all identifiers (for reporting, not filtering)
-def get_s3_paths_for_identifiers():
-    """
-    Scans S3 bucket to map identifiers to their actual S3 folder paths.
-    This is used for reporting actual S3 locations, not for filtering.
-    Returns a dict mapping identifier to actual S3 folder path.
-    """
-    s3_bucket = os.getenv("S3_BUCKET")
-    
-    if not s3_bucket:
-        print("DEBUG: S3_BUCKET not set, cannot collect S3 paths")
-        return {}
-    
-    # Scan entire bucket (or with prefix if set)
-    s3_prefix = os.getenv("S3_PREFIX", "")
-    print(f'DEBUG: Scanning S3 bucket "{s3_bucket}" to collect actual paths...')
-    
-    try:
-        s3_client = boto3.client('s3', region_name=env["REGION"])
-        paginator = s3_client.get_paginator('list_objects_v2')
-        
-        s3_paths_map = {}  # Map identifier -> actual S3 folder path
-        object_count = 0
-        
-        if s3_prefix:
-            pages = paginator.paginate(Bucket=s3_bucket, Prefix=s3_prefix)
-        else:
-            pages = paginator.paginate(Bucket=s3_bucket)
-        
-        for page in pages:
-            for obj in page.get('Contents', []):
-                object_count += 1
-                key = obj['Key']
-                
-                # Split key into parts
-                path_parts = key.split('/')
-                
-                # Look for 'Access' folder in path (typical structure)
-                if len(path_parts) >= 3 and 'Access' in path_parts:
-                    access_index = path_parts.index('Access')
-                    if access_index > 0:
-                        # The folder right before 'Access' is the identifier
-                        identifier = path_parts[access_index - 1]
-                        if identifier:
-                            # Store the actual S3 folder path for this identifier
-                            folder_path = '/'.join(path_parts[:access_index])
-                            s3_full_path = f"s3://{s3_bucket}/{folder_path}/"
-                            s3_paths_map[identifier] = s3_full_path
-        
-        print(f'DEBUG: Scanned {object_count} S3 objects, found {len(s3_paths_map)} identifiers with S3 paths')
-        return s3_paths_map
-        
-    except Exception as e:
-        print(f'ERROR: Failed to scan S3 bucket for paths: {e}')
-        return {}
+# COMMENTED OUT - S3 path collection disabled for performance
+# def get_s3_paths_for_identifiers():
+#     """
+#     Scans S3 bucket to map identifiers to their actual S3 folder paths.
+#     This is used for reporting actual S3 locations, not for filtering.
+#     Returns a dict mapping identifier to actual S3 folder path.
+#     """
+#     s3_bucket = os.getenv("S3_BUCKET")
+#     
+#     if not s3_bucket:
+#         print("DEBUG: S3_BUCKET not set, cannot collect S3 paths")
+#         return {}
+#     
+#     # Scan entire bucket (or with prefix if set)
+#     s3_prefix = os.getenv("S3_PREFIX", "")
+#     print(f'DEBUG: Scanning S3 bucket "{s3_bucket}" to collect actual paths...')
+#     
+#     try:
+#         s3_client = boto3.client('s3', region_name=env["REGION"])
+#         paginator = s3_client.get_paginator('list_objects_v2')
+#         
+#         s3_paths_map = {}  # Map identifier -> actual S3 folder path
+#         object_count = 0
+#         
+#         if s3_prefix:
+#             pages = paginator.paginate(Bucket=s3_bucket, Prefix=s3_prefix)
+#         else:
+#             pages = paginator.paginate(Bucket=s3_bucket)
+#         
+#         for page in pages:
+#             for obj in page.get('Contents', []):
+#                 object_count += 1
+#                 key = obj['Key']
+#                 
+#                 # Split key into parts
+#                 path_parts = key.split('/')
+#                 
+#                 # Look for 'Access' folder in path (typical structure)
+#                 if len(path_parts) >= 3 and 'Access' in path_parts:
+#                     access_index = path_parts.index('Access')
+#                     if access_index > 0:
+#                         # The folder right before 'Access' is the identifier
+#                         identifier = path_parts[access_index - 1]
+#                         if identifier:
+#                             # Store the actual S3 folder path for this identifier
+#                             folder_path = '/'.join(path_parts[:access_index])
+#                             s3_full_path = f"s3://{s3_bucket}/{folder_path}/"
+#                             s3_paths_map[identifier] = s3_full_path
+#         
+#         print(f'DEBUG: Scanned {object_count} S3 objects, found {len(s3_paths_map)} identifiers with S3 paths')
+#         return s3_paths_map
+#         
+#     except Exception as e:
+#         print(f'ERROR: Failed to scan S3 bucket for paths: {e}')
+#         return {}
 
 
 # Function to get federated identifiers from S3 (for filtering)
@@ -410,7 +411,9 @@ def build_xml(item):
                 cleaned_text = clean_text_for_xml(value)
                 ET.SubElement(root, f"{{{NSMAP['dcterms']}}}{field}").text = cleaned_text
 
-    # Add date as dcterms:date element (immediately after subject elements)
+    # Add date as dcterms:created element (immediately after subject elements)
+    # Source field in DynamoDB is 'date' — kept as-is to avoid breaking the DLP platform's Amplify/GraphQL schema.
+    # Output as dcterms:created per DPLA metadata profile ("Date of creation of the resource").
     date_value = item.get("date")
     if date_value:
         if isinstance(date_value, list):
@@ -420,7 +423,7 @@ def build_xml(item):
             date_value = date_value.strip()
             if date_value:  # Only add if not empty after stripping
                 cleaned_date = clean_text_for_xml(date_value)
-                ET.SubElement(root, f"{{{NSMAP['dcterms']}}}date").text = cleaned_date
+                ET.SubElement(root, f"{{{NSMAP['dcterms']}}}created").text = cleaned_date
     
     # Fields after date
     fields_after_date = [
@@ -466,9 +469,9 @@ def build_xml(item):
                 print(f"  → ❌ VALIDATION FAILED: {rights_data['error']}", flush=True)
                 logging.error(f"RIGHTS VALIDATION FAILED - Item {item.get('identifier')}: {rights_data['error']}")
                 
-                # Get actual S3 path from s3_paths_map (collected separately)
+                # Get S3 path from federated_identifiers (collected from S3_PREFIX)
                 identifier = item.get('identifier', 'UNKNOWN')
-                s3_path = s3_paths_map.get(identifier, 'N/A') if s3_paths_map else 'N/A'
+                s3_path = federated_identifiers.get(identifier, 'N/A') if federated_identifiers else 'N/A'
                 
                 # Track invalid URI for summary report (xml_filename will be added later)
                 invalid_rights_uris_list.append({
@@ -490,9 +493,9 @@ def build_xml(item):
         else:
             print(f"  → ⚠️  Rights field exists but URI is empty", flush=True)
             
-            # Get actual S3 path from s3_paths_map (collected separately)
+            # Get S3 path from federated_identifiers (collected from S3_PREFIX)
             identifier = item.get('identifier', 'UNKNOWN')
-            s3_path = s3_paths_map.get(identifier, 'N/A') if s3_paths_map else 'N/A'
+            s3_path = federated_identifiers.get(identifier, 'N/A') if federated_identifiers else 'N/A'
             
             # Track empty rights field
             invalid_rights_uris_list.append({
@@ -579,14 +582,7 @@ else:
 print('='*70)
 federated_identifiers = get_federated_identifiers_from_s3()
 
-# Collect S3 paths for reporting (independent of filtering)
-print()
-print('='*70)
-print('COLLECTING S3 PATHS FOR REPORTING')
-print('='*70)
-s3_paths_map = get_s3_paths_for_identifiers()
-print('='*70)
-print()
+# Use federated_identifiers for S3 path lookups (already collected from S3)
 
 
 # Filter and sort items for squires only
@@ -696,7 +692,7 @@ def get_output_subdir(identifier):
     if identifier.startswith("NMCST"):
         return "nmcst"
     if identifier.startswith("SFDST"):
-        return "sfdst"
+        return "salem-fire"
     if identifier.startswith("XB17J67J"):
         return "xb17j67j"
     if identifier.startswith("MTG"):
@@ -737,6 +733,12 @@ def get_output_subdir(identifier):
         return "cida/cida-sokolow"
     if identifier.startswith("CIDA_WSC"):
         return "cida/cida-smith"
+    if identifier.startswith("CIDA_TSC"):
+        return "cida/cida-tillman"
+    if identifier.startswith("FCHS"):
+        return "fchs"
+    if identifier.startswith("LD5655"):
+        return "tinhorn"
     if identifier.startswith("WSMITH"):
         return "wsmithclass"
     if identifier.startswith("BCVST"):

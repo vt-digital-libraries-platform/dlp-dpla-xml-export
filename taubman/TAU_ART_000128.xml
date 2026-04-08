@@ -1,0 +1,24 @@
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+
+    <dcterms:identifier>TAU_ART_000128</dcterms:identifier>
+    <dcterms:title>Convergence</dcterms:title>
+    <dcterms:description>Born in Cedar Rapids, Iowa, painter Katherine Porter trained at Colorado College and Boston university , ultimately receiving an honorary doctorate from Colby College. Porter seeks, through the use of strong geometric shapes and contrasting colors, to give form to ideas, particularly of change and conflict. This painting&apos;s title word &quot;convergence&quot; refers to movement of several elements into one.</dcterms:description>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:subject>Art</dcterms:subject>
+    <dcterms:date>1992/1994</dcterms:date>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:medium>painting (visual works)</dcterms:medium>
+    <dcterms:medium>oil</dcterms:medium>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:rights>&lt;a href=&quot;http://rightsstatements.org/page/InC-EDU/1.0/?language=en&quot;&gt;http://rightsstatements.org/vocab/InC-EDU/1.0/&lt;/a&gt;</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/5c096404</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/swva/TAU_ART/tiles/TAU_ART_000128-1/full/197,/0/default.jpg</edm:preview>
+    <dcterms:creator>Katherine Porter (American, Born 1941)</dcterms:creator>
+</mdRecord>

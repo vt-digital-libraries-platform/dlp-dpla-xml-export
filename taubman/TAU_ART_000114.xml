@@ -1,0 +1,24 @@
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+
+    <dcterms:identifier>TAU_ART_000114</dcterms:identifier>
+    <dcterms:title>Mr. Martin</dcterms:title>
+    <dcterms:description>Figurative painter Anne Bell was educated at the university of Georgia and studied at the High Museum of Art in Atlanta. Since 1978 she has had numerous exhibitions and portrait commissions. Her method in approaching her subject is unique: &quot;I paint in a realistic and sensitive style which not only portrays my subjects in a realistic fashion, but captures the mood and subtle nuances of the setting.&quot; Bell&apos;s painting Mr. Martin presents a common fixture at the downtown farmer&apos;s market. With his portrait, Bell looked to depict &quot;the nostalgia of our lovely market historical area.&quot;</dcterms:description>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:subject>Art</dcterms:subject>
+    <dcterms:date>1984-12-17</dcterms:date>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:medium>painting (visual works)</dcterms:medium>
+    <dcterms:medium>oil</dcterms:medium>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:rights>&lt;a href=&quot;http://rightsstatements.org/page/InC-EDU/1.0/?language=en&quot;&gt;http://rightsstatements.org/vocab/InC-EDU/1.0/&lt;/a&gt;</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/bz66mg3p</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/swva/TAU_ART/tiles/TAU_ART_000114-1/full/184,/0/default.jpg</edm:preview>
+    <dcterms:creator>Anne Bell (American, Born 1935)</dcterms:creator>
+</mdRecord>

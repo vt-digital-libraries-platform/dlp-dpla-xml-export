@@ -1,0 +1,24 @@
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+
+    <dcterms:identifier>TAU_ART_000130</dcterms:identifier>
+    <dcterms:title>Curtsey</dcterms:title>
+    <dcterms:description>Roanoke native Antoinette Hale paints scenes derived from her personal experiences and observations of Southwestern Virginia life. Primarily focusing on the human figure, she cannotes it to &quot;seeing the person come to life in front of me.&quot; Using photographs taken by herself or occasionally from published sources, she draws grids on the original photograph and transcribes the grid to a canvas, square by square. At some point in this process, Hale begins to disengage from the photographic model, subtly distorting her subjects for compositional unity and psychological effect. The Curtsey documents a coming-of-rite known as the Debutante Ball, an annual cotillion held since 1952.</dcterms:description>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:subject>Art</dcterms:subject>
+    <dcterms:date>1996-12-17</dcterms:date>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:medium>painting (visual works)</dcterms:medium>
+    <dcterms:medium>oil</dcterms:medium>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:rights>&lt;a href=&quot;http://rightsstatements.org/page/InC-EDU/1.0/?language=en&quot;&gt;http://rightsstatements.org/vocab/InC-EDU/1.0/&lt;/a&gt;</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/hv92fx2b</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/swva/TAU_ART/tiles/TAU_ART_000130-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:creator>E. Antoinette Hale (American, Contemporary)</dcterms:creator>
+</mdRecord>
