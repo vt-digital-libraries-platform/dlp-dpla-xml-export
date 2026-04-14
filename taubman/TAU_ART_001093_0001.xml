@@ -9,9 +9,11 @@
     <dcterms:identifier>TAU_ART_001093_0001</dcterms:identifier>
     <dcterms:title>ORNAMENT</dcterms:title>
     <dcterms:subject>Virginia,Art,METAL</dcterms:subject>
+    <dcterms:date>ca. 1980</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>\bronze, copper silver\</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:isPartOf>TAU_ART</dcterms:isPartOf>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/1d36dcad</edm:isShownAt>

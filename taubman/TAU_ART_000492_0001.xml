@@ -9,9 +9,11 @@
     <dcterms:identifier>TAU_ART_000492_0001</dcterms:identifier>
     <dcterms:title>REV. MITCHELL LEADING ONG BEFORE BAPTIZING IN FLINT RIVER</dcterms:title>
     <dcterms:subject>Virginia,Art,PHOTOGRAPH</dcterms:subject>
+    <dcterms:date>1977</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Gelatin silver print</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:isPartOf>TAU_ART</dcterms:isPartOf>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/ada4d9bd</edm:isShownAt>

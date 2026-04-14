@@ -9,9 +9,11 @@
     <dcterms:identifier>TAU_ART_000181_0001</dcterms:identifier>
     <dcterms:title>MAN WITH READING (MATTED)</dcterms:title>
     <dcterms:subject>Virginia,Art,DRAWING</dcterms:subject>
+    <dcterms:date>1930 - 1946</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>graphite pencil on paper</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:isPartOf>TAU_ART</dcterms:isPartOf>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/df156260</edm:isShownAt>

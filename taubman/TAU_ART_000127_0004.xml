@@ -10,9 +10,11 @@
     <dcterms:title>FRAMED</dcterms:title>
     <dcterms:description>Norman Rockwell was a keen observer and storyteller. Between 1916 and 1963, Rockwell painted 323 paintings that were reproduced on the cover of the popular magazine, aturday Evening Post. Framed appeared on the cover on March 2, 1946. It is one of three Post cover paintings that feature artworks reacting to actions outside of their frames. Framed was acquired by the Taubman Museum of Art in 2003 with the Horace G. Fralin Charitable trust to develop an important collection of American Art by artists working from the late 1800s to the mid 1900s. Those works became the core of the Horace G. and Ann H. Fralin Center for American Art at the museum.</dcterms:description>
     <dcterms:subject>Virginia,Art,PAINTING</dcterms:subject>
+    <dcterms:date>1946</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Oil and graphite Canvas with wood</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:isPartOf>TAU_ART</dcterms:isPartOf>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/2ea2261f</edm:isShownAt>

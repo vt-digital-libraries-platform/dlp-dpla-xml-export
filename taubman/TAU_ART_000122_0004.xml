@@ -10,9 +10,11 @@
     <dcterms:title>THE PIPER</dcterms:title>
     <dcterms:description>Virginia illustrator, sculptor, and painter Robert Ryland Kearfott was born in Martinsville, Virginia. In his paintings, Kearfott was known for representing people both realistically, and with character. He was well known and earned such high praise as, \Kearfott is noted for his fidelity to his subjects. He has never had a portrait commision rejected due to lack of likeness to the sitter.\</dcterms:description>
     <dcterms:subject>Virginia,Art,PAINTING</dcterms:subject>
+    <dcterms:date>1923</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Oil Canvas on board</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:isPartOf>TAU_ART</dcterms:isPartOf>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/4450d57d</edm:isShownAt>

@@ -9,9 +9,11 @@
     <dcterms:identifier>TAU_ART_001175_0001</dcterms:identifier>
     <dcterms:title>ENVELOPE TYLIZED ANIMAL/TREE MOTIF OVERLAID WITH OLID GREEN TA T&apos;IEN BORDER</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>no date</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>woodblock print</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:isPartOf>TAU_ART</dcterms:isPartOf>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/73aaf560</edm:isShownAt>

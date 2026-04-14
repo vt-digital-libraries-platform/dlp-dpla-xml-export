@@ -9,9 +9,11 @@
     <dcterms:identifier>TAU_ART_000781_0001</dcterms:identifier>
     <dcterms:title>THE MORNING WALK -- YOUNG LADIE&apos;S SCHOOL PROMENADING THE AVENUE FROM HARPER&apos;S WEEKLY, MARCH 28, 1868</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>1968</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Wood engraving</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:isPartOf>TAU_ART</dcterms:isPartOf>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/15b13ad9</edm:isShownAt>

@@ -9,9 +9,11 @@
     <dcterms:identifier>TAU_ART_001160_0001</dcterms:identifier>
     <dcterms:title>LOENSOME 21</dcterms:title>
     <dcterms:subject>Virginia,Art,DRAWING</dcterms:subject>
+    <dcterms:date>2004</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Ink and collage Paper</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:isPartOf>TAU_ART</dcterms:isPartOf>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/9a8c20e3</edm:isShownAt>

@@ -9,9 +9,11 @@
     <dcterms:identifier>TAU_ART_001158_0001</dcterms:identifier>
     <dcterms:title>VIEW OF THE PAT AND FUTURE</dcterms:title>
     <dcterms:subject>Virginia,Art,MULTI-MEDIA</dcterms:subject>
+    <dcterms:date>1992</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>\Graphite, tempera, and mixed media on paper\</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:isPartOf>TAU_ART</dcterms:isPartOf>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/c21624d3</edm:isShownAt>

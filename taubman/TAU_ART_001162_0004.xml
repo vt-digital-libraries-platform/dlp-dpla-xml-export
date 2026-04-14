@@ -10,9 +10,11 @@
     <dcterms:title>3-PAGE SCENE 4 GEISHA ENTERTAINING MAN</dcterms:title>
     <dcterms:description>Left scene of triptych</dcterms:description>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>no date</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>woodblock print (crepe paper pasted to support)</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:isPartOf>TAU_ART</dcterms:isPartOf>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/1e4a8137</edm:isShownAt>

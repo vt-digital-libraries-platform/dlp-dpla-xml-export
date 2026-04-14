@@ -17,6 +17,7 @@
     <dcterms:type>Text</dcterms:type>
     <dcterms:medium>government records</dcterms:medium>
     <dcterms:format>image/jpeg</dcterms:format>
+    <dcterms:isPartOf>CRW</dcterms:isPartOf>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/hs464c3f</edm:isShownAt>

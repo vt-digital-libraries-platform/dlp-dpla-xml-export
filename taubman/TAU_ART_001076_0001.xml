@@ -9,9 +9,11 @@
     <dcterms:identifier>TAU_ART_001076_0001</dcterms:identifier>
     <dcterms:title>Untitled (1777)</dcterms:title>
     <dcterms:subject>Virginia,Art,Fine Art</dcterms:subject>
+    <dcterms:date>2006</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Oil on canvas</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:isPartOf>TAU_ART</dcterms:isPartOf>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/e5af1e6d</edm:isShownAt>

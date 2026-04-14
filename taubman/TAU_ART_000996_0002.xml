@@ -10,9 +10,11 @@
     <dcterms:title>TWO PRINT FROM CHILDHOOD ILLNEE PORTFOLIO XII</dcterms:title>
     <dcterms:description>Inside cover</dcterms:description>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>undated, circa 1960</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>lithograph on paper</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:isPartOf>TAU_ART</dcterms:isPartOf>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/9cc3079c</edm:isShownAt>

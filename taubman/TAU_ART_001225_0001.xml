@@ -9,9 +9,11 @@
     <dcterms:identifier>TAU_ART_001225_0001</dcterms:identifier>
     <dcterms:title>POEM ONG PRINT</dcterms:title>
     <dcterms:subject>Virginia,Art,MULTI-MEDIA</dcterms:subject>
+    <dcterms:date>1969</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Vinyl record and silkscreens on mylar in printed cardboard album cover</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:isPartOf>TAU_ART</dcterms:isPartOf>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/6757abbc</edm:isShownAt>

@@ -10,9 +10,11 @@
     <dcterms:title>JAPANESE  PICTURE BOOK TRAVEL AND WORK SCENE</dcterms:title>
     <dcterms:description>Page 3</dcterms:description>
     <dcterms:subject>Virginia,Art,BOOK ART</dcterms:subject>
+    <dcterms:date>no date</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>woodblock printing</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:isPartOf>TAU_ART</dcterms:isPartOf>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/d4904330</edm:isShownAt>

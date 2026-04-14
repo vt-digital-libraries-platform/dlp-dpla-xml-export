@@ -14,9 +14,11 @@
     <dcterms:subject>History</dcterms:subject>
     <dcterms:subject>Log cabins</dcterms:subject>
     <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:date>1976-08-22</dcterms:date>
     <dcterms:type>Still Image</dcterms:type>
     <dcterms:medium>pamphlets</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:isPartOf>BTR</dcterms:isPartOf>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/c223q08n</edm:isShownAt>

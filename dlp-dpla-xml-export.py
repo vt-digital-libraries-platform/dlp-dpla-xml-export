@@ -90,6 +90,7 @@ env["region_name"] = "set in .sh file"
 env["COLLECTION_IDENTIFIER"] = os.getenv("COLLECTION_IDENTIFIER")
 env["REGION"] = os.getenv("REGION")
 env["DYNAMODB_TABLE"] = os.getenv("DYNAMODB_TABLE")
+env["COLLECTION_TABLE"] = os.getenv("COLLECTION_TABLE")
 env["LONG_URL_PATH"] = os.getenv("LONG_URL_PATH")
 env["TYPE"] = os.getenv("TYPE")
 
@@ -100,6 +101,8 @@ print(f'DEBUG: Environment variables loaded: {env}')
 for key in ["COLLECTION_IDENTIFIER", "REGION", "DYNAMODB_TABLE", "LONG_URL_PATH", "TYPE"]:
     if not env[key]:
         print(f'WARNING: Environment variable {key} is not set!')
+if not env["COLLECTION_TABLE"]:
+    print('WARNING: COLLECTION_TABLE is not set — dcterms:isPartOf will be skipped')
 
 # Setup DynamoDB resource
 try:
@@ -275,6 +278,49 @@ def get_permalink(item):
     return ""
 
 
+# Cache for collection UUID -> identifier lookups to avoid repeated DynamoDB calls
+_collection_cache = {}
+
+def get_collection_identifier(collection_uuid):
+    """
+    Look up a collection's identifier from the Collection DynamoDB table by its UUID.
+    Maps heirarchy_path UUID -> collection table id -> identifier field.
+    Results are cached in-memory so each UUID is only fetched once per run.
+    Returns the identifier string, or None if not found.
+    """
+    if not collection_uuid:
+        return None
+
+    # Return cached value if already looked up
+    if collection_uuid in _collection_cache:
+        return _collection_cache[collection_uuid]
+
+    collection_table_name = os.getenv("COLLECTION_TABLE")
+    if not collection_table_name:
+        print("WARNING: COLLECTION_TABLE env var not set; cannot look up isPartOf")
+        _collection_cache[collection_uuid] = None
+        return None
+
+    try:
+        region = os.getenv("REGION")
+        dynamodb_coll = boto3.resource("dynamodb", region_name=region)
+        coll_table = dynamodb_coll.Table(collection_table_name)
+        response = coll_table.get_item(Key={"id": collection_uuid})
+        coll_item = response.get("Item")
+        if coll_item:
+            identifier = coll_item.get("identifier")
+            _collection_cache[collection_uuid] = identifier
+            return identifier
+        else:
+            print(f"WARNING: No collection found for UUID '{collection_uuid}'")
+            _collection_cache[collection_uuid] = None
+            return None
+    except Exception as e:
+        print(f"WARNING: Could not look up collection '{collection_uuid}': {e}")
+        _collection_cache[collection_uuid] = None
+        return None
+
+
 def process_rights_statement(rights_uri, item_id):
     """
     Validate and enrich rights statement information from the RightsStatement lookup table.
@@ -411,10 +457,10 @@ def build_xml(item):
                 cleaned_text = clean_text_for_xml(value)
                 ET.SubElement(root, f"{{{NSMAP['dcterms']}}}{field}").text = cleaned_text
 
-    # Add date as dcterms:created element (immediately after subject elements)
-    # Source field in DynamoDB is 'date' — kept as-is to avoid breaking the DLP platform's Amplify/GraphQL schema.
-    # Output as dcterms:created per DPLA metadata profile ("Date of creation of the resource").
-    date_value = item.get("date")
+    # Add date as dcterms:date element (immediately after subject elements)
+    # Source field in DynamoDB is 'display_date' — a free-text string set by curators.
+    # Output as dcterms:date to match the original metadata.
+    date_value = item.get("display_date")
     if date_value:
         if isinstance(date_value, list):
             # Join all list items with comma
@@ -423,11 +469,11 @@ def build_xml(item):
             date_value = date_value.strip()
             if date_value:  # Only add if not empty after stripping
                 cleaned_date = clean_text_for_xml(date_value)
-                ET.SubElement(root, f"{{{NSMAP['dcterms']}}}created").text = cleaned_date
+                ET.SubElement(root, f"{{{NSMAP['dcterms']}}}date").text = cleaned_date
     
     # Fields after date
     fields_after_date = [
-        "type", "isPartOf", "spatial", "medium", "format"
+        "type", "spatial", "medium", "format"
     ]
     
     for field in fields_after_date:
@@ -442,6 +488,17 @@ def build_xml(item):
                 # Clean text to remove backslash escaping before assigning
                 cleaned_text = clean_text_for_xml(value)
                 ET.SubElement(root, f"{{{NSMAP['dcterms']}}}{field}").text = cleaned_text
+
+    # Add dcterms:isPartOf by walking heirarchy_path UUIDs and looking up each
+    # in the Collection table (matched on id), then emitting the identifier value.
+    # Note: field is spelled 'heirarchy_path' in DynamoDB (preserving source typo).
+    heirarchy_path = item.get("heirarchy_path") or []
+    if isinstance(heirarchy_path, str):
+        heirarchy_path = [heirarchy_path]
+    for path_uuid in heirarchy_path:
+        coll_identifier = get_collection_identifier(path_uuid)
+        if coll_identifier:
+            ET.SubElement(root, f"{{{NSMAP['dcterms']}}}isPartOf").text = clean_text_for_xml(coll_identifier)
 
     # Process rights statement with validation only (no enrichment in XML output)
     print(f"  → Checking for rights field...")

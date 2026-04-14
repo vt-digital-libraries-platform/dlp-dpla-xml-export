@@ -9,9 +9,11 @@
     <dcterms:identifier>TAU_ART_000924_0001</dcterms:identifier>
     <dcterms:title>PLACE DU CAROL</dcterms:title>
     <dcterms:subject>Virginia,Art,WATER MEDIA</dcterms:subject>
+    <dcterms:date>1955-70</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Watercolor on paper</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:isPartOf>TAU_ART</dcterms:isPartOf>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/41d1c258</edm:isShownAt>

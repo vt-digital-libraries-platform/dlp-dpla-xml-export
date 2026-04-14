@@ -10,9 +10,11 @@
     <dcterms:title>IX OUTH AMERICAN FOLK RHYME ABOUT LOVE</dcterms:title>
     <dcterms:description>Pages 6 and 7</dcterms:description>
     <dcterms:subject>Virginia,Art,BOOK ART</dcterms:subject>
+    <dcterms:date>1964</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>woodcut</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:isPartOf>TAU_ART</dcterms:isPartOf>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/76cfe575</edm:isShownAt>

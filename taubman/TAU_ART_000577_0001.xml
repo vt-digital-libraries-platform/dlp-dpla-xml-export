@@ -9,9 +9,11 @@
     <dcterms:identifier>TAU_ART_000577_0001</dcterms:identifier>
     <dcterms:title>UAN MACDOWELL IN HAT WITH FLOWER</dcterms:title>
     <dcterms:subject>Virginia,Art,PHOTOGRAPH</dcterms:subject>
+    <dcterms:date>no date</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Albumen photograph</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:isPartOf>TAU_ART</dcterms:isPartOf>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/905580f7</edm:isShownAt>

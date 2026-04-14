@@ -9,9 +9,11 @@
     <dcterms:identifier>TAU_ART_000766_0001</dcterms:identifier>
     <dcterms:title>DRAWING ON PAPER</dcterms:title>
     <dcterms:subject>Virginia,Art,DRAWING</dcterms:subject>
+    <dcterms:date>late eighteenth - early nineteenth centuries</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Ink on paper</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:isPartOf>TAU_ART</dcterms:isPartOf>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/2aa0f371</edm:isShownAt>

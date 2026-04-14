@@ -9,9 +9,11 @@
     <dcterms:identifier>TAU_ART_000532_0001</dcterms:identifier>
     <dcterms:title>WOMEN AND CHILDREN WATCHING MOTH</dcterms:title>
     <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:date>ca. 1900</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>woodblock print Wood pulp-based paper with imbedded mica flakes</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:isPartOf>TAU_ART</dcterms:isPartOf>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/6cc052e9</edm:isShownAt>

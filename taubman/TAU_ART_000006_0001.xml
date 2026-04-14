@@ -9,9 +9,11 @@
     <dcterms:identifier>TAU_ART_000006_0001</dcterms:identifier>
     <dcterms:title>MORGAN HIRT WORK</dcterms:title>
     <dcterms:subject>Virginia,Art,PHOTOGRAPH</dcterms:subject>
+    <dcterms:date>1986</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>gold-toned contact print photograph</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:isPartOf>TAU_ART</dcterms:isPartOf>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/7b031ce6</edm:isShownAt>

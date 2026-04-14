@@ -9,9 +9,11 @@
     <dcterms:identifier>TAU_ART_001185_0003</dcterms:identifier>
     <dcterms:title>FLOR DE CONUGRA</dcterms:title>
     <dcterms:subject>Virginia,Art,CULPTURE</dcterms:subject>
+    <dcterms:date>2008</dcterms:date>
     <dcterms:type>Physical Object</dcterms:type>
     <dcterms:medium>Powder-coated steel</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:isPartOf>TAU_ART</dcterms:isPartOf>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/c0a83f3b</edm:isShownAt>

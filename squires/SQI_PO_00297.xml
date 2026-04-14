@@ -13,11 +13,12 @@
     <dcterms:contributor>Blacksburg Presbyterian Church</dcterms:contributor>
     <dcterms:subject>Concerts</dcterms:subject>
     <dcterms:subject>Virginia</dcterms:subject>
-    <dcterms:created>1984-02-23, 1984-05-31, 1984-09-27, 1985-01-31, 1985-04-25</dcterms:created>
+    <dcterms:date>1984-02-23/1984-05-31/1984-09-27/1985-01-31/1985-04-25</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:spatial>Blacksburg, Montgomery, Virginia, United States</dcterms:spatial>
     <dcterms:medium>posters</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:isPartOf>SQI_PO</dcterms:isPartOf>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/cc08fm4m</edm:isShownAt>

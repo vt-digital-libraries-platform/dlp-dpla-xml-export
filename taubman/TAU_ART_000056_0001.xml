@@ -9,9 +9,11 @@
     <dcterms:identifier>TAU_ART_000056_0001</dcterms:identifier>
     <dcterms:title>TILL LIFE WITH JOE MONK&apos; BOWL</dcterms:title>
     <dcterms:subject>Virginia,Art,PAINTING</dcterms:subject>
+    <dcterms:date>1974</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Acrylic Canvasboard</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:isPartOf>TAU_ART</dcterms:isPartOf>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/50ecc605</edm:isShownAt>

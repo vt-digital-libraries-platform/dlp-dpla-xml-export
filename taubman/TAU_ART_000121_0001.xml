@@ -10,9 +10,11 @@
     <dcterms:title>DAURA WITH CANE AND BRUHE</dcterms:title>
     <dcterms:description>panish born and Virginia based painter Pierre Daura was a prominent figure in the development of European modernism. He is known for his participation in the Cercle et Carre, which was a group of artists that promoted geometric construction rather than the irrational abstraction by the urrealists. With his lifelong commitment to art, Daura once commented, \All I have ever wanted to do is to find a way to paint. I have painted. I have worked. I have given myself to my art. That is what I have wanted since my very early age... to be an artist, good or bad... that is what I am.\</dcterms:description>
     <dcterms:subject>Virginia,Art,PAINTING</dcterms:subject>
+    <dcterms:date>1970-1971</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Oil Canvas</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:isPartOf>TAU_ART</dcterms:isPartOf>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/987cc7da</edm:isShownAt>

@@ -13,10 +13,11 @@
     <dcterms:contributor>Barter Theatre (Organization : Abingdon, Va.)</dcterms:contributor>
     <dcterms:subject>Theater</dcterms:subject>
     <dcterms:subject>Virginia</dcterms:subject>
-    <dcterms:created>1993-04-13, 1993-11-07</dcterms:created>
+    <dcterms:date>1993-04-13/1993-11-7</dcterms:date>
     <dcterms:type>Still Image</dcterms:type>
     <dcterms:medium>posters</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:isPartOf>BTR</dcterms:isPartOf>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/6r66bw57</edm:isShownAt>

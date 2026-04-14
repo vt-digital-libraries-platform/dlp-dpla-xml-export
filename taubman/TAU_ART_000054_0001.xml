@@ -9,9 +9,11 @@
     <dcterms:identifier>TAU_ART_000054_0001</dcterms:identifier>
     <dcterms:title>THE MILLIONAIRE</dcterms:title>
     <dcterms:subject>Virginia,Art,PAINTING</dcterms:subject>
+    <dcterms:date>circa 1938</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Oil on canvas</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:isPartOf>TAU_ART</dcterms:isPartOf>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/b5bf2a95</edm:isShownAt>

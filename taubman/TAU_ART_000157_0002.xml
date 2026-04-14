@@ -9,9 +9,11 @@
     <dcterms:identifier>TAU_ART_000157_0002</dcterms:identifier>
     <dcterms:title>UNTITLED CHRITMA CARD</dcterms:title>
     <dcterms:subject>Virginia,Art,WATER MEDIA</dcterms:subject>
+    <dcterms:date>1950 - 1970</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>watercolor and ink pen</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:isPartOf>TAU_ART</dcterms:isPartOf>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/26cb54bd</edm:isShownAt>

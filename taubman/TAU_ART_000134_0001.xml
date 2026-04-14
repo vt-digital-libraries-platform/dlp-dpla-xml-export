@@ -10,9 +10,11 @@
     <dcterms:title>BECOMING</dcterms:title>
     <dcterms:description>Abstract painter Lois Bartlett Tracy was well known for her use of color. Hailed as a visionary artist , Tracy, whose work had been shown in exhibitions throughout the country, founded an artist colony in Englewood, Florida in the 1960s and taught college-level art courses at several universities. Her work was loosely inspired by the Florida landscape and was characterized by bright colors and swirling movement.</dcterms:description>
     <dcterms:subject>Virginia,Art,PAINTING</dcterms:subject>
+    <dcterms:date>ca. 1945</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Oil Canvas</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:isPartOf>TAU_ART</dcterms:isPartOf>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/56ecff30</edm:isShownAt>

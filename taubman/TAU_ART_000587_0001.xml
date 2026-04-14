@@ -9,9 +9,11 @@
     <dcterms:identifier>TAU_ART_000587_0001</dcterms:identifier>
     <dcterms:title>UAN MACDOWELL EAKIN A AN OLD WOMAN</dcterms:title>
     <dcterms:subject>Virginia,Art,PHOTOGRAPH</dcterms:subject>
+    <dcterms:date>no date</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Platinum photograph</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:isPartOf>TAU_ART</dcterms:isPartOf>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/11dbdd74</edm:isShownAt>

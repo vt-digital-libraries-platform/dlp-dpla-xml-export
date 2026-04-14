@@ -9,9 +9,11 @@
     <dcterms:identifier>TAU_ART_001086_0001</dcterms:identifier>
     <dcterms:title>THREE IN A ROW</dcterms:title>
     <dcterms:subject>Virginia,Art,PAINTING</dcterms:subject>
+    <dcterms:date>1962</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Oil Canvas</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:isPartOf>TAU_ART</dcterms:isPartOf>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/ea7cc169</edm:isShownAt>

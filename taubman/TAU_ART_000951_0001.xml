@@ -9,9 +9,11 @@
     <dcterms:identifier>TAU_ART_000951_0001</dcterms:identifier>
     <dcterms:title>STENCIL BAMBOO LEAVE</dcterms:title>
     <dcterms:subject>Virginia,Art,TENCIL</dcterms:subject>
+    <dcterms:date>no date</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Varnished paper with silk</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:isPartOf>TAU_ART</dcterms:isPartOf>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/2107f910</edm:isShownAt>

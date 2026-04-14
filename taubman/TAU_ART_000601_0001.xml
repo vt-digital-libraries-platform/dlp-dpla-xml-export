@@ -9,9 +9,11 @@
     <dcterms:identifier>TAU_ART_000601_0001</dcterms:identifier>
     <dcterms:title>MR. WALTER . MACDOWELL</dcterms:title>
     <dcterms:subject>Virginia,Art,PHOTOGRAPH</dcterms:subject>
+    <dcterms:date>late nineteenth century</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Albumen print photograph</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:isPartOf>TAU_ART</dcterms:isPartOf>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/a5e947b1</edm:isShownAt>

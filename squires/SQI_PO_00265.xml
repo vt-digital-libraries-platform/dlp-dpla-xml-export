@@ -13,11 +13,12 @@
     <dcterms:contributor>Virginia Polytechnic Institute and State University. Theatre Arts - University Theatre; Virginia Polytechnic Institute and State University. Department of Performing Arts and Communications</dcterms:contributor>
     <dcterms:subject>Theater</dcterms:subject>
     <dcterms:subject>Virginia</dcterms:subject>
-    <dcterms:created>1974-05-14, 1974-05-18</dcterms:created>
+    <dcterms:date>1974-05-14/1974-05-18</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:spatial>Blacksburg, Montgomery, Virginia, United States</dcterms:spatial>
     <dcterms:medium>posters</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:isPartOf>SQI_PO</dcterms:isPartOf>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/c8507z05</edm:isShownAt>

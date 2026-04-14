@@ -9,9 +9,11 @@
     <dcterms:identifier>TAU_ART_001228_0001</dcterms:identifier>
     <dcterms:title>FROM THE MARDI GRA PORTFOLIO (HIGH-HEELED NEAKER)</dcterms:title>
     <dcterms:subject>Virginia,Art,BONE</dcterms:subject>
+    <dcterms:date>undated</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>Gelatin silver print</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:isPartOf>TAU_ART</dcterms:isPartOf>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/12bf5c10</edm:isShownAt>

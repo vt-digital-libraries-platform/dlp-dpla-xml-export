@@ -9,9 +9,11 @@
     <dcterms:identifier>TAU_ART_000885_0001</dcterms:identifier>
     <dcterms:title>&apos;TAKE MY LEG O LORD, BUT SAVE MY LIFE&apos;</dcterms:title>
     <dcterms:subject>Virginia,Art,DRAWING</dcterms:subject>
+    <dcterms:date>no date</dcterms:date>
     <dcterms:type>Image</dcterms:type>
     <dcterms:medium>crayon, wash, and ink on paper</dcterms:medium>
     <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:isPartOf>TAU_ART</dcterms:isPartOf>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
     <edm:isShownAt>https://digital.lib.vt.edu/archive/cc75e550</edm:isShownAt>
