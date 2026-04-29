@@ -1,0 +1,24 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>SQI_PO_00230</dcterms:identifier>
+    <dcterms:title>Return Addresses: Songs and Dances from Home</dcterms:title>
+    <dcterms:description>Production poster for Return Addresses: Songs and Dances from Home, an enchanting tapestry of songs and rhythmic dances that explore 'home', imagined and directed by Ann Kilkelly. With Guest Performers: Mike Casey, Joan Cope, Carol Crawford Smith, Stephanie Johnston, Malke Rosenfeld, Rob Stephens, Elise Witt, and a cast of 40 singers, dancers and artists.</dcterms:description>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:contributor>Virginia Polytechnic Institute and State University. School of the Arts; Lyric Theatre (Blacksburg, Va.); Virginia Polytechnic Institute and State University. Theatre Arts - University Theatre; Consortium for the Study of Theatre and Community (sponsor)</dcterms:contributor>
+    <dcterms:subject>Theater</dcterms:subject>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:spatial>Blacksburg, Montgomery, Virginia, United States</dcterms:spatial>
+    <dcterms:medium>posters</dcterms:medium>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/vd255588</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/SQI_PO/tiles/SQI_PO_00230-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-09-17T20:26:50.495Z</dcterms:date>
+</mdRecord>
