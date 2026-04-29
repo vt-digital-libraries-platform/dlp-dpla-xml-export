@@ -1,12 +1,10 @@
-name: Sync folders to dplava/vt (DISABLED)
+name: Sync folders to dplava/vt
 
-# Workflow disabled - uncomment 'on' section to re-enable
-# on:
-#   push:
-#     branches:
-#       - main
-#       - feature/xml-output-test
-#   workflow_dispatch:
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
 
 jobs:
   sync-folders:
@@ -37,4 +35,4 @@ jobs:
           git commit -m "Sync folders from dlp-dpla-xml-export (folders only, no .sh, .py, or root files)"
           git branch -M main
           git remote add target https://x-access-token:${TOKEN}@github.com/dplava/vt.git
-          git push --force target main:main
+          git push --force target main:dpla-harvest

@@ -96,7 +96,8 @@ unique_collection_folders_*.txt
 error_log.txt
 
 #Ignore analysis codes
-
+update_archive_dates_from_csv.py
+dynamodb_column_uniques.py
 analyze_display_date_formats.py
 check_btr_identifiers.py
 findIdsStartWith.py
