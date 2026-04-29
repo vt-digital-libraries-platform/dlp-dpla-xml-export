@@ -1,0 +1,19 @@
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+
+    <dcterms:identifier>DH80_1037</dcterms:identifier>
+    <dcterms:title>German Trinkbecher</dcterms:title>
+    <dcterms:description>This small, aluminum drinking cup with a folding wire handle was iss</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Three Dimensional Object</dcterms:type>
+    <dcterms:format>model/glb</dcterms:format>
+    <dcterms:isPartOf>DH80</dcterms:isPartOf>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/599e7d1e</edm:isShownAt>
+    <edm:preview>https://d4qp6z580yvb5.cloudfront.net/federated/DH80/DH80_1037/3D/GLB/DH80_1037_thumbnail.jpg</edm:preview>
+</mdRecord>

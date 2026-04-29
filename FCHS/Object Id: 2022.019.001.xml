@@ -1,0 +1,22 @@
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+
+    <dcterms:identifier>fchs_2022_019_001</dcterms:identifier>
+    <dcterms:title>Handmade Wooden Bedframe</dcterms:title>
+    <dcterms:description>A handmade wooden bedframe, donated by the Williams, family was made by &quot;Eli Mercer Williams Jr. and Sons&quot;. One son being Charles Emmett Williams, father of Eli Mercer Williams Jr.
+Eli Mercer Williams, Jr. and sons lived near Red Oak Grove Church of the Brethren in Floyd, VA. This group of furniture makers made many beds, cupboards, tables, dressers, and wardrobes. Except for Charles Emmett Williams, the whole family moved away. Charles Emmett and his family continued to live in Floyd, VA.</dcterms:description>
+    <dcterms:subject>Furniture</dcterms:subject>
+    <dcterms:subject>Beds</dcterms:subject>
+    <dcterms:medium>bedframes</dcterms:medium>
+    <dcterms:isPartOf>FCHS</dcterms:isPartOf>
+    <dcterms:isPartOf>FCHS_OBJ</dcterms:isPartOf>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/?language=en</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/9x29kc1w</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_OBJ/tiles/fchs_2022_019_001-1/full/250,/0/default.jpg</edm:preview>
+</mdRecord>

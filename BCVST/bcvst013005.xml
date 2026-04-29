@@ -1,0 +1,25 @@
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+
+    <dcterms:identifier>bcvst013005</dcterms:identifier>
+    <dcterms:title>C. K. Meredith to William M. Meredith, February 5, [1865]</dcterms:title>
+    <dcterms:description>C. K. Meredith to William M. Meredith from Philadelphia, Pennsylvania, discussing Gertrude&apos;s return with James C. Biddle, news of acquaintances, and a complimentary notice of General Meade in the Army and Navy Journal.</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:subject>Civil War</dcterms:subject>
+    <dcterms:subject>United States--History--Civil War, 1861-2115</dcterms:subject>
+    <dcterms:date>February 5, [1865]</dcterms:date>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:medium>pencil</dcterms:medium>
+    <dcterms:medium>ink script on paper</dcterms:medium>
+    <dcterms:isPartOf>Ms2024-105</dcterms:isPartOf>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/8f4e82a3</edm:isShownAt>
+    <edm:preview>https://d4qp6z580yvb5.cloudfront.net/federated/Ms2024-105/tiles/bcvst013005-1/full/163,/0/default.jpg</edm:preview>
+    <dcterms:creator>Meredith, C. K.</dcterms:creator>
+</mdRecord>

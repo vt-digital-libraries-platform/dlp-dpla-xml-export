@@ -1,0 +1,25 @@
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+
+    <dcterms:identifier>bcvst007009</dcterms:identifier>
+    <dcterms:title>James C. Biddle to Gertrude G. Biddle, June 26, 1864</dcterms:title>
+    <dcterms:description>Major James C. Biddle writes to Gertrude G. Biddle from Head Quarters, Army of the Potomac, discussing military news, the weather, and the price of gold.</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:subject>Civil War</dcterms:subject>
+    <dcterms:subject>United States--History--Civil War, 1861-1980</dcterms:subject>
+    <dcterms:date>June 26, 1864</dcterms:date>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:medium>pencil</dcterms:medium>
+    <dcterms:medium>ink script on paper</dcterms:medium>
+    <dcterms:isPartOf>Ms2024-105</dcterms:isPartOf>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/ec6e4747</edm:isShownAt>
+    <edm:preview>https://d4qp6z580yvb5.cloudfront.net/federated/Ms2024-105/tiles/bcvst007009-1/full/201,/0/default.jpg</edm:preview>
+    <dcterms:creator>Biddle, James C.</dcterms:creator>
+</mdRecord>

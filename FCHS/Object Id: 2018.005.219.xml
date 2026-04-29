@@ -1,0 +1,23 @@
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+
+    <dcterms:identifier>fchs_2018_005_219</dcterms:identifier>
+    <dcterms:title>James &amp; Ruth Smith Cemetery</dcterms:title>
+    <dcterms:description>Located at 3772 Franklin Pike at the end of a very long driveway. The cemetery sits just to the right of the house just beyond a tree line. Once you go thru the tree line you may be on property owned by the John Douglas Living Trust. Cemetery is visible on Google Earth.
+N 36 56.478&apos;
+W 80 11.687&apos;</dcterms:description>
+    <dcterms:subject>Lists</dcterms:subject>
+    <dcterms:subject>Cemeteries</dcterms:subject>
+    <dcterms:medium>lists</dcterms:medium>
+    <dcterms:isPartOf>FCHS</dcterms:isPartOf>
+    <dcterms:isPartOf>FCHS_ARC</dcterms:isPartOf>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/bt55kh2x</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2018_005_219-1/full/207,/0/default.jpg</edm:preview>
+</mdRecord>

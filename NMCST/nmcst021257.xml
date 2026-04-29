@@ -1,0 +1,23 @@
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+
+    <dcterms:identifier>nmcst021257</dcterms:identifier>
+    <dcterms:title>1981 Bangladesh Landcover, Soil and Water Reflections from Landsat Imagery (Edge Enhanced False Color Composite) (1:500,000)</dcterms:title>
+    <dcterms:description>Map of Bangladesh Landcover, Soil and Water Reflections from Landsat Imagery (Edge Enhanced False Color Composite) (1:500,000), Map I</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:date>1981</dcterms:date>
+    <dcterms:type>Still Image</dcterms:type>
+    <dcterms:spatial>Bangladesh</dcterms:spatial>
+    <dcterms:medium>map (documents)</dcterms:medium>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:isPartOf>nmcst</dcterms:isPartOf>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/ed9f6b21</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/nmcst/tiles/nmcst021257-1/full/185,/0/default.jpg</edm:preview>
+</mdRecord>

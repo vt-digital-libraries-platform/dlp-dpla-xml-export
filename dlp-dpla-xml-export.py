@@ -489,16 +489,30 @@ def build_xml(item):
                 cleaned_text = clean_text_for_xml(value)
                 ET.SubElement(root, f"{{{NSMAP['dcterms']}}}{field}").text = cleaned_text
 
-    # Add dcterms:isPartOf by walking heirarchy_path UUIDs and looking up each
-    # in the Collection table (matched on id), then emitting the identifier value.
+    # Add dcterms:isPartOf
+    # Priority 1: Use is_part_of field from database if it exists
+    # Priority 2: Fall back to walking heirarchy_path UUIDs and looking up each
+    #             in the Collection table (matched on id), then emitting the identifier value.
     # Note: field is spelled 'heirarchy_path' in DynamoDB (preserving source typo).
-    heirarchy_path = item.get("heirarchy_path") or []
-    if isinstance(heirarchy_path, str):
-        heirarchy_path = [heirarchy_path]
-    for path_uuid in heirarchy_path:
-        coll_identifier = get_collection_identifier(path_uuid)
-        if coll_identifier:
-            ET.SubElement(root, f"{{{NSMAP['dcterms']}}}isPartOf").text = clean_text_for_xml(coll_identifier)
+    is_part_of = item.get("is_part_of")
+    
+    if is_part_of:
+        # Use the is_part_of value directly from the database
+        if isinstance(is_part_of, list):
+            for value in is_part_of:
+                if value:
+                    ET.SubElement(root, f"{{{NSMAP['dcterms']}}}isPartOf").text = clean_text_for_xml(value)
+        else:
+            ET.SubElement(root, f"{{{NSMAP['dcterms']}}}isPartOf").text = clean_text_for_xml(is_part_of)
+    else:
+        # Fall back to heirarchy_path lookup
+        heirarchy_path = item.get("heirarchy_path") or []
+        if isinstance(heirarchy_path, str):
+            heirarchy_path = [heirarchy_path]
+        for path_uuid in heirarchy_path:
+            coll_identifier = get_collection_identifier(path_uuid)
+            if coll_identifier:
+                ET.SubElement(root, f"{{{NSMAP['dcterms']}}}isPartOf").text = clean_text_for_xml(coll_identifier)
 
     # Process rights statement with validation only (no enrichment in XML output)
     print(f"  → Checking for rights field...")
@@ -688,21 +702,32 @@ print()
 # Mapping for identifier prefixes to folders/subfolders
 def get_output_subdir(identifier):
     """
-    Map identifier prefix to output folder path.
-    Uses prefix matching to determine the correct subfolder.
+    Map identifier to output folder based on collection identifier pattern.
+    Uses the identifier as-is (uppercased) for folder names, extracted from patterns.
+    Examples:
+        BTR_001 -> BTR
+        CEC_EEC_001 -> CEC_EEC
+        FCHS_ARC_001 -> FCHS_ARC
+        Ms1992_028_Rodeck_B1_F1 -> Ms1992_028_Rodeck
+        LD5655.A3.C3_001 -> LD5655.A3.C3
     """
     identifier = identifier.upper()
-    if identifier.startswith("SQI"):
-        return "squires"
-    if identifier.startswith("BTR"):
-        return "barter"
-    if identifier.startswith("CRW"):
-        return "crewe"
-    if identifier.startswith("MTG_MGM") or identifier.startswith("MTG_MGN"):
-        return "montgomery"
-    if identifier.startswith("TAU_ART"):
-        return "taubman"
-    # Currie subfolders by LJC pattern
+    
+    # Handle Ms collections with year_number_name pattern FIRST
+    if identifier.startswith("MS") and len(identifier) >= 6 and identifier[2:6].isdigit():
+        # Extract Ms####_###_Name (e.g., Ms1992_028_Rodeck)
+        match = re.match(r'(MS\d{4}[_-]\d{3}(?:[_-][A-Za-z]+)?)', identifier)
+        if match:
+            # Return with proper casing: Ms not MS
+            return match.group(1).replace('MS', 'Ms', 1)
+    
+    # Handle LD collections with dots (LD5655.A3.C3, LD5655.V8.T5)
+    if identifier.startswith("LD5655"):
+        match = re.match(r'(LD\d+\.[A-Z0-9]+\.[A-Z0-9]+)', identifier)
+        if match:
+            return match.group(1)
+    
+    # LJC Currie subfolders (keep existing logic for special subfolder organization)
     if identifier.startswith("LJC"):
         # Asia: LJC_118, LJC_120, LJC_121, LJC_135
         if any(identifier.startswith(f"LJC_{n}_") for n in ["118", "120", "121", "135"]):
@@ -746,61 +771,43 @@ def get_output_subdir(identifier):
         # United States: LJC_029
         if identifier.startswith("LJC_029_"):
             return "currie/currie-unitedstates"
-    if identifier.startswith("NMCST"):
-        return "nmcst"
-    if identifier.startswith("SFDST"):
-        return "salem-fire"
-    if identifier.startswith("XB17J67J"):
-        return "xb17j67j"
-    if identifier.startswith("MTG"):
-        return "montgomery"
-    if identifier.startswith("MS"):
-        return "ms"
-    if identifier.startswith("BHSST"):
-        return "blacksburg-high-school"
-    if identifier.startswith("VTCATALOG"):
-        return "vt-catalog"
-    if identifier.startswith("LDGST"):
-        return "ldgst"
-    if identifier.startswith("VTEC"):
-        return "vtec"
-    if identifier.startswith("EGG"):
-        return "egg"
-    if identifier.startswith("P6"):
-        return "horse-teeth-clacker"
-    if identifier.startswith("REY"):
-        return "reynolds"
-    if identifier.startswith("VA_AM"):
-        return "va-amcollege-catalog"
-    if identifier.startswith("VTGRAD"):
-        return "vtgrad-catalog"
-    if identifier.startswith("ITEM"):
-        return "item"
+        # Default LJC
+        return "LJC_SL"
+    
+    # For all other collections, extract the base collection identifier
+    # Check two-part prefixes first (more specific), then single-part
+    two_part_patterns = [
+        "CIDA_CPC", "CIDA_GHC", "CIDA_GSC", "CIDA_WSC", "CIDA_TSC",
+        "CIDA_ARC", "CIDA_ELP", "CIDA_EYC",
+        "FCHS_ARC", "FCHS_OBJ", "FCHS_PHO",
+        "CVM_DENT", "CEC_EEC",
+        "MTG_MGM", "MTG_MGN", "TAU_ART", "VA_AM"
+    ]
+    
+    for pattern in two_part_patterns:
+        if identifier.startswith(pattern):
+            return pattern
+    
+    # Single-part collection identifiers
+    single_part_patterns = [
+        "VTCATALOG", "BLACKSBURG", "BHSST", "XB17J67J",
+        "NMCST", "SFDST", "LDGST", "VTGRAD", "PRADER",
+        "WSMITH", "BCVST", "CBCST", "AERST",
+        "BTR", "CRW", "MTG", "SQI", "CEC", "CVM",
+        "FCHS", "CIDA", "VTEC", "EGG", "REY", "ITEM", "DH80"
+    ]
+    
+    for pattern in single_part_patterns:
+        if identifier.startswith(pattern):
+            return pattern
+    
+    # Numbers
     if identifier.startswith("699"):
-        return "podcast"
-    if identifier.startswith("PRADER"):
-        return "prader-willi"
-    if identifier.startswith("DH80"):
-        return "dh80"
-    if identifier.startswith("CIDA_CPC"):
-        return "cida/cida-printing"
-    if identifier.startswith("CIDA_GHC"):
-        return "cida/cida-harkrader"
-    if identifier.startswith("CIDA_GSC"):
-        return "cida/cida-sokolow"
-    if identifier.startswith("CIDA_WSC"):
-        return "cida/cida-smith"
-    if identifier.startswith("CIDA_TSC"):
-        return "cida/cida-tillman"
-    if identifier.startswith("FCHS"):
-        return "fchs"
-    if identifier.startswith("LD5655"):
-        return "tinhorn"
-    if identifier.startswith("WSMITH"):
-        return "wsmithclass"
-    if identifier.startswith("BCVST"):
-        return "bcvst"
-    # Default: no prefix matched, put in 'other' folder
+        return "699"
+    if identifier.startswith("P6"):
+        return "P6"
+    
+    # Default: use identifier as-is or put in 'other' folder
     return "other"
 
 def indent(elem, level=0):

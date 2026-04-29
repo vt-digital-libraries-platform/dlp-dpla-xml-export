@@ -1,0 +1,22 @@
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+
+    <dcterms:identifier>fchs_2019_004_002</dcterms:identifier>
+    <dcterms:title>World War I Mess Kit</dcterms:title>
+    <dcterms:description>Mess Kit from the First World War. The kit includes the oval pan called a &quot;meat can&quot; with a seperate lid that doubles as a plate. The pan&apos;s galvanized iron handle, engraved with &quot;U.S. G.M.L. 1918 folds over the the lid locking the kit when closed. A pull-ring is riveted to one side of the lid&apos;s handle. A mismatched knife and fork fit inside wwith the handles crossed. The knife is embossed with &quot;U.S.&quot; on the handle and &quot;L.F. &amp; C. 1917 [Landers, Fray, &amp; Clark Company] embossed on the reverse. The fork is lighter in weight and has &quot;U.S.&quot; engraved below a cut-out near the end of its handle. On the reverse side the handle has emboossed lettering &quot;Wallco Stainless&quot; [R.Wallace and Sons Co.]</dcterms:description>
+    <dcterms:subject>World War, 1914-1918</dcterms:subject>
+    <dcterms:subject>Mess kits</dcterms:subject>
+    <dcterms:date>1918</dcterms:date>
+    <dcterms:medium>mess kits</dcterms:medium>
+    <dcterms:isPartOf>FCHS</dcterms:isPartOf>
+    <dcterms:isPartOf>FCHS_OBJ</dcterms:isPartOf>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/?language=en</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/xx86g30v</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_OBJ/tiles/fchs_2019_004_002-1/full/250,/0/default.jpg</edm:preview>
+</mdRecord>

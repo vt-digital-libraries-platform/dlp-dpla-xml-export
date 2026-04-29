@@ -1,8 +1,6 @@
 
 *.textile
-extract_and_save_folder_names_from_s3.py
-format_federated.py
-format.py
+
 multi_valued_or_dimension_format_results_20250930_063905.txt
 multi_valued_or_dimension_format_results.txt
 README.md
@@ -21,15 +19,22 @@ unique_collection_folders_20250930_120751.txt
 unique_collection_folders_20250930_121022.txt
 unique_collection_folders_20250930_121207.txt
 # Ignore sensitive or private folders
+699/
+AERST/
+CBCST/
+CIDA/
+CIDA_*/
+CVM/
+CVM_*/
+Ms1995-027/
+Ms*/
 costume-and-textile-collection/
-egg/
-item/
-ldgst/
-ms/
+EGG/
+ITEM/
+LDGST/
+Ms2024-054/
 testss/
-vtech/
-vtgrad/
-xb17j67j/
+XB17J67J/
 podcast/
 testextract/
 other/
@@ -38,10 +43,28 @@ __pycache__/
 # Do not ignore the following recently edited folders
 !barter/
 !blacksburg-high-school/
+!BHSST/
+!BTR/
+!DH80/
+!FCHS/
+!P6/
+!PRADER/
+!REY/
+!SFDST/
+!SQI/
+!TAU_ART/
+!VA_AM
+!VTCATALOG
+!VTEC/
+!VTGRAD/
 !crewe/
 !floyd-county-historic-society/
 !horse-teeth-clacker/
-!LD5655.A3.C3/
+!LD5655*/
+!MTG/
+!MTG_*/
+!NMCST/
+
 !montgomery/
 !nmcst/
 !prader-willi/
@@ -54,16 +77,15 @@ __pycache__/
 !vtgrad-catalog/
 !squires
 *.csv
-update_archive_dates_from_csv.py
-dynamodb_column_uniques.py
+
 .github/*
 !.github/workflows/
 unique_medium_values_cleaned.txt
 run_production.sh
-check_btr_identifiers.py
+
 error_log.txt
 run_barter_only.sh
-analyze_display_date_formats.py
+
 
 # Ignore analysis output files
 display_date_formats_*.txt
@@ -72,6 +94,19 @@ items_no_format_*.csv
 *_formats_*.txt
 unique_collection_folders_*.txt
 error_log.txt
+
+#Ignore analysis codes
+
+analyze_display_date_formats.py
+check_btr_identifiers.py
+findIdsStartWith.py
+howmany_architems_have_ispartof_prod.py
+listFederatedCollections.py
+list_collection_identifiers.py
+unique_identifiers_in_the_invalid_uri_csv.py
+extract_and_save_folder_names_from_s3.py
+format_federated.py
+format.py
 test_single_item.py
 test_xml_generation.py
 test_all_special_chars.py
@@ -82,11 +117,7 @@ check_identifier_samples.py
 test_backslash_removal.py
 test_xml_generation.py
 test_xml_generation.py
-INTEGRATION_GUIDE.md
-item*.xml
-RIGHTS_STATEMENT_*.xml
 check_s3_structure.py
-CODE_CHANGES_SUMMARY.md
 list_s3_federated_identifiers.py
 check_vtcatalog_s3.py
 check_vtcatalog_rights.py
@@ -103,3 +134,7 @@ find_page_uris.py
 populate_rights_statements.py
 *.txt
 
+INTEGRATION_GUIDE.md
+item*.xml
+RIGHTS_STATEMENT_*.xml
+CODE_CHANGES_SUMMARY.md

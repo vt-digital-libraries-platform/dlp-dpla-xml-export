@@ -1,0 +1,21 @@
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+
+    <dcterms:identifier>fchs_2020_016_002</dcterms:identifier>
+    <dcterms:title>Red Plaid Child&apos;s Dress</dcterms:title>
+    <dcterms:description>Child&apos;s red and green plaid dress circa 1830 - fabric shows signs of wear and is shredding in some places with several holes possibly from iron burns</dcterms:description>
+    <dcterms:subject>Clothing and dress</dcterms:subject>
+    <dcterms:subject>Children&apos;s clothing</dcterms:subject>
+    <dcterms:medium>dresses (garments)</dcterms:medium>
+    <dcterms:isPartOf>FCHS</dcterms:isPartOf>
+    <dcterms:isPartOf>FCHS_OBJ</dcterms:isPartOf>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/?language=en</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/qf13h64f</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_OBJ/tiles/fchs_2020_016_002-1/full/250,/0/default.jpg</edm:preview>
+</mdRecord>

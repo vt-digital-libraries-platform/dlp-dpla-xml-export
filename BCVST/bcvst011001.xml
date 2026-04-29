@@ -1,0 +1,25 @@
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+
+    <dcterms:identifier>bcvst011001</dcterms:identifier>
+    <dcterms:title>Gertrude G. Meredith to James C. Biddle, June 4, [1862]</dcterms:title>
+    <dcterms:description>Gertrude G. Meredith to James C. Biddle from Philadelphia, Pennsylvania, discussing military news, how family members are doing, and how often she thinks of Biddle and desires to see him again.</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:subject>Civil War</dcterms:subject>
+    <dcterms:subject>United States--History--Civil War, 1861-2082</dcterms:subject>
+    <dcterms:date>June 4, [1862]</dcterms:date>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:medium>pencil</dcterms:medium>
+    <dcterms:medium>ink script on paper</dcterms:medium>
+    <dcterms:isPartOf>Ms2024-105</dcterms:isPartOf>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/5cd74523</edm:isShownAt>
+    <edm:preview>https://d4qp6z580yvb5.cloudfront.net/federated/Ms2024-105/tiles/bcvst011001-1/full/200,/0/default.jpg</edm:preview>
+    <dcterms:creator>Meredith, Gertrude G.</dcterms:creator>
+</mdRecord>

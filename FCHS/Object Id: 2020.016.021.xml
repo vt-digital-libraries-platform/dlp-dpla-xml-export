@@ -1,0 +1,23 @@
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+
+    <dcterms:identifier>fchs_2020_016_021</dcterms:identifier>
+    <dcterms:title>Floyd History is Recounted, Resources Cited for Visitors</dcterms:title>
+    <dcterms:description>This article appeared in The Radford News Journal on Thursday, September 27, 1928 as part of &quot;A Friendship Tour Editorial&quot; highlighting neighboring areas to Radford, including Floyd County. The article gives a short history of the county and flatteringly details the geography, industries, and population. The article states &quot;The town of Floyd has two first class hotels; five churches, including that of the colored people, Presbyterian, Methodist, Missionary Baptist, a high school, several mercantile stores, hardware store, drug store, etc., and has a population of about 500.</dcterms:description>
+    <dcterms:subject>Commerce</dcterms:subject>
+    <dcterms:subject>Tourist trade</dcterms:subject>
+    <dcterms:subject>Trade</dcterms:subject>
+    <dcterms:date>1928</dcterms:date>
+    <dcterms:medium>newspaper clippings</dcterms:medium>
+    <dcterms:isPartOf>FCHS</dcterms:isPartOf>
+    <dcterms:isPartOf>FCHS_ARC</dcterms:isPartOf>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/dn20mj63</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2020_016_021-1/full/102,/0/default.jpg</edm:preview>
+</mdRecord>

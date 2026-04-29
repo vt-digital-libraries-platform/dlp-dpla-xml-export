@@ -1,0 +1,24 @@
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+
+    <dcterms:identifier>fchs_2020_016_029</dcterms:identifier>
+    <dcterms:title>Wedding Invitation of Pattie Howard to Walter S. Tipton</dcterms:title>
+    <dcterms:description>A simple wedding invitation that reads in typed cursive:
+
+Your presence is requested at the marriage of Pattie Howard to Walter S. Tipton on Thursday evening, April fourteenth, at eight o&apos; clock; by Dr. and Mrs. T.H. Howard at their home, Jacksonville, Virginia 1892.</dcterms:description>
+    <dcterms:subject>Invitations</dcterms:subject>
+    <dcterms:subject>Marriage</dcterms:subject>
+    <dcterms:date>1892</dcterms:date>
+    <dcterms:medium>invitations</dcterms:medium>
+    <dcterms:isPartOf>FCHS</dcterms:isPartOf>
+    <dcterms:isPartOf>FCHS_ARC</dcterms:isPartOf>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/hd783g2q</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2020_016_029-1/full/182,/0/default.jpg</edm:preview>
+</mdRecord>

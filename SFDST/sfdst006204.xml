@@ -1,0 +1,24 @@
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+
+    <dcterms:identifier>sfdst006204</dcterms:identifier>
+    <dcterms:title>Zone Fire School Members, Salem VA, April 22-26, 1957</dcterms:title>
+    <dcterms:description>Group photograph on the steps of a building with columns, with the writing on the back reading &quot;Zone fire school, Salem VA, April 22-26, 1957&quot;</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:subject>Fire departments</dcterms:subject>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:date>1957-04-22/1957-04-26</dcterms:date>
+    <dcterms:type>Still Image</dcterms:type>
+    <dcterms:spatial>Salem, Virginia, United States</dcterms:spatial>
+    <dcterms:medium>photographs</dcterms:medium>
+    <dcterms:isPartOf>sfd</dcterms:isPartOf>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/br856b8c</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/sfd/tiles/sfdst006204-1/full/250,/0/default.jpg</edm:preview>
+</mdRecord>
