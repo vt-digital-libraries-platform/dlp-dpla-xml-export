@@ -19,7 +19,8 @@ jobs:
           shopt -s dotglob
           for d in */ ; do
             if [ -d "$d" ] && [[ "$d" != ".git/" && "$d" != ".github/" ]]; then
-              rsync -av --exclude='*.sh' --exclude='*.py' "$d" "temp-sync/"
+              mkdir -p "temp-sync/$d"
+              rsync -av --exclude='*.sh' --exclude='*.py' "$d" "temp-sync/$d"
             fi
           done
 

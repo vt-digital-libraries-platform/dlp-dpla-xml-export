@@ -40,6 +40,7 @@ testextract/
 other/
 logs/
 __pycache__/
+prodxml/
 # Do not ignore the following recently edited folders
 !barter/
 !blacksburg-high-school/
