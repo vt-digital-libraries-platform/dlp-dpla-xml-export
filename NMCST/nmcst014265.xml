@@ -1,0 +1,23 @@
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+
+    <dcterms:identifier>nmcst014265</dcterms:identifier>
+    <dcterms:title>1945 Mineral Resources of The Missouri Valley Region</dcterms:title>
+    <dcterms:description>Map of Mineral Resources of The Missouri Valley Region, No. 1</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:date>1945</dcterms:date>
+    <dcterms:type>Still Image</dcterms:type>
+    <dcterms:spatial>Central and Northern United States</dcterms:spatial>
+    <dcterms:medium>map (documents)</dcterms:medium>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:isPartOf>nmcst</dcterms:isPartOf>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/8d14b989</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/nmcst/tiles/nmcst014265-1/full/250,/0/default.jpg</edm:preview>
+</mdRecord>

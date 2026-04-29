@@ -1,0 +1,23 @@
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+
+    <dcterms:identifier>sfdst003002</dcterms:identifier>
+    <dcterms:title>In Memory of Louis A. &quot;Tootie&quot; Ballard</dcterms:title>
+    <dcterms:description>Plaque in Memory of Louis A. &quot;Tootie&quot; Ballard, which reads as follows: &quot;In Memory of Louis A. &apos;Tootie&apos; Ballard, who served with the Salem Fire Department as a Fireman, Feb, 1, 1909, June 30, 1932, as Chief, July 1, 1932, June 30,1960, 1889-1966&quot;</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:subject>Fire departments</dcterms:subject>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:type>Still Image</dcterms:type>
+    <dcterms:spatial>Salem, Virginia, United States</dcterms:spatial>
+    <dcterms:medium>plaque (flat object)</dcterms:medium>
+    <dcterms:isPartOf>sfd</dcterms:isPartOf>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/tr824f4b</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/sfd/tiles/sfdst003002-1/full/231,/0/default.jpg</edm:preview>
+</mdRecord>

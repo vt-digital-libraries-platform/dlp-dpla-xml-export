@@ -1,0 +1,23 @@
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+
+    <dcterms:identifier>nmcst022001</dcterms:identifier>
+    <dcterms:title>1964 Plate 1. The White Nile and Bahr la Ghazal. John Pethrick. 1858 / Plate 2. Route from the east coast to Lake Tanganyika (&apos;Sea Ujiji&apos;). J.M. Speke. 1858</dcterms:title>
+    <dcterms:description>Map of Plate 1. The White Nile and Bahr la Ghazal. John Pethrick. 1858 / Plate 2. Route from the east coast to Lake Tanganyika (&apos;Sea Ujiji&apos;). J.M. Speke. 1858, 44928</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:date>1964</dcterms:date>
+    <dcterms:type>Still Image</dcterms:type>
+    <dcterms:spatial>East Africa</dcterms:spatial>
+    <dcterms:medium>map (documents)</dcterms:medium>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:isPartOf>nmcst</dcterms:isPartOf>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/2f225c55</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/nmcst/tiles/nmcst022001-1/full/193,/0/default.jpg</edm:preview>
+</mdRecord>

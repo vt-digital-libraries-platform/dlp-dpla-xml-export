@@ -1,0 +1,24 @@
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+
+    <dcterms:identifier>fchs_2018_005_194</dcterms:identifier>
+    <dcterms:title>Turner Family Cemetery, Locust Grove Dist.</dcterms:title>
+    <dcterms:description>Located 2.3 miles past the &quot;End of State Maintenance&quot; sign on Runnet Bag Rd. SE. The road is undriveable most of the year. It is recommended that a 4-wheel drive vehicle be used and a chainsaw be available to clear downed trees. Grave information verified by Myra Adams, a granddaughter of the Turners, July 2021.
+
+N 36 53.753&apos;
+W 080 12.666&apos;</dcterms:description>
+    <dcterms:subject>Lists</dcterms:subject>
+    <dcterms:subject>Cemeteries</dcterms:subject>
+    <dcterms:medium>lists</dcterms:medium>
+    <dcterms:isPartOf>FCHS</dcterms:isPartOf>
+    <dcterms:isPartOf>FCHS_ARC</dcterms:isPartOf>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/x355vx3f</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2018_005_194-1/full/193,/0/default.jpg</edm:preview>
+</mdRecord>

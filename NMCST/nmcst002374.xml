@@ -1,0 +1,23 @@
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+
+    <dcterms:identifier>nmcst002374</dcterms:identifier>
+    <dcterms:title>1926 Richmond and Environs Showing Various Battlefields to be Linked into a Park System</dcterms:title>
+    <dcterms:description>Map of Richmond and Environs Showing Various Battlefields to be Linked into a Park System</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:date>26-Mar</dcterms:date>
+    <dcterms:type>Still Image</dcterms:type>
+    <dcterms:spatial>Richmond, Virginia</dcterms:spatial>
+    <dcterms:medium>map (documents)</dcterms:medium>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:isPartOf>nmcst</dcterms:isPartOf>
+    <dcterms:rights>https://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/463274d4</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/nmcst/tiles/nmcst002374-1/full/223,/0/default.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,23 @@
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+
+    <dcterms:identifier>nmcst013037</dcterms:identifier>
+    <dcterms:title>1965 Plan of the Town and Fortifications of Montréla or Ville Marie in Canada</dcterms:title>
+    <dcterms:description>Map of Plan of the Town and Fortifications of Montréla or Ville Marie in Canada</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:date>1965</dcterms:date>
+    <dcterms:type>Still Image</dcterms:type>
+    <dcterms:spatial>Montréla, Canada</dcterms:spatial>
+    <dcterms:medium>map (documents)</dcterms:medium>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:isPartOf>nmcst</dcterms:isPartOf>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/7759e9f4</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/nmcst/tiles/nmcst013037-1/full/250,/0/default.jpg</edm:preview>
+</mdRecord>

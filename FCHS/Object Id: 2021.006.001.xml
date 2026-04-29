@@ -1,0 +1,21 @@
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+
+    <dcterms:identifier>fchs_2021_006_001</dcterms:identifier>
+    <dcterms:title>Plow (Coulter) Points</dcterms:title>
+    <dcterms:description>Two plow points found on a hillside at an old building site on Fern Lane. There coulter points are believed to have been used by African-American farmers postbellum. These points were found by the donor in the &quot;Possum Hollow Section of Floyd County at what is now 200 Fern Lane. The donor purchased the land at this location in 1967 and found the remains of an old, one room, cabin with a cellar and loft. The plow points were discovered during site preparation, for a new small cabin, in the exact same location as the old cabin. The donor believes that the last occupants of the original cabin were a family named Snow and that the old cabin was occupied until the 1930&apos;s. The site appears to have been farmed and there were remains of an old sawmill, probably used to saw Chestnut in the 1920&apos;s - 1930&apos;s.</dcterms:description>
+    <dcterms:subject>Farm equipment</dcterms:subject>
+    <dcterms:subject>Plows</dcterms:subject>
+    <dcterms:medium>plows (agricultural equipment)</dcterms:medium>
+    <dcterms:isPartOf>FCHS</dcterms:isPartOf>
+    <dcterms:isPartOf>FCHS_OBJ</dcterms:isPartOf>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/?language=en</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/nf04dp9k</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_OBJ/tiles/fchs_2021_006_001-1/full/250,/0/default.jpg</edm:preview>
+</mdRecord>

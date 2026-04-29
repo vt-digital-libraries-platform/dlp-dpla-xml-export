@@ -1,0 +1,23 @@
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+
+    <dcterms:identifier>fchs_2002_001_00043</dcterms:identifier>
+    <dcterms:title>Fiduciary Accounts: Guardianship of Ann Eliza, Lucinda Cathern and Sarah Louisa Slusher, heirs of G. W. Slusher</dcterms:title>
+    <dcterms:description>Guardianship of Ann Eliza, Lucinda Cathern and Sarah Louisa Slusher, heirs of G. W. Slusher
+Leah Slusher, Guardian
+Recorded on ledger page 590 in Floyd County Courthouse</dcterms:description>
+    <dcterms:subject>Court Records</dcterms:subject>
+    <dcterms:date>1875-06-09</dcterms:date>
+    <dcterms:medium>record books</dcterms:medium>
+    <dcterms:isPartOf>FCHS</dcterms:isPartOf>
+    <dcterms:isPartOf>FCHS_ARC</dcterms:isPartOf>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/px63n176</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_ARC/tiles/fchs_2002_001_00043-1/full/250,/0/default.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,21 @@
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+
+    <dcterms:identifier>fchs_2019_013_007</dcterms:identifier>
+    <dcterms:title>Type case from Floyd Press</dcterms:title>
+    <dcterms:description>A wooden type case from the early days of the Floyd Press newspaper publication. The product label Empire Type of Delevan, N.Y.</dcterms:description>
+    <dcterms:subject>Letterpress printing</dcterms:subject>
+    <dcterms:subject>Typesetting</dcterms:subject>
+    <dcterms:medium>type cases</dcterms:medium>
+    <dcterms:isPartOf>FCHS</dcterms:isPartOf>
+    <dcterms:isPartOf>FCHS_OBJ</dcterms:isPartOf>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/?language=en</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://federated-pprd.d3reyduta3lkkz.amplifyapp.com/archive/pb30db6r</edm:isShownAt>
+    <edm:preview>https://d21nnzi4oh5qvs.cloudfront.net/federated/FCHS/FCHS_OBJ/tiles/fchs_2019_013_007-1/full/250,/0/default.jpg</edm:preview>
+</mdRecord>
