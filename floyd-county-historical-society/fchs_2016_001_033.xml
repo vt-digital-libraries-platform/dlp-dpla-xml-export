@@ -1,0 +1,21 @@
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+
+    <dcterms:identifier>fchs_2016_001_033</dcterms:identifier>
+    <dcterms:title>Gold Pocket Watch</dcterms:title>
+    <dcterms:description>A gold color pocket watch</dcterms:description>
+    <dcterms:subject>Clocks and watches</dcterms:subject>
+    <dcterms:subject>Pocket watches</dcterms:subject>
+    <dcterms:medium>pocket watches</dcterms:medium>
+    <dcterms:isPartOf>Floyd County Historical Society</dcterms:isPartOf>
+    <dcterms:isPartOf>Objects</dcterms:isPartOf>
+    <dcterms:rights>https://rightsstatements.org/vocab/InC-NC/1.0/?language=en</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/46b4b77f</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/FCHS/tiles/fchs_2016_001_033-1/full/243,/0/default.jpg</edm:preview>
+</mdRecord>

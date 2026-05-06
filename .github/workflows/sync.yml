@@ -1,14 +1,13 @@
+# DISABLED: Sync workflow is currently disabled
 name: Sync folders to dplava/vt
 
 on:
-  push:
-    branches:
-      - main
-  workflow_dispatch:
+  workflow_dispatch:  # Only manual trigger available
 
 jobs:
   sync-folders:
     runs-on: ubuntu-latest
+    if: false  # Workflow disabled - change to 'true' to re-enable
     steps:
       - name: Checkout source repo
         uses: actions/checkout@v4
