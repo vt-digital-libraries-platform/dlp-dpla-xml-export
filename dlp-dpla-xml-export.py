@@ -91,6 +91,7 @@ env["COLLECTION_IDENTIFIER"] = os.getenv("COLLECTION_IDENTIFIER")
 env["REGION"] = os.getenv("REGION")
 env["DYNAMODB_TABLE"] = os.getenv("DYNAMODB_TABLE")
 env["COLLECTION_TABLE"] = os.getenv("COLLECTION_TABLE")
+env["FOLDER_MAPPING_TABLE"] = os.getenv("FOLDER_MAPPING_TABLE", "identifier-folder-mapping-for-dpla-xml-export")
 env["LONG_URL_PATH"] = os.getenv("LONG_URL_PATH")
 env["TYPE"] = os.getenv("TYPE")
 
@@ -106,12 +107,30 @@ if not env["COLLECTION_TABLE"]:
 
 # Setup DynamoDB resource
 try:
-    dynamodb = boto3.resource("dynamodb", env["REGION"])
+    aws_profile = os.getenv("AWS_PROFILE")
+    session = boto3.Session(profile_name=aws_profile, region_name=env["REGION"])
+    dynamodb = session.resource("dynamodb")
     dbtable = dynamodb.Table(env["DYNAMODB_TABLE"])
     print(f'DEBUG: Connected to DynamoDB table: {env["DYNAMODB_TABLE"]}')
 except Exception as e:
     print(f'ERROR: Failed to connect to DynamoDB: {e}')
     raise
+
+# Load identifier -> folder mapping from DynamoDB table at startup
+_folder_mapping_cache = {}  # prefix (uppercase) -> output_folder_name
+try:
+    folder_mapping_table = dynamodb.Table(env["FOLDER_MAPPING_TABLE"])
+    response = folder_mapping_table.scan()
+    for item in response.get("Items", []):
+        _folder_mapping_cache[item["identifier"].upper()] = item["output_folder_name"]
+    while "LastEvaluatedKey" in response:
+        response = folder_mapping_table.scan(ExclusiveStartKey=response["LastEvaluatedKey"])
+        for item in response.get("Items", []):
+            _folder_mapping_cache[item["identifier"].upper()] = item["output_folder_name"]
+    print(f'DEBUG: Loaded {len(_folder_mapping_cache)} folder mappings from "{env["FOLDER_MAPPING_TABLE"]}"')
+except Exception as e:
+    print(f'WARNING: Could not load folder mapping table "{env["FOLDER_MAPPING_TABLE"]}": {e}')
+    print('         Falling back to hardcoded mappings if available')
 
 
 # Function to collect S3 paths for all identifiers (for reporting, not filtering)
@@ -278,15 +297,15 @@ def get_permalink(item):
     return ""
 
 
-# Cache for collection UUID -> identifier lookups to avoid repeated DynamoDB calls
+# Cache for collection UUID -> title lookups to avoid repeated DynamoDB calls
 _collection_cache = {}
 
 def get_collection_identifier(collection_uuid):
     """
-    Look up a collection's identifier from the Collection DynamoDB table by its UUID.
-    Maps heirarchy_path UUID -> collection table id -> identifier field.
+    Look up a collection's title from the Collection DynamoDB table by its UUID.
+    Maps heirarchy_path UUID -> collection table id -> title field.
     Results are cached in-memory so each UUID is only fetched once per run.
-    Returns the identifier string, or None if not found.
+    Returns the title string, or None if not found.
     """
     if not collection_uuid:
         return None
@@ -308,9 +327,9 @@ def get_collection_identifier(collection_uuid):
         response = coll_table.get_item(Key={"id": collection_uuid})
         coll_item = response.get("Item")
         if coll_item:
-            identifier = coll_item.get("identifier")
-            _collection_cache[collection_uuid] = identifier
-            return identifier
+            title = coll_item.get("title")
+            _collection_cache[collection_uuid] = title
+            return title
         else:
             print(f"WARNING: No collection found for UUID '{collection_uuid}'")
             _collection_cache[collection_uuid] = None
@@ -492,7 +511,7 @@ def build_xml(item):
     # Add dcterms:isPartOf
     # Priority 1: Use is_part_of field from database if it exists
     # Priority 2: Fall back to walking heirarchy_path UUIDs and looking up each
-    #             in the Collection table (matched on id), then emitting the identifier value.
+    #             in the Collection table (matched on id), then emitting the title value.
     # Note: field is spelled 'heirarchy_path' in DynamoDB (preserving source typo).
     is_part_of = item.get("is_part_of")
     
@@ -702,112 +721,17 @@ print()
 # Mapping for identifier prefixes to folders/subfolders
 def get_output_subdir(identifier):
     """
-    Map identifier to output folder based on collection identifier pattern.
-    Uses the identifier as-is (uppercased) for folder names, extracted from patterns.
-    Examples:
-        BTR_001 -> BTR
-        CEC_EEC_001 -> CEC_EEC
-        FCHS_ARC_001 -> FCHS_ARC
-        Ms1992_028_Rodeck_B1_F1 -> Ms1992_028_Rodeck
-        LD5655.A3.C3_001 -> LD5655.A3.C3
+    Map identifier to output folder using the DynamoDB folder mapping table.
+    Prefixes are matched longest-first to handle overlapping prefixes (e.g. CIDA_ARC vs CIDA).
+    Falls back to 'other' if no match is found.
     """
-    identifier = identifier.upper()
-    
-    # Handle Ms collections with year_number_name pattern FIRST
-    if identifier.startswith("MS") and len(identifier) >= 6 and identifier[2:6].isdigit():
-        # Extract Ms####_###_Name (e.g., Ms1992_028_Rodeck)
-        match = re.match(r'(MS\d{4}[_-]\d{3}(?:[_-][A-Za-z]+)?)', identifier)
-        if match:
-            # Return with proper casing: Ms not MS
-            return match.group(1).replace('MS', 'Ms', 1)
-    
-    # Handle LD collections with dots (LD5655.A3.C3, LD5655.V8.T5)
-    if identifier.startswith("LD5655"):
-        match = re.match(r'(LD\d+\.[A-Z0-9]+\.[A-Z0-9]+)', identifier)
-        if match:
-            return match.group(1)
-    
-    # LJC Currie subfolders (keep existing logic for special subfolder organization)
-    if identifier.startswith("LJC"):
-        # Asia: LJC_118, LJC_120, LJC_121, LJC_135
-        if any(identifier.startswith(f"LJC_{n}_") for n in ["118", "120", "121", "135"]):
-            return "currie/currie-asia"
-        # Central America: LJC_018
-        if identifier.startswith("LJC_018_"):
-            return "currie/currie-centralamerica"
-        # CINVA: LJC_086
-        if identifier.startswith("LJC_086_"):
-            return "currie/currie-CINVA"
-        # Colombia: LJC_019
-        if identifier.startswith("LJC_019_"):
-            return "currie/currie-colombia"
-        # Egypt: LJC_020
-        if identifier.startswith("LJC_020_"):
-            return "currie/currie-egypt"
-        # Europe: LJC_021
-        if identifier.startswith("LJC_021_"):
-            return "currie/currie-europe"
-        # Italy: LJC_022
-        if identifier.startswith("LJC_022_"):
-            return "currie/currie-italy"
-        # Japan: LJC_023
-        if identifier.startswith("LJC_023_"):
-            return "currie/currie-japan"
-        # Mexico: LJC_024
-        if identifier.startswith("LJC_024_"):
-            return "currie/currie-mexico"
-        # Nepal: LJC_025
-        if identifier.startswith("LJC_025_"):
-            return "currie/currie-nepal"
-        # Panama: LJC_026
-        if identifier.startswith("LJC_026_"):
-            return "currie/currie-panama"
-        # South America: LJC_027
-        if identifier.startswith("LJC_027_"):
-            return "currie/currie-southamerica"
-        # Spain: LJC_028
-        if identifier.startswith("LJC_028_"):
-            return "currie/currie-spain"
-        # United States: LJC_029
-        if identifier.startswith("LJC_029_"):
-            return "currie/currie-unitedstates"
-        # Default LJC
-        return "LJC_SL"
-    
-    # For all other collections, extract the base collection identifier
-    # Check two-part prefixes first (more specific), then single-part
-    two_part_patterns = [
-        "CIDA_CPC", "CIDA_GHC", "CIDA_GSC", "CIDA_WSC", "CIDA_TSC",
-        "CIDA_ARC", "CIDA_ELP", "CIDA_EYC",
-        "FCHS_ARC", "FCHS_OBJ", "FCHS_PHO",
-        "CVM_DENT", "CEC_EEC",
-        "MTG_MGM", "MTG_MGN", "TAU_ART", "VA_AM"
-    ]
-    
-    for pattern in two_part_patterns:
-        if identifier.startswith(pattern):
-            return pattern
-    
-    # Single-part collection identifiers
-    single_part_patterns = [
-        "VTCATALOG", "BLACKSBURG", "BHSST", "XB17J67J",
-        "NMCST", "SFDST", "LDGST", "VTGRAD", "PRADER",
-        "WSMITH", "BCVST", "CBCST", "AERST",
-        "BTR", "CRW", "MTG", "SQI", "CEC", "CVM",
-        "FCHS", "CIDA", "VTEC", "EGG", "REY", "ITEM", "DH80"
-    ]
-    
-    for pattern in single_part_patterns:
-        if identifier.startswith(pattern):
-            return pattern
-    
-    # Numbers
-    if identifier.startswith("699"):
-        return "699"
-    if identifier.startswith("P6"):
-        return "P6"
-    
-    # Default: use identifier as-is or put in 'other' folder
+    identifier_upper = identifier.upper()
+
+    # Look up in DynamoDB-loaded mapping cache, longest prefix first
+    for prefix in sorted(_folder_mapping_cache.keys(), key=len, reverse=True):
+        if identifier_upper.startswith(prefix.upper()):
+            return _folder_mapping_cache[prefix]
+
     return "other"
 
 def indent(elem, level=0):
@@ -828,31 +752,16 @@ for idx, item in enumerate(items):
     #rint(f'DEBUG: Raw item: {item}')
     xml_root = build_xml(item)
 
-    # Use other_identifier for file naming, fallback to identifier if not available
-    other_id = item.get("other_identifier")
+    # Always use identifier field for file naming
     identifier_value = item.get("identifier")
-    
-    # Determine which identifier to use and log if using fallback
-    if other_id:
-        file_identifier = other_id
-    elif identifier_value:
-        # Fallback to identifier field
+
+    if identifier_value:
         file_identifier = identifier_value
-        warning_msg = (
-            f"INFO: Item missing other_identifier, using 'identifier' field as fallback\n"
-            f"  identifier: {identifier_value}\n"
-            f"  Using for filename: {identifier_value}\n"
-            f"  title: {item.get('title', 'N/A')}\n"
-            f"  {'-'*60}\n"
-        )
-        print(warning_msg)
-        with open(multiple_identifiers_warning_file, 'a', encoding='utf-8') as f:
-            f.write(warning_msg)
     else:
-        # Final fallback to item number
+        # Final fallback to item number if identifier is missing
         file_identifier = f"item_{idx+1}"
         warning_msg = (
-            f"WARNING: Item missing both other_identifier AND identifier, using generated name\n"
+            f"WARNING: Item missing identifier, using generated name\n"
             f"  Generated filename: item_{idx+1}\n"
             f"  title: {item.get('title', 'N/A')}\n"
             f"  {'-'*60}\n"
@@ -860,25 +769,6 @@ for idx, item in enumerate(items):
         print(warning_msg)
         with open(multiple_identifiers_warning_file, 'a', encoding='utf-8') as f:
             f.write(warning_msg)
-    
-    # Handle case where other_identifier might be a list
-    if isinstance(file_identifier, list):
-        # Check if there are multiple identifiers and log warning
-        if len(file_identifier) > 1:
-            warning_msg = (
-                f"WARNING: Item has multiple other_identifiers\n"
-                f"  identifier: {item.get('identifier', 'N/A')}\n"
-                f"  other_identifier values: {file_identifier}\n"
-                f"  Using first value: {file_identifier[0]}\n"
-                f"  title: {item.get('title', 'N/A')}\n"
-                f"  {'-'*60}\n"
-            )
-            print(warning_msg)
-            # Write to warning file
-            with open(multiple_identifiers_warning_file, 'a', encoding='utf-8') as f:
-                f.write(warning_msg)
-        
-        file_identifier = file_identifier[0] if file_identifier else f"item_{idx+1}"
     
     print(f'DEBUG: File identifier (for filename): {file_identifier}')
     file_name = file_identifier + ".xml"
@@ -1037,9 +927,7 @@ if os.path.exists(multiple_identifiers_warning_file) and os.path.getsize(multipl
     print(f"⚠️  NOTICE: Some items have identifier issues or used fallbacks!")
     print(f"    Review this file: {multiple_identifiers_warning_file}")
     print(f"    Issues may include:")
-    print(f"      - Multiple other_identifier values (using first)")
-    print(f"      - Missing other_identifier (using identifier field)")
-    print(f"      - Missing both identifiers (using generated name)")
+    print(f"      - Missing identifier (using generated name)")
 else:
-    print(f"✅ All items have single other_identifier values. No fallbacks used.")
+    print(f"✅ All items have identifier values. No fallbacks used.")
 print("="*70)

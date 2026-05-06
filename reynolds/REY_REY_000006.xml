@@ -1,0 +1,23 @@
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+
+    <dcterms:identifier>REY_REY_000006</dcterms:identifier>
+    <dcterms:title>RJR Tobacco Warehouse Invoice</dcterms:title>
+    <dcterms:description>Office of R. J. Reynolds Manufacturer of Plug and Twist Tobacco Letterhead, 1880s</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:subject>Tobacco industry</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:medium>invoices</dcterms:medium>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:isPartOf>Reynolds Archive</dcterms:isPartOf>
+    <dcterms:isPartOf>Reynolds Homestead</dcterms:isPartOf>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/8f317d5a</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/REY_HS/tiles/REY_REY_000006-1/full/196,/0/default.jpg</edm:preview>
+</mdRecord>
