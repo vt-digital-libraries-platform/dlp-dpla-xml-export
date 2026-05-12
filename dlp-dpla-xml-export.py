@@ -752,8 +752,23 @@ for idx, item in enumerate(items):
     #rint(f'DEBUG: Raw item: {item}')
     xml_root = build_xml(item)
 
-    # Always use identifier field for file naming
-    identifier_value = item.get("identifier")
+    # Use identifier field for folder mapping (based on prefix)
+    identifier = item.get("identifier", "")
+    output_subdir = get_output_subdir(identifier)
+    
+    # For barter collection, use other_identifier for XML filename
+    # For all other collections, use identifier field for file naming
+    if output_subdir == "barter":
+        identifier_value = item.get("other_identifier")
+        # Handle list (take first value) or single value
+        if isinstance(identifier_value, list):
+            identifier_value = identifier_value[0] if identifier_value else None
+        if not identifier_value:
+            # Fall back to identifier if other_identifier is missing
+            identifier_value = item.get("identifier")
+            print(f'DEBUG: Barter item missing other_identifier, using identifier instead')
+    else:
+        identifier_value = item.get("identifier")
 
     if identifier_value:
         file_identifier = identifier_value
@@ -778,10 +793,6 @@ for idx, item in enumerate(items):
     for invalid_entry in invalid_rights_uris_list:
         if invalid_entry['item_id'] == item_identifier and invalid_entry['xml_filename'] is None:
             invalid_entry['xml_filename'] = file_name
-
-    # Use identifier field for folder mapping (based on prefix)
-    identifier = item.get("identifier", "")
-    output_subdir = get_output_subdir(identifier)
     print(f'DEBUG: Output subdir from mapping: {output_subdir}')
 
     output_dir = os.path.join(output_base_dir, output_subdir)
